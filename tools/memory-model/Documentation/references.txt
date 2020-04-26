@@ -21,7 +21,7 @@ o	Intel Corporation (Ed.). 2002. "Intel 64 and IA-32 Architectures
 o	Peter Sewell, Susmit Sarkar, Scott Owens, Francesco Zappa Nardelli,
 	and Magnus O. Myreen. 2010. "x86-TSO: A Rigorous and Usable
 	Programmer's Model for x86 Multiprocessors". Commun. ACM 53, 7
-	(July, 2010), 89-97. http://doi.acm.org/10.1145/1785414.1785443
+	(July, 2010), 89-97. https://doi.acm.org/10.1145/1785414.1785443
 
 o	IBM Corporation (Ed.). 2009. "Power ISA Version 2.06". IBM
 	Corporation.
@@ -94,7 +94,7 @@ Memory-model tooling
 
 o	Daniel Jackson. 2002. "Alloy: A Lightweight Object Modelling
 	Notation". ACM Trans. Softw. Eng. Methodol. 11, 2 (April 2002),
-	256–290. http://doi.acm.org/10.1145/505145.505149
+	256–290. https://doi.acm.org/10.1145/505145.505149
 
 o	Jade Alglave, Luc Maranget, and Michael Tautschnig. 2014. "Herding
 	Cats: Modelling, Simulation, Testing, and Data Mining for Weak
