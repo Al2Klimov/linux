@@ -7,7 +7,7 @@
  * Copyright (C) 2010 Urs Fleisch <urs.fleisch@sensirion.com>
  *
  * Data sheets available (2012-06-22) at
- * http://sensing.honeywell.com/index.php?ci_id=3106&la_id=1&defId=44872
+ * https://sensing.honeywell.com/index.php?ci_id=3106&la_id=1&defId=44872
  */
 
 #include <linux/module.h>

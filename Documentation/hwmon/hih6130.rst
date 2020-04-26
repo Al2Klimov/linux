@@ -11,7 +11,7 @@ Supported chips:
 
     Datasheet: Publicly available at the Honeywell website
 
-	http://sensing.honeywell.com/index.php?ci_id=3106&la_id=1&defId=44872
+	https://sensing.honeywell.com/index.php?ci_id=3106&la_id=1&defId=44872
 
 Author:
   Iain Paton <ipaton0@gmail.com>
