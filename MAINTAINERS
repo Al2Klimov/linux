@@ -3076,7 +3076,7 @@ M:	Coly Li <colyli@suse.de>
 M:	Kent Overstreet <kent.overstreet@gmail.com>
 L:	linux-bcache@vger.kernel.org
 S:	Maintained
-W:	http://bcache.evilpiepirate.org
+W:	https://bcache.evilpiepirate.org
 C:	irc://irc.oftc.net/bcache
 F:	drivers/md/bcache/
 

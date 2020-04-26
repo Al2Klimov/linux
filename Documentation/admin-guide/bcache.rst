@@ -7,7 +7,7 @@ nice if you could use them as cache... Hence bcache.
 
 Wiki and git repositories are at:
 
-  - http://bcache.evilpiepirate.org
+  - https://bcache.evilpiepirate.org
   - http://evilpiepirate.org/git/linux-bcache.git
   - http://evilpiepirate.org/git/bcache-tools.git
 
