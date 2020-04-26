@@ -69,7 +69,7 @@ publication prefers to happen Tuesday through Thursday. When appropriate,
 the security team can assist with this coordination, or the reporter can
 include linux-distros from the start. In this case, remember to prefix
 the email Subject line with "[vs]" as described in the linux-distros wiki:
-<http://oss-security.openwall.org/wiki/mailing-lists/distros#how-to-use-the-lists>
+<https://oss-security.openwall.org/wiki/mailing-lists/distros#how-to-use-the-lists>
 
 CVE assignment
 --------------

@@ -243,7 +243,7 @@ Q: Should I mail the main netdev maintainer off-list?**
 A: No. The current netdev maintainer has consistently requested that
 people use the mailing lists and not reach out directly.  If you aren't
 OK with that, then perhaps consider mailing security@kernel.org or
-reading about http://oss-security.openwall.org/wiki/mailing-lists/distros
+reading about https://oss-security.openwall.org/wiki/mailing-lists/distros
 as possible alternative mechanisms.
 
 Q: What level of testing is expected before I submit my change?
