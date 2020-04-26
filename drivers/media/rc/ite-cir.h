@@ -366,7 +366,7 @@ struct ite_dev {
  *
  * Hardware data obtained from hacked driver for IT8512 in this forum post:
  *
- *  http://ubuntuforums.org/showthread.php?t=1028640
+ *  https://ubuntuforums.org/showthread.php?t=1028640
  *
  * Although there's no official documentation for that driver, analysis would
  * suggest that it maps the 16 registers of IT8512 onto two 8-register banks,

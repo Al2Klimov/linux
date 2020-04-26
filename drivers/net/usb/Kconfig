@@ -601,7 +601,7 @@ config USB_VL600
 	  likely also a DHCP client.  See this thread about using the
 	  4G modem from Verizon:
 
-	  http://ubuntuforums.org/showpost.php?p=10589647&postcount=17
+	  https://ubuntuforums.org/showpost.php?p=10589647&postcount=17
 
 config USB_NET_CH9200
 	tristate "QingHeng CH9200 USB ethernet support"

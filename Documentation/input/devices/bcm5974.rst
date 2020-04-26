@@ -66,5 +66,5 @@ a more permanent home at bitmath.org [#f2]_.
 
 .. Links
 
-.. [#f1] http://ubuntuforums.org/showthread.php?t=840040
+.. [#f1] https://ubuntuforums.org/showthread.php?t=840040
 .. [#f2] http://bitmath.org/code/
