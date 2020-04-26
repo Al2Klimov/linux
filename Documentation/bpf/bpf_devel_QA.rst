@@ -481,7 +481,7 @@ BPF back end, it is advisable to run the latest LLVM releases. Support
 for new BPF kernel features such as additions to the BPF instruction
 set are often developed together.
 
-All LLVM releases can be found at: http://releases.llvm.org/
+All LLVM releases can be found at: https://releases.llvm.org/
 
 Q: Got it, so how do I build LLVM manually anyway?
 --------------------------------------------------
