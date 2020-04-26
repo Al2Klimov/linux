@@ -518,7 +518,7 @@ Deadline Task Scheduling
        vol. 25, no. 2–3, pp. 187–205, 2003.
   11 - R. Davis and A. Burns. A Survey of Hard Real-Time Scheduling for
        Multiprocessor Systems. ACM Computing Surveys, vol. 43, no. 4, 2011.
-       http://www-users.cs.york.ac.uk/~robdavis/papers/MPSurveyv5.0.pdf
+       https://www-users.cs.york.ac.uk/~robdavis/papers/MPSurveyv5.0.pdf
   12 - U. C. Devi and J. H. Anderson. Tardiness Bounds under Global EDF
        Scheduling on a Multiprocessor. Real-Time Systems Journal, vol. 32,
        no. 2, pp 133-189, 2008.
