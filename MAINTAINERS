@@ -229,7 +229,7 @@ M:	Dominique Martinet <asmadeus@codewreck.org>
 L:	v9fs-developer@lists.sourceforge.net
 S:	Maintained
 W:	http://swik.net/v9fs
-Q:	http://patchwork.kernel.org/project/v9fs-devel/list/
+Q:	https://patchwork.kernel.org/project/v9fs-devel/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/ericvh/v9fs.git
 T:	git git://github.com/martinetd/linux.git
 F:	Documentation/filesystems/9p.rst
@@ -2280,7 +2280,7 @@ M:	Geert Uytterhoeven <geert+renesas@glider.be>
 M:	Magnus Damm <magnus.damm@gmail.com>
 L:	linux-renesas-soc@vger.kernel.org
 S:	Supported
-Q:	http://patchwork.kernel.org/project/linux-renesas-soc/list/
+Q:	https://patchwork.kernel.org/project/linux-renesas-soc/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/geert/renesas-devel.git next
 F:	Documentation/devicetree/bindings/arm/renesas.yaml
 F:	arch/arm64/boot/dts/renesas/
@@ -2397,7 +2397,7 @@ M:	Geert Uytterhoeven <geert+renesas@glider.be>
 M:	Magnus Damm <magnus.damm@gmail.com>
 L:	linux-renesas-soc@vger.kernel.org
 S:	Supported
-Q:	http://patchwork.kernel.org/project/linux-renesas-soc/list/
+Q:	https://patchwork.kernel.org/project/linux-renesas-soc/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/geert/renesas-devel.git next
 F:	Documentation/devicetree/bindings/arm/renesas.yaml
 F:	arch/arm/boot/dts/emev2*
@@ -3657,7 +3657,7 @@ M:	David Sterba <dsterba@suse.com>
 L:	linux-btrfs@vger.kernel.org
 S:	Maintained
 W:	http://btrfs.wiki.kernel.org/
-Q:	http://patchwork.kernel.org/project/linux-btrfs/list/
+Q:	https://patchwork.kernel.org/project/linux-btrfs/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/mason/linux-btrfs.git
 F:	Documentation/filesystems/btrfs.rst
 F:	fs/btrfs/
@@ -4226,7 +4226,7 @@ M:	Michael Turquette <mturquette@baylibre.com>
 M:	Stephen Boyd <sboyd@kernel.org>
 L:	linux-clk@vger.kernel.org
 S:	Maintained
-Q:	http://patchwork.kernel.org/project/linux-clk/list/
+Q:	https://patchwork.kernel.org/project/linux-clk/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/clk/linux.git
 F:	Documentation/devicetree/bindings/clock/
 F:	drivers/clk/
@@ -4917,7 +4917,7 @@ M:	dm-devel@redhat.com
 L:	dm-devel@redhat.com
 S:	Maintained
 W:	http://sources.redhat.com/dm
-Q:	http://patchwork.kernel.org/project/dm-devel/list/
+Q:	https://patchwork.kernel.org/project/dm-devel/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/device-mapper/linux-dm.git
 T:	quilt http://people.redhat.com/agk/patches/linux/editing/
 F:	Documentation/admin-guide/device-mapper/
@@ -6676,7 +6676,7 @@ M:	Moritz Fischer <mdf@kernel.org>
 L:	linux-fpga@vger.kernel.org
 S:	Maintained
 W:	http://www.rocketboards.org
-Q:	http://patchwork.kernel.org/project/linux-fpga/list/
+Q:	https://patchwork.kernel.org/project/linux-fpga/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/mdf/linux-fpga.git
 F:	Documentation/devicetree/bindings/fpga/
 F:	Documentation/driver-api/fpga/
@@ -6701,7 +6701,7 @@ M:	Bartlomiej Zolnierkiewicz <b.zolnierkie@samsung.com>
 L:	dri-devel@lists.freedesktop.org
 L:	linux-fbdev@vger.kernel.org
 S:	Maintained
-Q:	http://patchwork.kernel.org/project/linux-fbdev/list/
+Q:	https://patchwork.kernel.org/project/linux-fbdev/list/
 T:	git git://anongit.freedesktop.org/drm/drm-misc
 F:	Documentation/fb/
 F:	drivers/video/
@@ -8381,7 +8381,7 @@ M:	Jason Gunthorpe <jgg@mellanox.com>
 L:	linux-rdma@vger.kernel.org
 S:	Supported
 W:	https://github.com/linux-rdma/rdma-core
-Q:	http://patchwork.kernel.org/project/linux-rdma/list/
+Q:	https://patchwork.kernel.org/project/linux-rdma/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/rdma/rdma.git
 F:	Documentation/devicetree/bindings/infiniband/
 F:	Documentation/infiniband/
@@ -8446,7 +8446,7 @@ INPUT (KEYBOARD, MOUSE, JOYSTICK, TOUCHSCREEN) DRIVERS
 M:	Dmitry Torokhov <dmitry.torokhov@gmail.com>
 L:	linux-input@vger.kernel.org
 S:	Maintained
-Q:	http://patchwork.kernel.org/project/linux-input/list/
+Q:	https://patchwork.kernel.org/project/linux-input/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/dtor/input.git
 F:	Documentation/devicetree/bindings/input/
 F:	Documentation/devicetree/bindings/serio/
@@ -9021,7 +9021,7 @@ L:	linux-rdma@vger.kernel.org
 S:	Supported
 W:	http://www.openfabrics.org
 W:	www.open-iscsi.org
-Q:	http://patchwork.kernel.org/project/linux-rdma/list/
+Q:	https://patchwork.kernel.org/project/linux-rdma/list/
 F:	drivers/infiniband/ulp/iser/
 
 ISCSI EXTENSIONS FOR RDMA (ISER) TARGET
@@ -10617,7 +10617,7 @@ M:	Mauro Carvalho Chehab <mchehab@kernel.org>
 L:	linux-media@vger.kernel.org
 S:	Maintained
 W:	https://linuxtv.org
-Q:	http://patchwork.kernel.org/project/linux-media/list/
+Q:	https://patchwork.kernel.org/project/linux-media/list/
 T:	git git://linuxtv.org/media_tree.git
 F:	Documentation/devicetree/bindings/media/
 F:	Documentation/media/
@@ -10867,7 +10867,7 @@ M:	Yishai Hadas <yishaih@mellanox.com>
 L:	linux-rdma@vger.kernel.org
 S:	Supported
 W:	http://www.mellanox.com
-Q:	http://patchwork.kernel.org/project/linux-rdma/list/
+Q:	https://patchwork.kernel.org/project/linux-rdma/list/
 F:	drivers/infiniband/hw/mlx4/
 F:	include/linux/mlx4/
 F:	include/uapi/rdma/mlx4-abi.h
@@ -10889,7 +10889,7 @@ M:	Leon Romanovsky <leonro@mellanox.com>
 L:	linux-rdma@vger.kernel.org
 S:	Supported
 W:	http://www.mellanox.com
-Q:	http://patchwork.kernel.org/project/linux-rdma/list/
+Q:	https://patchwork.kernel.org/project/linux-rdma/list/
 F:	drivers/infiniband/hw/mlx5/
 F:	include/linux/mlx5/
 F:	include/uapi/rdma/mlx5-abi.h
@@ -11741,7 +11741,7 @@ NETWORKING DRIVERS (WIRELESS)
 M:	Kalle Valo <kvalo@codeaurora.org>
 L:	linux-wireless@vger.kernel.org
 S:	Maintained
-Q:	http://patchwork.kernel.org/project/linux-wireless/list/
+Q:	https://patchwork.kernel.org/project/linux-wireless/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/kvalo/wireless-drivers.git
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/kvalo/wireless-drivers-next.git
 F:	Documentation/devicetree/bindings/net/wireless/
@@ -11876,7 +11876,7 @@ F:	net/tls/*
 
 NETWORKING [WIRELESS]
 L:	linux-wireless@vger.kernel.org
-Q:	http://patchwork.kernel.org/project/linux-wireless/list/
+Q:	https://patchwork.kernel.org/project/linux-wireless/list/
 
 NETXEN (1/10) GbE SUPPORT
 M:	Manish Chopra <manishc@marvell.com>
@@ -12339,7 +12339,7 @@ M:	Aaro Koskinen <aaro.koskinen@iki.fi>
 M:	Tony Lindgren <tony@atomide.com>
 L:	linux-omap@vger.kernel.org
 S:	Maintained
-Q:	http://patchwork.kernel.org/project/linux-omap/list/
+Q:	https://patchwork.kernel.org/project/linux-omap/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/tmlind/linux-omap.git
 F:	arch/arm/configs/omap1_defconfig
 F:	arch/arm/mach-omap1/
@@ -12354,7 +12354,7 @@ L:	linux-omap@vger.kernel.org
 S:	Maintained
 W:	http://www.muru.com/linux/omap/
 W:	http://linux.omap.com/
-Q:	http://patchwork.kernel.org/project/linux-omap/list/
+Q:	https://patchwork.kernel.org/project/linux-omap/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/tmlind/linux-omap.git
 F:	arch/arm/configs/omap2plus_defconfig
 F:	arch/arm/mach-omap2/
@@ -12764,7 +12764,7 @@ M:	Helge Deller <deller@gmx.de>
 L:	linux-parisc@vger.kernel.org
 S:	Maintained
 W:	http://www.parisc-linux.org/
-Q:	http://patchwork.kernel.org/project/linux-parisc/list/
+Q:	https://patchwork.kernel.org/project/linux-parisc/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/jejb/parisc-2.6.git
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/deller/parisc-linux.git
 F:	Documentation/parisc/
@@ -14939,7 +14939,7 @@ SCSI RDMA PROTOCOL (SRP) INITIATOR
 M:	Bart Van Assche <bvanassche@acm.org>
 L:	linux-rdma@vger.kernel.org
 S:	Supported
-Q:	http://patchwork.kernel.org/project/linux-rdma/list/
+Q:	https://patchwork.kernel.org/project/linux-rdma/list/
 F:	drivers/infiniband/ulp/srp/
 F:	include/scsi/srp.h
 
@@ -14948,7 +14948,7 @@ M:	Bart Van Assche <bvanassche@acm.org>
 L:	linux-rdma@vger.kernel.org
 L:	target-devel@vger.kernel.org
 S:	Supported
-Q:	http://patchwork.kernel.org/project/linux-rdma/list/
+Q:	https://patchwork.kernel.org/project/linux-rdma/list/
 F:	drivers/infiniband/ulp/srpt/
 
 SCSI SG DRIVER
@@ -15729,7 +15729,7 @@ M:	Takashi Iwai <tiwai@suse.com>
 L:	alsa-devel@alsa-project.org (moderated for non-subscribers)
 S:	Maintained
 W:	http://www.alsa-project.org/
-Q:	http://patchwork.kernel.org/project/alsa-devel/list/
+Q:	https://patchwork.kernel.org/project/alsa-devel/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git
 F:	Documentation/sound/
 F:	include/sound/
@@ -15861,7 +15861,7 @@ SPI SUBSYSTEM
 M:	Mark Brown <broonie@kernel.org>
 L:	linux-spi@vger.kernel.org
 S:	Maintained
-Q:	http://patchwork.kernel.org/project/spi-devel-general/list/
+Q:	https://patchwork.kernel.org/project/spi-devel-general/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/broonie/spi.git
 F:	Documentation/devicetree/bindings/spi/
 F:	Documentation/spi/
@@ -16124,7 +16124,7 @@ M:	Yoshinori Sato <ysato@users.sourceforge.jp>
 M:	Rich Felker <dalias@libc.org>
 L:	linux-sh@vger.kernel.org
 S:	Maintained
-Q:	http://patchwork.kernel.org/project/linux-sh/list/
+Q:	https://patchwork.kernel.org/project/linux-sh/list/
 F:	Documentation/sh/
 F:	arch/sh/
 F:	drivers/sh/
@@ -18742,7 +18742,7 @@ THE REST
 M:	Linus Torvalds <torvalds@linux-foundation.org>
 L:	linux-kernel@vger.kernel.org
 S:	Buried alive in reporters
-Q:	http://patchwork.kernel.org/project/LKML/list/
+Q:	https://patchwork.kernel.org/project/LKML/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
 F:	*
 F:	*/
