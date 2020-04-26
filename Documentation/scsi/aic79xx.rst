@@ -549,7 +549,7 @@ for targets 0 and 6 of Controller 0.
       * German:  +49 89 4366 5522, Monday-Friday, 9:00-17:00 CET,
         https://ask-de.adaptec.com/.
       * French:  +49 89 4366 5533, Monday-Friday, 9:00-17:00 CET,
-	http://ask-fr.adaptec.com/.
+	https://ask-fr.adaptec.com/.
       * English: +49 89 4366 5544, Monday-Friday, 9:00-17:00 GMT,
 	http://ask.adaptec.com/.
 
