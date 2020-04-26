@@ -126,7 +126,7 @@ config BAYCOM_SER_FDX
 	  driver and still provided in case this driver does not work with
 	  your serial interface chip. To configure the driver, use the sethdlc
 	  utility available in the standard ax25 utilities package. For
-	  information on the modems, see <http://www.baycom.de/> and
+	  information on the modems, see <https://www.baycom.de/> and
 	  <file:Documentation/networking/baycom.txt>.
 
 	  To compile this driver as a module, choose M here: the module
@@ -144,7 +144,7 @@ config BAYCOM_SER_HDX
 	  the full-duplex driver. This driver is deprecated.  To configure
 	  the driver, use the sethdlc utility available in the standard ax25
 	  utilities package. For information on the modems, see
-	  <http://www.baycom.de/> and
+	  <https://www.baycom.de/> and
 	  <file:Documentation/networking/baycom.txt>.
 
 	  To compile this driver as a module, choose M here: the module
@@ -159,7 +159,7 @@ config BAYCOM_PAR
 	  connect to a parallel interface. The driver supports the picpar and
 	  par96 designs. To configure the driver, use the sethdlc utility
 	  available in the standard ax25 utilities package. For information on
-	  the modems, see <http://www.baycom.de/> and the file
+	  the modems, see <https://www.baycom.de/> and the file
 	  <file:Documentation/networking/baycom.txt>.
 
 	  To compile this driver as a module, choose M here: the module
@@ -174,7 +174,7 @@ config BAYCOM_EPP
 	  connect to a parallel interface. The driver supports the EPP
 	  designs. To configure the driver, use the sethdlc utility available
 	  in the standard ax25 utilities package. For information on the
-	  modems, see <http://www.baycom.de/> and the file
+	  modems, see <https://www.baycom.de/> and the file
 	  <file:Documentation/networking/baycom.txt>.
 
 	  To compile this driver as a module, choose M here: the module
