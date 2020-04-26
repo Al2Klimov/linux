@@ -444,35 +444,35 @@ F:	sound/pci/ad1889.*
 AD525X ANALOG DEVICES DIGITAL POTENTIOMETERS DRIVER
 M:	Michael Hennerich <michael.hennerich@analog.com>
 S:	Supported
-W:	http://wiki.analog.com/AD5254
+W:	https://wiki.analog.com/AD5254
 W:	https://ez.analog.com/community/linux-device-drivers
 F:	drivers/misc/ad525x_dpot.c
 
 AD5398 CURRENT REGULATOR DRIVER (AD5398/AD5821)
 M:	Michael Hennerich <michael.hennerich@analog.com>
 S:	Supported
-W:	http://wiki.analog.com/AD5398
+W:	https://wiki.analog.com/AD5398
 W:	https://ez.analog.com/community/linux-device-drivers
 F:	drivers/regulator/ad5398.c
 
 AD714X CAPACITANCE TOUCH SENSOR DRIVER (AD7142/3/7/8/7A)
 M:	Michael Hennerich <michael.hennerich@analog.com>
 S:	Supported
-W:	http://wiki.analog.com/AD7142
+W:	https://wiki.analog.com/AD7142
 W:	https://ez.analog.com/community/linux-device-drivers
 F:	drivers/input/misc/ad714x.c
 
 AD7877 TOUCHSCREEN DRIVER
 M:	Michael Hennerich <michael.hennerich@analog.com>
 S:	Supported
-W:	http://wiki.analog.com/AD7877
+W:	https://wiki.analog.com/AD7877
 W:	https://ez.analog.com/community/linux-device-drivers
 F:	drivers/input/touchscreen/ad7877.c
 
 AD7879 TOUCHSCREEN DRIVER (AD7879/AD7889)
 M:	Michael Hennerich <michael.hennerich@analog.com>
 S:	Supported
-W:	http://wiki.analog.com/AD7879
+W:	https://wiki.analog.com/AD7879
 W:	https://ez.analog.com/community/linux-device-drivers
 F:	drivers/input/touchscreen/ad7879.c
 
@@ -518,7 +518,7 @@ F:	include/media/i2c/adp1653.h
 ADP5520 BACKLIGHT DRIVER WITH IO EXPANDER (ADP5520/ADP5501)
 M:	Michael Hennerich <michael.hennerich@analog.com>
 S:	Supported
-W:	http://wiki.analog.com/ADP5520
+W:	https://wiki.analog.com/ADP5520
 W:	https://ez.analog.com/community/linux-device-drivers
 F:	drivers/gpio/gpio-adp5520.c
 F:	drivers/input/keyboard/adp5520-keys.c
@@ -529,7 +529,7 @@ F:	drivers/video/backlight/adp5520_bl.c
 ADP5588 QWERTY KEYPAD AND IO EXPANDER DRIVER (ADP5588/ADP5587)
 M:	Michael Hennerich <michael.hennerich@analog.com>
 S:	Supported
-W:	http://wiki.analog.com/ADP5588
+W:	https://wiki.analog.com/ADP5588
 W:	https://ez.analog.com/community/linux-device-drivers
 F:	drivers/gpio/gpio-adp5588.c
 F:	drivers/input/keyboard/adp5588-keys.c
@@ -537,7 +537,7 @@ F:	drivers/input/keyboard/adp5588-keys.c
 ADP8860 BACKLIGHT DRIVER (ADP8860/ADP8861/ADP8863)
 M:	Michael Hennerich <michael.hennerich@analog.com>
 S:	Supported
-W:	http://wiki.analog.com/ADP8860
+W:	https://wiki.analog.com/ADP8860
 W:	https://ez.analog.com/community/linux-device-drivers
 F:	drivers/video/backlight/adp8860_bl.c
 
@@ -564,7 +564,7 @@ F:	drivers/scsi/advansys.c
 ADXL34X THREE-AXIS DIGITAL ACCELEROMETER DRIVER (ADXL345/ADXL346)
 M:	Michael Hennerich <michael.hennerich@analog.com>
 S:	Supported
-W:	http://wiki.analog.com/ADXL345
+W:	https://wiki.analog.com/ADXL345
 W:	https://ez.analog.com/community/linux-device-drivers
 F:	Documentation/devicetree/bindings/iio/accel/adi,adxl345.yaml
 F:	drivers/input/misc/adxl34x.c
@@ -1082,7 +1082,7 @@ M:	Lars-Peter Clausen <lars@metafoo.de>
 M:	Nuno Sá <nuno.sa@analog.com>
 L:	alsa-devel@alsa-project.org (moderated for non-subscribers)
 S:	Supported
-W:	http://wiki.analog.com/
+W:	https://wiki.analog.com/
 W:	https://ez.analog.com/community/linux-device-drivers
 F:	sound/soc/codecs/ad1*
 F:	sound/soc/codecs/ad7*
@@ -1111,7 +1111,7 @@ M:	Lars-Peter Clausen <lars@metafoo.de>
 M:	Michael Hennerich <Michael.Hennerich@analog.com>
 M:	Stefan Popa <stefan.popa@analog.com>
 S:	Supported
-W:	http://wiki.analog.com/
+W:	https://wiki.analog.com/
 W:	https://ez.analog.com/community/linux-device-drivers
 F:	Documentation/ABI/testing/sysfs-bus-iio-frequency-ad9523
 F:	Documentation/ABI/testing/sysfs-bus-iio-frequency-adf4350
