@@ -2534,7 +2534,7 @@
 		    ...
 
 		See http://web.archive.org/web/20080115195241/
-		http://inter-mezzo.org/index.html
+		https://inter-mezzo.org/index.html
 
  186 char	Object-based storage control device
 		  0 = /dev/obd0		First obd control device
