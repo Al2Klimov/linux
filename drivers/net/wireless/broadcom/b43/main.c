@@ -2843,7 +2843,7 @@ static int b43_upload_initvals_band(struct b43_wldev *dev)
 }
 
 /* Initialize the GPIOs
- * http://bcm-specs.sipsolutions.net/GPIO
+ * https://bcm-specs.sipsolutions.net/GPIO
  */
 
 #ifdef CONFIG_B43_SSB
@@ -2942,7 +2942,7 @@ static void b43_gpio_cleanup(struct b43_wldev *dev)
 	}
 }
 
-/* http://bcm-specs.sipsolutions.net/EnableMac */
+/* https://bcm-specs.sipsolutions.net/EnableMac */
 void b43_mac_enable(struct b43_wldev *dev)
 {
 	if (b43_debug(dev, B43_DBG_FIRMWARE)) {
@@ -2971,7 +2971,7 @@ void b43_mac_enable(struct b43_wldev *dev)
 	}
 }
 
-/* http://bcm-specs.sipsolutions.net/SuspendMAC */
+/* https://bcm-specs.sipsolutions.net/SuspendMAC */
 void b43_mac_suspend(struct b43_wldev *dev)
 {
 	int i;
@@ -3231,7 +3231,7 @@ static void b43_chip_exit(struct b43_wldev *dev)
 }
 
 /* Initialize the chip
- * http://bcm-specs.sipsolutions.net/ChipInit
+ * https://bcm-specs.sipsolutions.net/ChipInit
  */
 static int b43_chip_init(struct b43_wldev *dev)
 {
