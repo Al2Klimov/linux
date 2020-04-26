@@ -66,7 +66,7 @@ There are a few types of systems where video works after S3 resume:
 
 (7) on some systems, it is possible to boot most of kernel, and then
     POSTing bios works. Ole Rohne has patch to do just that at
-    http://dev.gentoo.org/~marineam/patch-radeonfb-2.6.11-rc2-mm2.
+    https://dev.gentoo.org/~marineam/patch-radeonfb-2.6.11-rc2-mm2.
 
 (8) on some systems, you can use the video_post utility and or
     do echo 3 > /sys/power/state  && /usr/sbin/video_post - which will
