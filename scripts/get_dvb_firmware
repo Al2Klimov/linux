@@ -278,7 +278,7 @@ sub vp7041 {
 
 sub vp7049 {
     my $fwfile = "dvb-usb-vp7049-0.95.fw";
-    my $url = "http://ao2.it/sites/default/files/blog/2012/11/06/linux-support-digicom-digitune-s-vp7049-udtt7049/$fwfile";
+    my $url = "https://ao2.it/sites/default/files/blog/2012/11/06/linux-support-digicom-digitune-s-vp7049-udtt7049/$fwfile";
     my $hash = "5609fd295168aea88b25ff43a6f79c36";
 
     checkstandard();
