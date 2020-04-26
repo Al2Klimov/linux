@@ -238,7 +238,7 @@ config VXLAN
 	  Layer 2 Networks over Layer 3 Networks. VXLAN is often used
 	  to tunnel virtual network infrastructure in virtualized environments.
 	  For more information see:
-	    http://tools.ietf.org/html/draft-mahalingam-dutt-dcops-vxlan-02
+	    https://tools.ietf.org/html/draft-mahalingam-dutt-dcops-vxlan-02
 
 	  To compile this driver as a module, choose M here: the module
 	  will be called vxlan.
@@ -254,7 +254,7 @@ config GENEVE
 	  Layer 2 Networks over Layer 3 Networks. GENEVE is often used
 	  to tunnel virtual network infrastructure in virtualized environments.
 	  For more information see:
-	    http://tools.ietf.org/html/draft-gross-geneve-02
+	    https://tools.ietf.org/html/draft-gross-geneve-02
 
 	  To compile this driver as a module, choose M here: the module
 	  will be called geneve.

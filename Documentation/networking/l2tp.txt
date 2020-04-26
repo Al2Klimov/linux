@@ -326,7 +326,7 @@ To Do
 
 Add L2TP tunnel switching support. This would route tunneled traffic
 from one L2TP tunnel into another. Specified in
-http://tools.ietf.org/html/draft-ietf-l2tpext-tunnel-switching-08
+https://tools.ietf.org/html/draft-ietf-l2tpext-tunnel-switching-08
 
 Add L2TPv3 VLAN pseudowire support.
 

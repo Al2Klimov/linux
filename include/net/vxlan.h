@@ -52,7 +52,7 @@ struct vxlanhdr {
  *
  * Csum start = Checksum start divided by two.
  *
- * http://tools.ietf.org/html/draft-herbert-vxlan-rco
+ * https://tools.ietf.org/html/draft-herbert-vxlan-rco
  */
 
 /* VXLAN-RCO header flags. */

@@ -37,7 +37,7 @@ ii) Mohammad Alizadeh, Adel Javanmard, and Balaji Prabhakar:
 
 IETF informational draft:
 
-  http://tools.ietf.org/html/draft-bensley-tcpm-dctcp-00
+  https://tools.ietf.org/html/draft-bensley-tcpm-dctcp-00
 
 DCTCP site:
 

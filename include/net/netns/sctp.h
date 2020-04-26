@@ -85,7 +85,7 @@ struct netns_sctp {
 	int max_retrans_init;
 	/* Potentially-Failed.Max.Retrans sysctl value
 	 * taken from:
-	 * http://tools.ietf.org/html/draft-nishida-tsvwg-sctp-failover-05
+	 * https://tools.ietf.org/html/draft-nishida-tsvwg-sctp-failover-05
 	 */
 	int pf_retrans;
 
