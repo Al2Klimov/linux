@@ -104,7 +104,7 @@ will lead to quite erratic information inside ``/proc/stat``::
 References
 ----------
 
-- http://lkml.org/lkml/2007/2/12/6
+- https://lkml.org/lkml/2007/2/12/6
 - Documentation/filesystems/proc.txt (1.8)
 
 

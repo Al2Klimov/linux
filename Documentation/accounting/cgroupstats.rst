@@ -3,8 +3,8 @@ Control Groupstats
 ==================
 
 Control Groupstats is inspired by the discussion at
-http://lkml.org/lkml/2007/4/11/187 and implements per cgroup statistics as
-suggested by Andrew Morton in http://lkml.org/lkml/2007/4/11/263.
+https://lkml.org/lkml/2007/4/11/187 and implements per cgroup statistics as
+suggested by Andrew Morton in https://lkml.org/lkml/2007/4/11/263.
 
 Per cgroup statistics infrastructure re-uses code from the taskstats
 interface. A new set of cgroup operations are registered with commands

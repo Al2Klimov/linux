@@ -674,7 +674,7 @@ Kernel Documentation/process/coding-style.rst:
   :ref:`Documentation/translations/zh_CN/process/coding-style.rst <cn_codingstyle>`
 
 Linus Torvalds's mail on the canonical patch format:
-  <http://lkml.org/lkml/2005/4/7/183>
+  <https://lkml.org/lkml/2005/4/7/183>
 
 Andi Kleen, "On submitting kernel patches"
   Some strategies to get difficult or controversial changes in.

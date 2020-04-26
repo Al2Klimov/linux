@@ -1055,7 +1055,7 @@ aoe_end_request(struct aoedev *d, struct request *rq, int fastfail)
 
 	__blk_mq_end_request(rq, err);
 
-	/* cf. http://lkml.org/lkml/2006/10/31/28 */
+	/* cf. https://lkml.org/lkml/2006/10/31/28 */
 	if (!fastfail)
 		blk_mq_run_hw_queues(q, true);
 }

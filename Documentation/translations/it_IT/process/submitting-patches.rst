@@ -890,7 +890,7 @@ Kernel Documentation/translations/it_IT/process/coding-style.rst:
   :ref:`Documentation/translations/it_IT/process/coding-style.rst <it_codingstyle>`
 
 E-mail di Linus Torvalds sul formato canonico di una patch:
-  <http://lkml.org/lkml/2005/4/7/183>
+  <https://lkml.org/lkml/2005/4/7/183>
 
 Andi Kleen, "Su come sottomettere patch del kernel"
   Alcune strategie su come sottomettere modifiche toste o controverse.

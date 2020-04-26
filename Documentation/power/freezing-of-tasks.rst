@@ -134,7 +134,7 @@ Generally speaking, there is a couple of reasons to use the freezing of tasks:
    safeguards against race conditions that might occur in such a case.
 
 Although Linus Torvalds doesn't like the freezing of tasks, he said this in one
-of the discussions on LKML (http://lkml.org/lkml/2007/4/27/608):
+of the discussions on LKML (https://lkml.org/lkml/2007/4/27/608):
 
 "RJW:> Why we freeze tasks at all or why we freeze kernel threads?
 

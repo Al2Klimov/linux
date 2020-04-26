@@ -719,7 +719,7 @@ MODULE_DESCRIPTION(DRIVER_DESC);
  * hardware bug or something.
  *
  * According to a patch provided here
- * (http://lkml.org/lkml/2009/7/26/56), the ARK3116 can also be used
+ * (https://lkml.org/lkml/2009/7/26/56), the ARK3116 can also be used
  * as an IrDA dongle. Since I do not have such a thing, I could not
  * investigate that aspect. However, I can speculate ;-).
  *
