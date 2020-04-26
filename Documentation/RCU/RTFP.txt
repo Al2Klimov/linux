@@ -1916,7 +1916,7 @@ Revised:
 ,year="2007"
 ,issn="0743-7315"
 ,pages="1270--1285"
-,doi="http://dx.doi.org/10.1016/j.jpdc.2007.04.010"
+,doi="https://dx.doi.org/10.1016/j.jpdc.2007.04.010"
 ,publisher="Academic Press, Inc."
 ,address="Orlando, FL, USA"
 ,annotation={
@@ -2705,7 +2705,7 @@ lot of {Linux} into your technology!!!"
 ,posted-at = {2012-05-03 09:12:04}
 ,priority = {2}
 ,title = {{A Read-Copy Update based parallel server for distributed crowd simulations}}
-,url = {http://dx.doi.org/10.1007/s11227-012-0766-x}
+,url = {https://dx.doi.org/10.1007/s11227-012-0766-x}
 ,year = {2012}
 }
 
