@@ -57,7 +57,7 @@ config MACH_GATEWAY7001
 	help
 	  Say 'Y' here if you want your kernel to support Gateway's
 	  7001 Access Point. For more information on this platform,
-	  see http://openwrt.org
+	  see https://openwrt.org
 
 config MACH_WG302V2
 	bool "Netgear WG302 v2 / WAG302 v2"
@@ -65,7 +65,7 @@ config MACH_WG302V2
 	help
 	  Say 'Y' here if you want your kernel to support Netgear's
 	  WG302 v2 or WAG302 v2 Access Points. For more information
-	  on this platform, see http://openwrt.org
+	  on this platform, see https://openwrt.org
 
 config ARCH_IXDP425
 	bool "IXDP425"
