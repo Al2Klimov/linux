@@ -33,7 +33,7 @@ configurations are intolerant of IP options and can impede
 access to systems that use them as Smack does.
 
 Smack is used in the Tizen operating system. Please
-go to http://wiki.tizen.org for information about how
+go to https://wiki.tizen.org for information about how
 Smack is used in Tizen.
 
 The current git repository for Smack user space is:
