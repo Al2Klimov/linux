@@ -5,8 +5,8 @@
  * Copyright (c) 2019 Andreas Klinger <ak@it-klinger.de>
  *
  * For details about the devices see:
- * http://parallax.com/sites/default/files/downloads/28041-LaserPING-2m-Rangefinder-Guide.pdf
- * http://parallax.com/sites/default/files/downloads/28015-PING-Documentation-v1.6.pdf
+ * https://www.parallax.com/sites/default/files/downloads/28041-LaserPING-2m-Rangefinder-Guide.pdf
+ * https://www.parallax.com/sites/default/files/downloads/28015-PING-Documentation-v1.6.pdf
  *
  * the measurement cycle as timing diagram looks like:
  *
