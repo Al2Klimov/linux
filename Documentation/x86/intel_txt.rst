@@ -47,7 +47,7 @@ Trusted Boot (tboot) is an open source, pre-kernel/VMM module that
 uses Intel TXT to perform a measured and verified launch of an OS
 kernel/VMM.
 
-It is hosted on SourceForge at http://sourceforge.net/projects/tboot.
+It is hosted on SourceForge at https://sourceforge.net/projects/tboot.
 The mercurial source repo is available at http://www.bughost.org/
 repos.hg/tboot.hg.
 

@@ -19,7 +19,7 @@ The upgrade program described below has been officially terminated effective
   host adapters.  All of BusLogic's other SCSI host adapters, including the
   MultiMaster line, currently support the Linux operating system.  Linux
   drivers and information will be available on October 15th at
-  http://sourceforge.net/projects/dandelion/.
+  https://sourceforge.net/projects/dandelion/.
 
   "Mylex is committed to supporting the Linux community," says Peter Shambora,
   vice president of marketing for Mylex.  "We have supported Linux driver

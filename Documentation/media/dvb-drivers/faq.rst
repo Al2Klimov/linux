@@ -70,7 +70,7 @@ Some very frequently asked questions about linuxtv-dvb
 		Metzler Bros. DVB development; alternate drivers and
 		DVB utilities, include dvb-mpegtools and tuxzap.
 
-	http://sourceforge.net/projects/dvbtools/
+	https://sourceforge.net/projects/dvbtools/
 		Dave Chapman's dvbtools package, including
 		dvbstream and dvbtune
 

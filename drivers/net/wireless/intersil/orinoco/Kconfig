@@ -133,7 +133,7 @@ config PCMCIA_SPECTRUM
 
 	  This driver requires firmware download on startup.  Utilities
 	  for downloading Symbol firmware are available at
-	  <http://sourceforge.net/projects/orinoco/>
+	  <https://sourceforge.net/projects/orinoco/>
 
 config ORINOCO_USB
 	tristate "Agere Orinoco USB support"

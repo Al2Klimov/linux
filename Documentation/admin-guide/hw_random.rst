@@ -17,7 +17,7 @@ should download the support software as well.  Download the
 latest version of the "rng-tools" package from the
 hw_random driver's official Web site:
 
-	http://sourceforge.net/projects/gkernel/
+	https://sourceforge.net/projects/gkernel/
 
 Those tools use /dev/hwrng to fill the kernel entropy pool,
 which is used internally and exported by the /dev/urandom and

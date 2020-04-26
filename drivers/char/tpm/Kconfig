@@ -16,7 +16,7 @@ menuconfig TCG_TPM
 	  more information see <http://www.trustedcomputinggroup.org>. 
 	  An implementation of the Trusted Software Stack (TSS), the 
 	  userspace enablement piece of the specification, can be 
-	  obtained at: <http://sourceforge.net/projects/trousers>.  To 
+	  obtained at: <https://sourceforge.net/projects/trousers>.  To 
 	  compile this driver as a module, choose M here; the module 
 	  will be called tpm. If unsure, say N.
 	  Notes:

@@ -325,7 +325,7 @@ and to the following documentation:
 There is a frame buffer device related mailing list at kernel.org:
 linux-fbdev@vger.kernel.org.
 
-Point your web browser to http://sourceforge.net/projects/linux-fbdev/ for
+Point your web browser to https://sourceforge.net/projects/linux-fbdev/ for
 subscription information and archive browsing.
 
 

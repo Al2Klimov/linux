@@ -53,7 +53,7 @@ SOFTWARE.
 There are several websites that provide directions/pointers on using
 Intel's software:
 
-   - http://sourceforge.net/projects/ixp4xx-osdg/
+   - https://sourceforge.net/projects/ixp4xx-osdg/
      Open Source Developer's Guide for using uClinux and the Intel libraries
 
    - http://gatewaymaker.sourceforge.net/

@@ -488,5 +488,5 @@ config UML_RANDOM
 	  /dev/hwrng.
 	  The way to make use of this is to install the rng-tools package
 	  (check your distro, or download from
-	  http://sourceforge.net/projects/gkernel/).  rngd periodically reads
+	  https://sourceforge.net/projects/gkernel/).  rngd periodically reads
 	  /dev/hwrng and injects the entropy into /dev/random.

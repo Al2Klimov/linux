@@ -185,7 +185,7 @@ static int __init clevo_mail_led_init(void)
 		pr_err("Skipping DMI detection. "
 		       "If the driver works on your hardware please "
 		       "report model and the output of dmidecode in tracker "
-		       "at http://sourceforge.net/projects/clevo-mailled/\n");
+		       "at https://sourceforge.net/projects/clevo-mailled/\n");
 	}
 
 	if (!count)

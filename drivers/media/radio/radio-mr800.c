@@ -13,7 +13,7 @@
  *
  * When work was looked pretty good, i discover this:
  * http://av-usbradio.sourceforge.net/index.php
- * http://sourceforge.net/projects/av-usbradio/
+ * https://sourceforge.net/projects/av-usbradio/
  * Latest release of theirs project was in 2005.
  * Probably, this driver could be improved through using their
  * achievements (specifications given).

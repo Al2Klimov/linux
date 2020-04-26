@@ -11,7 +11,7 @@
  *	References:
  *		Intel 8255x 10/100 Mbps Ethernet Controller Family,
  *		Open Source Software Developers Manual,
- *		http://sourceforge.net/projects/e1000
+ *		https://sourceforge.net/projects/e1000
  *
  *
  *	                      Theory of Operation

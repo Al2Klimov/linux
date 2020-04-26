@@ -410,7 +410,7 @@ Pcmciautils
 Quota-tools
 -----------
 
-- <http://sourceforge.net/projects/linuxquota/>
+- <https://sourceforge.net/projects/linuxquota/>
 
 
 Intel P6 microcode
@@ -446,7 +446,7 @@ PPP
 NFS-utils
 ---------
 
-- <http://sourceforge.net/project/showfiles.php?group_id=14>
+- <https://sourceforge.net/project/showfiles.php?group_id=14>
 
 Iptables
 --------

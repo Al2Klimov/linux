@@ -20,7 +20,7 @@ maintain a backup copy of any data you write into eCryptfs.
 eCryptfs requires the userspace tools downloadable from the
 SourceForge site:
 
-http://sourceforge.net/projects/ecryptfs/
+https://sourceforge.net/projects/ecryptfs/
 
 Userspace requirements include:
 

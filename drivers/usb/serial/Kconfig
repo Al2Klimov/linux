@@ -271,7 +271,7 @@ config USB_SERIAL_GARMIN
 	  Say Y here if you want to connect to your Garmin GPS.
 	  Should work with most Garmin GPS devices which have a native USB port.
 
-	  See <http://sourceforge.net/projects/garmin-gps> for the latest
+	  See <https://sourceforge.net/projects/garmin-gps> for the latest
 	  version of the driver.
 
 	  To compile this driver as a module, choose M here: the

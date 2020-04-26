@@ -93,7 +93,7 @@ HandSpring Visor, Palm USB, and Clié USB driver
   parameters.  e.g. modprobe visor vendor=0x54c product=0x66
 
   There is a webpage and mailing lists for this portion of the driver at:
-  http://sourceforge.net/projects/usbvisor/
+  https://sourceforge.net/projects/usbvisor/
 
   For any questions or problems with this driver, please contact Greg
   Kroah-Hartman at greg@kroah.com

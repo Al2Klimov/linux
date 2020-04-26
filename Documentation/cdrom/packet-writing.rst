@@ -11,7 +11,7 @@ Getting started quick
 - Compile and install kernel and modules, reboot.
 
 - You need the udftools package (pktsetup, mkudffs, cdrwtool).
-  Download from http://sourceforge.net/projects/linux-udf/
+  Download from https://sourceforge.net/projects/linux-udf/
 
 - Grab a new CD-RW disc and format it (assuming CD-RW is hdc, substitute
   as appropriate)::

@@ -7,7 +7,7 @@
  * in hermes.c and main.c.
  *
  * Utilities for downloading the Symbol firmware are available at
- * http://sourceforge.net/projects/orinoco/
+ * https://sourceforge.net/projects/orinoco/
  *
  * Copyright (C) 2002-2005 Pavel Roskin <proski@gnu.org>
  * Portions based on orinoco_cs.c:

@@ -216,7 +216,7 @@ If you are keen to get involved in development, or want to ask questions
 about configuration, or even just report bugs, then there is a mailing
 list that you can join, details are at:
 
-http://sourceforge.net/mail/?group_id=4993
+https://sourceforge.net/mail/?group_id=4993
 
 9) Legal Info
 

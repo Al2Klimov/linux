@@ -1062,7 +1062,7 @@
  *
  * For more infos check eeprom_* functs and the ar5k.c
  * file posted in madwifi-devel mailing list.
- * http://sourceforge.net/mailarchive/message.php?msg_id=8966525
+ * https://sourceforge.net/mailarchive/message.php?msg_id=8966525
  *
  */
 #define AR5K_EEPROM_BASE	0x6000

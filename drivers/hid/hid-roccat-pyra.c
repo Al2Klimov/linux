@@ -11,7 +11,7 @@
 /*
  * Roccat Pyra is a mobile gamer mouse which comes in wired and wireless
  * variant. Wireless variant is not tested.
- * Userland tools can be found at http://sourceforge.net/projects/roccat
+ * Userland tools can be found at https://sourceforge.net/projects/roccat
  */
 
 #include <linux/device.h>

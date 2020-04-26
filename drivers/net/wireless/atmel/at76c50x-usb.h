@@ -7,7 +7,7 @@
  * This driver was based on information from the Sourceforge driver
  * released and maintained by Atmel:
  *
- *  http://sourceforge.net/projects/atmelwlandriver/
+ *  https://sourceforge.net/projects/atmelwlandriver/
  *
  * Although the code was completely re-written,
  * it would have been impossible without Atmel's decision to

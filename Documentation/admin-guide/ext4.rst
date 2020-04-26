@@ -26,7 +26,7 @@ http://ext4.wiki.kernel.org/index.php/Ext4_Howto
 
 	or
 
-    http://sourceforge.net/project/showfiles.php?group_id=2406
+    https://sourceforge.net/project/showfiles.php?group_id=2406
 
 	or grab the latest git repository from:
 
@@ -273,13 +273,13 @@ When mounting an ext4 filesystem, the following option are accepted:
         These options are ignored by the filesystem. They are used only by
         quota tools to recognize volumes where quota should be turned on. See
         documentation in the quota-tools package for more details
-        (http://sourceforge.net/projects/linuxquota).
+        (https://sourceforge.net/projects/linuxquota).
 
   jqfmt=<quota type>, usrjquota=<file>, grpjquota=<file>
         These options tell filesystem details about quota so that quota
         information can be properly updated during journal replay. They replace
         the above quota options. See documentation in the quota-tools package
-        for more details (http://sourceforge.net/projects/linuxquota).
+        for more details (https://sourceforge.net/projects/linuxquota).
 
   stripe=n
         Number of filesystem blocks that mballoc will try to use for allocation

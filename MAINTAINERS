@@ -2800,7 +2800,7 @@ F:	include/linux/verification.h
 ASYNCHRONOUS TRANSFERS/TRANSFORMS (IOAT) API
 R:	Dan Williams <dan.j.williams@intel.com>
 S:	Odd fixes
-W:	http://sourceforge.net/projects/xscaleiop
+W:	https://sourceforge.net/projects/xscaleiop
 F:	Documentation/crypto/async-tx-api.txt
 F:	crypto/async_tx/
 F:	drivers/dma/
@@ -2877,7 +2877,7 @@ M:	Jay Cliburn <jcliburn@gmail.com>
 M:	Chris Snook <chris.snook@gmail.com>
 L:	netdev@vger.kernel.org
 S:	Maintained
-W:	http://sourceforge.net/projects/atl1
+W:	https://sourceforge.net/projects/atl1
 W:	http://atl1.sourceforge.net
 F:	drivers/net/ethernet/atheros/
 
@@ -3165,7 +3165,7 @@ M:	Veaceslav Falico <vfalico@gmail.com>
 M:	Andy Gospodarek <andy@greyhouse.net>
 L:	netdev@vger.kernel.org
 S:	Supported
-W:	http://sourceforge.net/projects/bonding/
+W:	https://sourceforge.net/projects/bonding/
 F:	drivers/net/bonding/
 F:	include/uapi/linux/if_bonding.h
 
@@ -13582,7 +13582,7 @@ PPTP DRIVER
 M:	Dmitry Kozlov <xeb@mail.ru>
 L:	netdev@vger.kernel.org
 S:	Maintained
-W:	http://sourceforge.net/projects/accel-pptp
+W:	https://sourceforge.net/projects/accel-pptp
 F:	drivers/net/ppp/pptp.c
 
 PRESSURE STALL INFORMATION (PSI)
@@ -14463,7 +14463,7 @@ K:	riscv
 ROCCAT DRIVERS
 M:	Stefan Achatz <erazor_de@users.sourceforge.net>
 S:	Maintained
-W:	http://sourceforge.net/projects/roccat/
+W:	https://sourceforge.net/projects/roccat/
 F:	Documentation/ABI/*/sysfs-driver-hid-roccat*
 F:	drivers/hid/hid-roccat*
 F:	include/linux/hid-roccat*
@@ -16970,7 +16970,7 @@ TLAN NETWORK DRIVER
 M:	Samuel Chessman <chessman@tux.org>
 L:	tlan-devel@lists.sourceforge.net (subscribers-only)
 S:	Maintained
-W:	http://sourceforge.net/projects/tlan/
+W:	https://sourceforge.net/projects/tlan/
 F:	Documentation/networking/device_drivers/ti/tlan.txt
 F:	drivers/net/ethernet/ti/tlan.*
 

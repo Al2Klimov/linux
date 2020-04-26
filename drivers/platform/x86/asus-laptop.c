@@ -7,7 +7,7 @@
  *  Copyright (C) 2011 Wind River Systems
  *
  *  The development page for this driver is located at
- *  http://sourceforge.net/projects/acpi4asus/
+ *  https://sourceforge.net/projects/acpi4asus/
  *
  *  Credits:
  *  Pontus Fuchs   - Helper functions, cleanup

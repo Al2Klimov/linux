@@ -268,4 +268,4 @@ Patches, Errors, Questions
 
  acpi4asus-user@lists.sourceforge.net
 
- http://sourceforge.net/projects/acpi4asus
+ https://sourceforge.net/projects/acpi4asus

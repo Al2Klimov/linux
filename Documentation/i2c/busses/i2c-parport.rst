@@ -173,7 +173,7 @@ many more, using /dev/velleman.
   - http://home.wanadoo.nl/hihihi/libk8000.htm
   - http://home.wanadoo.nl/hihihi/libk8005.htm
   - http://struyve.mine.nu:8080/index.php?block=k8000
-  - http://sourceforge.net/projects/libk8005/
+  - https://sourceforge.net/projects/libk8005/
 
 
 One For All JP1 parallel port adapter

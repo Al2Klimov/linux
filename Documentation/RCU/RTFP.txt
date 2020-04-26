@@ -1360,7 +1360,7 @@ Data Structures"
 ,note="Personal communication"
 ,annotation={
 	Joe Seigh announcing his atomic-ptr-plus project.
-	http://sourceforge.net/projects/atomic-ptr-plus/
+	https://sourceforge.net/projects/atomic-ptr-plus/
 }
 }
 
@@ -1371,7 +1371,7 @@ Data Structures"
 ,day="6"
 ,year="2005"
 ,note="Available:
-\url{http://sourceforge.net/projects/atomic-ptr-plus/}
+\url{https://sourceforge.net/projects/atomic-ptr-plus/}
 [Viewed August 8, 2005]"
 ,annotation={
 	Joe Seigh's atomic-ptr-plus project.

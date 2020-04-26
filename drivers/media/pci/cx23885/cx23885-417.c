@@ -8,7 +8,7 @@
  *    (c) 2008 Steven Toth <stoth@linuxtv.org>
  *      - CX23885/7/8 support
  *
- *  Includes parts from the ivtv driver <http://sourceforge.net/projects/ivtv/>
+ *  Includes parts from the ivtv driver <https://sourceforge.net/projects/ivtv/>
  */
 
 #include "cx23885.h"

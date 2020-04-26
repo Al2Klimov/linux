@@ -5,7 +5,7 @@
  * Copyright (C) 2006-2011 Hermann Kneissel herkne@gmx.de
  *
  * The latest version of the driver can be found at
- * http://sourceforge.net/projects/garmin-gps/
+ * https://sourceforge.net/projects/garmin-gps/
  *
  * This driver has been derived from v2.1 of the visor driver.
  */
