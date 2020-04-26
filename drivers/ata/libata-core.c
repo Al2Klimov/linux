@@ -17,7 +17,7 @@
  *	http://www.sata-io.org (SATA)
  *	http://www.compactflash.org (CF)
  *	http://www.qic.org (QIC157 - Tape and DSC)
- *	http://www.ce-ata.org (CE-ATA: not supported)
+ *	https://www.ce-ata.org (CE-ATA: not supported)
  *
  * libata is essentially a library of internal helper functions for
  * low-level ATA host controller drivers.  As such, the API/ABI is
