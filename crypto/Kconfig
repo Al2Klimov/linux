@@ -1511,7 +1511,7 @@ config CRYPTO_SERPENT
 	  variant of Serpent for compatibility with old kerneli.org code.
 
 	  See also:
-	  <http://www.cl.cam.ac.uk/~rja14/serpent.html>
+	  <https://www.cl.cam.ac.uk/~rja14/serpent.html>
 
 config CRYPTO_SERPENT_SSE2_X86_64
 	tristate "Serpent cipher algorithm (x86_64/SSE2)"
@@ -1530,7 +1530,7 @@ config CRYPTO_SERPENT_SSE2_X86_64
 	  blocks parallel using SSE2 instruction set.
 
 	  See also:
-	  <http://www.cl.cam.ac.uk/~rja14/serpent.html>
+	  <https://www.cl.cam.ac.uk/~rja14/serpent.html>
 
 config CRYPTO_SERPENT_SSE2_586
 	tristate "Serpent cipher algorithm (i586/SSE2)"
@@ -1549,7 +1549,7 @@ config CRYPTO_SERPENT_SSE2_586
 	  blocks parallel using SSE2 instruction set.
 
 	  See also:
-	  <http://www.cl.cam.ac.uk/~rja14/serpent.html>
+	  <https://www.cl.cam.ac.uk/~rja14/serpent.html>
 
 config CRYPTO_SERPENT_AVX_X86_64
 	tristate "Serpent cipher algorithm (x86_64/AVX)"
@@ -1569,7 +1569,7 @@ config CRYPTO_SERPENT_AVX_X86_64
 	  eight blocks parallel using the AVX instruction set.
 
 	  See also:
-	  <http://www.cl.cam.ac.uk/~rja14/serpent.html>
+	  <https://www.cl.cam.ac.uk/~rja14/serpent.html>
 
 config CRYPTO_SERPENT_AVX2_X86_64
 	tristate "Serpent cipher algorithm (x86_64/AVX2)"
@@ -1585,7 +1585,7 @@ config CRYPTO_SERPENT_AVX2_X86_64
 	  blocks parallel using AVX2 instruction set.
 
 	  See also:
-	  <http://www.cl.cam.ac.uk/~rja14/serpent.html>
+	  <https://www.cl.cam.ac.uk/~rja14/serpent.html>
 
 config CRYPTO_SM4
 	tristate "SM4 cipher algorithm"
