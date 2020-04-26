@@ -1419,7 +1419,7 @@
 
 
 /*
- * Accesio USB Data Acquisition products (http://www.accesio.com/)
+ * Accesio USB Data Acquisition products (https://www.accesio.com/)
  */
 #define ACCESIO_COM4SM_PID 	0xD578
 
