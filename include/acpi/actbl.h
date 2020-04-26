@@ -55,7 +55,7 @@
  * binary wire protocols." (Or ACPI tables and buffers.) "If you ask me,
  * this decision was a design error in C. Ritchie could have picked an order
  * and stuck with it." Norman Ramsey.
- * See http://stackoverflow.com/a/1053662/41661
+ * See https://stackoverflow.com/a/1053662/41661
  */
 
 /*******************************************************************************
