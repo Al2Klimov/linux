@@ -15420,7 +15420,7 @@ SIS 900/7016 FAST ETHERNET DRIVER
 M:	Daniele Venzano <venza@brownhat.org>
 L:	netdev@vger.kernel.org
 S:	Maintained
-W:	http://www.brownhat.org/sis900.html
+W:	https://www.brownhat.org/sis900.html
 F:	drivers/net/ethernet/sis/sis900.*
 
 SIS FRAMEBUFFER DRIVER
