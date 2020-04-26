@@ -117,7 +117,7 @@ static bool expand_to_next_prime(unsigned long x)
 	 * Equivalently, if n > 1, then there is always at least one prime p
 	 * such that n < p < 2n.
 	 *
-	 * http://mathworld.wolfram.com/BertrandsPostulate.html
+	 * https://mathworld.wolfram.com/BertrandsPostulate.html
 	 * https://en.wikipedia.org/wiki/Bertrand's_postulate
 	 */
 	sz = 2 * x;
