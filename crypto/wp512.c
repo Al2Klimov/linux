@@ -5,7 +5,7 @@
  *
  * The Whirlpool algorithm was developed by Paulo S. L. M. Barreto and
  * Vincent Rijmen.  It has been selected as one of cryptographic
- * primitives by the NESSIE project http://www.cryptonessie.org/
+ * primitives by the NESSIE project https://www.cryptonessie.org/
  *
  * The original authors have disclaimed all copyright interest in this
  * code and thus put it in the public domain. The subsequent authors
