@@ -8,7 +8,7 @@ be found on the OLS website:
 https://www.kernel.org/doc/ols/2006/ols2006v1-pages-333-346.pdf
 
 The slides to this talk are available from:
-http://www.cs.columbia.edu/~nahum/w6998/papers/ols2006-hrtimers-slides.pdf
+https://www.cs.columbia.edu/~nahum/w6998/papers/ols2006-hrtimers-slides.pdf
 
 The slides contain five figures (pages 2, 15, 18, 20, 22), which illustrate the
 changes in the time(r) related Linux subsystems. Figure #1 (p. 2) shows the

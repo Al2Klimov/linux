@@ -208,7 +208,7 @@ operations is carried out at several levels:
 | single-mask method.                                                   |
 |                                                                       |
 | This is an instance of `deferring work in order to avoid              |
-| synchronization <http://www.cs.columbia.edu/~library/TR-repository/re |
+| synchronization <https://www.cs.columbia.edu/~library/TR-repository/re |
 | ports/reports-1992/cucs-039-92.ps.gz>`__.                             |
 | Lazily recording CPU-hotplug events at the beginning of the next      |
 | grace period greatly simplifies maintenance of the CPU-tracking       |
