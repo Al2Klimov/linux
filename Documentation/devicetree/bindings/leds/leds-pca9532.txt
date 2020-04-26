@@ -46,4 +46,4 @@ Example:
   };
 
 For more product information please see the link below:
-http://nxp.com/documents/data_sheet/PCA9532.pdf
+https://www.nxp.com/documents/data_sheet/PCA9532.pdf
