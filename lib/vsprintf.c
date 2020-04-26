@@ -145,7 +145,7 @@ int skip_atoi(const char **s)
  * roughly halves the number of multiplications compared to computing
  * the digits one at a time. Implementation strongly inspired by the
  * previous version, which in turn used ideas described at
- * <http://www.cs.uiowa.edu/~jones/bcd/divide.html> (with permission
+ * <https://cs.uiowa.edu/~jones/bcd/divide.html> (with permission
  * from the author, Douglas W. Jones).
  *
  * It turns out there is precisely one 26 bit fixed-point
@@ -295,7 +295,7 @@ unsigned put_dec_helper4(char *buf, unsigned x)
 }
 
 /* Based on code by Douglas W. Jones found at
- * <http://www.cs.uiowa.edu/~jones/bcd/decimal.html#sixtyfour>
+ * <https://cs.uiowa.edu/~jones/bcd/decimal.html#sixtyfour>
  * (with permission from the author).
  * Performs no 64-bit division and hence should be fast on 32-bit machines.
  */
