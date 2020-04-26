@@ -210,7 +210,7 @@ enum {
  *
  * The calculated CRC may contain additional source data elements that can be
  * defined in the handling of 'checksum profiles' e.g. shown in AUTOSAR specs
- * like http://www.autosar.org/download/R4.0/AUTOSAR_SWS_E2ELibrary.pdf
+ * like https://www.autosar.org/download/R4.0/AUTOSAR_SWS_E2ELibrary.pdf
  * E.g. the profile_data[] may contain additional u8 values (called DATA_IDs)
  * that are used depending on counter values inside the CAN frame data[].
  * So far only three profiles have been implemented for illustration.
