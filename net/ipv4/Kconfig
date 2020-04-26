@@ -73,7 +73,7 @@ config IP_MULTIPLE_TABLES
 
 	  If you need more information, see the Linux Advanced
 	  Routing and Traffic Control documentation at
-	  <http://lartc.org/howto/lartc.rpdb.html>
+	  <https://lartc.org/howto/lartc.rpdb.html>
 
 	  If unsure, say N.
 
