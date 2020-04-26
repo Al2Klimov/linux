@@ -81,7 +81,7 @@ static u16 bcma_mdio_phy_read(struct bgmac *bgmac, u8 phyaddr, u8 reg)
 	return bcma_read32(core, phy_access_addr) & BGMAC_PA_DATA_MASK;
 }
 
-/* http://bcm-v4.sipsolutions.net/mac-gbit/gmac/chipphywr */
+/* https://bcm-v4.sipsolutions.net/mac-gbit/gmac/chipphywr */
 static int bcma_mdio_phy_write(struct bgmac *bgmac, u8 phyaddr, u8 reg,
 			       u16 value)
 {
@@ -126,7 +126,7 @@ static int bcma_mdio_phy_write(struct bgmac *bgmac, u8 phyaddr, u8 reg,
 	return 0;
 }
 
-/* http://bcm-v4.sipsolutions.net/mac-gbit/gmac/chipphyinit */
+/* https://bcm-v4.sipsolutions.net/mac-gbit/gmac/chipphyinit */
 static void bcma_mdio_phy_init(struct bgmac *bgmac)
 {
 	struct bcma_chipinfo *ci = &bgmac->bcma.core->bus->chipinfo;
@@ -174,7 +174,7 @@ static void bcma_mdio_phy_init(struct bgmac *bgmac)
 		phy_init_hw(bgmac->net_dev->phydev);
 }
 
-/* http://bcm-v4.sipsolutions.net/mac-gbit/gmac/chipphyreset */
+/* https://bcm-v4.sipsolutions.net/mac-gbit/gmac/chipphyreset */
 static int bcma_mdio_phy_reset(struct mii_bus *bus)
 {
 	struct bgmac *bgmac = bus->priv;

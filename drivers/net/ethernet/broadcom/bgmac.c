@@ -822,7 +822,7 @@ static void bgmac_clear_mib(struct bgmac *bgmac)
 		bgmac_read(bgmac, BGMAC_RX_GOOD_OCTETS + (i * 4));
 }
 
-/* http://bcm-v4.sipsolutions.net/mac-gbit/gmac/gmac_speed */
+/* https://bcm-v4.sipsolutions.net/mac-gbit/gmac/gmac_speed */
 static void bgmac_mac_speed(struct bgmac *bgmac)
 {
 	u32 mask = ~(BGMAC_CMDCFG_ES_MASK | BGMAC_CMDCFG_HD);
@@ -902,7 +902,7 @@ static void bgmac_chip_reset_idm_config(struct bgmac *bgmac)
 				~BGMAC_BCMA_IOCTL_SW_RESET);
 }
 
-/* http://bcm-v4.sipsolutions.net/mac-gbit/gmac/chipreset */
+/* https://bcm-v4.sipsolutions.net/mac-gbit/gmac/chipreset */
 static void bgmac_chip_reset(struct bgmac *bgmac)
 {
 	u32 cmdcfg_sr;
@@ -985,7 +985,7 @@ static void bgmac_chip_reset(struct bgmac *bgmac)
 				      BGMAC_CHIPCTL_7_IF_TYPE_RGMII);
 	}
 
-	/* http://bcm-v4.sipsolutions.net/mac-gbit/gmac/gmac_reset
+	/* https://bcm-v4.sipsolutions.net/mac-gbit/gmac/gmac_reset
 	 * Specs don't say about using BGMAC_CMDCFG_SR, but in this routine
 	 * BGMAC_CMDCFG is read _after_ putting chip in a reset. So it has to
 	 * be keps until taking MAC out of the reset.
@@ -1041,7 +1041,7 @@ static void bgmac_chip_intrs_off(struct bgmac *bgmac)
 	bgmac_read(bgmac, BGMAC_INT_MASK);
 }
 
-/* http://bcm-v4.sipsolutions.net/mac-gbit/gmac/gmac_enable */
+/* https://bcm-v4.sipsolutions.net/mac-gbit/gmac/gmac_enable */
 static void bgmac_enable(struct bgmac *bgmac)
 {
 	u32 cmdcfg_sr;
@@ -1095,7 +1095,7 @@ static void bgmac_enable(struct bgmac *bgmac)
 	}
 }
 
-/* http://bcm-v4.sipsolutions.net/mac-gbit/gmac/chipinit */
+/* https://bcm-v4.sipsolutions.net/mac-gbit/gmac/chipinit */
 static void bgmac_chip_init(struct bgmac *bgmac)
 {
 	/* Clear any erroneously pending interrupts */

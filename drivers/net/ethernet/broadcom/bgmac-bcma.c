@@ -108,7 +108,7 @@ static const struct bcma_device_id bgmac_bcma_tbl[] = {
 };
 MODULE_DEVICE_TABLE(bcma, bgmac_bcma_tbl);
 
-/* http://bcm-v4.sipsolutions.net/mac-gbit/gmac/chipattach */
+/* https://bcm-v4.sipsolutions.net/mac-gbit/gmac/chipattach */
 static int bgmac_probe(struct bcma_device *core)
 {
 	struct bcma_chipinfo *ci = &core->bus->chipinfo;

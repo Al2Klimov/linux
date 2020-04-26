@@ -1575,7 +1575,7 @@ static void b43_phy_initb5(struct b43_wldev *dev)
 	b43_write16(dev, 0x03E4, (b43_read16(dev, 0x03E4) & 0xFFC0) | 0x0004);
 }
 
-/* http://bcm-v4.sipsolutions.net/802.11/PHY/Init/B6 */
+/* https://bcm-v4.sipsolutions.net/802.11/PHY/Init/B6 */
 static void b43_phy_initb6(struct b43_wldev *dev)
 {
 	struct b43_phy *phy = &dev->phy;
