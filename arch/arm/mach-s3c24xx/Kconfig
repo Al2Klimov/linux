@@ -189,7 +189,7 @@ config MACH_AML_M5900
 	select S3C_DEV_USB_HOST
 	help
 	  Say Y here if you are using the American Microsystems M5900 Series
-	  <http://www.amltd.com>
+	  <https://www.amltd.com>
 
 config ARCH_BAST
 	bool "Simtec Electronics BAST (EB2410ITX)"
