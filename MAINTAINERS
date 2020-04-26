@@ -15759,7 +15759,7 @@ M:	Liam Girdwood <lgirdwood@gmail.com>
 M:	Mark Brown <broonie@kernel.org>
 L:	alsa-devel@alsa-project.org (moderated for non-subscribers)
 S:	Supported
-W:	http://alsa-project.org/main/index.php/ASoC
+W:	https://alsa-project.org/main/index.php/ASoC
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/broonie/sound.git
 F:	Documentation/devicetree/bindings/sound/
 F:	Documentation/sound/soc/
