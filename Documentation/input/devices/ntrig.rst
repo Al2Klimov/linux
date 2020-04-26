@@ -127,7 +127,7 @@ Calibration
 The N-Trig windows tools provide calibration and testing routines.  Also an
 unofficial unsupported set of user space tools including a calibrator is
 available at:
-http://code.launchpad.net/~rafi-seas/+junk/ntrig_calib
+https://code.launchpad.net/~rafi-seas/+junk/ntrig_calib
 
 
 Tracking
