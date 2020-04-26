@@ -2337,7 +2337,7 @@ lot of {Linux} into your technology!!!"
 ,year="2009"
 ,day="1"
 ,note="Available:
-\url{http://paulmck.livejournal.com/14639.html}
+\url{https://paulmck.livejournal.com/14639.html}
 [Viewed June 4, 2010]"
 ,annotation={
 	Day-one bug in Tree RCU that took forever to track down.
