@@ -228,7 +228,7 @@ M:	Latchesar Ionkov <lucho@ionkov.net>
 M:	Dominique Martinet <asmadeus@codewreck.org>
 L:	v9fs-developer@lists.sourceforge.net
 S:	Maintained
-W:	http://swik.net/v9fs
+W:	https://swik.net/v9fs
 Q:	https://patchwork.kernel.org/project/v9fs-devel/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/ericvh/v9fs.git
 T:	git git://github.com/martinetd/linux.git
