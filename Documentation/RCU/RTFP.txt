@@ -2375,7 +2375,7 @@ lot of {Linux} into your technology!!!"
 ,Title="User-Level Implementations of Read-Copy Update"
 ,month="December"
 ,year="2010"
-,url={\url{http://www.computer.org/csdl/trans/td/2012/02/ttd2012020375-abs.html}}
+,url={\url{https://www.computer.org/csdl/trans/td/2012/02/ttd2012020375-abs.html}}
 ,annotation={
 	RCU overview, desiderata, semi-formal semantics, user-level RCU
 	usage scenarios, three classes of RCU implementation, wait-free
@@ -2663,7 +2663,7 @@ lot of {Linux} into your technology!!!"
 	RCU updates, RCU grace-period batching, update overhead,
 	http://www.rdrop.com/users/paulmck/RCU/urcu-main-accepted.2011.08.30a.pdf
 	http://www.rdrop.com/users/paulmck/RCU/urcu-supp-accepted.2011.08.30a.pdf
-	http://www.computer.org/cms/Computer.org/dl/trans/td/2012/02/extras/ttd2012020375s.pdf
+	https://www.computer.org/cms/Computer.org/dl/trans/td/2012/02/extras/ttd2012020375s.pdf
 }
 }
 
