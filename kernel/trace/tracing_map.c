@@ -7,8 +7,8 @@
  * tracing_map implementation inspired by lock-free map algorithms
  * originated by Dr. Cliff Click:
  *
- * http://www.azulsystems.com/blog/cliff/2007-03-26-non-blocking-hashtable
- * http://www.azulsystems.com/events/javaone_2007/2007_LockFreeHash.pdf
+ * https://www.azulsystems.com/blog/cliff/2007-03-26-non-blocking-hashtable
+ * https://www.azulsystems.com/events/javaone_2007/2007_LockFreeHash.pdf
  */
 
 #include <linux/vmalloc.h>
