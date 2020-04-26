@@ -635,7 +635,7 @@ A partial list of the supported mount options follows:
 		descriptor (ACL).
   mfsymlinks
 		Enable support for Minshall+French symlinks
-		(see http://wiki.samba.org/index.php/UNIX_Extensions#Minshall.2BFrench_symlinks)
+		(see https://wiki.samba.org/index.php/UNIX_Extensions#Minshall.2BFrench_symlinks)
 		This option is ignored when specified together with the
 		'sfu' option. Minshall+French symlinks are used even if
 		the server supports the CIFS Unix Extensions.
