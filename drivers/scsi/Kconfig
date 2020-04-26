@@ -710,7 +710,7 @@ config SCSI_IPS
 	depends on PCI && SCSI
 	---help---
 	  This is support for the IBM ServeRAID hardware RAID controllers.
-	  See <http://www.developer.ibm.com/welcome/netfinity/serveraid.html>
+	  See <https://www.developer.ibm.com/welcome/netfinity/serveraid.html>
 	  and <http://www-947.ibm.com/support/entry/portal/docdisplay?brand=5000008&lndocid=SERV-RAID>
 	  for more information.  If this driver does not work correctly
 	  without modification please contact the author by email at
