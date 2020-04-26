@@ -37,7 +37,7 @@ You may also like to tell ``gpg`` which ``tty`` to use (add to your shell rc fil
 Creating commit links to lore.kernel.org
 ----------------------------------------
 
-The web site http://lore.kernel.org is meant as a grand archive of all mail
+The web site https://lore.kernel.org is meant as a grand archive of all mail
 list traffic concerning or influencing the kernel development. Storing archives
 of patches here is a recommended practice, and when a maintainer applies a
 patch to a subsystem tree, it is a good idea to provide a Link: tag with a
