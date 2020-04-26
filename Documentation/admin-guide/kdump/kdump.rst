@@ -78,7 +78,7 @@ There is also a gitweb interface available at
 http://www.kernel.org/git/?p=utils/kernel/kexec/kexec-tools.git
 
 More information about kexec-tools can be found at
-http://horms.net/projects/kexec/
+https://horms.net/projects/kexec/
 
 3) Unpack the tarball with the tar command, as follows::
 
