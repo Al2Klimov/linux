@@ -894,7 +894,7 @@ S: USA
 
 N: Matt Domsch
 E: Matt_Domsch@dell.com
-W: http://www.dell.com/linux
+W: https://www.dell.com/linux
 W: https://domsch.com/linux
 D: Linux/IA-64
 D: Dell PowerEdge server, SCSI layer, misc drivers, and other patches
