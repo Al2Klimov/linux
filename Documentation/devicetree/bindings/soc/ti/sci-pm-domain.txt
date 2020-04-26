@@ -53,7 +53,7 @@ Required Properties:
 - power-domains: phandle pointing to the corresponding PM domain node
 		 and an ID representing the device.
 
-See http://processors.wiki.ti.com/index.php/TISCI#66AK2G02_Data for the list
+See https://processors.wiki.ti.com/index.php/TISCI#66AK2G02_Data for the list
 of valid identifiers for k2g.
 
 Example (K2G):

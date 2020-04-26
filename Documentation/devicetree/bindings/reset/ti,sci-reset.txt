@@ -36,7 +36,7 @@ Required properties:
 		  contain the reset mask value used by system controller.
 		  Please refer to the protocol documentation for these values
 		  to be used for different devices,
-		  http://processors.wiki.ti.com/index.php/TISCI#66AK2G02_Data
+		  https://processors.wiki.ti.com/index.php/TISCI#66AK2G02_Data
 
 Please also refer to Documentation/devicetree/bindings/reset/reset.txt for
 common reset controller usage by consumers.
