@@ -1,6 +1,6 @@
 * Melexis MLX90614 contactless IR temperature sensor
 
-http://melexis.com/Infrared-Thermometer-Sensors/Infrared-Thermometer-Sensors/MLX90614-615.aspx
+https://www.melexis.com/Infrared-Thermometer-Sensors/Infrared-Thermometer-Sensors/MLX90614-615.aspx
 
 Required properties:
 
