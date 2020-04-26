@@ -594,7 +594,7 @@ quirks) as the system resume path for the hub.
 
 .. [#f1]
 
-  http://dl.dropbox.com/u/96820575/sarah-sharp-lpt-port-power-off2-mini.pdf
+  https://dl.dropbox.com/u/96820575/sarah-sharp-lpt-port-power-off2-mini.pdf
 
 .. [#f2]
 
