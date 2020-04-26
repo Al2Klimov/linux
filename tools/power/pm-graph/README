@@ -72,7 +72,7 @@
 
     The tools can most easily be installed via git clone and make install
 
-    $> git clone http://github.com/intel/pm-graph.git
+    $> git clone https://github.com/intel/pm-graph.git
     $> cd pm-graph
     $> sudo make install
     $> man sleepgraph ; man bootgraph

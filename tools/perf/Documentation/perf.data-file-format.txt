@@ -604,5 +604,5 @@ in pmu-tools parser. This allows to read perf.data from python and dump it.
 quipper
 
 The quipper C++ parser is available at
-http://github.com/google/perf_data_converter/tree/master/src/quipper
+https://github.com/google/perf_data_converter/tree/master/src/quipper
 

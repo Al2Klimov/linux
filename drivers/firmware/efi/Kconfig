@@ -17,7 +17,7 @@ config EFI_VARS
 	  <http://linux.dell.com/efibootmgr/testing/efibootmgr-0.5.0-test3.tar.gz>
 
 	  Subsequent efibootmgr releases may be found at:
-	  <http://github.com/vathpela/efibootmgr>
+	  <https://github.com/vathpela/efibootmgr>
 
 config EFI_ESRT
 	bool

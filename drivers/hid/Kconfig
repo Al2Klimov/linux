@@ -1076,7 +1076,7 @@ config HID_WIIMOTE
 
 	Support for all official Nintendo extensions is available, however, 3rd
 	party extensions might not be supported. Please report these devices to:
-	  http://github.com/dvdhrm/xwiimote/issues
+	  https://github.com/dvdhrm/xwiimote/issues
 
 	Other Nintendo Wii U peripherals that are IEEE 802.11 based (including
 	the Wii U Gamepad) might be supported in the future. But currently

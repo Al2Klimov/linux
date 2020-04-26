@@ -5872,7 +5872,7 @@ M:	Michael Krufky <mkrufky@linuxtv.org>
 L:	linux-media@vger.kernel.org
 S:	Maintained
 W:	https://linuxtv.org
-W:	http://github.com/mkrufky
+W:	https://github.com/mkrufky
 Q:	http://patchwork.linuxtv.org/project/linux-media/list/
 T:	git git://linuxtv.org/media_tree.git
 F:	drivers/media/usb/dvb-usb/cxusb*
@@ -5901,7 +5901,7 @@ M:	Michael Krufky <mkrufky@linuxtv.org>
 L:	linux-media@vger.kernel.org
 S:	Maintained
 W:	https://linuxtv.org
-W:	http://github.com/mkrufky
+W:	https://github.com/mkrufky
 Q:	http://patchwork.linuxtv.org/project/linux-media/list/
 T:	git git://linuxtv.org/mkrufky/mxl111sf.git
 F:	drivers/media/usb/dvb-usb-v2/mxl111sf*
@@ -9579,7 +9579,7 @@ M:	Michael Krufky <mkrufky@linuxtv.org>
 L:	linux-media@vger.kernel.org
 S:	Maintained
 W:	https://linuxtv.org
-W:	http://github.com/mkrufky
+W:	https://github.com/mkrufky
 Q:	http://patchwork.linuxtv.org/project/linux-media/list/
 T:	git git://linuxtv.org/mkrufky/tuners.git
 F:	drivers/media/dvb-frontends/lg2160.*
@@ -9589,7 +9589,7 @@ M:	Michael Krufky <mkrufky@linuxtv.org>
 L:	linux-media@vger.kernel.org
 S:	Maintained
 W:	https://linuxtv.org
-W:	http://github.com/mkrufky
+W:	https://github.com/mkrufky
 Q:	http://patchwork.linuxtv.org/project/linux-media/list/
 T:	git git://linuxtv.org/mkrufky/tuners.git
 F:	drivers/media/dvb-frontends/lgdt3305.*
@@ -11562,7 +11562,7 @@ M:	Michael Krufky <mkrufky@linuxtv.org>
 L:	linux-media@vger.kernel.org
 S:	Maintained
 W:	https://linuxtv.org
-W:	http://github.com/mkrufky
+W:	https://github.com/mkrufky
 Q:	http://patchwork.linuxtv.org/project/linux-media/list/
 T:	git git://linuxtv.org/mkrufky/tuners.git
 F:	drivers/media/tuners/mxl5007t.*
@@ -16432,7 +16432,7 @@ M:	Michael Krufky <mkrufky@linuxtv.org>
 L:	linux-media@vger.kernel.org
 S:	Maintained
 W:	https://linuxtv.org
-W:	http://github.com/mkrufky
+W:	https://github.com/mkrufky
 Q:	http://patchwork.linuxtv.org/project/linux-media/list/
 T:	git git://linuxtv.org/mkrufky/tuners.git
 F:	drivers/media/tuners/tda18271*
@@ -16450,7 +16450,7 @@ M:	Michael Krufky <mkrufky@linuxtv.org>
 L:	linux-media@vger.kernel.org
 S:	Maintained
 W:	https://linuxtv.org
-W:	http://github.com/mkrufky
+W:	https://github.com/mkrufky
 Q:	http://patchwork.linuxtv.org/project/linux-media/list/
 T:	git git://linuxtv.org/mkrufky/tuners.git
 F:	drivers/media/tuners/tda8290.*
@@ -16460,7 +16460,7 @@ M:	Michael Krufky <mkrufky@linuxtv.org>
 L:	linux-media@vger.kernel.org
 S:	Maintained
 W:	https://linuxtv.org
-W:	http://github.com/mkrufky
+W:	https://github.com/mkrufky
 Q:	http://patchwork.linuxtv.org/project/linux-media/list/
 T:	git git://linuxtv.org/mkrufky/tuners.git
 F:	drivers/media/tuners/tda8290.*

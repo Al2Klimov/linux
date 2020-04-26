@@ -4,7 +4,7 @@
  *
  *  Copyright (C) 2010 Ed Spiridonov <edo.rus@gmail.com>
  *   Based on VIA/WonderMedia wm8510-govrh-reg.h
- *   http://github.com/projectgus/kernel_wm8505/blob/wm8505_2.6.29/
+ *   https://github.com/projectgus/kernel_wm8505/blob/wm8505_2.6.29/
  *         drivers/video/wmt/register/wm8510/wm8510-govrh-reg.h
  */
 
