@@ -4,7 +4,7 @@ This binding specifies what properties available in the device tree
 representation of a Nios II Processor Core.
 
 Users can use sopc2dts tool for generating device tree sources (dts) from a
-Qsys system. See more detail in: http://www.alterawiki.com/wiki/Sopc2dts
+Qsys system. See more detail in: https://www.alterawiki.com/wiki/Sopc2dts
 
 Required properties:
 
