@@ -219,7 +219,7 @@ use the PM_TRACE mechanism documented in Documentation/power/s2ram.rst .
 
 To verify that the STR works, it is generally more convenient to use the s2ram
 tool available from http://suspend.sf.net and documented at
-http://en.opensuse.org/SDB:Suspend_to_RAM (S2RAM_LINK).
+https://en.opensuse.org/SDB:Suspend_to_RAM (S2RAM_LINK).
 
 Namely, after writing "freezer", "devices", "platform", "processors", or "core"
 into /sys/power/pm_test (available if the kernel is compiled with
