@@ -1523,7 +1523,7 @@
 #define BRAINBOXES_US_160_8_PID		0x9008 /* US-160 16xRS232 1Mbaud Port 15 and 16 */
 
 /*
- * ekey biometric systems GmbH (http://ekey.net/)
+ * ekey biometric systems GmbH (https://www.ekey.net/)
  */
 #define FTDI_EKEY_CONV_USB_PID		0xCB08	/* Converter USB */
 
