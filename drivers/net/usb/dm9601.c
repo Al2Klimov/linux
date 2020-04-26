@@ -23,7 +23,7 @@
 #include <linux/slab.h>
 
 /* datasheet:
- http://ptm2.cc.utu.fi/ftp/network/cards/DM9601/From_NET/DM9601-DS-P01-930914.pdf
+ https://ptm2.cc.utu.fi/ftp/network/cards/DM9601/From_NET/DM9601-DS-P01-930914.pdf
 */
 
 /* control requests */
