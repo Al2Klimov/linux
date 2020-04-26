@@ -204,7 +204,7 @@ static inline unsigned long ___pa(unsigned long x)
  * (lmo) rsp. 8431fd094d625b94d364fe393076ccef88e6ce18 (kernel.org).  The
  * discussion can be found in lkml posting
  * <a2ebde260608230500o3407b108hc03debb9da6e62c@mail.gmail.com> which is
- * archived at http://lists.linuxcoding.com/kernel/2006-q3/msg17360.html
+ * archived at https://lists.linuxcoding.com/kernel/2006-q3/msg17360.html
  *
  * It is unclear if the misscompilations mentioned in
  * http://lkml.org/lkml/2010/8/8/138 also affect MIPS so we keep this one
