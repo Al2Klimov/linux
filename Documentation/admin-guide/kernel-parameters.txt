@@ -3494,7 +3494,7 @@
 				the function, IO port 0xCFA, also 8-bit, sets
 				bus number. The config space is then accessed
 				through ports 0xC000-0xCFFF).
-				See http://wiki.osdev.org/PCI for more info
+				See https://wiki.osdev.org/PCI for more info
 				on the configuration access mechanisms.
 		noaer		[PCIE] If the PCIEAER kernel config parameter is
 				enabled, this kernel boot option can be used to
