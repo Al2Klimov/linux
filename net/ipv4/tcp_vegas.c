@@ -9,7 +9,7 @@
  *    October 1995. Available from:
  *	ftp://ftp.cs.arizona.edu/xkernel/Papers/jsac.ps
  *
- * See http://www.cs.arizona.edu/xkernel/ for their implementation.
+ * See https://www.cs.arizona.edu/xkernel/ for their implementation.
  * The main aspects that distinguish this implementation from the
  * Arizona Vegas implementation are:
  *   o We do not change the loss detection or recovery mechanisms of
