@@ -479,7 +479,7 @@ config TCP_CONG_BIC
 	  increment ensures linear RTT fairness as well as good
 	  scalability. Under small congestion windows, binary search
 	  increase provides TCP friendliness.
-	  See http://www.csc.ncsu.edu/faculty/rhee/export/bitcp/
+	  See https://www.csc.ncsu.edu/faculty/rhee/export/bitcp/
 
 config TCP_CONG_CUBIC
 	tristate "CUBIC TCP"
@@ -487,7 +487,7 @@ config TCP_CONG_CUBIC
 	---help---
 	  This is version 2.0 of BIC-TCP which uses a cubic growth function
 	  among other techniques.
-	  See http://www.csc.ncsu.edu/faculty/rhee/export/bitcp/cubic-paper.pdf
+	  See https://www.csc.ncsu.edu/faculty/rhee/export/bitcp/cubic-paper.pdf
 
 config TCP_CONG_WESTWOOD
 	tristate "TCP Westwood+"
