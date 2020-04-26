@@ -13,10 +13,10 @@ description: |
   Atlas Scientific OEM sensors connected via I2C
 
   Datasheets:
-    http://www.atlas-scientific.com/_files/_datasheets/_oem/DO_oem_datasheet.pdf
-    http://www.atlas-scientific.com/_files/_datasheets/_oem/EC_oem_datasheet.pdf
-    http://www.atlas-scientific.com/_files/_datasheets/_oem/ORP_oem_datasheet.pdf
-    http://www.atlas-scientific.com/_files/_datasheets/_oem/pH_oem_datasheet.pdf
+    https://www.atlas-scientific.com/_files/_datasheets/_oem/DO_oem_datasheet.pdf
+    https://www.atlas-scientific.com/_files/_datasheets/_oem/EC_oem_datasheet.pdf
+    https://www.atlas-scientific.com/_files/_datasheets/_oem/ORP_oem_datasheet.pdf
+    https://www.atlas-scientific.com/_files/_datasheets/_oem/pH_oem_datasheet.pdf
 
 properties:
   compatible:
