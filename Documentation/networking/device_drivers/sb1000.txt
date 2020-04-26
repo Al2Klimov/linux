@@ -28,7 +28,7 @@ cable modem easy.
    the sb1000 driver can be found at:
 
       http://web.archive.org/web/*/https://home.adelphia.net/~siglercm/sb1000.html
-      http://web.archive.org/web/*/http://linuxpower.cx/~cable/
+      http://web.archive.org/web/*/https://linuxpower.cx/~cable/
 
    along with these utilities.
 

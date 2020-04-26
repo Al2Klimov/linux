@@ -467,7 +467,7 @@ config NET_SB1000
 
 	  <http://www.jacksonville.net/~fventuri/>
 	  <https://home.adelphia.net/~siglercm/sb1000.html>
-	  <http://linuxpower.cx/~cable/>
+	  <https://linuxpower.cx/~cable/>
 
 	  If you don't have this card, of course say N.
 
