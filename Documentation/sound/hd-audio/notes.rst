@@ -818,7 +818,7 @@ proc-compatible output.
 
 The hda-analyzer:
 
-* http://git.alsa-project.org/?p=alsa.git;a=tree;f=hda-analyzer
+* https://git.alsa-project.org/?p=alsa.git;a=tree;f=hda-analyzer
 
 is a part of alsa.git repository in alsa-project.org:
 
