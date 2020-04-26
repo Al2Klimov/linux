@@ -20,7 +20,7 @@ TCI6636K2H & TCI6636K2K: See documentation at
 	http://www.ti.com/product/tci6638k2h
 
 EVM:
-  http://www.advantech.com/Support/TI-EVM/EVMK2HX_sd.aspx
+  https://www.advantech.com/Support/TI-EVM/EVMK2HX_sd.aspx
 
 K2E SoC and EVM
 ===============
