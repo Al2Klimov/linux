@@ -18,7 +18,7 @@ volume of traffic have their own specific mailing lists.
 The netdev list is managed (like many other Linux mailing lists) through
 VGER (http://vger.kernel.org/) and archives can be found below:
 
--  http://marc.info/?l=linux-netdev
+-  https://marc.info/?l=linux-netdev
 -  http://www.spinics.net/lists/netdev/
 
 Aside from subsystems like that mentioned above, all network-related

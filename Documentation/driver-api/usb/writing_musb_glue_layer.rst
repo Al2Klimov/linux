@@ -709,7 +709,7 @@ Resources
 
 USB Home Page: http://www.usb.org
 
-linux-usb Mailing List Archives: http://marc.info/?l=linux-usb
+linux-usb Mailing List Archives: https://marc.info/?l=linux-usb
 
 USB On-the-Go Basics:
 http://www.maximintegrated.com/app-notes/index.mvp/id/1822

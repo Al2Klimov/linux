@@ -88,4 +88,4 @@ Active MM
  and register state is separate, the alpha PALcode joins the two, and you
  need to switch both together).
 
- (From http://marc.info/?l=linux-kernel&m=93337278602211&w=2)
+ (From https://marc.info/?l=linux-kernel&m=93337278602211&w=2)

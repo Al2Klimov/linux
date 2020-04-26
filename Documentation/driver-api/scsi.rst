@@ -171,7 +171,7 @@ drivers/scsi/scsi_netlink.c
 Infrastructure to provide async events from transports to userspace via
 netlink, using a single NETLINK_SCSITRANSPORT protocol for all
 transports. See `the original patch
-submission <http://marc.info/?l=linux-scsi&m=115507374832500&w=2>`__ for
+submission <https://marc.info/?l=linux-scsi&m=115507374832500&w=2>`__ for
 more details.
 
 .. kernel-doc:: drivers/scsi/scsi_netlink.c
