@@ -501,7 +501,7 @@ Standards
 =========
 
 IEEE Standard 802.3: CSMA/CD Access Method and Physical Layer Specifications, Section Two:
-http://standards.ieee.org/getieee802/download/802.3-2008_section2.pdf
+https://standards.ieee.org/getieee802/download/802.3-2008_section2.pdf
 
 RGMII v1.3:
 http://web.archive.org/web/20160303212629/http://www.hp.com/rnd/pdfs/RGMIIv1_3.pdf
