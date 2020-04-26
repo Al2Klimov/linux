@@ -6,7 +6,7 @@ This readme tries to provide some background on the hows and whys of RDS,
 and will hopefully help you find your way around the code.
 
 In addition, please see this email about RDS origins:
-http://oss.oracle.com/pipermail/rds-devel/2007-November/000228.html
+https://oss.oracle.com/pipermail/rds-devel/2007-November/000228.html
 
 RDS Architecture
 ================
