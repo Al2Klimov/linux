@@ -584,7 +584,7 @@ static inline void tlb_end_vma(struct mmu_gather *tlb, struct vm_area_struct *vm
  * So if we ever find an architecture
  * that would want something that odd, I think it is up to that
  * architecture to do its own odd thing, not cause pain for others
- * http://lkml.kernel.org/r/CA+55aFzBggoXtNXQeng5d_mRoDnaMBE5Y+URs+PHR67nUpMtaw@mail.gmail.com
+ * https://lkml.kernel.org/r/CA+55aFzBggoXtNXQeng5d_mRoDnaMBE5Y+URs+PHR67nUpMtaw@mail.gmail.com
  *
  * For now w.r.t page table cache, mark the range_size as PAGE_SIZE
  */

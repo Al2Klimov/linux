@@ -195,7 +195,7 @@ __raw_writesx(32, l)
  *	<readl MMIO "status" reg>
  *	<LD [DMA buffer]>
  *
- * http://lkml.kernel.org/r/20150622133656.GG1583@arm.com
+ * https://lkml.kernel.org/r/20150622133656.GG1583@arm.com
  */
 #define readb(c)		({ u8  __v = readb_relaxed(c); __iormb(); __v; })
 #define readw(c)		({ u16 __v = readw_relaxed(c); __iormb(); __v; })
@@ -218,7 +218,7 @@ __raw_writesx(32, l)
  * To provide the typical device register semantics of fixed endian,
  * swap the byte order for Big Endian
  *
- * http://lkml.kernel.org/r/201603100845.30602.arnd@arndb.de
+ * https://lkml.kernel.org/r/201603100845.30602.arnd@arndb.de
  */
 #define readb_relaxed(c)	__raw_readb(c)
 #define readw_relaxed(c) ({ u16 __r = le16_to_cpu((__force __le16) \

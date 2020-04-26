@@ -3815,7 +3815,7 @@ static const struct ata_blacklist_entry ata_device_blacklist [] = {
 
 	/*
 	 * Causes silent data corruption with higher max sects.
-	 * http://lkml.kernel.org/g/x49wpy40ysk.fsf@segfault.boston.devel.redhat.com
+	 * https://lkml.kernel.org/g/x49wpy40ysk.fsf@segfault.boston.devel.redhat.com
 	 */
 	{ "ST380013AS",		"3.20",		ATA_HORKAGE_MAX_SEC_1024 },
 
