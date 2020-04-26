@@ -1199,7 +1199,7 @@ static int r820t_read_gain(struct r820t_priv *priv)
 /*
  * measured with a Racal 6103E GSM test set at 928 MHz with -60 dBm
  * input power, for raw results see:
- *	http://steve-m.de/projects/rtl-sdr/gain_measurement/r820t/
+ *	https://steve-m.de/projects/rtl-sdr/gain_measurement/r820t/
  */
 
 static const int r820t_lna_gain_steps[]  = {
