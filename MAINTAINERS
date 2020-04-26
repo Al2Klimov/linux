@@ -14490,7 +14490,7 @@ F:	drivers/net/ethernet/rocker/
 
 ROCKETPORT DRIVER
 S:	Maintained
-W:	http://www.comtrol.com
+W:	https://www.comtrol.com
 F:	Documentation/driver-api/serial/rocket.rst
 F:	drivers/tty/rocket*
 

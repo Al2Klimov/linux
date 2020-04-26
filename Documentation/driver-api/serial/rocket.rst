@@ -41,7 +41,7 @@ board4:
 	I/O port for the fourth ISA board
 
 There is a set of utilities and scripts provided with the external driver
-(downloadable from http://www.comtrol.com) that ease the configuration and
+(downloadable from https://www.comtrol.com) that ease the configuration and
 setup of the ISA cards.
 
 The RocketModem II PCI boards require firmware to be loaded into the card
@@ -181,5 +181,5 @@ Comtrol Europe:
     :FAX: +44 (0) 1 869 323-211
     :email: support@comtrol.co.uk
 
-Web:	http://www.comtrol.com
+Web:	https://www.comtrol.com
 FTP:	ftp.comtrol.com
