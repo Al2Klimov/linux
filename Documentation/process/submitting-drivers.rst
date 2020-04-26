@@ -155,7 +155,7 @@ Linux kernel master tree:
 	where *country_code* == your country code, such as
 	**us**, **uk**, **fr**, etc.
 
-	http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git
+	https://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git
 
 Linux kernel mailing list:
 	linux-kernel@vger.kernel.org

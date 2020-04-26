@@ -2,7 +2,7 @@
 /*
  * Glibc independent futex library for testing kernel functionality.
  * Shamelessly stolen from Darren Hart <dvhltc@us.ibm.com>
- *    http://git.kernel.org/cgit/linux/kernel/git/dvhart/futextest.git/
+ *    https://git.kernel.org/cgit/linux/kernel/git/dvhart/futextest.git/
  */
 
 #ifndef _FUTEX_H

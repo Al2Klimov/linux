@@ -46,7 +46,7 @@ Tested platforms
 
 - Tested on mainline kernel:
 
-	http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=summary
+	https://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=summary
 
   Tag: v3.3 (commit c16fa4f2ad19908a47c63d8fa436a1178438c7e7)
 
