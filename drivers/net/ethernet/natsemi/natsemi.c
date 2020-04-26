@@ -223,7 +223,7 @@ None characterised.
 /*
  * Support for fibre connections on Am79C874:
  * This phy needs a special setup when connected to a fibre cable.
- * http://www.amd.com/files/connectivitysolutions/networking/archivednetworking/22235.pdf
+ * https://www.amd.com/files/connectivitysolutions/networking/archivednetworking/22235.pdf
  */
 #define PHYID_AM79C874	0x0022561b
 

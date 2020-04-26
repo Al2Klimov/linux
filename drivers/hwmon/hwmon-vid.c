@@ -32,15 +32,15 @@
  * This corresponds to an arbitrary VRM code of 24 in the functions below.
  * These CPU models (K8 revision <= E) have 5 VID pins. See also:
  * Revision Guide for AMD Athlon 64 and AMD Opteron Processors, AMD Publication 25759,
- * http://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/25759.pdf
+ * https://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/25759.pdf
  *
  * AMD NPT Family 0Fh Processors, AMD Publication 32559,
- * http://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/32559.pdf
+ * https://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/32559.pdf
  * Table 71. VID Code Voltages
  * This corresponds to an arbitrary VRM code of 25 in the functions below.
  * These CPU models (K8 revision >= F) have 6 VID pins. See also:
  * Revision Guide for AMD NPT Family 0Fh Processors, AMD Publication 33610,
- * http://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/33610.pdf
+ * https://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/33610.pdf
  *
  * The 17 specification is in fact Intel Mobile Voltage Positioning -
  * (IMVP-II). You can find more information in the datasheet of Max1718
