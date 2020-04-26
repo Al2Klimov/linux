@@ -95,7 +95,7 @@ use the Media Controller (see :ref:`media_controller`) which can be
 used for this purpose. But most drivers do not use it, and while some
 code exists that uses sysfs to discover related devices (see
 libmedia_dev in the
-`v4l-utils <http://git.linuxtv.org/cgit.cgi/v4l-utils.git/>`__ git
+`v4l-utils <https://git.linuxtv.org/cgit.cgi/v4l-utils.git/>`__ git
 repository), there is no library yet that can provide a single API
 towards both Media Controller-based devices and devices that do not use
 the Media Controller. If you want to work on this please write to the
