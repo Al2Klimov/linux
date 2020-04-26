@@ -21,7 +21,7 @@ config HOSTAP
 	Host AP mode that allows the card to act as an IEEE 802.11
 	access point.
 
-	See <http://hostap.epitest.fi/> for more information about the
+	See <https://hostap.epitest.fi/> for more information about the
 	Host AP driver configuration and tools. This site includes
 	information and tools (hostapd and wpa_supplicant) for WPA/WPA2
 	support.
@@ -44,7 +44,7 @@ config HOSTAP_FIRMWARE
 	DWL-520 rev E and D-Link DWL-650 rev P.
 
 	Firmware image downloading needs a user space tool, prism2_srec.
-	It is available from http://hostap.epitest.fi/.
+	It is available from https://hostap.epitest.fi/.
 
 config HOSTAP_FIRMWARE_NVRAM
 	bool "Support for non-volatile firmware download"
@@ -56,7 +56,7 @@ config HOSTAP_FIRMWARE_NVRAM
 	permanently.
 
 	Firmware image downloading needs a user space tool, prism2_srec.
-	It is available from http://hostap.epitest.fi/.
+	It is available from https://hostap.epitest.fi/.
 
 config HOSTAP_PLX
 	tristate "Host AP driver for Prism2/2.5/3 in PLX9052 PCI adaptors"
