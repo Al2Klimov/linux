@@ -8,7 +8,7 @@
  *
  * ---------------------------------------------------------------------------
  *  From ARM PrimeCell(tm) PS2 Keyboard/Mouse Interface (PL050) Technical
- *  Reference Manual - ARM DDI 0143B - see http://www.arm.com/
+ *  Reference Manual - ARM DDI 0143B - see https://www.arm.com/
  * ---------------------------------------------------------------------------
  */
 #ifndef ASM_ARM_HARDWARE_AMBA_KMI_H

@@ -5,7 +5,7 @@
 //      and modifications by SBZ <sbz@spgui.org> and
 //      Weibing <http://weibing.blogbus.com>
 //
-// For product information, visit http://www.arm.com/
+// For product information, visit https://www.arm.com/
 
 #include <linux/kernel.h>
 #include <linux/types.h>

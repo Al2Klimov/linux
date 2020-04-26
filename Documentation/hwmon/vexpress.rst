@@ -23,7 +23,7 @@ Author: Pawel Moll
 Description
 -----------
 
-Versatile Express platform (http://www.arm.com/versatileexpress/) is a
+Versatile Express platform (https://www.arm.com/versatileexpress/) is a
 reference & prototyping system for ARM Ltd. processors. It can be set up
 from a wide range of boards, each of them containing (apart of the main
 chip/FPGA) a number of microcontrollers responsible for platform

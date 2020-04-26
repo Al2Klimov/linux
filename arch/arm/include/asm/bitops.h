@@ -139,7 +139,7 @@ ____atomic_test_and_change_bit(unsigned int bit, volatile unsigned long *p)
  *
  * Peripheral devices should be connected with the data bus reversed in
  * "Big Endian" mode.  ARM Application Note 61 is applicable, and is
- * available from http://www.arm.com/.
+ * available from https://www.arm.com/.
  *
  * The following assumes that the data bus connectivity for big endian
  * mode has been followed.
