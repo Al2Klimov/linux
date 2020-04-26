@@ -9,7 +9,7 @@
  * Copyright (c) 2019 Google LLC
  *
  * Updated RFC4106 AES-GCM testing. Some test vectors were taken from
- * http://csrc.nist.gov/groups/ST/toolkit/BCM/documents/proposedmodes/
+ * https://csrc.nist.gov/groups/ST/toolkit/BCM/documents/proposedmodes/
  * gcm/gcm-test-vectors.tar.gz
  *     Authors: Aidan O'Mahony (aidan.o.mahony@intel.com)
  *              Adrian Hoban <adrian.hoban@intel.com>
@@ -6010,7 +6010,7 @@ static const struct hash_testvec des3_ede_cmac64_tv_template[] = {
 /*
  * From NIST Special Publication 800-38B, Three Key TDEA
  * Corrected test vectors from:
- *  http://csrc.nist.gov/publications/nistpubs/800-38B/Updated_CMAC_Examples.pdf
+ *  https://csrc.nist.gov/publications/nistpubs/800-38B/Updated_CMAC_Examples.pdf
  */
 	{
 		.key		= "\x8a\xa8\x3b\xf8\xcb\xda\x10\x62"
@@ -21096,7 +21096,7 @@ static const struct aead_testvec aegis128_tv_template[] = {
 
 /*
  * All key wrapping test vectors taken from
- * http://csrc.nist.gov/groups/STM/cavp/documents/mac/kwtestvectors.zip
+ * https://csrc.nist.gov/groups/STM/cavp/documents/mac/kwtestvectors.zip
  *
  * Note: as documented in keywrap.c, the ivout for encryption is the first
  * semiblock of the ciphertext from the test vector. For decryption, iv is
@@ -21133,7 +21133,7 @@ static const struct cipher_testvec aes_kw_tv_template[] = {
 /*
  * ANSI X9.31 Continuous Pseudo-Random Number Generator (AES mode)
  * test vectors, taken from Appendix B.2.9 and B.2.10:
- *     http://csrc.nist.gov/groups/STM/cavp/documents/rng/RNGVS.pdf
+ *     https://csrc.nist.gov/groups/STM/cavp/documents/rng/RNGVS.pdf
  * Only AES-128 is supported at this time.
  */
 static const struct cprng_testvec ansi_cprng_aes_tv_template[] = {
@@ -21226,7 +21226,7 @@ static const struct cprng_testvec ansi_cprng_aes_tv_template[] = {
 
 /*
  * SP800-90A DRBG Test vectors from
- * http://csrc.nist.gov/groups/STM/cavp/documents/drbg/drbgtestvectors.zip
+ * https://csrc.nist.gov/groups/STM/cavp/documents/drbg/drbgtestvectors.zip
  *
  * Test vectors for DRBG with prediction resistance. All types of DRBGs
  * (Hash, HMAC, CTR) are tested with all permutations of use cases (w/ and
@@ -21666,7 +21666,7 @@ static const struct drbg_testvec drbg_pr_ctr_aes128_tv_template[] = {
 
 /*
  * SP800-90A DRBG Test vectors from
- * http://csrc.nist.gov/groups/STM/cavp/documents/drbg/drbgtestvectors.zip
+ * https://csrc.nist.gov/groups/STM/cavp/documents/drbg/drbgtestvectors.zip
  *
  * Test vectors for DRBG without prediction resistance. All types of DRBGs
  * (Hash, HMAC, CTR) are tested with all permutations of use cases (w/ and

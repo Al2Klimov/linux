@@ -30,7 +30,7 @@
  * Note: DT is our counter value
  *	 I is our intermediate value
  *	 V is our seed vector
- * See http://csrc.nist.gov/groups/STM/cavp/documents/rng/931rngext.pdf
+ * See https://csrc.nist.gov/groups/STM/cavp/documents/rng/931rngext.pdf
  * for implementation details
  */
 

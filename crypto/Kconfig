@@ -534,7 +534,7 @@ config CRYPTO_CMAC
 	  The National Institute of Standards and Technology (NIST).
 
 	  https://tools.ietf.org/html/rfc4493
-	  http://csrc.nist.gov/publications/nistpubs/800-38B/SP_800-38B.pdf
+	  https://csrc.nist.gov/publications/nistpubs/800-38B/SP_800-38B.pdf
 
 config CRYPTO_HMAC
 	tristate "HMAC support"
@@ -551,7 +551,7 @@ config CRYPTO_XCBC
 	help
 	  XCBC: Keyed-Hashing with encryption algorithm
 		http://www.ietf.org/rfc/rfc3566.txt
-		http://csrc.nist.gov/encryption/modes/proposedmodes/
+		https://csrc.nist.gov/encryption/modes/proposedmodes/
 		 xcbc-mac/xcbc-mac-spec.pdf
 
 config CRYPTO_VMAC
@@ -1090,7 +1090,7 @@ config CRYPTO_AES
 
 	  The AES specifies three key sizes: 128, 192 and 256 bits
 
-	  See <http://csrc.nist.gov/CryptoToolkit/aes/> for more information.
+	  See <https://csrc.nist.gov/CryptoToolkit/aes/> for more information.
 
 config CRYPTO_AES_TI
 	tristate "Fixed time AES cipher"
@@ -1137,7 +1137,7 @@ config CRYPTO_AES_NI_INTEL
 
 	  The AES specifies three key sizes: 128, 192 and 256 bits
 
-	  See <http://csrc.nist.gov/encryption/aes/> for more information.
+	  See <https://csrc.nist.gov/encryption/aes/> for more information.
 
 	  In addition to AES cipher algorithm support, the acceleration
 	  for some popular block cipher mode is supported too, including
@@ -1165,7 +1165,7 @@ config CRYPTO_AES_SPARC64
 
 	  The AES specifies three key sizes: 128, 192 and 256 bits
 
-	  See <http://csrc.nist.gov/encryption/aes/> for more information.
+	  See <https://csrc.nist.gov/encryption/aes/> for more information.
 
 	  In addition to AES cipher algorithm support, the acceleration
 	  for some popular block cipher mode is supported too, including

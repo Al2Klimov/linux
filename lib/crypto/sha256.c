@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * SHA-256, as specified in
- * http://csrc.nist.gov/groups/STM/cavp/documents/shs/sha256-384-512.pdf
+ * https://csrc.nist.gov/groups/STM/cavp/documents/shs/sha256-384-512.pdf
  *
  * SHA-256 code by Jean-Luc Cooke <jlcooke@certainkey.com>.
  *
