@@ -844,7 +844,7 @@ config FB_OPENCORES
 	  systems (e.g. Altera socfpga or Xilinx Zynq) on FPGAs.
 
 	  The source code and specification for the core is available at
-	  <http://opencores.org/project,vga_lcd>
+	  <https://opencores.org/project,vga_lcd>
 
 config FB_S1D13XXX
 	tristate "Epson S1D13XXX framebuffer support"
