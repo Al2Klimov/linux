@@ -4161,7 +4161,7 @@ Note:
   wrote the iomem emulation support
 
 
-  Henrik Nordstrom http://hem.passagen.se/hno/  - Provided a variety
+  Henrik Nordstrom https://hem.passagen.se/hno/  - Provided a variety
   of patches, fixes, and clues
 
 
