@@ -4,7 +4,7 @@
  *
  *      Angelo Dell'Aera: author of the first version of TCP Westwood+ in Linux 2.4
  *
- * Support at http://c3lab.poliba.it/index.php/Westwood
+ * Support at https://c3lab.poliba.it/index.php/Westwood
  * Main references in literature:
  *
  * - Mascolo S, Casetti, M. Gerla et al.
