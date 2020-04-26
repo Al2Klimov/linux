@@ -2172,14 +2172,14 @@ ARM/PALM TREO SUPPORT
 M:	Tomas Cech <sleep_walker@suse.com>
 L:	linux-arm-kernel@lists.infradead.org
 S:	Maintained
-W:	http://hackndev.com
+W:	https://hackndev.com
 F:	arch/arm/mach-pxa/palmtreo.*
 
 ARM/PALMTX,PALMT5,PALMLD,PALMTE2,PALMTC SUPPORT
 M:	Marek Vasut <marek.vasut@gmail.com>
 L:	linux-arm-kernel@lists.infradead.org
 S:	Maintained
-W:	http://hackndev.com
+W:	https://hackndev.com
 F:	arch/arm/mach-pxa/include/mach/palmld.h
 F:	arch/arm/mach-pxa/include/mach/palmtc.h
 F:	arch/arm/mach-pxa/include/mach/palmtx.h
@@ -2193,7 +2193,7 @@ ARM/PALMZ72 SUPPORT
 M:	Sergey Lapin <slapin@ossfans.org>
 L:	linux-arm-kernel@lists.infradead.org
 S:	Maintained
-W:	http://hackndev.com
+W:	https://hackndev.com
 F:	arch/arm/mach-pxa/palmz72.*
 
 ARM/PLEB SUPPORT
