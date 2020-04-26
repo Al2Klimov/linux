@@ -12,7 +12,7 @@ also make it attractive for non-clustered use.
 You'll want to install the ocfs2-tools package in order to at least
 get "mount.ocfs2" and "ocfs2_hb_ctl".
 
-Project web page:    http://ocfs2.wiki.kernel.org
+Project web page:    https://ocfs2.wiki.kernel.org
 Tools git tree:      https://github.com/markfasheh/ocfs2-tools
 OCFS2 mailing lists: http://oss.oracle.com/projects/ocfs2/mailman/
 

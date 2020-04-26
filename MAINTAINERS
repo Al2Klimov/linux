@@ -12639,7 +12639,7 @@ M:	Joel Becker <jlbec@evilplan.org>
 M:	Joseph Qi <joseph.qi@linux.alibaba.com>
 L:	ocfs2-devel@oss.oracle.com (moderated for non-subscribers)
 S:	Supported
-W:	http://ocfs2.wiki.kernel.org
+W:	https://ocfs2.wiki.kernel.org
 F:	Documentation/filesystems/dlmfs.rst
 F:	Documentation/filesystems/ocfs2.rst
 F:	fs/ocfs2/
