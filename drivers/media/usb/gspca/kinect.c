@@ -5,7 +5,7 @@
  * Copyright (C) 2011  Antonio Ospite <ospite@studenti.unina.it>
  *
  * Based on the OpenKinect project and libfreenect
- * http://openkinect.org/wiki/Init_Analysis
+ * https://openkinect.org/wiki/Init_Analysis
  *
  * Special thanks to Steven Toth and kernellabs.com for sponsoring a Kinect
  * sensor device which I tested the driver on.
