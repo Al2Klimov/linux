@@ -40,7 +40,7 @@ For remote file server::
 
 	mount -t 9p 10.10.1.2 /mnt/9
 
-For Plan 9 From User Space applications (http://swtch.com/plan9)::
+For Plan 9 From User Space applications (https://swtch.com/plan9)::
 
 	mount -t 9p `namespace`/acme /mnt/9 -o trans=unix,uname=$USER
 
@@ -192,4 +192,4 @@ For more information on the Plan 9 Operating System check out
 http://plan9.bell-labs.com/plan9
 
 For information on Plan 9 from User Space (Plan 9 applications and libraries
-ported to Linux/BSD/OSX/etc) check out http://swtch.com/plan9
+ported to Linux/BSD/OSX/etc) check out https://swtch.com/plan9
