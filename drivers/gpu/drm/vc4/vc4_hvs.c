@@ -120,7 +120,7 @@ static int vc4_hvs_debugfs_underrun(struct seq_file *m, void *data)
 #define VC4_KERNEL_DWORDS (VC4_LINEAR_PHASE_KERNEL_DWORDS * 2 - 1)
 
 /* Recommended B=1/3, C=1/3 filter choice from Mitchell/Netravali.
- * http://www.cs.utexas.edu/~fussell/courses/cs384g/lectures/mitchell/Mitchell.pdf
+ * https://www.cs.utexas.edu/~fussell/courses/cs384g/lectures/mitchell/Mitchell.pdf
  */
 static const u32 mitchell_netravali_1_3_1_3_kernel[] =
 	VC4_LINEAR_PHASE_KERNEL(0, -2, -6, -8, -10, -8, -3, 2, 18,
