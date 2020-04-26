@@ -115,11 +115,11 @@ Supporting Documents
 ACPI 6:
 	http://www.uefi.org/sites/default/files/resources/ACPI_6.0.pdf
 NVDIMM Namespace:
-	http://pmem.io/documents/NVDIMM_Namespace_Spec.pdf
+	https://pmem.io/documents/NVDIMM_Namespace_Spec.pdf
 DSM Interface Example:
-	http://pmem.io/documents/NVDIMM_DSM_Interface_Example.pdf
+	https://pmem.io/documents/NVDIMM_DSM_Interface_Example.pdf
 Driver Writer's Guide:
-	http://pmem.io/documents/NVDIMM_Driver_Writers_Guide.pdf
+	https://pmem.io/documents/NVDIMM_Driver_Writers_Guide.pdf
 
 Git Trees
 ---------
@@ -786,7 +786,7 @@ Why the Term "namespace"?
 LIBNVDIMM/LIBNDCTL: Block Translation Table "btt"
 -------------------------------------------------
 
-A BTT (design document: http://pmem.io/2014/09/23/btt.html) is a stacked
+A BTT (design document: https://pmem.io/2014/09/23/btt.html) is a stacked
 block device driver that fronts either the whole block device or a
 partition of a block device emitted by either a PMEM or BLK NAMESPACE.
 
