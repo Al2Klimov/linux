@@ -24,10 +24,10 @@ appropriatamente i documenti).
 
 Diversi siti web approfondiscono lo sviluppo del kernel ad ogni livello
 di dettaglio.  Il vostro autore vorrebbe umilmente suggerirvi
-http://lwn.net/ come fonte; usando l'indice 'kernel' su LWN troverete
+https://lwn.net/ come fonte; usando l'indice 'kernel' su LWN troverete
 molti argomenti specifici sul kernel:
 
-	http://lwn.net/Kernel/Index/
+	https://lwn.net/Kernel/Index/
 
 Oltre a ciò, una risorsa valida per gli sviluppatori kernel è:
 
@@ -40,7 +40,7 @@ Ci sono numerosi libri sullo sviluppo del kernel:
 
 	Linux Device Drivers, 3rd Edition (Jonathan Corbet, Alessandro
 	Rubini, and Greg Kroah-Hartman).  In linea all'indirizzo
-	http://lwn.net/Kernel/LDD3/.
+	https://lwn.net/Kernel/LDD3/.
 
 	Linux Kernel Development (Robert Love).
 

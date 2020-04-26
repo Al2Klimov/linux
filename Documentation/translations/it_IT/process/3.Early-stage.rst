@@ -55,7 +55,7 @@ scrisse questo messaggio:
 	una perdita di tempo. Loro sono troppo "intelligenti" per stare ad
 	ascoltare dei poveri mortali.
 
-	(http://lwn.net/Articles/131776/).
+	(https://lwn.net/Articles/131776/).
 
 La realtà delle cose fu differente; gli sviluppatori del kernel erano molto
 più preoccupati per la stabilità del sistema, per la manutenzione di lungo

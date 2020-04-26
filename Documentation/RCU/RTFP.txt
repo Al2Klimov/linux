@@ -1288,7 +1288,7 @@ Data Structures"
 ,day="3"
 ,year="2005"
 ,note="Available:
-\url{http://lwn.net/Articles/134484/}
+\url{https://lwn.net/Articles/134484/}
 [Viewed May 3, 2005]"
 ,annotation={
 	Jon Corbet describes deprecation of synchronize_kernel()
@@ -1525,7 +1525,7 @@ Canis Rufus and Zoicon5 and Anome and Hal Eisen"
 ,day="9"
 ,year="2006"
 ,note="Available:
-\url{http://lwn.net/Articles/202847/}
+\url{https://lwn.net/Articles/202847/}
 Revised:
 \url{http://www.rdrop.com/users/paulmck/RCU/srcu.2007.01.14a.pdf}
 [Viewed August 21, 2006]"
@@ -1723,7 +1723,7 @@ Revised:
 ,day="14"
 ,year="2007"
 ,note="Available:
-\url{http://lwn.net/Articles/217484/}
+\url{https://lwn.net/Articles/217484/}
 [Viewed November 22, 2007]"
 ,annotation={
 	LWN article introducing the rcu_barrier() primitive.
@@ -1751,7 +1751,7 @@ Revised:
 ,month="February"
 ,day="5"
 ,year="2007"
-,note="\url{http://lwn.net/Articles/220677/}"
+,note="\url{https://lwn.net/Articles/220677/}"
 ,annotation={
 	LWN article introducing RCU priority boosting.
 	Revised:
@@ -1841,7 +1841,7 @@ Revised:
 ,day="1"
 ,year="2007"
 ,note="Available:
-\url{http://lwn.net/Articles/243851/}
+\url{https://lwn.net/Articles/243851/}
 [Viewed September 8, 2007]"
 ,annotation={
 	LWN article describing Promela and spin, and also using Oleg
@@ -1900,7 +1900,7 @@ Revised:
 ,day="8"
 ,year="2007"
 ,note="Available:
-\url{http://lwn.net/Articles/253651/}
+\url{https://lwn.net/Articles/253651/}
 [Viewed October 25, 2007]"
 ,annotation={
 	LWN article describing the design of preemptible RCU.
@@ -1945,9 +1945,9 @@ Revised:
 #
 #	"What is RCU?" LWN series.
 #
-#	http://lwn.net/Articles/262464/ (What is RCU, Fundamentally?)
-#	http://lwn.net/Articles/263130/ (What is RCU's Usage?)
-#	http://lwn.net/Articles/264090/ (What is RCU's API?)
+#	https://lwn.net/Articles/262464/ (What is RCU, Fundamentally?)
+#	https://lwn.net/Articles/263130/ (What is RCU's Usage?)
+#	https://lwn.net/Articles/264090/ (What is RCU's API?)
 
 @unpublished{PaulEMcKenney2007WhatIsRCUFundamentally
 ,Author="Paul E. McKenney and Jonathan Walpole"
@@ -1956,7 +1956,7 @@ Revised:
 ,day="17"
 ,year="2007"
 ,note="Available:
-\url{http://lwn.net/Articles/262464/}
+\url{https://lwn.net/Articles/262464/}
 [Viewed December 27, 2007]"
 ,annotation={
 	Lays out the three basic components of RCU: (1) publish-subscribe,
@@ -1972,7 +1972,7 @@ Revised:
 ,day="4"
 ,year="2008"
 ,note="Available:
-\url{http://lwn.net/Articles/263130/}
+\url{https://lwn.net/Articles/263130/}
 [Viewed January 4, 2008]"
 ,annotation={
 	Lays out six uses of RCU:
@@ -1992,7 +1992,7 @@ Revised:
 ,day="17"
 ,year="2008"
 ,note="Available:
-\url{http://lwn.net/Articles/264090/}
+\url{https://lwn.net/Articles/264090/}
 [Viewed January 10, 2008]"
 ,annotation={
 	Gives an overview of the Linux-kernel RCU API and a brief annotated RCU
@@ -2057,7 +2057,7 @@ lot of {Linux} into your technology!!!"
 ,day="24"
 ,year="2008"
 ,note="Available:
-\url{http://lwn.net/Articles/279077/}
+\url{https://lwn.net/Articles/279077/}
 [Viewed April 24, 2008]"
 ,annotation={
 	Describes use of Promela and Spin to validate (and fix!) the
@@ -2168,7 +2168,7 @@ lot of {Linux} into your technology!!!"
 ,month="November"
 ,day="3"
 ,year="2008"
-,note="\url{http://lwn.net/Articles/305782/}"
+,note="\url{https://lwn.net/Articles/305782/}"
 ,annotation={
 	RCU with combining-tree-based grace-period detection,
 	permitting it to handle thousands of CPUs.
@@ -2229,7 +2229,7 @@ lot of {Linux} into your technology!!!"
 ,day="17"
 ,year="2009"
 ,note="Available:
-\url{http://lwn.net/Articles/323929/}
+\url{https://lwn.net/Articles/323929/}
 [Viewed March 20, 2009]"
 ,annotation={
 	Uniprocessor assumptions allow simplified RCU implementation.
@@ -2490,7 +2490,7 @@ lot of {Linux} into your technology!!!"
 ,month="December"
 ,day="8"
 ,year="2010"
-,note="\url{http://lwn.net/Articles/418853/}"
+,note="\url{https://lwn.net/Articles/418853/}"
 ,annotation={
 	Includes updated software-engineering features.
 	[Viewed December 8, 2010]
@@ -2592,7 +2592,7 @@ lot of {Linux} into your technology!!!"
 ,month="July"
 ,day="27"
 ,year="2011"
-,note="\url{http://lwn.net/Articles/453002/}"
+,note="\url{https://lwn.net/Articles/453002/}"
 ,annotation={
 	Analysis of the RCU trainwreck in Linux kernel 3.0.
 	[Viewed July 27, 2011]
@@ -2606,7 +2606,7 @@ lot of {Linux} into your technology!!!"
 ,day="3"
 ,year="2011"
 ,note="Available:
-\url{http://lwn.net/Articles/453685/}
+\url{https://lwn.net/Articles/453685/}
 [Viewed September 2, 2011]"
 ,annotation={
 	The Locker family as an analogy for locking, reference counting,
@@ -2716,7 +2716,7 @@ lot of {Linux} into your technology!!!"
 ,month="August"
 ,day="1"
 ,year="2012"
-,note="\url{http://lwn.net/Articles/508991/}"
+,note="\url{https://lwn.net/Articles/508991/}"
 ,annotation={
 	A couple of simple specific compiler optimizations that motivate
 	ACCESS_ONCE().
@@ -2754,7 +2754,7 @@ lot of {Linux} into your technology!!!"
 ,month="October"
 ,day="31"
 ,year="2012"
-,note="\url{http://lwn.net/Articles/522262/}"
+,note="\url{https://lwn.net/Articles/522262/}"
 ,annotation={
 	Overview of the first variant of no-CBs CPUs for RCU.
 }
@@ -2805,7 +2805,7 @@ lot of {Linux} into your technology!!!"
 ,month="March"
 ,day="6"
 ,year="2013"
-,note="\url{http://lwn.net/Articles/541037/}"
+,note="\url{https://lwn.net/Articles/541037/}"
 ,annotation={
 	Getting rid of TINY_PREEMPT_RCU.
 }

@@ -137,7 +137,7 @@ vostri rami.  Citando Linus
 	facendo, e ho bisogno di fidarmi *senza* dover passare tutte
 	le modifiche manualmente una per una.
 
-(http://lwn.net/Articles/224135/).
+(https://lwn.net/Articles/224135/).
 
 Per evitare queste situazioni, assicuratevi che tutte le patch in un ramo
 siano strettamente correlate al tema delle modifiche; un ramo "driver fixes"

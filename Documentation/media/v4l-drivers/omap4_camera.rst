@@ -59,4 +59,4 @@ References
 ----------
 
 .. [#f1] http://focus.ti.com/general/docs/wtbu/wtbudocumentcenter.tsp?navigationId=12037&templateId=6123#62
-.. [#f2] http://lwn.net/Articles/420485/
+.. [#f2] https://lwn.net/Articles/420485/

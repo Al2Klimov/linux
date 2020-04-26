@@ -81,7 +81,7 @@ int blk_pre_runtime_suspend(struct request_queue *q)
 	 * Wait until atomic mode has been reached. Since that
 	 * involves calling call_rcu(), it is guaranteed that later
 	 * blk_queue_enter() calls see the pm-only state. See also
-	 * http://lwn.net/Articles/573497/.
+	 * https://lwn.net/Articles/573497/.
 	 */
 	percpu_ref_switch_to_atomic_sync(&q->q_usage_counter);
 	if (percpu_ref_is_zero(&q->q_usage_counter))

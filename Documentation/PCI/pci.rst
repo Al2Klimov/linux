@@ -17,7 +17,7 @@ PCI device drivers.
 A more complete resource is the third edition of "Linux Device Drivers"
 by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman.
 LDD3 is available for free (under Creative Commons License) from:
-http://lwn.net/Kernel/LDD3/.
+https://lwn.net/Kernel/LDD3/.
 
 However, keep in mind that all documents are subject to "bit rot".
 Refer to the source code if things are not working as described here.

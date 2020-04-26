@@ -244,4 +244,4 @@ If this function is passed a pointer for the dentry corresponding to the
 top-level directory, the entire hierarchy below that directory will be
 removed.
 
-.. [1] http://lwn.net/Articles/309298/
+.. [1] https://lwn.net/Articles/309298/

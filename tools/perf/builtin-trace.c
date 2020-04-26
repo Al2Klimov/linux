@@ -11,7 +11,7 @@
  *
  * Initially based on the 'trace' prototype by Thomas Gleixner:
  *
- * http://lwn.net/Articles/415728/ ("Announcing a new utility: 'trace'")
+ * https://lwn.net/Articles/415728/ ("Announcing a new utility: 'trace'")
  */
 
 #include "util/record.h"

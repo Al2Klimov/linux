@@ -521,7 +521,7 @@ Andrew Morton da questo consiglio agli aspiranti sviluppatori kernel
      collaborare con gli altri nel sistemare le cose (questo richiede
      persistenza!) ma va bene - è parte dello sviluppo kernel.
 
-(http://lwn.net/Articles/283982/).
+(https://lwn.net/Articles/283982/).
 
 In assenza di problemi ovvi da risolvere, si consiglia agli sviluppatori
 di consultare, in generale, la lista di regressioni e di bachi aperti.

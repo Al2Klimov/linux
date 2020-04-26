@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * This is rewrite of original c2c tool introduced in here:
- *   http://lwn.net/Articles/588866/
+ *   https://lwn.net/Articles/588866/
  *
  * The original tool was changed to fit in current perf state.
  *

@@ -133,18 +133,18 @@ Linux 内核邮件列表：
 	[可通过向majordomo@vger.kernel.org发邮件来订阅]
 
 Linux 设备驱动程序，第三版（探讨 2.6.10 版内核）：
-	http://lwn.net/Kernel/LDD3/ （免费版）
+	https://lwn.net/Kernel/LDD3/ （免费版）
 
 LWN.net:
-	每周内核开发活动摘要 - http://lwn.net/
+	每周内核开发活动摘要 - https://lwn.net/
 
 	2.6 版中 API 的变更：
 
-		http://lwn.net/Articles/2.6-kernel-api/
+		https://lwn.net/Articles/2.6-kernel-api/
 
 	将旧版内核的驱动程序移植到 2.6 版：
 
-		http://lwn.net/Articles/driver-porting/
+		https://lwn.net/Articles/driver-porting/
 
 内核新手(KernelNewbies):
 	为新的内核开发者提供文档和帮助

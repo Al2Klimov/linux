@@ -547,7 +547,7 @@ static void w1_cn_callback(struct cn_msg *cn, struct netlink_skb_parms *nsp)
 
 	/* If any unknown flag is set let the application know, that way
 	 * applications can detect the absence of features in kernels that
-	 * don't know about them.  http://lwn.net/Articles/587527/
+	 * don't know about them.  https://lwn.net/Articles/587527/
 	 */
 	if (cn->flags & ~(W1_CN_BUNDLE)) {
 		w1_netlink_send_error(cn, msg, nsp->portid, -EINVAL);

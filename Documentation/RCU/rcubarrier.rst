@@ -3,7 +3,7 @@
 RCU and Unloadable Modules
 ==========================
 
-[Originally published in LWN Jan. 14, 2007: http://lwn.net/Articles/217484/]
+[Originally published in LWN Jan. 14, 2007: https://lwn.net/Articles/217484/]
 
 RCU (read-copy update) is a synchronization mechanism that can be thought
 of as a replacement for read-writer locking (among other things), but with
@@ -59,7 +59,7 @@ But what if p_callback is defined in an unloadable module?
 If we unload the module while some RCU callbacks are pending,
 the CPUs executing these callbacks are going to be severely
 disappointed when they are later invoked, as fancifully depicted at
-http://lwn.net/images/ns/kernel/rcu-drop.jpg.
+https://lwn.net/images/ns/kernel/rcu-drop.jpg.
 
 We could try placing a synchronize_rcu() in the module-exit code path,
 but this is not sufficient. Although synchronize_rcu() does wait for a

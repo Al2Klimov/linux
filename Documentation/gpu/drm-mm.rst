@@ -90,7 +90,7 @@ let drivers implement hardware-specific operations with their own
 private API.
 
 The GEM userspace API is described in the `GEM - the Graphics Execution
-Manager <http://lwn.net/Articles/283798/>`__ article on LWN. While
+Manager <https://lwn.net/Articles/283798/>`__ article on LWN. While
 slightly outdated, the document provides a good overview of the GEM API
 principles. Buffer allocation and read and write operations, described
 as part of the common GEM API, are currently implemented using

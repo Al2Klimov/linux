@@ -42,8 +42,8 @@ oldalloc			Enable the old block allocator. Orlov should
 				have better performance, we'd like to get some
 				feedback if it's the contrary for you.
 orlov			(*)	Use the Orlov block allocator.
-				(See http://lwn.net/Articles/14633/ and
-				http://lwn.net/Articles/14446/.)
+				(See https://lwn.net/Articles/14633/ and
+				https://lwn.net/Articles/14446/.)
 
 resuid=n			The user ID which may use the reserved blocks.
 resgid=n			The group ID which may use the reserved blocks.

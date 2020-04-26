@@ -162,18 +162,18 @@ Linux kernel mailing list:
 	[mail majordomo@vger.kernel.org to subscribe]
 
 Linux Device Drivers, Third Edition (covers 2.6.10):
-	http://lwn.net/Kernel/LDD3/  (free version)
+	https://lwn.net/Kernel/LDD3/  (free version)
 
 LWN.net:
-	Weekly summary of kernel development activity - http://lwn.net/
+	Weekly summary of kernel development activity - https://lwn.net/
 
 	2.6 API changes:
 
-		http://lwn.net/Articles/2.6-kernel-api/
+		https://lwn.net/Articles/2.6-kernel-api/
 
 	Porting drivers from prior kernels to 2.6:
 
-		http://lwn.net/Articles/driver-porting/
+		https://lwn.net/Articles/driver-porting/
 
 KernelNewbies:
 	Documentation and assistance for new kernel programmers

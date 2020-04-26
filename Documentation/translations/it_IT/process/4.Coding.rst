@@ -222,7 +222,7 @@ domanda ci è stata fornita da Linus nel luglio 2007:
    dei progressi reali. Sono due passi avanti e uno indietro, oppure
    un passo avanti e due indietro?
 
-(http://lwn.net/Articles/243460/).
+(https://lwn.net/Articles/243460/).
 
 Una particolare tipologia di regressione mal vista consiste in una qualsiasi
 sorta di modifica all'ABI dello spazio utente.  Una volta che un'interfaccia

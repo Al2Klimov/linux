@@ -981,18 +981,18 @@ commented and discussed quite extensively in the community.
 References
 ==========
 
-1. Singh, Balbir. RFC: Memory Controller, http://lwn.net/Articles/206697/
+1. Singh, Balbir. RFC: Memory Controller, https://lwn.net/Articles/206697/
 2. Singh, Balbir. Memory Controller (RSS Control),
-   http://lwn.net/Articles/222762/
+   https://lwn.net/Articles/222762/
 3. Emelianov, Pavel. Resource controllers based on process cgroups
    https://lkml.org/lkml/2007/3/6/198
 4. Emelianov, Pavel. RSS controller based on process cgroups (v2)
    https://lkml.org/lkml/2007/4/9/78
 5. Emelianov, Pavel. RSS controller based on process cgroups (v3)
    https://lkml.org/lkml/2007/5/30/244
-6. Menage, Paul. Control Groups v10, http://lwn.net/Articles/236032/
+6. Menage, Paul. Control Groups v10, https://lwn.net/Articles/236032/
 7. Vaidyanathan, Srinivasan, Control Groups: Pagecache accounting and control
-   subsystem (v3), http://lwn.net/Articles/235534/
+   subsystem (v3), https://lwn.net/Articles/235534/
 8. Singh, Balbir. RSS controller v2 test results (lmbench),
    https://lkml.org/lkml/2007/5/17/232
 9. Singh, Balbir. RSS controller v2 AIM9 results
@@ -1002,4 +1002,4 @@ References
 11. Singh, Balbir. Memory controller introduction (v6),
     https://lkml.org/lkml/2007/8/17/69
 12. Corbet, Jonathan, Controlling memory use in cgroups,
-    http://lwn.net/Articles/243795/
+    https://lwn.net/Articles/243795/

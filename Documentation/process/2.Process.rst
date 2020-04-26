@@ -494,7 +494,7 @@ Andrew Morton gives this advice for aspiring kernel developers
 	with others on getting things fixed up (this can require
 	persistence!) but that's fine - it's a part of kernel development.
 
-(http://lwn.net/Articles/283982/).
+(https://lwn.net/Articles/283982/).
 
 In the absence of obvious problems to fix, developers are advised to look
 at the current lists of regressions and open bugs in general.  There is

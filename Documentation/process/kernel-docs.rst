@@ -98,7 +98,7 @@ On-line docs
     * Title: **Linux Device Drivers, Third Edition**
 
       :Author: Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman
-      :URL: http://lwn.net/Kernel/LDD3/
+      :URL: https://lwn.net/Kernel/LDD3/
       :Date: 2005
       :Description: A 600-page book covering the (2.6.10) driver
         programming API and kernel hacking in general.  Available under the
@@ -480,7 +480,7 @@ Published books
       :ISBN: 0-596-00590-3
       :Notes: Further information in
         http://www.oreilly.com/catalog/linuxdrive3/
-        PDF format, URL: http://lwn.net/Kernel/LDD3/
+        PDF format, URL: https://lwn.net/Kernel/LDD3/
 
     * Title: **Linux Kernel Internals**
 
@@ -561,7 +561,7 @@ Miscellaneous
 
     * Name: **Linux Weekly News**
 
-      :URL: http://lwn.net
+      :URL: https://lwn.net
       :Keywords: latest kernel news.
       :Description: The title says it all. There's a fixed kernel section
         summarizing developers' work, bug fixes, new features and versions

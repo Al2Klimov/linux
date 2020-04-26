@@ -143,6 +143,6 @@ the static_key of the tracepoint to allow the if statement to be implemented
 with jump labels and avoid conditional branches.
 
 .. note:: The convenience macro TRACE_EVENT provides an alternative way to
-      define tracepoints. Check http://lwn.net/Articles/379903,
-      http://lwn.net/Articles/381064 and http://lwn.net/Articles/383362
+      define tracepoints. Check https://lwn.net/Articles/379903,
+      https://lwn.net/Articles/381064 and https://lwn.net/Articles/383362
       for a series of articles with more details.
