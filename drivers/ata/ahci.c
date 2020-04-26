@@ -1184,13 +1184,13 @@ static bool ahci_broken_suspend(struct pci_dev *pdev)
 		 * to the harddisk doesn't become online after
 		 * resuming from STR.  Warn and fail suspend.
 		 *
-		 * http://bugzilla.kernel.org/show_bug.cgi?id=12276
+		 * https://bugzilla.kernel.org/show_bug.cgi?id=12276
 		 *
 		 * Use dates instead of versions to match as HP is
 		 * apparently recycling both product and version
 		 * strings.
 		 *
-		 * http://bugzilla.kernel.org/show_bug.cgi?id=15462
+		 * https://bugzilla.kernel.org/show_bug.cgi?id=15462
 		 */
 		{
 			.ident = "dv4",
@@ -1235,7 +1235,7 @@ static bool ahci_broken_suspend(struct pci_dev *pdev)
 		 * that we don't have much idea about.  For now,
 		 * blacklist anything older than V3.04.
 		 *
-		 * http://bugzilla.kernel.org/show_bug.cgi?id=15104
+		 * https://bugzilla.kernel.org/show_bug.cgi?id=15104
 		 */
 		{
 			.ident = "G725",

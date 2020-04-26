@@ -43,7 +43,7 @@ static inline char pin_name(int pin)
                          PCI IRQ Routing Table (PRT) Support
    -------------------------------------------------------------------------- */
 
-/* http://bugzilla.kernel.org/show_bug.cgi?id=4773 */
+/* https://bugzilla.kernel.org/show_bug.cgi?id=4773 */
 static const struct dmi_system_id medion_md9580[] = {
 	{
 		.ident = "Medion MD9580-F laptop",
@@ -55,7 +55,7 @@ static const struct dmi_system_id medion_md9580[] = {
 	{ }
 };
 
-/* http://bugzilla.kernel.org/show_bug.cgi?id=5044 */
+/* https://bugzilla.kernel.org/show_bug.cgi?id=5044 */
 static const struct dmi_system_id dell_optiplex[] = {
 	{
 		.ident = "Dell Optiplex GX1",
@@ -67,7 +67,7 @@ static const struct dmi_system_id dell_optiplex[] = {
 	{ }
 };
 
-/* http://bugzilla.kernel.org/show_bug.cgi?id=10138 */
+/* https://bugzilla.kernel.org/show_bug.cgi?id=10138 */
 static const struct dmi_system_id hp_t5710[] = {
 	{
 		.ident = "HP t5710",

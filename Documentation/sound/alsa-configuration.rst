@@ -2699,7 +2699,7 @@ Links and Addresses
 ALSA project homepage
     http://www.alsa-project.org
 Kernel Bugzilla
-    http://bugzilla.kernel.org/
+    https://bugzilla.kernel.org/
 ALSA Developers ML
     mailto:alsa-devel@alsa-project.org
 alsa-info.sh script

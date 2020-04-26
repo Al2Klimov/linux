@@ -1195,7 +1195,7 @@ static int thermal_psv(const struct dmi_system_id *d) {
 static const struct dmi_system_id thermal_dmi_table[] __initconst = {
 	/*
 	 * Award BIOS on this AOpen makes thermal control almost worthless.
-	 * http://bugzilla.kernel.org/show_bug.cgi?id=8842
+	 * https://bugzilla.kernel.org/show_bug.cgi?id=8842
 	 */
 	{
 	 .callback = thermal_act,

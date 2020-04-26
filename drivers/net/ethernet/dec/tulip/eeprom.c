@@ -7,7 +7,7 @@
 	This software may be used and distributed according to the terms
 	of the GNU General Public License, incorporated herein by reference.
 
-	Please submit bug reports to http://bugzilla.kernel.org/.
+	Please submit bug reports to https://bugzilla.kernel.org/.
 */
 
 #include <linux/pci.h>

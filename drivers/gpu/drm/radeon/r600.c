@@ -4377,7 +4377,7 @@ int r600_debugfs_mc_info_init(struct radeon_device *rdev)
  *
  * Some R6XX/R7XX don't seem to take into account HDP flushes performed
  * through the ring buffer. This leads to corruption in rendering, see
- * http://bugzilla.kernel.org/show_bug.cgi?id=15186 . To avoid this, we
+ * https://bugzilla.kernel.org/show_bug.cgi?id=15186 . To avoid this, we
  * directly perform the HDP flush by writing the register through MMIO.
  */
 void r600_mmio_hdp_flush(struct radeon_device *rdev)

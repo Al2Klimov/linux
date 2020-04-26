@@ -42,7 +42,7 @@ static int __init set_ignore_seg(const struct dmi_system_id *id)
 }
 
 static const struct dmi_system_id pci_crs_quirks[] __initconst = {
-	/* http://bugzilla.kernel.org/show_bug.cgi?id=14183 */
+	/* https://bugzilla.kernel.org/show_bug.cgi?id=14183 */
 	{
 		.callback = set_use_crs,
 		.ident = "IBM System x3800",

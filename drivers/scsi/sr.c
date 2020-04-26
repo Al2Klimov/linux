@@ -861,7 +861,7 @@ static void get_sectorsize(struct scsi_cd *cd)
 		 * certain UDF media.  If last_written is larger, use
 		 * it instead.
 		 *
-		 * http://bugzilla.kernel.org/show_bug.cgi?id=9668
+		 * https://bugzilla.kernel.org/show_bug.cgi?id=9668
 		 */
 		if (!cdrom_get_last_written(&cd->cdi, &last_written))
 			cd->capacity = max_t(long, cd->capacity, last_written);

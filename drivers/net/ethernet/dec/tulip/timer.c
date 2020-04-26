@@ -7,7 +7,7 @@
 	This software may be used and distributed according to the terms
 	of the GNU General Public License, incorporated herein by reference.
 
-	Please submit bugs to http://bugzilla.kernel.org/ .
+	Please submit bugs to https://bugzilla.kernel.org/ .
 */
 
 

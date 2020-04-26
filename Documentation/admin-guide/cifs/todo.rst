@@ -99,7 +99,7 @@ Known Bugs
 ==========
 
 See http://bugzilla.samba.org - search on product "CifsVFS" for
-current bug list.  Also check http://bugzilla.kernel.org (Product = File System, Component = CIFS)
+current bug list.  Also check https://bugzilla.kernel.org (Product = File System, Component = CIFS)
 
 1) existing symbolic links (Windows reparse points) are recognized but
    can not be created remotely. They are implemented for Samba and those that

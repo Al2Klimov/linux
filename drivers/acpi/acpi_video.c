@@ -421,7 +421,7 @@ static int video_hw_changes_brightness(
 
 static const struct dmi_system_id video_dmi_table[] = {
 	/*
-	 * Broken _BQC workaround http://bugzilla.kernel.org/show_bug.cgi?id=13121
+	 * Broken _BQC workaround https://bugzilla.kernel.org/show_bug.cgi?id=13121
 	 */
 	{
 	 .callback = video_set_bqc_offset,
@@ -633,7 +633,7 @@ acpi_video_device_lcd_get_level_current(struct acpi_video_device *device,
 			 * dev->brightness->curr is a cached value which stores
 			 * the correct current backlight level in most cases.
 			 * ACPI video backlight still works w/ buggy _BQC.
-			 * http://bugzilla.kernel.org/show_bug.cgi?id=12233
+			 * https://bugzilla.kernel.org/show_bug.cgi?id=12233
 			 */
 			ACPI_WARNING((AE_INFO, "Evaluating %s failed", buf));
 			device->cap._BQC = device->cap._BCQ = 0;

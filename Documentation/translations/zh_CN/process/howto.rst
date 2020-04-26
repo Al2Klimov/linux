@@ -293,7 +293,7 @@ bugzilla.kernel.org是Linux内核开发者们用来跟踪内核Bug的网站。�
 者感受到你的存在。修改bug是赢得其他开发者赞誉的最好办法，因为并不是很多
 人都喜欢浪费时间去修改别人报告的bug。
 
-要尝试修改已知的bug，请访问 http://bugzilla.kernel.org 网址。
+要尝试修改已知的bug，请访问 https://bugzilla.kernel.org 网址。
 
 
 邮件列表

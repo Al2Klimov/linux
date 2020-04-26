@@ -11,7 +11,7 @@
 	Hardware Reference Manual" is currently available at :
 	http://developer.intel.com/design/network/manuals/278074.htm
 
-	Please submit bugs to http://bugzilla.kernel.org/ .
+	Please submit bugs to https://bugzilla.kernel.org/ .
 */
 
 #include <linux/delay.h>
