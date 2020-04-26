@@ -50,7 +50,7 @@
 /* Controlling Queue Delay (CoDel) algorithm
  * =========================================
  * Source : Kathleen Nichols and Van Jacobson
- * http://queue.acm.org/detail.cfm?id=2209336
+ * https://queue.acm.org/detail.cfm?id=2209336
  *
  * Implemented on linux by Dave Taht and Eric Dumazet
  */
