@@ -101,4 +101,4 @@ the HTTP listener you redirect traffic to with the TPROXY iptables
 target.
 
 For more information please consult the following page on the Squid
-wiki: http://wiki.squid-cache.org/Features/Tproxy4
+wiki: https://wiki.squid-cache.org/Features/Tproxy4
