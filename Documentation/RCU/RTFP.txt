@@ -1798,7 +1798,7 @@ Revised:
 ,month="May"
 ,year="2007"
 ,note="Available:
-\url{http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4281239}
+\url{https://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4281239}
 [Viewed October 1, 2010]"
 ,annotation={
 	RCU-protected dynamic trie-hash combination.
