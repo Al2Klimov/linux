@@ -177,7 +177,7 @@ See also
 --------
 
 `Journaling the Linux ext2fs Filesystem, LinuxExpo 98, Stephen
-Tweedie <http://kernel.org/pub/linux/kernel/people/sct/ext3/journal-design.ps.gz>`__
+Tweedie <https://kernel.org/pub/linux/kernel/people/sct/ext3/journal-design.ps.gz>`__
 
 `Ext3 Journalling FileSystem, OLS 2000, Dr. Stephen
 Tweedie <http://olstrans.sourceforge.net/release/OLS2000-ext3/OLS2000-ext3.html>`__

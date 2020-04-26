@@ -115,7 +115,7 @@ the following steps:
 
 	The current version of the bonding driver is available in the
 drivers/net/bonding subdirectory of the most recent kernel source
-(which is available on http://kernel.org).  Most users "rolling their
+(which is available on https://kernel.org).  Most users "rolling their
 own" will want to use the most recent kernel from kernel.org.
 
 	Configure kernel with "make menuconfig" (or "make xconfig" or
@@ -2801,7 +2801,7 @@ enslaved.
 =======================
 
 	The latest version of the bonding driver can be found in the latest
-version of the linux kernel, found on http://kernel.org
+version of the linux kernel, found on https://kernel.org
 
 	The latest version of this document can be found in the latest kernel
 source (named Documentation/networking/bonding.txt).

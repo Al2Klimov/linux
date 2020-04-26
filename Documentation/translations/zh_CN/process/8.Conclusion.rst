@@ -26,7 +26,7 @@
 
         http://kernelnewbies.org/
 
-当然，我们不应该忘记 http://kernel.org/ 这是内核发布信息的最终位置。
+当然，我们不应该忘记 https://kernel.org/ 这是内核发布信息的最终位置。
 
 关于内核开发有很多书：
 

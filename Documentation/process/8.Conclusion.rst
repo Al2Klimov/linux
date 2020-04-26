@@ -26,7 +26,7 @@ Beyond that, a valuable resource for kernel developers is:
 
 	http://kernelnewbies.org/
 
-And, of course, one should not forget http://kernel.org/, the definitive
+And, of course, one should not forget https://kernel.org/, the definitive
 location for kernel release information.
 
 There are a number of books on kernel development:

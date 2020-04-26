@@ -65,7 +65,7 @@ Install kexec-tools
 
 2) Download the kexec-tools user-space package from the following URL:
 
-http://kernel.org/pub/linux/utils/kernel/kexec/kexec-tools.tar.gz
+https://kernel.org/pub/linux/utils/kernel/kexec/kexec-tools.tar.gz
 
 This is a symlink to the latest version.
 

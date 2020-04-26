@@ -33,7 +33,7 @@ Oltre a ciò, una risorsa valida per gli sviluppatori kernel è:
 
 	http://kernelnewbies.org/
 
-E, ovviamente, una fonte da non dimenticare è http://kernel.org/, il luogo
+E, ovviamente, una fonte da non dimenticare è https://kernel.org/, il luogo
 definitivo per le informazioni sui rilasci del kernel.
 
 Ci sono numerosi libri sullo sviluppo del kernel:

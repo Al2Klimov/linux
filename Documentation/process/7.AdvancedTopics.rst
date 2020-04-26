@@ -55,7 +55,7 @@ server with git-daemon is relatively straightforward if you have a system
 which is accessible to the Internet.  Otherwise, free, public hosting sites
 (Github, for example) are starting to appear on the net.  Established
 developers can get an account on kernel.org, but those are not easy to come
-by; see http://kernel.org/faq/ for more information.
+by; see https://kernel.org/faq/ for more information.
 
 The normal git workflow involves the use of a lot of branches.  Each line
 of development can be separated into a separate "topic branch" and

@@ -241,7 +241,7 @@ the patch contains a given regular expression.
 Where can I download the patches?
 =================================
 
-The patches are available at http://kernel.org/
+The patches are available at https://kernel.org/
 Most recent patches are linked from the front page, but they also have
 specific homes.
 

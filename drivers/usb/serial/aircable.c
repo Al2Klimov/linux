@@ -31,7 +31,7 @@
  * And from Linux Device Driver Kit CD, which is a great work, the authors taken
  * the work to recompile lots of information an knowledge in drivers development
  * and made it all available inside a cd.
- * URL: http://kernel.org/pub/linux/kernel/people/gregkh/ddk/
+ * URL: https://kernel.org/pub/linux/kernel/people/gregkh/ddk/
  *
  */
 
