@@ -65,7 +65,7 @@ sub sp8870 {
 
 sub sp887x {
     my $sourcefile = "Dvbt1.3.57.6.zip";
-    my $url = "http://www.avermedia.com/software/$sourcefile";
+    my $url = "https://www.avermedia.com/software/$sourcefile";
     my $cabfile = "DVBT Net  Ver1.3.57.6/disk1/data1.cab";
     my $hash = "237938d53a7f834c05c42b894ca68ac3";
     my $outfile = "dvb-fe-sp887x.fw";
