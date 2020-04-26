@@ -570,7 +570,7 @@ Miscellaneous
     * Name: **The home page of Linux-MM**
 
       :Author: The Linux-MM team.
-      :URL: http://linux-mm.org/
+      :URL: https://linux-mm.org/
       :Keywords: memory management, Linux-MM, mm patches, TODO, docs,
         mailing list.
       :Description: Site devoted to Linux Memory Management development.
