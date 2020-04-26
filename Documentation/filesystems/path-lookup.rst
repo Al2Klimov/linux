@@ -376,7 +376,7 @@ table, and the mount point hash table.
 Bringing it together with ``struct nameidata``
 ----------------------------------------------
 
-.. _First edition Unix: http://minnie.tuhs.org/cgi-bin/utree.pl?file=V1/u2.s
+.. _First edition Unix: https://minnie.tuhs.org/cgi-bin/utree.pl?file=V1/u2.s
 
 Throughout the process of walking a path, the current status is stored
 in a ``struct nameidata``, "namei" being the traditional name - dating
