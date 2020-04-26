@@ -7,7 +7,7 @@
  *
  * Clean room implementation based on the reverse engineered Mac OS X driver by
  * Johannes Berg <johannes@sipsolutions.net>, documentation available at
- * http://johannes.sipsolutions.net/PowerBook/Apple_Motion_Sensor_Specification
+ * https://johannes.sipsolutions.net/PowerBook/Apple_Motion_Sensor_Specification
  */
 
 #include <linux/module.h>

@@ -89,6 +89,6 @@ or::
 
 .. Links:
 
-.. [#f1] http://johannes.sipsolutions.net/PowerBook/touchpad/
+.. [#f1] https://johannes.sipsolutions.net/PowerBook/touchpad/
 
 .. [#f2] `<http://web.archive.org/web/*/http://web.telia.com/~u89404340/touchpad/index.html>`_
