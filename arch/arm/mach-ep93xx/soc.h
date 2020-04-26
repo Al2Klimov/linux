@@ -28,7 +28,7 @@
  * Configurations.  Please refer to "AN273: EP93xx Silicon Rev E Design
  * Guidelines" for more information.  This document can be found at:
  *
- *	http://www.cirrus.com/en/pubs/appNote/AN273REV4.pdf
+ *	https://www.cirrus.com/en/pubs/appNote/AN273REV4.pdf
  */
 
 #define EP93XX_CS0_PHYS_BASE_ASYNC	0x00000000	/* ASDO Pin = 0 */

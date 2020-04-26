@@ -230,7 +230,7 @@ static const struct hda_verb cs4208_coef_init_verbs[] = {
 
 /* Errata: CS4207 rev C0/C1/C2 Silicon
  *
- * http://www.cirrus.com/en/pubs/errata/ER880C3.pdf
+ * https://www.cirrus.com/en/pubs/errata/ER880C3.pdf
  *
  * 6. At high temperature (TA > +85°C), the digital supply current (IVD)
  * may be excessive (up to an additional 200 μA), which is most easily
@@ -894,7 +894,7 @@ static const struct hda_verb cs421x_coef_init_verbs[] = {
 
 /* Errata: CS4210 rev A1 Silicon
  *
- * http://www.cirrus.com/en/pubs/errata/
+ * https://www.cirrus.com/en/pubs/errata/
  *
  * Description:
  * 1. Performance degredation is present in the ADC.

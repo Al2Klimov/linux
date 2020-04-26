@@ -571,7 +571,7 @@ static int __init ep93xx_clock_init(void)
 	/*
 	 * EP93xx SSP clock rate was doubled in version E2. For more information
 	 * see:
-	 *     http://www.cirrus.com/en/pubs/appNote/AN273REV4.pdf
+	 *     https://www.cirrus.com/en/pubs/appNote/AN273REV4.pdf
 	 */
 	if (ep93xx_chip_revision() < EP93XX_CHIP_REV_E2)
 		clk_spi.rate /= 2;

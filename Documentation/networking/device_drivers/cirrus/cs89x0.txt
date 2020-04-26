@@ -561,7 +561,7 @@ Telephone  :(800) 888-5016 (from inside U.S. and Canada)
            :(512) 442-7555 (from outside the U.S. and Canada)
 Fax        :(512) 912-3871
 Email      :ethernet@crystal.cirrus.com
-WWW        :http://www.cirrus.com
+WWW        :https://www.cirrus.com
 
 
 6.2 INFORMATION REQUIRED BEFORE CONTACTING TECHNICAL SUPPORT
@@ -604,7 +604,7 @@ Web site.  You can also contact Cirrus Logic's Technical Support (email:
 ethernet@crystal.cirrus.com) and request that you be registered for automatic 
 software-update notification.
 
-Cirrus Logic maintains a web page at http://www.cirrus.com with the
+Cirrus Logic maintains a web page at https://www.cirrus.com with the
 latest drivers and technical publications.
 
 
