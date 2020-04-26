@@ -42,7 +42,7 @@ enum {
 static const char version[] =
 	KERN_INFO KBUILD_MODNAME ".c:v" DRV_VERSION " " DRV_RELDATE
 	" S.Opichal, M.Jurik, P.Stehlik\n"
-	KERN_INFO " http://aranym.org/\n";
+	KERN_INFO " https://aranym.org/\n";
 
 MODULE_AUTHOR("Milan Jurik");
 MODULE_DESCRIPTION("Atari NFeth driver");
