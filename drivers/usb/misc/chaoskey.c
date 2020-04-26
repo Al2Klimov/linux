@@ -4,7 +4,7 @@
  *
  * This device provides true random numbers using a noise source based
  * on a reverse-biased p-n junction in avalanche breakdown. More
- * details can be found at http://chaoskey.org
+ * details can be found at https://chaoskey.org
  *
  * The driver connects to the kernel hardware RNG interface to provide
  * entropy for /dev/random and other kernel activities. It also offers
