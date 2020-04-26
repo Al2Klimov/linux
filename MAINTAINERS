@@ -2737,7 +2737,7 @@ ASAHI KASEI AK8974 DRIVER
 M:	Linus Walleij <linus.walleij@linaro.org>
 L:	linux-iio@vger.kernel.org
 S:	Supported
-W:	http://www.akm.com/
+W:	https://www.akm.com/
 F:	drivers/iio/magnetometer/ak8974.c
 
 ASC7621 HARDWARE MONITOR DRIVER
