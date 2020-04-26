@@ -3901,7 +3901,7 @@ CEC FRAMEWORK
 M:	Hans Verkuil <hverkuil-cisco@xs4all.nl>
 L:	linux-media@vger.kernel.org
 S:	Supported
-W:	http://linuxtv.org
+W:	https://linuxtv.org
 T:	git git://linuxtv.org/media_tree.git
 F:	Documentation/ABI/testing/debugfs-cec-error-inj
 F:	Documentation/devicetree/bindings/media/cec.txt
@@ -3918,7 +3918,7 @@ CEC GPIO DRIVER
 M:	Hans Verkuil <hverkuil-cisco@xs4all.nl>
 L:	linux-media@vger.kernel.org
 S:	Supported
-W:	http://linuxtv.org
+W:	https://linuxtv.org
 T:	git git://linuxtv.org/media_tree.git
 F:	Documentation/devicetree/bindings/media/cec-gpio.txt
 F:	drivers/media/platform/cec-gpio/
@@ -4487,7 +4487,7 @@ CS3308 MEDIA DRIVER
 M:	Hans Verkuil <hverkuil@xs4all.nl>
 L:	linux-media@vger.kernel.org
 S:	Odd Fixes
-W:	http://linuxtv.org
+W:	https://linuxtv.org
 T:	git git://linuxtv.org/media_tree.git
 F:	drivers/media/i2c/cs3308.c
 
@@ -10442,7 +10442,7 @@ MEDIA DRIVERS FOR CXD2880
 M:	Yasunari Takiguchi <Yasunari.Takiguchi@sony.com>
 L:	linux-media@vger.kernel.org
 S:	Supported
-W:	http://linuxtv.org/
+W:	https://linuxtv.org/
 T:	git git://linuxtv.org/media_tree.git
 F:	drivers/media/dvb-frontends/cxd2880/*
 F:	drivers/media/spi/cxd2880*
@@ -16923,7 +16923,7 @@ TI VPE/CAL DRIVERS
 M:	Benoit Parrot <bparrot@ti.com>
 L:	linux-media@vger.kernel.org
 S:	Maintained
-W:	http://linuxtv.org/
+W:	https://linuxtv.org/
 Q:	http://patchwork.linuxtv.org/project/linux-media/list/
 F:	Documentation/devicetree/bindings/media/ti,cal.yaml
 F:	Documentation/devicetree/bindings/media/ti,vpe.yaml
@@ -17203,7 +17203,7 @@ TW686X VIDEO4LINUX DRIVER
 M:	Ezequiel Garcia <ezequiel@vanguardiasur.com.ar>
 L:	linux-media@vger.kernel.org
 S:	Maintained
-W:	http://linuxtv.org
+W:	https://linuxtv.org
 T:	git git://linuxtv.org/media_tree.git
 F:	drivers/media/pci/tw686x/
 
