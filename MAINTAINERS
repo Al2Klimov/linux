@@ -10416,7 +10416,7 @@ M:	Abylay Ospan <aospan@netup.ru>
 L:	linux-media@vger.kernel.org
 S:	Supported
 W:	https://linuxtv.org
-W:	http://netup.tv/
+W:	https://www.netup.tv/
 T:	git git://linuxtv.org/media_tree.git
 F:	drivers/media/dvb-frontends/ascot2e*
 
@@ -10434,7 +10434,7 @@ M:	Abylay Ospan <aospan@netup.ru>
 L:	linux-media@vger.kernel.org
 S:	Supported
 W:	https://linuxtv.org
-W:	http://netup.tv/
+W:	https://www.netup.tv/
 T:	git git://linuxtv.org/media_tree.git
 F:	drivers/media/dvb-frontends/cxd2841er*
 
@@ -10482,7 +10482,7 @@ M:	Abylay Ospan <aospan@netup.ru>
 L:	linux-media@vger.kernel.org
 S:	Supported
 W:	https://linuxtv.org
-W:	http://netup.tv/
+W:	https://www.netup.tv/
 T:	git git://linuxtv.org/media_tree.git
 F:	drivers/media/dvb-frontends/helene*
 
@@ -10492,7 +10492,7 @@ M:	Abylay Ospan <aospan@netup.ru>
 L:	linux-media@vger.kernel.org
 S:	Supported
 W:	https://linuxtv.org
-W:	http://netup.tv/
+W:	https://www.netup.tv/
 T:	git git://linuxtv.org/media_tree.git
 F:	drivers/media/dvb-frontends/horus3a*
 
@@ -10502,7 +10502,7 @@ M:	Abylay Ospan <aospan@netup.ru>
 L:	linux-media@vger.kernel.org
 S:	Supported
 W:	https://linuxtv.org
-W:	http://netup.tv/
+W:	https://www.netup.tv/
 T:	git git://linuxtv.org/media_tree.git
 F:	drivers/media/dvb-frontends/lnbh25*
 
@@ -10519,7 +10519,7 @@ M:	Abylay Ospan <aospan@netup.ru>
 L:	linux-media@vger.kernel.org
 S:	Supported
 W:	https://linuxtv.org
-W:	http://netup.tv/
+W:	https://www.netup.tv/
 T:	git git://linuxtv.org/media_tree.git
 F:	drivers/media/pci/netup_unidvb/*
 
