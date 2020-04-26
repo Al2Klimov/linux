@@ -411,7 +411,7 @@ and set tag depth on Controller 1/Target 2 to 10 tags.
     - To speak with a Technical Support Specialist, call, or email,
 
       * German:  +49 89 4366 5522, Monday-Friday, 9:00-17:00 CET,
-        http://ask-de.adaptec.com/.
+        https://ask-de.adaptec.com/.
       * French:  +49 89 4366 5533, Monday-Friday, 9:00-17:00 CET,
 	http://ask-fr.adaptec.com/.
       * English: +49 89 4366 5544, Monday-Friday, 9:00-17:00 GMT,
