@@ -521,10 +521,10 @@ for targets 0 and 6 of Controller 0.
 
    Support Options
     - Search the Adaptec Support Knowledgebase (ASK) at
-      http://ask.adaptec.com for articles, troubleshooting tips, and
+      https://ask.adaptec.com for articles, troubleshooting tips, and
       frequently asked questions about your product.
     - For support via Email, submit your question to Adaptec's
-      Technical Support Specialists at http://ask.adaptec.com/.
+      Technical Support Specialists at https://ask.adaptec.com/.
 
    North America
     - Visit our Web site at http://www.adaptec.com/.
@@ -551,7 +551,7 @@ for targets 0 and 6 of Controller 0.
       * French:  +49 89 4366 5533, Monday-Friday, 9:00-17:00 CET,
 	https://ask-fr.adaptec.com/.
       * English: +49 89 4366 5544, Monday-Friday, 9:00-17:00 GMT,
-	http://ask.adaptec.com/.
+	https://ask.adaptec.com/.
 
     - You can order Adaptec cables online at
       http://www.adaptec.com/buy-cables/.
