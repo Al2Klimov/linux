@@ -20,7 +20,7 @@
  * Boston, MA 021110-1307, USA.
  *
  * If you can't comply with GPLv2, alternative licensing terms may be
- * arranged. Please contact Fuel7, Inc. (http://fuel7.com/) for proprietary
+ * arranged. Please contact Fuel7, Inc. (https://fuel7.com/) for proprietary
  * alternative licensing inquiries.
  */
 
