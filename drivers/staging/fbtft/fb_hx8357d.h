@@ -1,7 +1,7 @@
 /* SPDX-License-Identifier: MIT */
 /*
  * This is our library for the Adafruit  ILI9341 Breakout and Shield
- * ----> http://www.adafruit.com/products/1651
+ * ----> https://www.adafruit.com/products/1651
  *
  * Check out the links above for our tutorials and wiring diagrams
  * These displays use SPI to communicate, 4 or 5 pins are required to
