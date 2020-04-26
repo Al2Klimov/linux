@@ -656,7 +656,7 @@
 #define ACTON_SPECTRAPRO_PID	0x0100
 
 /*
- * Contec products (http://www.contec.com)
+ * Contec products (https://www.contec.com)
  * Submitted by Daniel Sangorrin
  */
 #define CONTEC_VID		0x06CE	/* Vendor ID */
