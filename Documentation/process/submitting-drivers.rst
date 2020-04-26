@@ -178,7 +178,7 @@ LWN.net:
 KernelNewbies:
 	Documentation and assistance for new kernel programmers
 
-		http://kernelnewbies.org/
+		https://kernelnewbies.org/
 
 Linux USB project:
 	http://www.linux-usb.org/
@@ -187,7 +187,7 @@ How to NOT write kernel driver by Arjan van de Ven:
 	http://www.fenrus.org/how-to-not-write-a-device-driver-paper.pdf
 
 Kernel Janitor:
-	http://kernelnewbies.org/KernelJanitors
+	https://kernelnewbies.org/KernelJanitors
 
 GIT, Fast Version Control System:
 	https://git-scm.com/

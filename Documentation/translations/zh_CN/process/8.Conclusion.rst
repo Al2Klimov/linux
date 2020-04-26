@@ -24,7 +24,7 @@
 
 除此之外，内核开发人员的一个宝贵资源是：
 
-        http://kernelnewbies.org/
+        https://kernelnewbies.org/
 
 当然，我们不应该忘记 https://kernel.org/ 这是内核发布信息的最终位置。
 

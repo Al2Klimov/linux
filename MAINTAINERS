@@ -9228,7 +9228,7 @@ F:	scripts/package/
 KERNEL JANITORS
 L:	kernel-janitors@vger.kernel.org
 S:	Odd Fixes
-W:	http://kernelnewbies.org/KernelJanitors
+W:	https://kernelnewbies.org/KernelJanitors
 
 KERNEL NFSD, SUNRPC, AND LOCKD SERVERS
 M:	"J. Bruce Fields" <bfields@fieldses.org>

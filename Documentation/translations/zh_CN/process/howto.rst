@@ -163,7 +163,7 @@ ReST格式的文档会生成在 Documentation/output. 目录中。
 ------------------
 如果你对Linux内核开发一无所知，你应该访问“Linux内核新手”计划：
 
-	http://kernelnewbies.org
+	https://kernelnewbies.org
 
 它拥有一个可以问各种最基本的内核开发问题的邮件列表（在提问之前一定要记得
 查找已往的邮件，确认是否有人已经回答过相同的问题）。它还拥有一个可以获得
@@ -176,7 +176,7 @@ ReST格式的文档会生成在 Documentation/output. 目录中。
 如果你想加入内核开发社区并协助完成一些任务，却找不到从哪里开始，可以访问
 “Linux内核房管员”计划：
 
-	http://kernelnewbies.org/KernelJanitors
+	https://kernelnewbies.org/KernelJanitors
 
 这是极佳的起点。它提供一个相对简单的任务列表，列出内核代码中需要被重新
 整理或者改正的地方。通过和负责这个计划的开发者们一同工作，你会学到将补丁

@@ -148,7 +148,7 @@ LWN.net:
 
 内核新手(KernelNewbies):
 	为新的内核开发者提供文档和帮助
-	http://kernelnewbies.org/
+	https://kernelnewbies.org/
 
 Linux USB项目：
 	http://www.linux-usb.org/
@@ -157,4 +157,4 @@ Linux USB项目：
 	http://www.fenrus.org/how-to-not-write-a-device-driver-paper.pdf
 
 内核清洁工 (Kernel Janitor):
-	http://kernelnewbies.org/KernelJanitors
+	https://kernelnewbies.org/KernelJanitors

@@ -31,7 +31,7 @@ molti argomenti specifici sul kernel:
 
 Oltre a ciò, una risorsa valida per gli sviluppatori kernel è:
 
-	http://kernelnewbies.org/
+	https://kernelnewbies.org/
 
 E, ovviamente, una fonte da non dimenticare è https://kernel.org/, il luogo
 definitivo per le informazioni sui rilasci del kernel.
