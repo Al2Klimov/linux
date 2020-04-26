@@ -1961,7 +1961,7 @@
 		Note: EVMS populates and manages all the devnodes in
 		/dev/evms.
 
-		http://sf.net/projects/evms
+		https://sf.net/projects/evms
 
 		   0 = /dev/evms/block_device   EVMS block device
 		   1 = /dev/evms/legacyname1    First EVMS legacy device

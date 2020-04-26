@@ -184,7 +184,7 @@ There are user and developer mailing lists available through the v9fs project
 on sourceforge (http://sourceforge.net/projects/v9fs).
 
 News and other information is maintained on a Wiki.
-(http://sf.net/apps/mediawiki/v9fs/index.php).
+(https://sf.net/apps/mediawiki/v9fs/index.php).
 
 Bug reports are best issued via the mailing list.
 
