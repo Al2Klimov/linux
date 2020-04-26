@@ -11,7 +11,7 @@
  *
  * The assembler implementation from Agner Fog, which this code is
  * based on, can be found here:
- * http://www.agner.org/optimize/asmlib.zip
+ * https://www.agner.org/optimize/asmlib.zip
  *
  * This optimization for A/B is helpful if the divisor B is mostly
  * runtime invariant. The reciprocal of B is calculated in the
