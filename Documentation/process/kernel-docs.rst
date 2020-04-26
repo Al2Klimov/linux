@@ -108,7 +108,7 @@ On-line docs
     * Title: **Writing an ALSA Driver**
 
       :Author: Takashi Iwai <tiwai@suse.de>
-      :URL: http://www.alsa-project.org/~iwai/writing-an-alsa-driver/index.html
+      :URL: https://www.alsa-project.org/~iwai/writing-an-alsa-driver/index.html
       :Date: 2005
       :Keywords: ALSA, sound, soundcard, driver, lowlevel, hardware.
       :Description: Advanced Linux Sound Architecture for developers,

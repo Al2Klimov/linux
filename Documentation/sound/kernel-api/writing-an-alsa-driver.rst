@@ -8,7 +8,7 @@ Preface
 =======
 
 This document describes how to write an `ALSA (Advanced Linux Sound
-Architecture) <http://www.alsa-project.org/>`__ driver. The document
+Architecture) <https://www.alsa-project.org/>`__ driver. The document
 focuses mainly on PCI soundcards. In the case of other device types, the
 API might be different, too. However, at least the ALSA kernel API is
 consistent, and therefore it would be still a bit help for writing them.

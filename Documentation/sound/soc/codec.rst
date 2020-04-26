@@ -132,7 +132,7 @@ The codec driver also supports the following ALSA PCM operations:-
   };
 
 Please refer to the ALSA driver PCM documentation for details.
-http://www.alsa-project.org/~iwai/writing-an-alsa-driver/
+https://www.alsa-project.org/~iwai/writing-an-alsa-driver/
 
 
 DAPM description

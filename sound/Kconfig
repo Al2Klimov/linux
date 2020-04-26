@@ -47,7 +47,7 @@ menuconfig SND
 	  Say 'Y' or 'M' to enable ALSA (Advanced Linux Sound Architecture),
 	  the new base sound system.
 
-	  For more information, see <http://www.alsa-project.org/>
+	  For more information, see <https://www.alsa-project.org/>
 
 if SND
 
