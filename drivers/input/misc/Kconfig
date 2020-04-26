@@ -415,7 +415,7 @@ config INPUT_POWERMATE
 	  which can be instructed to pulse or to switch to a particular intensity.
 
 	  You can download userspace tools from
-	  <http://sowerbutts.com/powermate/>.
+	  <https://sowerbutts.com/powermate/>.
 
 	  To compile this driver as a module, choose M here: the
 	  module will be called powermate.

@@ -25,7 +25,7 @@
  *
  * Griffin were very happy to provide documentation and free hardware for development.
  *
- * Some userspace tools are available on the web: http://sowerbutts.com/powermate/
+ * Some userspace tools are available on the web: https://sowerbutts.com/powermate/
  *
  */
 
