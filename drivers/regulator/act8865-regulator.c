@@ -2,7 +2,7 @@
 /*
  * act8865-regulator.c - Voltage regulation for active-semi ACT88xx PMUs
  *
- * http://www.active-semi.com/products/power-management-units/act88xx/
+ * https://active-semi.com/products/power-management-units/act88xx/
  *
  * Copyright (C) 2013 Atmel Corporation
  */
