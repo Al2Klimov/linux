@@ -138,7 +138,7 @@
 #define FTDI_IPLUS2_PID 0xD071 /* Product Id */
 
 /*
- * Gamma Scout (http://gamma-scout.com/). Submitted by rsc@runtux.com.
+ * Gamma Scout (https://www.gamma-scout.com/). Submitted by rsc@runtux.com.
  */
 #define FTDI_GAMMA_SCOUT_PID		0xD678	/* Gamma Scout online */
 
