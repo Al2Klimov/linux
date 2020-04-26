@@ -75,7 +75,7 @@ Disclaimer
 I am not a MicroTouch/3M employee, nor have I ever been.  3M does not support
 this driver!  If you want touch drivers only supported within X, please go to:
 
-http://www.3m.com/3MTouchSystems/
+https://www.3m.com/3MTouchSystems/
 
 Thanks
 ======
