@@ -285,7 +285,7 @@ error:
 /*
  * This is a special sequence we must do to ensure the P0 output is not stuck
  * in test mode. This is described in rev 2 of the ds2408's datasheet
- * (http://datasheets.maximintegrated.com/en/ds/DS2408.pdf) under
+ * (https://datasheets.maximintegrated.com/en/ds/DS2408.pdf) under
  * "APPLICATION INFORMATION/Power-up timing".
  */
 static int w1_f29_disable_test_mode(struct w1_slave *sl)

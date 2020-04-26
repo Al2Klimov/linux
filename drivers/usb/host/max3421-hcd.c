@@ -11,7 +11,7 @@
  *
  * Based on:
  *	o MAX3421E datasheet
- *		http://datasheets.maximintegrated.com/en/ds/MAX3421E.pdf
+ *		https://datasheets.maximintegrated.com/en/ds/MAX3421E.pdf
  *	o MAX3421E Programming Guide
  *		http://www.hdl.co.jp/ftpdata/utl-001/AN3785.pdf
  *	o gadget/dummy_hcd.c
