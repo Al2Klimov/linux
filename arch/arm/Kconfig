@@ -126,7 +126,7 @@ config ARM
 	  handhelds such as the Compaq IPAQ.  ARM-based PCs are no longer
 	  manufactured, but legacy ARM-based PC hardware remains popular in
 	  Europe.  There is an ARM Linux project with a web page at
-	  <http://www.arm.linux.org.uk/>.
+	  <https://www.arm.linux.org.uk/>.
 
 config ARM_HAS_SG_CHAIN
 	bool

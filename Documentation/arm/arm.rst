@@ -48,12 +48,12 @@ Bug reports etc
 ---------------
 
   Please send patches to the patch system.  For more information, see
-  http://www.arm.linux.org.uk/developer/patches/info.php Always include some
+  https://www.arm.linux.org.uk/developer/patches/info.php Always include some
   explanation as to what the patch does and why it is needed.
 
   Bug reports should be sent to linux-arm-kernel@lists.arm.linux.org.uk,
   or submitted through the web form at
-  http://www.arm.linux.org.uk/developer/
+  https://www.arm.linux.org.uk/developer/
 
   When sending bug reports, please ensure that they contain all relevant
   information, eg. the kernel messages that were printed before/during
@@ -169,7 +169,7 @@ ST506 hard drives
 
   Previous registrations may be found online.
 
-    <http://www.arm.linux.org.uk/developer/machines/>
+    <https://www.arm.linux.org.uk/developer/machines/>
 
 Kernel entry (head.S)
 ---------------------
@@ -204,7 +204,7 @@ Kernel entry (head.S)
   compile-time code selection method.  You can register a new machine via the
   web site at:
 
-    <http://www.arm.linux.org.uk/developer/machines/>
+    <https://www.arm.linux.org.uk/developer/machines/>
 
   Note: Please do not register a machine type for DT-only platforms.  If your
   platform is DT-only, you do not need a registered machine type.

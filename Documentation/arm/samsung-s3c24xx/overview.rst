@@ -140,7 +140,7 @@ Adding New Machines
   Read the kernel patch submission policies as well as the
   Documentation/arm directory before submitting patches. The
   ARM kernel series is managed by Russell King, and has a patch system
-  located at http://www.arm.linux.org.uk/developer/patches/
+  located at https://www.arm.linux.org.uk/developer/patches/
   as well as mailing lists that can be found from the same site.
 
   As a courtesy, please notify <ben-linux@fluff.org> of any new
@@ -148,7 +148,7 @@ Adding New Machines
 
   Any large scale modifications, or new drivers should be discussed
   on the ARM kernel mailing list (linux-arm-kernel) before being
-  attempted. See http://www.arm.linux.org.uk/mailinglists/ for the
+  attempted. See https://www.arm.linux.org.uk/mailinglists/ for the
   mailing list information.
 
 
