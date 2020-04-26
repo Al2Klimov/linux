@@ -13,7 +13,7 @@
  *
  * Documentation of the protocol is available here:
  *
- * http://rainshadowtech.com/doc/HDMICECtoUSBandRS232v2.0.pdf
+ * https://rainshadowtech.com/doc/HDMICECtoUSBandRS232v2.0.pdf
  */
 
 #include <linux/completion.h>
