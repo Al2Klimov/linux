@@ -62,4 +62,4 @@ Testing and debugging BPF
 .. _Documentation/networking/filter.txt: ../networking/filter.txt
 .. _man-pages: https://www.kernel.org/doc/man-pages/
 .. _bpf(2): http://man7.org/linux/man-pages/man2/bpf.2.html
-.. _BPF and XDP Reference Guide: http://cilium.readthedocs.io/en/latest/bpf/
+.. _BPF and XDP Reference Guide: https://cilium.readthedocs.io/en/latest/bpf/

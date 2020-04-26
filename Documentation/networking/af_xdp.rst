@@ -12,7 +12,7 @@ packet processing.
 
 This document assumes that the reader is familiar with BPF and XDP. If
 not, the Cilium project has an excellent reference guide at
-http://cilium.readthedocs.io/en/latest/bpf/.
+https://cilium.readthedocs.io/en/latest/bpf/.
 
 Using the XDP_REDIRECT action from an XDP program, the program can
 redirect ingress frames to other XDP enabled netdevs, using the
