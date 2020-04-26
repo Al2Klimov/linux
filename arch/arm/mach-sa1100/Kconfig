@@ -127,7 +127,7 @@ config SA1100_NANOENGINE
 	select PCI_NANOENGINE
 	help
 	  Say Y here if you are using the Bright Star Engineering nanoEngine.
-	  See <http://www.brightstareng.com/arm/nanoeng.htm> for information
+	  See <https://www.brightstareng.com/arm/nanoeng.htm> for information
 	  on the BSE nanoEngine.
 
 config SA1100_PLEB
