@@ -2624,7 +2624,7 @@ lot of {Linux} into your technology!!!"
 ,location = {Melbourne, Australia}
 ,pages = {66--79}
 ,numpages = {14}
-,url = {http://dl.acm.org/citation.cfm?id=2075416.2075425}
+,url = {https://dl.acm.org/citation.cfm?id=2075416.2075425}
 ,acmid = {2075425}
 ,publisher = {Springer-Verlag}
 ,address = {Berlin, Heidelberg}
