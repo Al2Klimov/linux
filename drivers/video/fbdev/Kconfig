@@ -1213,7 +1213,7 @@ config FB_RADEON
 	  don't need to choose this to run the Radeon in plain VGA mode.
 
 	  There is a product page at
-	  http://products.amd.com/en-us/GraphicCardResult.aspx
+	  https://products.amd.com/en-us/GraphicCardResult.aspx
 
 config FB_RADEON_I2C
 	bool "DDC/I2C for ATI Radeon support"
