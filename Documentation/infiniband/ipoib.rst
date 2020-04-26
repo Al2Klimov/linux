@@ -106,10 +106,10 @@ References
 ==========
 
   Transmission of IP over InfiniBand (IPoIB) (RFC 4391)
-    http://ietf.org/rfc/rfc4391.txt
+    https://www.ietf.org/rfc/rfc4391.txt
 
   IP over InfiniBand (IPoIB) Architecture (RFC 4392)
-    http://ietf.org/rfc/rfc4392.txt
+    https://www.ietf.org/rfc/rfc4392.txt
 
   IP over InfiniBand: Connected Mode (RFC 4755)
-    http://ietf.org/rfc/rfc4755.txt
+    https://www.ietf.org/rfc/rfc4755.txt
