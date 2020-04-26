@@ -18,7 +18,7 @@
 
 /*
  * Initial source code of clump size calculation is gotten
- * from http://opensource.apple.com/tarballs/diskdev_cmds/
+ * from https://opensource.apple.com/tarballs/diskdev_cmds/
  */
 #define CLUMP_ENTRIES	15
 
