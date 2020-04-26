@@ -1435,7 +1435,7 @@
 #define MILKYMISTONE_JTAGSERIAL_PID	0x0713
 
 /*
- * CTI GmbH RS485 Converter http://www.cti-lean.com/
+ * CTI GmbH RS485 Converter https://www.cti-lean.com/
  */
 /* USB-485-Mini*/
 #define FTDI_CTI_MINI_PID	0xF608
