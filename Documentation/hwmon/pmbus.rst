@@ -11,7 +11,7 @@ Supported chips:
 
     Datasheet:
 
- http://archive.ericsson.net/service/internet/picov/get?DocNo=28701-EN/LZT146395
+ https://archive.ericsson.net/service/internet/picov/get?DocNo=28701-EN/LZT146395
 
   * ON Semiconductor ADP4000, NCP4200, NCP4208
 

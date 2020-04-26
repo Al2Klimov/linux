@@ -91,7 +91,7 @@ Supported chips:
 
     Datasheet:
 
-http://archive.ericsson.net/service/internet/picov/get?DocNo=28701-EN/LZT146401
+https://archive.ericsson.net/service/internet/picov/get?DocNo=28701-EN/LZT146401
 
   * Ericsson BMR462, BMR463, BMR464
 
@@ -101,7 +101,7 @@ http://archive.ericsson.net/service/internet/picov/get?DocNo=28701-EN/LZT146401
 
     Datasheet:
 
-	http://archive.ericsson.net/service/internet/picov/get?DocNo=28701-EN/LZT146256
+	https://archive.ericsson.net/service/internet/picov/get?DocNo=28701-EN/LZT146256
 
 Author: Guenter Roeck <linux@roeck-us.net>
 
