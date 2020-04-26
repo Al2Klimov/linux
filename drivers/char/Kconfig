@@ -237,7 +237,7 @@ config APPLICOM
 	  This driver provides the kernel-side support for the intelligent
 	  fieldbus cards made by Applicom International. More information
 	  about these cards can be found on the WWW at the address
-	  <http://www.applicom-int.com/>, or by email from David Woodhouse
+	  <https://www.applicom-int.com/>, or by email from David Woodhouse
 	  <dwmw2@infradead.org>.
 
 	  To compile this driver as a module, choose M here: the
