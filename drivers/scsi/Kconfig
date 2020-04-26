@@ -474,7 +474,7 @@ config SCSI_ARCMSR
 	  This is an ARECA-maintained driver by Erich Chen.
 	  If you have any problems, please mail to: <erich@areca.com.tw>.
 	  Areca supports Linux RAID config tools.
-	  Please link <http://www.areca.com.tw>
+	  Please link <https://www.areca.com.tw>
 
 	  To compile this driver as a module, choose M here: the
 	  module will be called arcmsr (modprobe arcmsr).
