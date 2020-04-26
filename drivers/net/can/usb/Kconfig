@@ -6,7 +6,7 @@ config CAN_8DEV_USB
 	tristate "8 devices USB2CAN interface"
 	---help---
 	  This driver supports the USB2CAN interface
-	  from 8 devices (http://www.8devices.com).
+	  from 8 devices (https://www.8devices.com).
 
 config CAN_EMS_USB
 	tristate "EMS CPC-USB/ARM7 CAN/USB interface"
