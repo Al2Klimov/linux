@@ -376,7 +376,7 @@ D: Original author of the Linux networking code
 
 N: Anton Blanchard
 E: anton@samba.org
-W: http://samba.org/~anton/
+W: https://samba.org/~anton/
 P: 1024/8462A731 4C 55 86 34 44 59 A7 99  2B 97 88 4A 88 9A 0D 97
 D: sun4 port, Sparc hacker
 
@@ -3654,7 +3654,7 @@ S: Canada K2L 1S2
 
 N: Andrew Tridgell
 E: tridge@samba.org
-W: http://samba.org/tridge/
+W: https://samba.org/tridge/
 D: dosemu, networking, samba
 S: 3 Ballow Crescent
 S: MacGregor A.C.T 2615

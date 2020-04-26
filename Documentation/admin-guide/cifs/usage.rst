@@ -17,7 +17,7 @@ standard for interoperating between Macs and Windows and major NAS appliances.
 Please see
 MS-SMB2 (for detailed SMB2/SMB3/SMB3.1.1 protocol specification)
 http://protocolfreedom.org/ and
-http://samba.org/samba/PFIF/
+https://samba.org/samba/PFIF/
 for more details.
 
 
