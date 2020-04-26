@@ -11,7 +11,7 @@ These attributes list properties of fan performance states.
 
 For more information on _FPS refer to the ACPI specification at:
 
-http://uefi.org/specifications
+https://uefi.org/specifications
 
 For instance, the contents of the INT3404 ACPI device sysfs directory
 may look as follows::

@@ -106,7 +106,7 @@
  * The values used in the type field of the memory map table entries are
  * defined below and match the Address Range Types as defined in the "System
  * Address Map Interfaces" section of the ACPI Specification. Please refer to
- * section 15 in version 6.2 of the ACPI spec: http://uefi.org/specifications
+ * section 15 in version 6.2 of the ACPI spec: https://uefi.org/specifications
  */
 #define XEN_HVM_MEMMAP_TYPE_RAM       1
 #define XEN_HVM_MEMMAP_TYPE_RESERVED  2

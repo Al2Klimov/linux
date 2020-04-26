@@ -14,7 +14,7 @@ to request performance levels and to measure per-cpu delivered performance.
 
 For more details on CPPC please refer to the ACPI specification at:
 
-http://uefi.org/specifications
+https://uefi.org/specifications
 
 Some of the CPPC registers are exposed via sysfs under::
 
