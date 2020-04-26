@@ -18,7 +18,7 @@ top-level json-schema properties used are:
 $id
   A json-schema unique identifier string. The string must be a valid
   URI typically containing the binding's filename and path. For DT schema, it must
-  begin with "http://devicetree.org/schemas/". The URL is used in constructing
+  begin with "https://www.devicetree.org/schemas/". The URL is used in constructing
   references to other files specified in schema "$ref" properties. A $ref values
   with a leading '/' will have the hostname prepended. A $ref value a relative
   path or filename only will be prepended with the hostname and path components

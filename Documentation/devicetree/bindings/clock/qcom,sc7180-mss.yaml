@@ -1,8 +1,8 @@
 # SPDX-License-Identifier: (GPL-2.0-only OR BSD-2-Clause)
 %YAML 1.2
 ---
-$id: http://devicetree.org/schemas/clock/qcom,sc7180-mss.yaml#
-$schema: http://devicetree.org/meta-schemas/core.yaml#
+$id: https://www.devicetree.org/schemas/clock/qcom,sc7180-mss.yaml#
+$schema: https://www.devicetree.org/meta-schemas/core.yaml#
 
 title: Qualcomm Modem Clock Controller Binding for SC7180
 

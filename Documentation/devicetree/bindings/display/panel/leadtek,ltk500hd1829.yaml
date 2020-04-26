@@ -1,8 +1,8 @@
 # SPDX-License-Identifier: (GPL-2.0-only OR BSD-2-Clause)
 %YAML 1.2
 ---
-$id: http://devicetree.org/schemas/display/panel/leadtek,ltk500hd1829.yaml#
-$schema: http://devicetree.org/meta-schemas/core.yaml#
+$id: https://www.devicetree.org/schemas/display/panel/leadtek,ltk500hd1829.yaml#
+$schema: https://www.devicetree.org/meta-schemas/core.yaml#
 
 title: Leadtek LTK500HD1829 5.0in 720x1280 DSI panel
 

@@ -1,8 +1,8 @@
 # SPDX-License-Identifier: GPL-2.0+
 %YAML 1.2
 ---
-$id: http://devicetree.org/schemas/net/adi,adin.yaml#
-$schema: http://devicetree.org/meta-schemas/core.yaml#
+$id: https://www.devicetree.org/schemas/net/adi,adin.yaml#
+$schema: https://www.devicetree.org/meta-schemas/core.yaml#
 
 title: Analog Devices ADIN1200/ADIN1300 PHY
 

@@ -1,8 +1,8 @@
 # SPDX-License-Identifier: GPL-2.0
 %YAML 1.2
 ---
-$id: http://devicetree.org/schemas/display/panel/sgd,gktw70sdae4se.yaml#
-$schema: http://devicetree.org/meta-schemas/core.yaml#
+$id: https://www.devicetree.org/schemas/display/panel/sgd,gktw70sdae4se.yaml#
+$schema: https://www.devicetree.org/meta-schemas/core.yaml#
 
 title: Solomon Goldentek Display GKTW70SDAE4SE 7" WVGA LVDS Display Panel
 

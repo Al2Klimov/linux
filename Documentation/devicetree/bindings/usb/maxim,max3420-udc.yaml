@@ -1,8 +1,8 @@
 # SPDX-License-Identifier: (GPL-2.0 OR BSD-2-Clause)
 %YAML 1.2
 ---
-$id: http://devicetree.org/schemas/usb/maxim,max3420-udc.yaml#
-$schema: http://devicetree.org/meta-schemas/core.yaml#
+$id: https://www.devicetree.org/schemas/usb/maxim,max3420-udc.yaml#
+$schema: https://www.devicetree.org/meta-schemas/core.yaml#
 
 title: MAXIM MAX3420/1 USB Peripheral Controller
 

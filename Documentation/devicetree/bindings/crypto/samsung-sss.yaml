@@ -1,8 +1,8 @@
 # SPDX-License-Identifier: GPL-2.0
 %YAML 1.2
 ---
-$id: http://devicetree.org/schemas/crypto/samsung-sss.yaml#
-$schema: http://devicetree.org/meta-schemas/core.yaml#
+$id: https://www.devicetree.org/schemas/crypto/samsung-sss.yaml#
+$schema: https://www.devicetree.org/meta-schemas/core.yaml#
 
 title: Samsung Exynos SoC SSS (Security SubSystem) module
 
