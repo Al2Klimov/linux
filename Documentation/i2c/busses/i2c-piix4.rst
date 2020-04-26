@@ -11,10 +11,10 @@ Supported adapters:
   * ATI IXP200, IXP300, IXP400, SB600, SB700 and SB800 southbridges
     Datasheet: Not publicly available
     SB700 register reference available at:
-    http://support.amd.com/us/Embedded_TechDocs/43009_sb7xx_rrg_pub_1.00.pdf
+    https://support.amd.com/us/Embedded_TechDocs/43009_sb7xx_rrg_pub_1.00.pdf
   * AMD SP5100 (SB700 derivative found on some server mainboards)
     Datasheet: Publicly available at the AMD website
-    http://support.amd.com/us/Embedded_TechDocs/44413.pdf
+    https://support.amd.com/us/Embedded_TechDocs/44413.pdf
   * AMD Hudson-2, ML, CZ
     Datasheet: Not publicly available
   * Hygon CZ

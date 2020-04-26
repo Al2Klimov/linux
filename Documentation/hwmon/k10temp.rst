@@ -40,47 +40,47 @@ Supported chips:
 
   BIOS and Kernel Developer's Guide (BKDG) For AMD Family 10h Processors:
 
-    http://support.amd.com/us/Processor_TechDocs/31116.pdf
+    https://support.amd.com/us/Processor_TechDocs/31116.pdf
 
   BIOS and Kernel Developer's Guide (BKDG) for AMD Family 11h Processors:
 
-    http://support.amd.com/us/Processor_TechDocs/41256.pdf
+    https://support.amd.com/us/Processor_TechDocs/41256.pdf
 
   BIOS and Kernel Developer's Guide (BKDG) for AMD Family 12h Processors:
 
-    http://support.amd.com/us/Processor_TechDocs/41131.pdf
+    https://support.amd.com/us/Processor_TechDocs/41131.pdf
 
   BIOS and Kernel Developer's Guide (BKDG) for AMD Family 14h Models 00h-0Fh Processors:
 
-    http://support.amd.com/us/Processor_TechDocs/43170.pdf
+    https://support.amd.com/us/Processor_TechDocs/43170.pdf
 
   Revision Guide for AMD Family 10h Processors:
 
-    http://support.amd.com/us/Processor_TechDocs/41322.pdf
+    https://support.amd.com/us/Processor_TechDocs/41322.pdf
 
   Revision Guide for AMD Family 11h Processors:
 
-    http://support.amd.com/us/Processor_TechDocs/41788.pdf
+    https://support.amd.com/us/Processor_TechDocs/41788.pdf
 
   Revision Guide for AMD Family 12h Processors:
 
-    http://support.amd.com/us/Processor_TechDocs/44739.pdf
+    https://support.amd.com/us/Processor_TechDocs/44739.pdf
 
   Revision Guide for AMD Family 14h Models 00h-0Fh Processors:
 
-    http://support.amd.com/us/Processor_TechDocs/47534.pdf
+    https://support.amd.com/us/Processor_TechDocs/47534.pdf
 
   AMD Family 11h Processor Power and Thermal Data Sheet for Notebooks:
 
-    http://support.amd.com/us/Processor_TechDocs/43373.pdf
+    https://support.amd.com/us/Processor_TechDocs/43373.pdf
 
   AMD Family 10h Server and Workstation Processor Power and Thermal Data Sheet:
 
-    http://support.amd.com/us/Processor_TechDocs/43374.pdf
+    https://support.amd.com/us/Processor_TechDocs/43374.pdf
 
   AMD Family 10h Desktop Processor Power and Thermal Data Sheet:
 
-    http://support.amd.com/us/Processor_TechDocs/43375.pdf
+    https://support.amd.com/us/Processor_TechDocs/43375.pdf
 
 Author: Clemens Ladisch <clemens@ladisch.de>
 
