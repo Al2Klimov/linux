@@ -21,7 +21,7 @@ of their attack without resorting to user-assisted phishing.
 
 This is not a theoretical problem. SSH session hijacking
 (http://www.storm.net.nz/projects/7) and arbitrary code injection
-(http://c-skills.blogspot.com/2007/05/injectso.html) attacks already
+(https://c-skills.blogspot.com/2007/05/injectso.html) attacks already
 exist and remain possible if ptrace is allowed to operate as before.
 Since ptrace is not commonly used by non-developers and non-admins, system
 builders should be allowed the option to disable this debugging system.
