@@ -41,7 +41,7 @@ memory region renewal the kernel always marks new memory regions (and
 expanded regions) as soft dirty.
 
 This feature is actively used by the checkpoint-restore project. You
-can find more details about it on http://criu.org
+can find more details about it on https://criu.org
 
 
 -- Pavel Emelyanov, Apr 9, 2013
