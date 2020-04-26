@@ -110,7 +110,7 @@ config DRM_I915_GVT
 	  Note that at least one hypervisor like Xen or KVM is required for
 	  this driver to work, and it only supports newer device from
 	  Broadwell+. For further information and setup guide, you can
-	  visit: http://01.org/igvt-g.
+	  visit: https://01.org/igvt-g.
 
 	  Now it's just a stub to support the modifications of i915 for
 	  GVT device model. It requires at least one MPT modules for Xen/KVM
