@@ -145,7 +145,7 @@ static inline char *mc_event_error_type(const unsigned int err_type)
 
 /**
  * enum mem_type - memory types. For a more detailed reference, please see
- *			http://en.wikipedia.org/wiki/DRAM
+ *			https://en.wikipedia.org/wiki/DRAM
  *
  * @MEM_EMPTY:		Empty csrow
  * @MEM_RESERVED:	Reserved csrow type
@@ -154,13 +154,13 @@ static inline char *mc_event_error_type(const unsigned int err_type)
  * @MEM_EDO:		EDO - Extended data out, used on systems up to 1998.
  * @MEM_BEDO:		BEDO - Burst Extended data out, an EDO variant.
  * @MEM_SDR:		SDR - Single data rate SDRAM
- *			http://en.wikipedia.org/wiki/Synchronous_dynamic_random-access_memory
+ *			https://en.wikipedia.org/wiki/Synchronous_dynamic_random-access_memory
  *			They use 3 pins for chip select: Pins 0 and 2 are
  *			for rank 0; pins 1 and 3 are for rank 1, if the memory
  *			is dual-rank.
  * @MEM_RDR:		Registered SDR SDRAM
  * @MEM_DDR:		Double data rate SDRAM
- *			http://en.wikipedia.org/wiki/DDR_SDRAM
+ *			https://en.wikipedia.org/wiki/DDR_SDRAM
  * @MEM_RDDR:		Registered Double data rate SDRAM
  *			This is a variant of the DDR memories.
  *			A registered memory has a buffer inside it, hiding

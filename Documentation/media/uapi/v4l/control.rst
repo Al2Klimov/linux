@@ -176,7 +176,7 @@ Control IDs
     temperature in Kelvin. A driver should have a minimum of 2800
     (incandescent) to 6500 (daylight). For more information about color
     temperature see
-    `Wikipedia <http://en.wikipedia.org/wiki/Color_temperature>`__.
+    `Wikipedia <https://en.wikipedia.org/wiki/Color_temperature>`__.
 
 ``V4L2_CID_SHARPNESS`` ``(integer)``
     Adjusts the sharpness filters in a camera. The minimum value

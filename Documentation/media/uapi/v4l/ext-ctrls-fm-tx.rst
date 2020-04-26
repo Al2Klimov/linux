@@ -73,7 +73,7 @@ FM_TX Control IDs
 
 ``V4L2_CID_RDS_TX_ARTIFICIAL_HEAD (boolean)``
     Sets the
-    `Artificial Head <http://en.wikipedia.org/wiki/Artificial_head>`__
+    `Artificial Head <https://en.wikipedia.org/wiki/Artificial_head>`__
     bit of the Decoder Identification code. If set, then the audio was
     recorded using an artificial head.
 

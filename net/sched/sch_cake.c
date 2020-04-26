@@ -363,7 +363,7 @@ static const u8 bulk_order[] = {1, 0, 2, 3};
 #define REC_INV_SQRT_CACHE (16)
 static u32 cobalt_rec_inv_sqrt_cache[REC_INV_SQRT_CACHE] = {0};
 
-/* http://en.wikipedia.org/wiki/Methods_of_computing_square_roots
+/* https://en.wikipedia.org/wiki/Methods_of_computing_square_roots
  * new_invsqrt = (invsqrt / 2) * (3 - count * invsqrt^2)
  *
  * Here, invsqrt is a fixed point number (< 1.0), 32bit mantissa, aka Q0.32

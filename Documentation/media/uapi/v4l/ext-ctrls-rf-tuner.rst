@@ -27,8 +27,8 @@ applicable for new feature rich silicon tuners, just because older
 tuners does not have much adjustable features.
 
 For more information about RF tuners see
-`Tuner (radio) <http://en.wikipedia.org/wiki/Tuner_%28radio%29>`__
-and `RF front end <http://en.wikipedia.org/wiki/RF_front_end>`__
+`Tuner (radio) <https://en.wikipedia.org/wiki/Tuner_%28radio%29>`__
+and `RF front end <https://en.wikipedia.org/wiki/RF_front_end>`__
 from Wikipedia.
 
 

@@ -36,7 +36,7 @@ void __init fpu__init_check_bugs(void)
 	 * trap_init() enabled FXSR and company _before_ testing for FP
 	 * problems here.
 	 *
-	 * Test for the divl bug: http://en.wikipedia.org/wiki/Fdiv_bug
+	 * Test for the divl bug: https://en.wikipedia.org/wiki/Fdiv_bug
 	 */
 	__asm__("fninit\n\t"
 		"fldl %1\n\t"

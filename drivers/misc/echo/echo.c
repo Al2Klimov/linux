@@ -80,7 +80,7 @@
    [4] The source code http://svn.rowetel.com/software/oslec/
 
    [5] A nice reference on LMS filters:
-	 http://en.wikipedia.org/wiki/Least_mean_squares_filter
+	 https://en.wikipedia.org/wiki/Least_mean_squares_filter
 
    Credits:
 

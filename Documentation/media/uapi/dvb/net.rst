@@ -19,9 +19,9 @@ visible through the standard Linux network protocol stack.
 
 Currently, two encapsulations are supported:
 
--  `Multi Protocol Encapsulation (MPE) <http://en.wikipedia.org/wiki/Multiprotocol_Encapsulation>`__
+-  `Multi Protocol Encapsulation (MPE) <https://en.wikipedia.org/wiki/Multiprotocol_Encapsulation>`__
 
--  `Ultra Lightweight Encapsulation (ULE) <http://en.wikipedia.org/wiki/Unidirectional_Lightweight_Encapsulation>`__
+-  `Ultra Lightweight Encapsulation (ULE) <https://en.wikipedia.org/wiki/Unidirectional_Lightweight_Encapsulation>`__
 
 In order to create the Linux virtual network interfaces, an application
 needs to tell to the Kernel what are the PIDs and the encapsulation

@@ -65,7 +65,7 @@ static uint32_t formats[] = {
 };
 
 /* Sine can be approximated with
- * http://en.wikipedia.org/wiki/Bhaskara_I's_sine_approximation_formula
+ * https://en.wikipedia.org/wiki/Bhaskara_I's_sine_approximation_formula
  * sin(x degrees) ~= 4 x (180 - x) / (40500 - x (180 - x) )
  * Note that this only works for the range [0, 180].
  * Also note that sin(x) == -sin(x - 180)

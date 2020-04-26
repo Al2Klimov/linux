@@ -37,13 +37,13 @@ double avg_stats(struct stats *stats)
 }
 
 /*
- * http://en.wikipedia.org/wiki/Algorithms_for_calculating_variance
+ * https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance
  *
  *       (\Sum n_i^2) - ((\Sum n_i)^2)/n
  * s^2 = -------------------------------
  *                  n - 1
  *
- * http://en.wikipedia.org/wiki/Stddev
+ * https://en.wikipedia.org/wiki/Stddev
  *
  * The std dev of the mean is related to the std dev by:
  *

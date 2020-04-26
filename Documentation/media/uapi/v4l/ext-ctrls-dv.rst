@@ -14,8 +14,8 @@ Digital Video Control Reference
 *******************************
 
 The Digital Video control class is intended to control receivers and
-transmitters for `VGA <http://en.wikipedia.org/wiki/Vga>`__,
-`DVI <http://en.wikipedia.org/wiki/Digital_Visual_Interface>`__
+transmitters for `VGA <https://en.wikipedia.org/wiki/Vga>`__,
+`DVI <https://en.wikipedia.org/wiki/Digital_Visual_Interface>`__
 (Digital Visual Interface), HDMI (:ref:`hdmi`) and DisplayPort
 (:ref:`dp`). These controls are generally expected to be private to
 the receiver or transmitter subdevice that implements them, so they are
