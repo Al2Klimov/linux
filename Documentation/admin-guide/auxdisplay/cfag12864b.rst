@@ -27,8 +27,8 @@ This driver supports a cfag12864b LCD.
 :Manufacturer:	Crystalfontz
 :Device Name:	Crystalfontz 12864b LCD Series
 :Device Code:	cfag12864b
-:Webpage:	http://www.crystalfontz.com
-:Device Webpage: http://www.crystalfontz.com/products/12864b/
+:Webpage:	https://www.crystalfontz.com
+:Device Webpage: https://www.crystalfontz.com/products/12864b/
 :Type:		LCD (Liquid Crystal Display)
 :Width:		128
 :Height:	64
