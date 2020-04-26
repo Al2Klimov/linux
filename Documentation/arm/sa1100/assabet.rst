@@ -6,7 +6,7 @@ Please see:
 http://developer.intel.com
 
 Also some notes from John G Dorsey <jd5q@andrew.cmu.edu>:
-http://www.cs.cmu.edu/~wearable/software/assabet.html
+https://www.cs.cmu.edu/~wearable/software/assabet.html
 
 
 Building the kernel

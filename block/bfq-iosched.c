@@ -105,7 +105,7 @@
  *     Algorithms", IEEE/ACM Transactions on Networking, 5(5):675-689,
  *     Oct 1997.
  *
- * http://www.cs.cmu.edu/~hzhang/papers/TON-97-Oct.ps.gz
+ * https://www.cs.cmu.edu/~hzhang/papers/TON-97-Oct.ps.gz
  *
  * [3] I. Stoica and H. Abdel-Wahab, "Earliest Eligible Virtual Deadline
  *     First: A Flexible and Accurate Mechanism for Proportional Share
