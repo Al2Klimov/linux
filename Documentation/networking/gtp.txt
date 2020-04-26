@@ -36,7 +36,7 @@ public internet, but can also be any private IP network (or even
 theoretically some non-IP network like X.25).
 
 You can find the protocol specification in 3GPP TS 29.060, available
-publicly via the 3GPP website at http://www.3gpp.org/DynaReport/29060.htm
+publicly via the 3GPP website at https://www.3gpp.org/DynaReport/29060.htm
 
 A direct PDF link to v13.6.0 is provided for convenience below:
 http://www.etsi.org/deliver/etsi_ts/129000_129099/129060/13.06.00_60/ts_129060v130600p.pdf

@@ -18,7 +18,7 @@
  *
  * The modem adheres to the "3GPP TS  27.007 AT command set for 3G
  * User Equipment (UE)" standard, available from
- * http://www.3gpp.org/ftp/Specs/html-info/27007.htm
+ * https://www.3gpp.org/ftp/Specs/html-info/27007.htm
  *
  * The code was only tested the IPWireless handheld modem distributed
  * in South Africa by Sentech.
