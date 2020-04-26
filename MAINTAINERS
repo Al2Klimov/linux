@@ -5019,7 +5019,7 @@ DISPLAYLINK USB 2.0 FRAMEBUFFER DRIVER (UDLFB)
 M:	Bernie Thompson <bernie@plugable.com>
 L:	linux-fbdev@vger.kernel.org
 S:	Maintained
-W:	http://plugable.com/category/projects/udlfb/
+W:	https://plugable.com/category/projects/udlfb/
 F:	Documentation/fb/udlfb.rst
 F:	drivers/video/fbdev/udlfb.c
 F:	include/video/udlfb.h
