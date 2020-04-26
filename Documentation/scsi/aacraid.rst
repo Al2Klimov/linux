@@ -6,7 +6,7 @@ AACRAID Driver for Linux (take two)
 
 Introduction
 ============
-The aacraid driver adds support for Adaptec (http://www.adaptec.com)
+The aacraid driver adds support for Adaptec (https://www.adaptec.com)
 RAID controllers. This is a major rewrite from the original
 Adaptec supplied driver. It has significantly cleaned up both the code
 and the running binary size (the module is less than half the size of

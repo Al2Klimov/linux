@@ -253,7 +253,7 @@ AACRAID SCSI RAID DRIVER
 M:	Adaptec OEM Raid Solutions <aacraid@microsemi.com>
 L:	linux-scsi@vger.kernel.org
 S:	Supported
-W:	http://www.adaptec.com/
+W:	https://www.adaptec.com/
 F:	Documentation/scsi/aacraid.rst
 F:	drivers/scsi/aacraid/
 
@@ -5201,7 +5201,7 @@ DPT_I2O SCSI RAID DRIVER
 M:	Adaptec OEM Raid Solutions <aacraid@microsemi.com>
 L:	linux-scsi@vger.kernel.org
 S:	Maintained
-W:	http://www.adaptec.com/
+W:	https://www.adaptec.com/
 F:	drivers/scsi/dpt*
 F:	drivers/scsi/dpt/
 
@@ -8922,7 +8922,7 @@ IPS SCSI RAID DRIVER
 M:	Adaptec OEM Raid Solutions <aacraid@microsemi.com>
 L:	linux-scsi@vger.kernel.org
 S:	Maintained
-W:	http://www.adaptec.com/
+W:	https://www.adaptec.com/
 F:	drivers/scsi/ips*
 
 IPVS

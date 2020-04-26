@@ -505,7 +505,7 @@ for targets 0 and 6 of Controller 0.
           other RPM packages that try to install system modules.  The best
           way to correct this once the system is running is to install
           the latest RPM package version of this driver, available from
-          http://www.adaptec.com.
+          https://www.adaptec.com.
 
 
 5. Adaptec Customer Support
@@ -527,7 +527,7 @@ for targets 0 and 6 of Controller 0.
       Technical Support Specialists at https://ask.adaptec.com/.
 
    North America
-    - Visit our Web site at http://www.adaptec.com/.
+    - Visit our Web site at https://www.adaptec.com/.
     - For information about Adaptec's support options, call
       408-957-2550, 24 hours a day, 7 days a week.
     - To speak with a Technical Support Specialist,
@@ -540,10 +540,10 @@ for targets 0 and 6 of Controller 0.
       To expedite your service, have your computer with you.
     - To order Adaptec products, including accessories and cables,
       call 408-957-7274.  To order cables online go to
-      http://www.adaptec.com/buy-cables/.
+      https://www.adaptec.com/buy-cables/.
 
    Europe
-    - Visit our Web site at http://www.adaptec.com/en-US/_common/world_index.
+    - Visit our Web site at https://www.adaptec.com/en-US/_common/world_index.
     - To speak with a Technical Support Specialist, call, or email,
 
       * German:  +49 89 4366 5522, Monday-Friday, 9:00-17:00 CET,
@@ -554,7 +554,7 @@ for targets 0 and 6 of Controller 0.
 	https://ask.adaptec.com/.
 
     - You can order Adaptec cables online at
-      http://www.adaptec.com/buy-cables/.
+      https://www.adaptec.com/buy-cables/.
 
    Japan
     - Visit our web site at http://www.adaptec.co.jp/.
