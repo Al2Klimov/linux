@@ -30,7 +30,7 @@
  *      http://www.rs6000.ibm.com/resource/technology/chrpio/via5.mak.html
  *      ftp://ftp.austin.ibm.com/pub/technology/spec/chrp/inwork/CHRP_IORef_1.0.pdf
  *
- * also, http://developer.apple.com/technotes/hw/hw_09.html claims the
+ * also, https://developer.apple.com/technotes/hw/hw_09.html claims the
  * following changes for IIfx:
  * VIA1A_vSccWrReq not available and that VIA1A_vSync has moved to an IOP.
  * Also, "All of the functionality of VIA2 has been moved to other chips".
@@ -178,7 +178,7 @@
 				 * on others, 0=disable processor's instruction
 				 * and data caches. */
 
-/* Apple sez: http://developer.apple.com/technotes/ov/ov_04.html
+/* Apple sez: https://developer.apple.com/technotes/ov/ov_04.html
  * Another example of a valid function that has no ROM support is the use
  * of the alternate video page for page-flipping animation. Since there
  * is no ROM call to flip pages, it is necessary to go play with the

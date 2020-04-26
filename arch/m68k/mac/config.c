@@ -258,7 +258,7 @@ static struct mac_model mac_data_table[] = {
 	 * Weirdified Mac II hardware - all subtly different. Gee thanks
 	 * Apple. All these boxes seem to have VIA2 in a different place to
 	 * the Mac II (+1A000 rather than +4000)
-	 * CSA: see http://developer.apple.com/technotes/hw/hw_09.html
+	 * CSA: see https://developer.apple.com/technotes/hw/hw_09.html
 	 */
 
 	{
