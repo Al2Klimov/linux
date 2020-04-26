@@ -39,4 +39,4 @@ following arguments to the kernel:
  - $a0: -2.
  - $a1: KSEG0 address of the flattened device-tree blob.
 
-[1] http://prplfoundation.org/wiki/MIPS_documentation
+[1] https://prplfoundation.org/wiki/MIPS_documentation
