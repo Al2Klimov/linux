@@ -86,7 +86,7 @@ static inline struct v4l2_subdev *to_sd(struct v4l2_ctrl *ctrl)
 
 /* The TDA7432 is made by STS-Thompson
  * http://www.st.com
- * http://us.st.com/stonline/books/pdf/docs/4056.pdf
+ * https://us.st.com/stonline/books/pdf/docs/4056.pdf
  *
  * TDA7432: I2C-bus controlled basic audio processor
  *
