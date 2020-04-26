@@ -388,7 +388,7 @@ con il lavoro degli altri sviluppatori (e con il ramo principale).
 Git è ora compreso in quasi tutte le distribuzioni Linux. Esiste una sito che
 potete consultare:
 
-	http://git-scm.com/
+	https://git-scm.com/
 
 Qui troverete i riferimenti alla documentazione e alle guide passo-passo.
 

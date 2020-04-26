@@ -365,7 +365,7 @@ to keep up with what other developers (and the mainline) are doing.
 Git is now packaged by almost all Linux distributions.  There is a home
 page at:
 
-	http://git-scm.com/
+	https://git-scm.com/
 
 That page has pointers to documentation and tutorials.
 

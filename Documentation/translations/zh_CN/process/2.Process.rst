@@ -260,7 +260,7 @@ staging驱动程序。因此，在成为一名合适的主线驱动的路上，s
 
 现在几乎所有的Linux发行版都打包了Git。主页位于：
 
-        http://git-scm.com/
+        https://git-scm.com/
 
 那个页面有指向文档和教程的指针。
 

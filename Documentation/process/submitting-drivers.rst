@@ -190,4 +190,4 @@ Kernel Janitor:
 	http://kernelnewbies.org/KernelJanitors
 
 GIT, Fast Version Control System:
-	http://git-scm.com/
+	https://git-scm.com/

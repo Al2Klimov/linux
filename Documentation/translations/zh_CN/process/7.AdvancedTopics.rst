@@ -25,7 +25,7 @@
 将是Git如何特别适合内核开发过程。想要加快Git的开发人员可以在以下网站上找到
 更多信息：
 
-	http://git-scm.com/
+	https://git-scm.com/
 
 	http://www.kernel.org/pub/software/scm/git/docs/user-manual.html
 
