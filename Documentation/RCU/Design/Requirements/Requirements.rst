@@ -1180,7 +1180,7 @@ mere Linux-kernel-mailing-list posts are insufficient to vent their ire.
 Memory consumption is not particularly important for in most situations,
 and has become decreasingly so as memory sizes have expanded and memory
 costs have plummeted. However, as I learned from Matt Mackall's
-`bloatwatch <http://elinux.org/Linux_Tiny-FAQ>`__ efforts, memory
+`bloatwatch <https://elinux.org/Linux_Tiny-FAQ>`__ efforts, memory
 footprint is critically important on single-CPU systems with
 non-preemptible (``CONFIG_PREEMPT=n``) kernels, and thus `tiny
 RCU <https://lkml.kernel.org/g/20090113221724.GA15307@linux.vnet.ibm.com>`__
