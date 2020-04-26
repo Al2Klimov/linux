@@ -8522,7 +8522,7 @@ M:	Rodrigo Vivi <rodrigo.vivi@intel.com>
 L:	intel-gfx@lists.freedesktop.org
 S:	Supported
 W:	https://01.org/linuxgraphics/
-Q:	http://patchwork.freedesktop.org/project/intel-gfx/
+Q:	https://patchwork.freedesktop.org/project/intel-gfx/
 B:	https://gitlab.freedesktop.org/drm/intel/-/wikis/How-to-file-i915-bugs
 C:	irc://chat.freenode.net/intel-gfx
 T:	git git://anongit.freedesktop.org/drm-intel
