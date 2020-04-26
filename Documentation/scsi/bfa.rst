@@ -38,7 +38,7 @@ Firmware download
 
 The latest Firmware package for 3.0.2.2 bfa driver can be found at:
 
-http://www.brocade.com/services-support/drivers-downloads/adapters/Linux.page
+https://www.brocade.com/services-support/drivers-downloads/adapters/Linux.page
 
 and then click following respective util package link:
 
@@ -55,7 +55,7 @@ Configuration & Management utility download
 The latest driver configuration & management utility for 3.0.2.2 bfa driver can
 be found at:
 
-http://www.brocade.com/services-support/drivers-downloads/adapters/Linux.page
+https://www.brocade.com/services-support/drivers-downloads/adapters/Linux.page
 
 and then click following respective util package link
 
@@ -73,7 +73,7 @@ The latest Administration's Guide, Installation and Reference Manual,
 Troubleshooting Guide, and Release Notes for the corresponding out-of-box
 driver can be found at:
 
-http://www.brocade.com/services-support/drivers-downloads/adapters/Linux.page
+https://www.brocade.com/services-support/drivers-downloads/adapters/Linux.page
 
 and use the following inbox and out-of-box driver version mapping to find
 the corresponding documentation:
@@ -89,4 +89,4 @@ Support
 
 For general product and support info, go to the Brocade website at:
 
-http://www.brocade.com/services-support/index.page
+https://www.brocade.com/services-support/index.page
