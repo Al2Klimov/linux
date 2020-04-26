@@ -111,7 +111,7 @@
  *     First: A Flexible and Accurate Mechanism for Proportional Share
  *     Resource Allocation", technical report.
  *
- * http://www.cs.berkeley.edu/~istoica/papers/eevdf-tr-95.pdf
+ * https://cs.berkeley.edu/~istoica/papers/eevdf-tr-95.pdf
  */
 #include <linux/module.h>
 #include <linux/slab.h>
