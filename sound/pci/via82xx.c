@@ -1855,7 +1855,7 @@ static const struct ac97_quirk ac97_quirks[] = {
 		.subvendor = 0x161f,
 		.subdevice = 0x2032,
 		.name = "m680x",
-		.type = AC97_TUNE_HP_ONLY, /* http://launchpad.net/bugs/38546 */
+		.type = AC97_TUNE_HP_ONLY, /* https://launchpad.net/bugs/38546 */
 	},
 	{
 		.subvendor = 0x1297,
