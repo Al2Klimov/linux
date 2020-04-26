@@ -413,7 +413,7 @@ static int random_write_wakeup_bits = 28 * OUTPUT_POOL_WORDS;
  *
  * Our mixing functions were analyzed by Lacharme, Roeck, Strubel, and
  * Videau in their paper, "The Linux Pseudorandom Number Generator
- * Revisited" (see: http://eprint.iacr.org/2012/251.pdf).  In their
+ * Revisited" (see: https://eprint.iacr.org/2012/251.pdf).  In their
  * paper, they point out that we are not using a true Twisted GFSR,
  * since Matsumoto & Kurita used a trinomial feedback polynomial (that
  * is, with only three taps, instead of the six that we are using).
