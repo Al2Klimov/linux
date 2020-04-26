@@ -7,7 +7,7 @@
  * This work was inspired by the AES CTR mode optimization published
  * in Intel Optimized IPSEC Cryptograhpic library.
  * Additional information on it can be found at:
- *    http://downloadcenter.intel.com/Detail_Desc.aspx?agr=Y&DwnldID=22972
+ *    https://downloadcenter.intel.com/Detail_Desc.aspx?agr=Y&DwnldID=22972
  *
  * This file is provided under a dual BSD/GPLv2 license.  When using or
  * redistributing this file, you may do so under either license.
