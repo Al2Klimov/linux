@@ -855,7 +855,7 @@ config FB_S1D13XXX
 	help
 	  Support for S1D13XXX framebuffer device family (currently only
 	  working with S1D13806). Product specs at
-	  <http://vdc.epson.com/>
+	  <https://vdc.epson.com/>
 
 config FB_ATMEL
 	tristate "AT91 LCD Controller support"
