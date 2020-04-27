@@ -31,7 +31,7 @@ years, some of which are:
           http://www.linuxtag.org/2008/en/conf/events/vp-donnerstag.html
 
       - TRUST2008:
-          http://www.trust-conference.eu/downloads/Keynote-Speakers/
+          https://www.trust-conference.eu/downloads/Keynote-Speakers/
           3_David-Grawrock_The-Front-Door-of-Trusted-Computing.pdf
 
       - IDF, Shanghai:
