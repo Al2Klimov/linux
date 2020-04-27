@@ -41,7 +41,7 @@
  * .. _Lattice XP2:
  *     http://www.latticesemi.com/en/Products/FPGAandCPLD/LatticeXP2.aspx
  * .. _Renesas R4F2113:
- *     http://www.renesas.com/products/mpumcu/h8s/h8s2100/h8s2113/index.jsp
+ *     https://www.renesas.com/products/mpumcu/h8s/h8s2100/h8s2113/index.jsp
  */
 
 struct apple_gmux_data {
