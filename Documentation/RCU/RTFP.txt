@@ -1540,7 +1540,7 @@ Revised:
 ,month="August"
 ,day="18"
 ,year="2006"
-,note="\url{http://www.nada.kth.se/~snilsson/publications/TRASH/trash.pdf}"
+,note="\url{https://www.nada.kth.se/~snilsson/publications/TRASH/trash.pdf}"
 ,annotation={
 	RCU-protected dynamic trie-hash combination.
 	[Viewed March 4, 2011]
