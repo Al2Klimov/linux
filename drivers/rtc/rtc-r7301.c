@@ -6,7 +6,7 @@
  *
  * Based on rtc-rp5c01.c
  *
- * Datasheet: http://www5.epsondevice.com/en/products/parallel/rtc7301sf.html
+ * Datasheet: https://www5.epsondevice.com/en/products/parallel/rtc7301sf.html
  */
 
 #include <linux/io.h>
