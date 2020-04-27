@@ -125,7 +125,7 @@ config PPPOE
 
 	  This driver requires the latest version of pppd from the CVS
 	  repository at cvs.samba.org.  Alternatively, see the
-	  RoaringPenguin package (<http://www.roaringpenguin.com/pppoe>)
+	  RoaringPenguin package (<https://www.roaringpenguin.com/pppoe>)
 	  which contains instruction on how to use this driver (under
 	  the heading "Kernel mode PPPoE").
 
