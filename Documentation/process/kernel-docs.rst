@@ -310,7 +310,7 @@ On-line docs
     * Title: **The Linux RAID-1, 4, 5 Code**
 
       :Author: Ingo Molnar, Gadi Oxman and Miguel de Icaza.
-      :URL: http://www.linuxjournal.com/article.php?sid=2391
+      :URL: https://www.linuxjournal.com/article.php?sid=2391
       :Date: 1997
       :Keywords: RAID, MD driver.
       :Description: Linux Journal Kernel Korner article.
@@ -334,7 +334,7 @@ On-line docs
     * Title: **Dynamic Kernels: Modularized Device Drivers**
 
       :Author: Alessandro Rubini.
-      :URL: http://www.linuxjournal.com/article.php?sid=1219
+      :URL: https://www.linuxjournal.com/article.php?sid=1219
       :Date: 1996
       :Keywords: device driver, module, loading/unloading modules,
         allocating resources.
@@ -349,7 +349,7 @@ On-line docs
     * Title: **Dynamic Kernels: Discovery**
 
       :Author: Alessandro Rubini.
-      :URL: http://www.linuxjournal.com/article.php?sid=1220
+      :URL: https://www.linuxjournal.com/article.php?sid=1220
       :Date: 1996
       :Keywords: character driver, init_module, clean_up module,
         autodetection, mayor number, minor number, file operations,
@@ -363,7 +363,7 @@ On-line docs
     * Title: **The Devil's in the Details**
 
       :Author: Georg v. Zezschwitz and Alessandro Rubini.
-      :URL: http://www.linuxjournal.com/article.php?sid=1221
+      :URL: https://www.linuxjournal.com/article.php?sid=1221
       :Date: 1996
       :Keywords: read(), write(), select(), ioctl(), blocking/non
         blocking mode, interrupt handler.
@@ -375,7 +375,7 @@ On-line docs
     * Title: **Dissecting Interrupts and Browsing DMA**
 
       :Author: Alessandro Rubini and Georg v. Zezschwitz.
-      :URL: http://www.linuxjournal.com/article.php?sid=1222
+      :URL: https://www.linuxjournal.com/article.php?sid=1222
       :Date: 1996
       :Keywords: interrupts, irqs, DMA, bottom halves, task queues.
       :Description: Linux Journal Kernel Korner article.
@@ -391,7 +391,7 @@ On-line docs
     * Title: **Device Drivers Concluded**
 
       :Author: Georg v. Zezschwitz.
-      :URL: http://www.linuxjournal.com/article.php?sid=1287
+      :URL: https://www.linuxjournal.com/article.php?sid=1287
       :Date: 1996
       :Keywords: address spaces, pages, pagination, page management,
         demand loading, swapping, memory protection, memory mapping, mmap,
@@ -405,7 +405,7 @@ On-line docs
     * Title: **Network Buffers And Memory Management**
 
       :Author: Alan Cox.
-      :URL: http://www.linuxjournal.com/article.php?sid=1312
+      :URL: https://www.linuxjournal.com/article.php?sid=1312
       :Date: 1996
       :Keywords: sk_buffs, network devices, protocol/link layer
         variables, network devices flags, transmit, receive,

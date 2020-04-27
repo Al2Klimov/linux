@@ -921,7 +921,7 @@ Michal Ostrowski and Bryan Rosenburg and Jimi Xenidis"
 ,number="114"
 ,pages="18-26"
 ,note="Available:
-\url{http://www.linuxjournal.com/article/6993}
+\url{https://www.linuxjournal.com/article/6993}
 [Viewed November 14, 2007]"
 ,annotation={
 	Reader-friendly intro to RCU, with the infamous old-man-and-brat
@@ -967,7 +967,7 @@ Michal Ostrowski and Bryan Rosenburg and Jimi Xenidis"
 ,pages="38-46"
 ,annotation={
 	Reader friendly intro to dcache and RCU.
-	http://www.linuxjournal.com/node/7124
+	https://www.linuxjournal.com/node/7124
 	[Viewed December 26, 2010]
 }
 }

@@ -1066,7 +1066,7 @@ esegue un'istruzione in 0.7ns, un incremento atomico richiede 58ns, acquisire
 un *lock* che è nella memoria cache del processore richiede 160ns, e un
 trasferimento dalla memoria cache di un altro processore richiede altri
 170/360ns (Leggetevi l'articolo di Paul McKenney's `Linux Journal RCU
-article <http://www.linuxjournal.com/article.php?sid=6993>`__).
+article <https://www.linuxjournal.com/article.php?sid=6993>`__).
 
 Questi due obiettivi sono in conflitto: trattenere un *lock* per il minor
 tempo possibile potrebbe richiedere la divisione in più *lock* per diverse

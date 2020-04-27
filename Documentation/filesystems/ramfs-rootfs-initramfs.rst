@@ -304,7 +304,7 @@ the above threads) is:
    widely used on Linux (inside RPM, Red Hat's device driver disks).  Here's
    a Linux Journal article about it from 1996:
 
-      http://www.linuxjournal.com/article/1213
+      https://www.linuxjournal.com/article/1213
 
    It's not as popular as tar because the traditional cpio command line tools
    require _truly_hideous_ command line arguments.  But that says nothing

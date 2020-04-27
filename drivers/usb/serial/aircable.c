@@ -27,7 +27,7 @@
  * one.
  *
  * I have taken some info from a Greg Kroah-Hartman article:
- * http://www.linuxjournal.com/article/6573
+ * https://www.linuxjournal.com/article/6573
  * And from Linux Device Driver Kit CD, which is a great work, the authors taken
  * the work to recompile lots of information an knowledge in drivers development
  * and made it all available inside a cd.

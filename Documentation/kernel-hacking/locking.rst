@@ -1041,7 +1041,7 @@ on a machine with more CPUs, this likelihood drops fast. Consider a
 increment takes about 58ns, a lock which is cache-hot on this CPU takes
 160ns, and a cacheline transfer from another CPU takes an additional 170
 to 360ns. (These figures from Paul McKenney's `Linux Journal RCU
-article <http://www.linuxjournal.com/article.php?sid=6993>`__).
+article <https://www.linuxjournal.com/article.php?sid=6993>`__).
 
 These two aims conflict: holding a lock for a short time might be done
 by splitting locks into parts (such as in our final per-object-lock
