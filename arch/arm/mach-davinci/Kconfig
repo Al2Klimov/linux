@@ -210,7 +210,7 @@ config MACH_OMAPL138_HAWKBOARD
 	help
 	  Say Y here to select the TI AM1808 / OMAPL-138 Hawkboard platform .
 	  Information of this board may be found at
-	  http://www.hawkboard.org/
+	  https://hawkboard.org/
 
 config DAVINCI_MUX
 	bool "DAVINCI multiplexing support"
