@@ -9,7 +9,7 @@ Supported chips:
 
     Addresses scanned: ISA in PCI-space encoded address
 
-    Datasheet: On request through web form (http://www.via.com.tw/en/resources/download-center/)
+    Datasheet: On request through web form (https://www.via.com.tw/en/resources/download-center/)
 
 Authors:
 	- Kyösti Mälkki <kmalkki@cc.hut.fi>,

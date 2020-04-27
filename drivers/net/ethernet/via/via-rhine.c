@@ -211,7 +211,7 @@ IV. Notes
 
 IVb. References
 
-Preliminary VT86C100A manual from http://www.via.com.tw/
+Preliminary VT86C100A manual from https://www.via.com.tw/
 http://www.scyld.com/expert/100mbps.html
 http://www.scyld.com/expert/NWay.html
 ftp://ftp.via.com.tw/public/lan/Products/NIC/VT86C100A/Datasheet/VT86C100A03.pdf
