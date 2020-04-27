@@ -375,7 +375,7 @@ URLS
 ====
 
 Check http://www.immerse.com for Immersion Studio,
-and http://www.fcoder.com for ComPortSpy.
+and https://www.fcoder.com for ComPortSpy.
 
 
 I-Force is trademark of Immersion Corp.
