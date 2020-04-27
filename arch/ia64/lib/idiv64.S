@@ -12,7 +12,7 @@
  *
  * For more details on the theory behind these algorithms, see "IA-64
  * and Elementary Functions" by Peter Markstein; HP Professional Books
- * (http://www.goodreads.com/book/show/2019887.Ia_64_and_Elementary_Functions)
+ * (https://www.goodreads.com/book/show/2019887.Ia_64_and_Elementary_Functions)
  */
 
 #include <asm/asmmacro.h>
