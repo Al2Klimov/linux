@@ -53,5 +53,5 @@ To print all input events from input `devnr`.
 References
 ==========
 
-.. [1] http://www.phoenix-sim.com/
+.. [1] https://www.phoenix-sim.com/
 .. [2] https://www.kraxel.org/cgit/input/
