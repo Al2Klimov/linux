@@ -463,7 +463,7 @@ config SND_MSND_CLASSIC
 	  See <file:Documentation/sound/cards/multisound.sh> for important information
 	  about this driver.  Note that it has been discontinued, but the
 	  Voyetra Turtle Beach knowledge base entry for it is still available
-	  at <http://www.turtlebeach.com/site/kb_ftp/790.asp>.
+	  at <https://www.turtlebeach.com/site/kb_ftp/790.asp>.
 
 	  To compile this driver as a module, choose M here: the module
 	  will be called snd-msnd-classic.

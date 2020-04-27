@@ -1575,7 +1575,7 @@ See Documentation/sound/cards/multisound.sh for important information
 about this driver.  Note that it has been discontinued, but the 
 Voyetra Turtle Beach knowledge base entry for it is still available
 at
-http://www.turtlebeach.com
+https://www.turtlebeach.com
 
 Module snd-msnd-pinnacle
 ------------------------
