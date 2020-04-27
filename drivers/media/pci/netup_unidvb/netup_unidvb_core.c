@@ -787,7 +787,7 @@ static int netup_unidvb_initdev(struct pci_dev *pci_dev,
 		dev_err(&pci_dev->dev,
 			"Please upgrade firmware!\n");
 		dev_err(&pci_dev->dev,
-			"Instructions on http://www.netup.tv\n");
+			"Instructions on https://www.netup.tv\n");
 		old_firmware = 1;
 		spi_enable = 1;
 	}
