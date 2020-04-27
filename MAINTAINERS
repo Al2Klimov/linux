@@ -4681,7 +4681,7 @@ DAMA SLAVE for AX.25
 M:	Joerg Reuter <jreuter@yaina.de>
 L:	linux-hams@vger.kernel.org
 S:	Maintained
-W:	http://yaina.de/jreuter/
+W:	https://yaina.de/jreuter/
 W:	https://www.qsl.net/dl1bke/
 F:	net/ax25/af_ax25.c
 F:	net/ax25/ax25_dev.c
@@ -18642,7 +18642,7 @@ Z8530 DRIVER FOR AX.25
 M:	Joerg Reuter <jreuter@yaina.de>
 L:	linux-hams@vger.kernel.org
 S:	Maintained
-W:	http://yaina.de/jreuter/
+W:	https://yaina.de/jreuter/
 W:	https://www.qsl.net/dl1bke/
 F:	Documentation/networking/z8530drv.txt
 F:	drivers/net/hamradio/*scc.c

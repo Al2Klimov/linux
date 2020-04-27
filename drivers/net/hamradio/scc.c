@@ -131,7 +131,7 @@
    Joerg Reuter	ampr-net: dl1bke@db0pra.ampr.org
 		AX-25   : DL1BKE @ DB0ABH.#BAY.DEU.EU
 		Internet: jreuter@yaina.de
-		www     : http://yaina.de/jreuter
+		www     : https://yaina.de/jreuter
 */
 
 /* ----------------------------------------------------------------------- */
