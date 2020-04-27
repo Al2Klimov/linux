@@ -254,7 +254,7 @@ The "klibc" package (https://www.kernel.org/pub/linux/libs/klibc) is
 designed to be a tiny C library to statically link early userspace
 code against, along with some related utilities.  It is BSD licensed.
 
-I use uClibc (http://www.uclibc.org) and busybox (http://www.busybox.net)
+I use uClibc (https://uclibc.org) and busybox (http://www.busybox.net)
 myself.  These are LGPL and GPL, respectively.  (A self-contained initramfs
 package is planned for the busybox 1.3 release.)
 
