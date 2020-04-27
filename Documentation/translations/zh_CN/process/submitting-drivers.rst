@@ -20,7 +20,7 @@
 
 这篇文档将会解释如何向不同的内核源码树提交设备驱动程序。请注意，如果你感
 兴趣的是显卡驱动程序，你也许应该访问 XFree86 项目(http://www.xfree86.org/)
-和／或 X.org 项目 (http://x.org)。
+和／或 X.org 项目 (https://www.x.org)。
 
 另请参阅 Documentation/translations/zh_CN/process/submitting-patches.rst 文档。
 
