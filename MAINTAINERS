@@ -4682,7 +4682,7 @@ M:	Joerg Reuter <jreuter@yaina.de>
 L:	linux-hams@vger.kernel.org
 S:	Maintained
 W:	http://yaina.de/jreuter/
-W:	http://www.qsl.net/dl1bke/
+W:	https://www.qsl.net/dl1bke/
 F:	net/ax25/af_ax25.c
 F:	net/ax25/ax25_dev.c
 F:	net/ax25/ax25_ds_*
@@ -18643,7 +18643,7 @@ M:	Joerg Reuter <jreuter@yaina.de>
 L:	linux-hams@vger.kernel.org
 S:	Maintained
 W:	http://yaina.de/jreuter/
-W:	http://www.qsl.net/dl1bke/
+W:	https://www.qsl.net/dl1bke/
 F:	Documentation/networking/z8530drv.txt
 F:	drivers/net/hamradio/*scc.c
 F:	drivers/net/hamradio/z8530.h
