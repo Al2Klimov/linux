@@ -697,7 +697,7 @@ static void vli_mmod_fast_192(u64 *result, const u64 *product,
 }
 
 /* Computes result = product % curve_prime
- * from http://www.nsa.gov/ia/_files/nist-routines.pdf
+ * from https://www.nsa.gov/ia/_files/nist-routines.pdf
  */
 static void vli_mmod_fast_256(u64 *result, const u64 *product,
 			      const u64 *curve_prime, u64 *tmp)
