@@ -11037,7 +11037,7 @@ F:	include/linux/mhi.h
 MICROBLAZE ARCHITECTURE
 M:	Michal Simek <monstr@monstr.eu>
 S:	Supported
-W:	http://www.monstr.eu/fdt/
+W:	https://www.monstr.eu/fdt/
 T:	git git://git.monstr.eu/linux-2.6-microblaze.git
 F:	arch/microblaze/
 
