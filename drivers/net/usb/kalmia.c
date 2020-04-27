@@ -39,7 +39,7 @@
  * More information about the use of the modem is available in usb_modeswitch
  * forum and the project page:
  *
- * http://www.draisberghof.de/usb_modeswitch/bb/viewtopic.php?t=465
+ * https://www.draisberghof.de/usb_modeswitch/bb/viewtopic.php?t=465
  * https://github.com/mkotsbak/Samsung-GT-B3730-linux-driver
  */
 
