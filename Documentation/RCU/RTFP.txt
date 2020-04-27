@@ -2437,7 +2437,7 @@ lot of {Linux} into your technology!!!"
 ,month="February"
 ,year="2010"
 ,note="Available:
-\url{http://www.mail-archive.com/kvm@vger.kernel.org/msg28640.html}
+\url{https://www.mail-archive.com/kvm@vger.kernel.org/msg28640.html}
 [Viewed March 20, 2010]"
 ,annotation={
 	Use of RCU permits KVM to increase the size of guest OSes from
