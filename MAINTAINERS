@@ -4596,7 +4596,7 @@ CXGB4 IWARP RNIC DRIVER (IW_CXGB4)
 M:	Potnuri Bharat Teja <bharat@chelsio.com>
 L:	linux-rdma@vger.kernel.org
 S:	Supported
-W:	http://www.openfabrics.org
+W:	https://www.openfabrics.org
 F:	drivers/infiniband/hw/cxgb4/
 F:	include/uapi/rdma/cxgb4-abi.h
 
@@ -9019,7 +9019,7 @@ M:	Sagi Grimberg <sagi@grimberg.me>
 M:	Max Gurtovoy <maxg@mellanox.com>
 L:	linux-rdma@vger.kernel.org
 S:	Supported
-W:	http://www.openfabrics.org
+W:	https://www.openfabrics.org
 W:	www.open-iscsi.org
 Q:	https://patchwork.kernel.org/project/linux-rdma/list/
 F:	drivers/infiniband/ulp/iser/
