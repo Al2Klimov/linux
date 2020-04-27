@@ -6,7 +6,7 @@
  * Copyright (C) 2009 Sascha Hauer, Pengutronix
  *
  * Initial development of this code was funded by
- * Phytec Messtechnik GmbH, http://www.phytec.de/
+ * Phytec Messtechnik GmbH, https://www.phytec.de/
  */
 #include <linux/platform_device.h>
 #include <linux/mfd/mc13783.h>

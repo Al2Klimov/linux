@@ -97,7 +97,7 @@ config CAN_SJA1000_PLATFORM
 	  This driver adds support for the SJA1000 chips connected to
 	  the "platform bus" (Linux abstraction for directly to the
 	  processor attached devices).  Which can be found on various
-	  boards from Phytec (http://www.phytec.de) like the PCM027,
+	  boards from Phytec (https://www.phytec.de) like the PCM027,
 	  PCM038. It also provides the OpenFirmware "platform bus" found
 	  on embedded systems with OpenFirmware bindings, e.g. if you
 	  have a PowerPC based system you may want to enable this option.
