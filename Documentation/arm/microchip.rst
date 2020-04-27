@@ -18,7 +18,7 @@ git branches/tags and email subject always contain this "at91" sub-string.
 AT91 SoCs
 ---------
 Documentation and detailed datasheet for each product are available on
-the Microchip website: http://www.microchip.com.
+the Microchip website: https://www.microchip.com.
 
   Flavors:
     * ARM 920 based SoC

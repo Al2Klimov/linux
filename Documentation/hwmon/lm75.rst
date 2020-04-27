@@ -51,7 +51,7 @@ Supported chips:
 
     Datasheet: Publicly available at the Microchip website
 
-	       http://www.microchip.com/
+	       https://www.microchip.com/
 
   * Microchip MCP9800, MCP9801, MCP9802, MCP9803
 
@@ -61,7 +61,7 @@ Supported chips:
 
     Datasheet: Publicly available at the Microchip website
 
-	       http://www.microchip.com/
+	       https://www.microchip.com/
 
   * Analog Devices ADT75
 

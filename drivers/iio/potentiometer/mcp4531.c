@@ -4,7 +4,7 @@
  * Copyright (c) 2015  Axentia Technologies AB
  * Author: Peter Rosin <peda@axentia.se>
  *
- * Datasheet: http://www.microchip.com/downloads/en/DeviceDoc/22096b.pdf
+ * Datasheet: https://www.microchip.com/downloads/en/DeviceDoc/22096b.pdf
  *
  * DEVID	#Wipers	#Positions	Resistor Opts (kOhm)	i2c address
  * mcp4531	1	129		5, 10, 50, 100          010111x

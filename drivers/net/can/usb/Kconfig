@@ -84,7 +84,7 @@ config CAN_MCBA_USB
 	tristate "Microchip CAN BUS Analyzer interface"
 	---help---
 	  This driver supports the CAN BUS Analyzer interface
-	  from Microchip (http://www.microchip.com/development-tools/).
+	  from Microchip (https://www.microchip.com/development-tools/).
 
 config CAN_PEAK_USB
 	tristate "PEAK PCAN-USB/USB Pro interfaces for CAN 2.0b/CAN-FD"

@@ -28,7 +28,7 @@ config PIC32MZDA
 	  This is a 32-bit microcontroller with support for external or
 	  internally packaged DDR2 memory up to 128MB.
 
-	  For more information, see <http://www.microchip.com/>.
+	  For more information, see <https://www.microchip.com/>.
 
 endchoice
 
