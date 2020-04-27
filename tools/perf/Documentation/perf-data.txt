@@ -45,4 +45,4 @@ OPTIONS for 'convert'
 SEE ALSO
 --------
 linkperf:perf[1]
-[1] Common Trace Format - http://www.efficios.com/ctf
+[1] Common Trace Format - https://www.efficios.com/ctf
