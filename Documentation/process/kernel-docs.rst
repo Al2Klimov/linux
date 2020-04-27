@@ -479,7 +479,7 @@ Published books
       :Pages: 636
       :ISBN: 0-596-00590-3
       :Notes: Further information in
-        http://www.oreilly.com/catalog/linuxdrive3/
+        https://www.oreilly.com/catalog/linuxdrive3/
         PDF format, URL: https://lwn.net/Kernel/LDD3/
 
     * Title: **Linux Kernel Internals**
