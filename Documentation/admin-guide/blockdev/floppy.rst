@@ -226,7 +226,7 @@ The fdutils releases can be found at:
 
  http://fdutils.linux.lu/download.html
 
- http://www.tux.org/pub/knaff/fdutils/
+ https://www.tux.org/pub/knaff/fdutils/
 
  ftp://metalab.unc.edu/pub/Linux/utils/disk-management/
 

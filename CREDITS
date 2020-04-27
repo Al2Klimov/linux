@@ -2397,7 +2397,7 @@ S: Czech Republic
 
 N: John A. Martin
 E: jam@acm.org
-W: http://www.tux.org/~jam/
+W: https://www.tux.org/~jam/
 P: 1024/04456D53 9D A3 6C 6B 88 80 8A 61  D7 06 22 4F 95 40 CE D2
 P: 1024/3B986635 5A61 7EE6 9E20 51FB 59FB  2DA5 3E18 DD55 3B98 6635
 D: FSSTND contributor
@@ -2784,9 +2784,9 @@ S: Brazil
 
 N: David C. Niemi
 E: niemi@tux.org
-W: http://www.tux.org/~niemi/
+W: https://www.tux.org/~niemi/
 D: Assistant maintainer of Mtools, fdutils, and floppy driver
-D: Administrator of Tux.Org Linux Server, http://www.tux.org
+D: Administrator of Tux.Org Linux Server, https://www.tux.org
 S: 2364 Old Trail Drive
 S: Reston, Virginia 20191
 S: USA
