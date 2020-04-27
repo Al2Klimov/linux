@@ -3,7 +3,7 @@
  * comedi/drivers/amplc_pci224.c
  * Driver for Amplicon PCI224 and PCI234 AO boards.
  *
- * Copyright (C) 2005 MEV Ltd. <http://www.mev.co.uk/>
+ * Copyright (C) 2005 MEV Ltd. <https://www.mev.co.uk/>
  *
  * COMEDI - Linux Control and Measurement Device Interface
  * Copyright (C) 1998,2000 David A. Schleef <ds@schleef.org>

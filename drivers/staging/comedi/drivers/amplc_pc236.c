@@ -3,7 +3,7 @@
  * comedi/drivers/amplc_pc236.c
  * Driver for Amplicon PC36AT DIO boards.
  *
- * Copyright (C) 2002 MEV Ltd. <http://www.mev.co.uk/>
+ * Copyright (C) 2002 MEV Ltd. <https://www.mev.co.uk/>
  *
  * COMEDI - Linux Control and Measurement Device Interface
  * Copyright (C) 2000 David A. Schleef <ds@schleef.org>
