@@ -279,7 +279,7 @@ EBU Tech 3213
 
 :title:     E.B.U. Standard for Chromaticity Tolerances for Studio Monitors"
 
-:author:    European Broadcast Union (http://www.ebu.ch)
+:author:    European Broadcast Union (https://www.ebu.ch)
 
 .. _iec62106:
 
