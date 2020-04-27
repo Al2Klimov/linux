@@ -778,7 +778,7 @@ Why the Term "namespace"?
 
     2. The term originated to describe the sub-devices that can be created
        within a NVME controller (see the nvme specification:
-       http://www.nvmexpress.org/specifications/), and NFIT namespaces are
+       https://www.nvmexpress.org/specifications/), and NFIT namespaces are
        meant to parallel the capabilities and configurability of
        NVME-namespaces.
 
