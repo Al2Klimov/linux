@@ -3,7 +3,7 @@
  * Device tree for EFM32GG-DK3750 development board.
  *
  * Documentation available from
- * http://www.silabs.com/Support%20Documents/TechnicalDocs/efm32gg-dk3750-ug.pdf
+ * https://www.silabs.com/Support%20Documents/TechnicalDocs/efm32gg-dk3750-ug.pdf
  */
 
 /dts-v1/;

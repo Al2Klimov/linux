@@ -18,7 +18,7 @@ together with a small microcontroller C8051F321, to form a USB radio.
 Part of this reference design is also a radio application in binary and source
 code. The software also contains an automatic firmware upgrade to the most
 current version. Information on these can be downloaded here:
-http://www.silabs.com/usbradio
+https://www.silabs.com/usbradio
 
 
 Supported ICs
@@ -40,7 +40,7 @@ supported somewhen by the driver:
 - Si4709: Smallest FM receivers, RDS Support
 
 More information on these can be downloaded here:
-http://www.silabs.com/products/mcu/Pages/USBFMRadioRD.aspx
+https://www.silabs.com/products/mcu/Pages/USBFMRadioRD.aspx
 
 
 Supported USB devices
@@ -164,4 +164,4 @@ functions in the kernel.
 Other useful information and links
 ----------------------------------
 
-http://www.silabs.com/usbradio
+https://www.silabs.com/usbradio

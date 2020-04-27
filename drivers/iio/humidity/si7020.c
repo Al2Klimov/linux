@@ -12,9 +12,9 @@
  * temperature input which this driver does not support.
  *
  * Data Sheets:
- *   Si7013: http://www.silabs.com/Support%20Documents/TechnicalDocs/Si7013.pdf
- *   Si7020: http://www.silabs.com/Support%20Documents/TechnicalDocs/Si7020.pdf
- *   Si7021: http://www.silabs.com/Support%20Documents/TechnicalDocs/Si7021.pdf
+ *   Si7013: https://www.silabs.com/Support%20Documents/TechnicalDocs/Si7013.pdf
+ *   Si7020: https://www.silabs.com/Support%20Documents/TechnicalDocs/Si7020.pdf
+ *   Si7021: https://www.silabs.com/Support%20Documents/TechnicalDocs/Si7021.pdf
  */
 
 #include <linux/delay.h>
