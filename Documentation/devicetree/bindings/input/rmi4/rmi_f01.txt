@@ -7,7 +7,7 @@ for transports and other functions can be found in:
 Documentation/devicetree/bindings/input/rmi4.
 
 Additional documentation for F01 can be found at:
-http://www.synaptics.com/sites/default/files/511-000136-01-Rev-E-RMI4-Interfacing-Guide.pdf
+https://www.synaptics.com/sites/default/files/511-000136-01-Rev-E-RMI4-Interfacing-Guide.pdf
 
 Optional Properties:
 - syna,nosleep-mode: If set the device will run at full power without sleeping.

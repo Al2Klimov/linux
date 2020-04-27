@@ -7,7 +7,7 @@
  *
  * The RMI4 specification can be found here (URL split for line length):
  *
- * http://www.synaptics.com/sites/default/files/
+ * https://www.synaptics.com/sites/default/files/
  *      511-000136-01-Rev-E-RMI4-Interfacing-Guide.pdf
  */
 

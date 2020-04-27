@@ -9,7 +9,7 @@ Documentation/devicetree/bindings/input/rmi4.
 
 RMI4 Function 11 and Function 12 are for 2D touch position sensing.
 Additional documentation for F11 can be found at:
-http://www.synaptics.com/sites/default/files/511-000136-01-Rev-E-RMI4-Interfacing-Guide.pdf
+https://www.synaptics.com/sites/default/files/511-000136-01-Rev-E-RMI4-Interfacing-Guide.pdf
 
 Optional Touch Properties:
 Description in Documentation/devicetree/bindings/input/touchscreen
