@@ -33,7 +33,7 @@
 #include <linux/ioctl.h>
 #include "kobil_sct.h"
 
-#define DRIVER_AUTHOR "KOBIL Systems GmbH - http://www.kobil.com"
+#define DRIVER_AUTHOR "KOBIL Systems GmbH - https://www.kobil.com"
 #define DRIVER_DESC "KOBIL USB Smart Card Terminal Driver (experimental)"
 
 #define KOBIL_VENDOR_ID			0x0D46
