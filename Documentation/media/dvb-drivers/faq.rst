@@ -88,7 +88,7 @@ Some very frequently asked questions about linuxtv-dvb
 	https://linuxtv.org/downloads
 		DVB Swiss Army Knife library and utilities
 
-	http://www.nenie.org/misc/mpsys/
+	https://www.nenie.org/misc/mpsys/
 		MPSYS: a MPEG2 system library and tools
 
 	http://mplayerhq.hu/
