@@ -153,7 +153,7 @@
 #define FTDI_VARDAAN_PID	0xF070
 
 /*
- * Xsens Technologies BV products (http://www.xsens.com).
+ * Xsens Technologies BV products (https://www.xsens.com).
  */
 #define XSENS_VID		0x2639
 #define XSENS_AWINDA_STATION_PID 0x0101
