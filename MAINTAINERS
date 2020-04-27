@@ -11606,7 +11606,7 @@ NATIVE INSTRUMENTS USB SOUND INTERFACE DRIVER
 M:	Daniel Mack <zonque@gmail.com>
 L:	alsa-devel@alsa-project.org (moderated for non-subscribers)
 S:	Maintained
-W:	http://www.native-instruments.com
+W:	https://www.native-instruments.com
 F:	sound/usb/caiaq/
 
 NATSEMI ETHERNET DRIVER (DP8381x)
