@@ -761,7 +761,7 @@ D: Ralink rt2x00 WLAN driver
 S: Belas, Portugal
 
 N: Alan Cox
-W: http://www.linux.org.uk/diary/
+W: https://www.linux.org.uk/diary/
 D: Linux Networking (0.99.10->2.0.29)
 D: Original Appletalk, AX.25, and IPX code
 D: 3c501 hacker

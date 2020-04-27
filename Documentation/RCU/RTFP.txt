@@ -735,7 +735,7 @@ Andrea Arcangeli and Andi Kleen and Orran Krieger and Rusty Russell"
 ,Year="2002"
 ,pages="338-367"
 ,note="Available:
-\url{http://www.linux.org.uk/~ajh/ols2002_proceedings.pdf.gz}
+\url{https://www.linux.org.uk/~ajh/ols2002_proceedings.pdf.gz}
 [Viewed June 23, 2004]"
 ,annotation={
 	Presented and compared a number of RCU implementations for the
@@ -980,7 +980,7 @@ Michal Ostrowski and Bryan Rosenburg and Jimi Xenidis"
 ,Year="2004"
 ,Address="Adelaide, Australia"
 ,note="Available:
-\url{http://www.linux.org.au/conf/2004/abstracts.html#90}
+\url{https://www.linux.org.au/conf/2004/abstracts.html#90}
 \url{http://www.rdrop.com/users/paulmck/RCU/lockperf.2004.01.17a.pdf}
 [Viewed June 23, 2004]"
 ,annotation={

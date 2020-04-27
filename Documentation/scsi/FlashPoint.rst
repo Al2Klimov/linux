@@ -34,7 +34,7 @@ Linux is a freely-distributed implementation of UNIX for Intel x86, Sun
 SPARC, SGI MIPS, Motorola 68k, Digital Alpha AXP and Motorola PowerPC
 machines.  It supports a wide range of software, including the X Window
 System, Emacs, and TCP/IP networking.  Further information is available at
-http://www.linux.org and http://www.ssc.com/.
+https://www.linux.org and http://www.ssc.com/.
 
 FlashPoint Host Adapters
 ========================
