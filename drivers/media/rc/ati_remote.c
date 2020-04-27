@@ -36,7 +36,7 @@
  * "USB Receiver" with manufacturer "X10 Wireless Technology Inc".
  *
  * The "Lola" remote is available from X10.  See:
- *    http://www.x10.com/products/lola_sg1.htm
+ *    https://www.x10.com/products/lola_sg1.htm
  * The Lola is similar to the ATI remote but has no mouse support, and slightly
  * different keys.
  *
