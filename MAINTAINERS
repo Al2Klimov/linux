@@ -10938,7 +10938,7 @@ MEMORY MANAGEMENT
 M:	Andrew Morton <akpm@linux-foundation.org>
 L:	linux-mm@kvack.org
 S:	Maintained
-W:	http://www.linux-mm.org
+W:	https://www.linux-mm.org
 T:	quilt https://ozlabs.org/~akpm/mmotm/
 T:	quilt https://ozlabs.org/~akpm/mmots/
 T:	git git://github.com/hnaz/linux-mm.git
