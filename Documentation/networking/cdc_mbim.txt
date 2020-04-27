@@ -323,11 +323,11 @@ References
 [3] libmbim - "a glib-based library for talking to WWAN modems and
       devices which speak the Mobile Interface Broadband Model (MBIM)
       protocol"
-      - http://www.freedesktop.org/wiki/Software/libmbim/
+      - https://www.freedesktop.org/wiki/Software/libmbim/
 
 [4] ModemManager - "a DBus-activated daemon which controls mobile
       broadband (2G/3G/4G) devices and connections"
-      - http://www.freedesktop.org/wiki/Software/ModemManager/
+      - https://www.freedesktop.org/wiki/Software/ModemManager/
 
 [5] "MBIM (Mobile Broadband Interface Model) Registry"
        - https://compliance.usb.org/mbim/
