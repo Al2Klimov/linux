@@ -507,7 +507,7 @@ static void gc_multi_process_packet(struct gc *gc)
  *
  * See documentation at:
  *	http://www.geocities.co.jp/Playtown/2004/psx/ps_eng.txt	
- *	http://www.gamesx.com/controldata/psxcont/psxcont.htm
+ *	https://gamesx.com/controldata/psxcont/psxcont.htm
  *
  */
 
