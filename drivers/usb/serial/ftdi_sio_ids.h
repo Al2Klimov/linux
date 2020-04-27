@@ -374,7 +374,7 @@
 #define FTDI_MHAM_RS232_PID	0xEEEE	/* USB-RS232 interface */
 #define FTDI_MHAM_Y9_PID	0xEEEF	/* USB-Y9 interface */
 
-/* Domintell products  http://www.domintell.com */
+/* Domintell products  https://www.domintell.com */
 #define FTDI_DOMINTELL_DGQG_PID	0xEF50	/* Master */
 #define FTDI_DOMINTELL_DUSB_PID	0xEF51	/* DUSB01 module */
 
