@@ -67,9 +67,9 @@ Supported chips:
 
     Datasheet:
 
-	http://www.onsemi.com/pub_link/Collateral/CAT34TS02-D.PDF
+	https://www.onsemi.com/pub_link/Collateral/CAT34TS02-D.PDF
 
-	http://www.onsemi.com/pub/Collateral/CAT6095-D.PDF
+	https://www.onsemi.com/pub/Collateral/CAT6095-D.PDF
 
   * ST Microelectronics STTS424, STTS424E02, STTS2002, STTS2004, STTS3000
 

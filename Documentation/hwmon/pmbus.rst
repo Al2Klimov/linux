@@ -21,11 +21,11 @@ Supported chips:
 
     Datasheets:
 
-	http://www.onsemi.com/pub_link/Collateral/ADP4000-D.PDF
+	https://www.onsemi.com/pub_link/Collateral/ADP4000-D.PDF
 
-	http://www.onsemi.com/pub_link/Collateral/NCP4200-D.PDF
+	https://www.onsemi.com/pub_link/Collateral/NCP4200-D.PDF
 
-	http://www.onsemi.com/pub_link/Collateral/JUNE%202009-%20REV.%200.PDF
+	https://www.onsemi.com/pub_link/Collateral/JUNE%202009-%20REV.%200.PDF
 
   * Lineage Power
 
