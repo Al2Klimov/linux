@@ -131,7 +131,7 @@ typedef uint64_t blkif_sector_t;
  * More information about trim/unmap operations at:
  * http://t13.org/Documents/UploadedDocuments/docs2008/
  *     e07154r6-Data_Set_Management_Proposal_for_ATA-ACS2.doc
- * http://www.seagate.com/staticfiles/support/disc/manuals/
+ * https://www.seagate.com/staticfiles/support/disc/manuals/
  *     Interface%20manuals/100293068c.pdf
  * The backend can optionally provide three extra XenBus attributes to
  * further optimize the discard functionality:
