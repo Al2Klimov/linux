@@ -258,7 +258,7 @@ static unsigned short keymap_usbph01(int scancode)
  * Keymap for ATCom AU-100
  * https://www.atcom.cn/products.html 
  * https://www.packetizer.com/products/au100/
- * http://www.voip-info.org/wiki/view/AU-100
+ * https://www.voip-info.org/wiki/view/AU-100
  *
  * Contributed by daniel@gimpelevich.san-francisco.ca.us
  */
