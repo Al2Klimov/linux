@@ -16,7 +16,7 @@
  * Copyright 1997--2000 Martin Mares <mj@ucw.cz>
  *
  * For more information, please consult the following manuals (look at
- * http://www.pcisig.com/ for how to get them):
+ * https://pcisig.com/ for how to get them):
  *
  * PCI BIOS Specification
  * PCI Local Bus Specification
