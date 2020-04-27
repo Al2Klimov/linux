@@ -85,7 +85,7 @@ Save your kernel configuration and then build your kernel.
 
 step 3.  Install
 
-See the kernel howto <http://www.linux.com/howto/Kernel-HOWTO.html> for
+See the kernel howto <https://www.linux.com/howto/Kernel-HOWTO.html> for
 instructions on this critical step.
 
 Using BFS
