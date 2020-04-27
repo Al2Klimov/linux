@@ -1881,7 +1881,7 @@ static int acpi_nfit_add_dimm(struct acpi_nfit_desc *acpi_desc,
 	 * set by GUID. Note, if you're a platform developer looking to add
 	 * a new command set to this probe, consider using an existing set,
 	 * or otherwise seek approval to publish the command set at
-	 * http://www.uefi.org/RFIC_LIST.
+	 * https://uefi.org/RFIC_LIST.
 	 *
 	 * Note, that checking for function0 (bit0) tells us if any commands
 	 * are reachable through this GUID.

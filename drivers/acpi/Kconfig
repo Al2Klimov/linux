@@ -41,7 +41,7 @@ menuconfig ACPI
 	  to the ACPI specification.
 	  The specification is available at:
 	  <http://www.acpi.info>
-	  <http://www.uefi.org/acpi/specs>
+	  <https://uefi.org/acpi/specs>
 
 if ACPI
 

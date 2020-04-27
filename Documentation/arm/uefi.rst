@@ -4,7 +4,7 @@ The Unified Extensible Firmware Interface (UEFI)
 
 UEFI, the Unified Extensible Firmware Interface, is a specification
 governing the behaviours of compatible firmware interfaces. It is
-maintained by the UEFI Forum - http://www.uefi.org/.
+maintained by the UEFI Forum - https://uefi.org/.
 
 UEFI is an evolution of its predecessor 'EFI', so the terms EFI and
 UEFI are used somewhat interchangeably in this document and associated

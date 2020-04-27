@@ -101,11 +101,11 @@ References
 [4] Documentation/devicetree/bindings/media/video-interfaces.txt
 
 [5] Device Properties UUID For _DSD.
-    <URL:http://www.uefi.org/sites/default/files/resources/_DSD-device-properties-UUID.pdf>,
+    <URL:https://uefi.org/sites/default/files/resources/_DSD-device-properties-UUID.pdf>,
     referenced 2019-02-21.
 
 [6] Hierarchical Data Extension UUID For _DSD.
-    <URL:http://www.uefi.org/sites/default/files/resources/_DSD-hierarchical-data-extension-UUID-v1.1.pdf>,
+    <URL:https://uefi.org/sites/default/files/resources/_DSD-hierarchical-data-extension-UUID-v1.1.pdf>,
     referenced 2019-02-21.
 
 [7] Documentation/firmware-guide/acpi/dsd/data-node-references.rst

@@ -96,5 +96,5 @@ contents.
 References
 ==========
 
-.. [1] http://www.uefi.org/sites/default/files/resources/_DSD-device-properties-UUID.pdf
-.. [2] http://www.uefi.org/sites/default/files/resources/_DSD-hierarchical-data-extension-UUID-v1.1.pdf
+.. [1] https://uefi.org/sites/default/files/resources/_DSD-device-properties-UUID.pdf
+.. [2] https://uefi.org/sites/default/files/resources/_DSD-hierarchical-data-extension-UUID-v1.1.pdf

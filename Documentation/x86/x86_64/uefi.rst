@@ -10,7 +10,7 @@ Although the tools below are _not_ needed for building the kernel,
 the needed bootloader support and associated tools for x86_64 platforms
 with EFI firmware and specifications are listed below.
 
-1. UEFI specification:  http://www.uefi.org
+1. UEFI specification:  https://uefi.org
 
 2. Booting Linux kernel on UEFI x86_64 platform requires bootloader
    support. Elilo with x86_64 support can be used.

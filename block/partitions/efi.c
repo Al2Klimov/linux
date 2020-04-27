@@ -2,7 +2,7 @@
 /************************************************************
  * EFI GUID Partition Table handling
  *
- * http://www.uefi.org/specs/
+ * https://uefi.org/specs/
  * http://www.intel.com/technology/efi/
  *
  * efi.[ch] by Matt Domsch <Matt_Domsch@dell.com>

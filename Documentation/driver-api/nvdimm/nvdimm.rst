@@ -113,7 +113,7 @@ Supporting Documents
 --------------------
 
 ACPI 6:
-	http://www.uefi.org/sites/default/files/resources/ACPI_6.0.pdf
+	https://uefi.org/sites/default/files/resources/ACPI_6.0.pdf
 NVDIMM Namespace:
 	https://pmem.io/documents/NVDIMM_Namespace_Spec.pdf
 DSM Interface Example:

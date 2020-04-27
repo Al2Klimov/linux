@@ -40,7 +40,7 @@
  *  the client needs to retry or assume failure.
  *
  *	For more details about PCC, please see the ACPI specification from
- *  http://www.uefi.org/ACPIv5.1 Section 14.
+ *  https://uefi.org/ACPIv5.1 Section 14.
  *
  *  This file implements PCC as a Mailbox controller and allows for PCC
  *  clients to be implemented as its Mailbox Client Channels.

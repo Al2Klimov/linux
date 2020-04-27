@@ -11,8 +11,8 @@ available to those with an ARM login due to ARM IP licensing concerns.
 The ARMv8 kernel implements the reduced hardware model of ACPI version
 5.1 or later.  Links to the specification and all external documents
 it refers to are managed by the UEFI Forum.  The specification is
-available at http://www.uefi.org/specifications and documents referenced
-by the specification can be found via http://www.uefi.org/acpi.
+available at https://uefi.org/specifications and documents referenced
+by the specification can be found via https://uefi.org/acpi.
 
 If an ARMv8 system does not meet the requirements of the SBSA and SBBR,
 or cannot be described using the mechanisms defined in the required ACPI
@@ -273,7 +273,7 @@ only use the _DSD Device Properties UUID [5]:
 
    - UUID: daffd814-6eba-4d8c-8a91-bc9bbf4aa301
 
-   - http://www.uefi.org/sites/default/files/resources/_DSD-device-properties-UUID.pdf
+   - https://uefi.org/sites/default/files/resources/_DSD-device-properties-UUID.pdf
 
 The UEFI Forum provides a mechanism for registering device properties [4]
 so that they may be used across all operating systems supporting ACPI.
@@ -454,7 +454,7 @@ is a part of the UEFI Forum.  The current version of the ACPI specification
 is 6.1 release in January 2016.
 
 Participation in this group is open to all UEFI members.  Please see
-http://www.uefi.org/workinggroup for details on group membership.
+https://uefi.org/workinggroup for details on group membership.
 
 It is the intent of the ARMv8 ACPI kernel code to follow the ACPI specification
 as closely as possible, and to only implement functionality that complies with
@@ -506,11 +506,11 @@ References
     http://amd-dev.wpengine.netdna-cdn.com/wordpress/media/2012/10/Seattle_ACPI_Guide.pdf
 
 
-[4] http://www.uefi.org/acpi
+[4] https://uefi.org/acpi
     please see the link for the "ACPI _DSD Device
     Property Registry Instructions"
 
-[5] http://www.uefi.org/acpi
+[5] https://uefi.org/acpi
     please see the link for the "_DSD (Device
     Specific Data) Implementation Guide"
 
