@@ -3,7 +3,7 @@
  * Copyright (c) 2013 Eric Leblond <eric@regit.org>
  *
  * Development of this code partly funded by OISF
- * (http://www.openinfosecfoundation.org/)
+ * (https://openinfosecfoundation.org/)
  */
 
 #include <linux/kernel.h>
