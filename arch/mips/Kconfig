@@ -2374,7 +2374,7 @@ config MIPS_MT_SMP
 	  on cores with the MT ASE and uses the available VPEs to implement
 	  virtual processors which supports SMP. This is equivalent to the
 	  Intel Hyperthreading feature. For further information go to
-	  <http://www.imgtec.com/mips/mips-multithreading.asp>.
+	  <https://www.imgtec.com/mips/mips-multithreading.asp>.
 
 config MIPS_MT
 	bool
