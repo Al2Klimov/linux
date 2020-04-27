@@ -4,7 +4,7 @@
  *
  * Driver for Semtech's SX9500 capacitive proximity/button solution.
  * Datasheet available at
- * <http://www.semtech.com/images/datasheet/sx9500.pdf>.
+ * <https://www.semtech.com/images/datasheet/sx9500.pdf>.
  */
 
 #include <linux/kernel.h>
