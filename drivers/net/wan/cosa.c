@@ -12,7 +12,7 @@
  * HARDWARE INFO
  *
  * Both cards are developed at the Institute of Computer Science,
- * Masaryk University (http://www.ics.muni.cz/). The hardware is
+ * Masaryk University (https://www.ics.muni.cz/). The hardware is
  * developed by Jiri Novotny <novotny@ics.muni.cz>. More information
  * and the photo of both cards is available at
  * http://www.pavoucek.cz/cosa.html. The card documentation, firmwares
