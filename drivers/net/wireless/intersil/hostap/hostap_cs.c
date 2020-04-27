@@ -214,7 +214,7 @@ static int prism2_pccard_card_present(local_info_t *local)
 /*
  * SanDisk CompactFlash WLAN Flashcard - Product Manual v1.0
  * Document No. 20-10-00058, January 2004
- * http://www.sandisk.com/pdf/industrial/ProdManualCFWLANv1.0.pdf
+ * https://www.sandisk.com/pdf/industrial/ProdManualCFWLANv1.0.pdf
  */
 #define SANDISK_WLAN_ACTIVATION_OFF 0x40
 #define SANDISK_HCR_OFF 0x42
