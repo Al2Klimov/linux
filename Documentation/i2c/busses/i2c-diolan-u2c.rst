@@ -6,7 +6,7 @@ Supported adapters:
   * Diolan U2C-12 I2C-USB adapter
 
     Documentation:
-	http://www.diolan.com/i2c/u2c12.html
+	https://diolan.com/i2c/u2c12.html
 
 Author: Guenter Roeck <linux@roeck-us.net>
 
