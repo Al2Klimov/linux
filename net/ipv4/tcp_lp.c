@@ -23,7 +23,7 @@
  * Original Author:
  *   Aleksandar Kuzmanovic <akuzma@northwestern.edu>
  * Available from:
- *   http://www.ece.rice.edu/~akuzma/Doc/akuzma/TCP-LP.pdf
+ *   https://www.ece.rice.edu/~akuzma/Doc/akuzma/TCP-LP.pdf
  * Original implementation for 2.4.19:
  *   http://www-ece.rice.edu/networks/TCP-LP/
  *
