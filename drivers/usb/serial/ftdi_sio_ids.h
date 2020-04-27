@@ -1340,7 +1340,7 @@
 #define ST_STMCLT_4232_PID	0x3747
 
 /*
- * Papouch products (http://www.papouch.com/)
+ * Papouch products (https://papouch.com/)
  * Submitted by Folkert van Heusden
  */
 
