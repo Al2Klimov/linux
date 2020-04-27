@@ -618,7 +618,7 @@ Per maggiori dettagli su come tutto ciò dovrebbe apparire, riferitevi alla
 sezione ChangeLog del documento:
 
  "The Perfect Patch"
-      http://www.ozlabs.org/~akpm/stuff/tpp.txt
+      https://www.ozlabs.org/~akpm/stuff/tpp.txt
 
 A volte tutto questo è difficile da realizzare. Il perfezionamento di queste
 pratiche può richiedere anni (eventualmente). È un processo continuo di

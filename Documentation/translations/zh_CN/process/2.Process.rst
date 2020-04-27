@@ -212,7 +212,7 @@ Next 树
 
 当前-mm 补丁可在“mmotm”（-mm of the moment）目录中找到，地址：
 
-        http://www.ozlabs.org/~akpm/mmotm/
+        https://www.ozlabs.org/~akpm/mmotm/
 
 然而，使用mmotm树可能是一种令人沮丧的体验；它甚至可能无法编译。
 
