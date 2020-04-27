@@ -872,7 +872,7 @@
 #define INTERBIOMETRICS_MINI_IOBOARD_PID 0x1006
 
 /*
- * Testo products (http://www.testo.com/)
+ * Testo products (https://www.testo.com/)
  * Submitted by Colin Leroy
  */
 #define TESTO_VID			0x128D
