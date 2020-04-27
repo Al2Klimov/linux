@@ -1468,7 +1468,7 @@ and set.
 
 For more details about which buttons will appear depending on the mode, please
 review the laptop's user guide:
-http://www.lenovo.com/shop/americas/content/user_guides/x1carbon_2_ug_en.pdf
+https://www.lenovo.com/shop/americas/content/user_guides/x1carbon_2_ug_en.pdf
 
 Multiple Commands, Module Parameters
 ------------------------------------
