@@ -11,7 +11,7 @@ Supported chips:
 
     Datasheet: Publicly available at the National Semiconductor website
 
-	       http://www.national.com/pf/LM/LM83.html
+	       https://www.national.com/pf/LM/LM83.html
 
   * National Semiconductor LM82
 
@@ -19,7 +19,7 @@ Supported chips:
 
     Datasheet: Publicly available at the National Semiconductor website
 
-	       http://www.national.com/pf/LM/LM82.html
+	       https://www.national.com/pf/LM/LM82.html
 
 Author: Jean Delvare <jdelvare@suse.de>
 

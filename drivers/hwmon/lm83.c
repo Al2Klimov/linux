@@ -9,13 +9,13 @@
  * temperatures (its own plus up to three external ones) with a 1 deg
  * resolution and a 3-4 deg accuracy. Complete datasheet can be obtained
  * from National's website at:
- *   http://www.national.com/pf/LM/LM83.html
+ *   https://www.national.com/pf/LM/LM83.html
  * Since the datasheet omits to give the chip stepping code, I give it
  * here: 0x03 (at register 0xff).
  *
  * Also supports the LM82 temp sensor, which is basically a stripped down
  * model of the LM83.  Datasheet is here:
- * http://www.national.com/pf/LM/LM82.html
+ * https://www.national.com/pf/LM/LM82.html
  */
 
 #include <linux/module.h>

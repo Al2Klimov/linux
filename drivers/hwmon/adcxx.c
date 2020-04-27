@@ -15,7 +15,7 @@
  *   and 101 for 1 MSPS)
  *
  * Complete datasheets are available at National's website here:
- * http://www.national.com/ds/DC/ADC<bb><c>S<sss>.pdf
+ * https://www.national.com/ds/DC/ADC<bb><c>S<sss>.pdf
  *
  * Handling of 8, 10 and 12 bits converters are the same, the
  * unavailable bits are 0 :)

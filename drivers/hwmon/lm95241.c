@@ -5,7 +5,7 @@
  * The LM95241 is a sensor chip made by National Semiconductors.
  * It reports up to three temperatures (its own plus up to two external ones).
  * Complete datasheet can be obtained from National's website at:
- *   http://www.national.com/ds.cgi/LM/LM95241.pdf
+ *   https://www.national.com/ds.cgi/LM/LM95241.pdf
  */
 
 #include <linux/bitops.h>

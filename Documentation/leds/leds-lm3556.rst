@@ -4,7 +4,7 @@ Kernel driver for lm3556
 
 * Texas Instrument:
   1.5 A Synchronous Boost LED Flash Driver w/ High-Side Current Source
-* Datasheet: http://www.national.com/ds/LM/LM3556.pdf
+* Datasheet: https://www.national.com/ds/LM/LM3556.pdf
 
 Authors:
       - Daniel Jeong

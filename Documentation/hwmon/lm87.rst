@@ -9,7 +9,7 @@ Supported chips:
 
     Addresses scanned: I2C 0x2c - 0x2e
 
-    Datasheet: http://www.national.com/pf/LM/LM87.html
+    Datasheet: https://www.national.com/pf/LM/LM87.html
 
   * Analog Devices ADM1024
 

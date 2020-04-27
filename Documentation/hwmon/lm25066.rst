@@ -23,9 +23,9 @@ Supported chips:
 
     Datasheets:
 
-	http://www.national.com/pf/LM/LM25066.html
+	https://www.national.com/pf/LM/LM25066.html
 
-	http://www.national.com/pf/LM/LM25066A.html
+	https://www.national.com/pf/LM/LM25066A.html
 
   * National Semiconductor LM5064
 
@@ -35,7 +35,7 @@ Supported chips:
 
     Datasheet:
 
-	http://www.national.com/pf/LM/LM5064.html
+	https://www.national.com/pf/LM/LM5064.html
 
   * National Semiconductor LM5066
 
@@ -45,7 +45,7 @@ Supported chips:
 
     Datasheet:
 
-	http://www.national.com/pf/LM/LM5066.html
+	https://www.national.com/pf/LM/LM5066.html
 
   * Texas Instruments LM5066I
 

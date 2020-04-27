@@ -9,7 +9,7 @@ Supported chips:
 
     Addresses scanned: I2C 0x48 - 0x4b
 
-    Datasheet: http://www.national.com/pf/LM/LM92.html
+    Datasheet: https://www.national.com/pf/LM/LM92.html
 
   * National Semiconductor LM76
 
@@ -17,7 +17,7 @@ Supported chips:
 
     Addresses scanned: none, force parameter needed
 
-    Datasheet: http://www.national.com/pf/LM/LM76.html
+    Datasheet: https://www.national.com/pf/LM/LM76.html
 
   * Maxim MAX6633/MAX6634/MAX6635
 

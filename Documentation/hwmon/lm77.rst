@@ -11,7 +11,7 @@ Supported chips:
 
     Datasheet: Publicly available at the National Semiconductor website
 
-	       http://www.national.com/
+	       https://www.national.com/
 
 
 Author: Andras BALI <drewie@freemail.hu>

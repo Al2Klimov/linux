@@ -11,7 +11,7 @@ Kernel driver lp3944
     Datasheet:
 
 	Publicly available at the National Semiconductor website
-	http://www.national.com/pf/LP/LP3944.html
+	https://www.national.com/pf/LP/LP3944.html
 
 Authors:
 	Antonio Ospite <ospite@studenti.unina.it>

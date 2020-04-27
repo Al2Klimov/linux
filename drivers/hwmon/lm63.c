@@ -9,7 +9,7 @@
  * two temperatures (its own and one external one) and the speed of one
  * fan, those speed it can additionally control. Complete datasheet can be
  * obtained from National's website at:
- *   http://www.national.com/pf/LM/LM63.html
+ *   https://www.national.com/pf/LM/LM63.html
  *
  * The LM63 is basically an LM86 with fan speed monitoring and control
  * capabilities added. It misses some of the LM86 features though:

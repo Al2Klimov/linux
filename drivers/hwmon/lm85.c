@@ -8,7 +8,7 @@
  * Copyright (c) 2004        Justin Thiessen <jthiessen@penguincomputing.com>
  * Copyright (C) 2007--2014  Jean Delvare <jdelvare@suse.de>
  *
- * Chip details at	      <http://www.national.com/ds/LM/LM85.pdf>
+ * Chip details at	      <https://www.national.com/ds/LM/LM85.pdf>
  */
 
 #include <linux/module.h>

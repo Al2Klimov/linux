@@ -9,7 +9,7 @@
  * is a temperature sensor and thermal window comparator with 0.5 deg
  * resolution made by National Semiconductor.  Complete datasheet can be
  * obtained at their site:
- *	http://www.national.com/pf/LM/LM77.html
+ *	https://www.national.com/pf/LM/LM77.html
  */
 
 #include <linux/module.h>

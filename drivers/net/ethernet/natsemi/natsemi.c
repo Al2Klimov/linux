@@ -211,7 +211,7 @@ IVb. References
 http://www.scyld.com/expert/100mbps.html
 http://www.scyld.com/expert/NWay.html
 Datasheet is available from:
-http://www.national.com/pf/DP/DP83815.html
+https://www.national.com/pf/DP/DP83815.html
 
 IVc. Errata
 

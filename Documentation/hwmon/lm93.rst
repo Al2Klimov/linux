@@ -9,7 +9,7 @@ Supported chips:
 
     Addresses scanned: I2C 0x2c-0x2e
 
-    Datasheet: http://www.national.com/ds.cgi/LM/LM93.pdf
+    Datasheet: https://www.national.com/ds.cgi/LM/LM93.pdf
 
   * National Semiconductor LM94
 
@@ -17,7 +17,7 @@ Supported chips:
 
     Addresses scanned: I2C 0x2c-0x2e
 
-    Datasheet: http://www.national.com/ds.cgi/LM/LM94.pdf
+    Datasheet: https://www.national.com/ds.cgi/LM/LM94.pdf
 
 
 Authors:

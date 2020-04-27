@@ -10,7 +10,7 @@
  * its own temperature with a 0.0625 deg resolution and a 0.33 deg
  * accuracy. Complete datasheet can be obtained from National's website
  * at:
- *   http://www.national.com/pf/LM/LM92.html
+ *   https://www.national.com/pf/LM/LM92.html
  *
  * This driver also supports the MAX6635 sensor chip made by Maxim.
  * This chip is compatible with the LM92, but has a lesser accuracy

@@ -11,7 +11,7 @@ Supported chips:
 
     Datasheet: Publicly available at the National Semiconductor website
 
-	       http://www.national.com/pf/LM/LM90.html
+	       https://www.national.com/pf/LM/LM90.html
 
   * National Semiconductor LM89
 
@@ -21,7 +21,7 @@ Supported chips:
 
     Datasheet: Publicly available at the National Semiconductor website
 
-	       http://www.national.com/mpf/LM/LM89.html
+	       https://www.national.com/mpf/LM/LM89.html
 
   * National Semiconductor LM99
 
@@ -31,7 +31,7 @@ Supported chips:
 
     Datasheet: Publicly available at the National Semiconductor website
 
-	       http://www.national.com/pf/LM/LM99.html
+	       https://www.national.com/pf/LM/LM99.html
 
   * National Semiconductor LM86
 
@@ -41,7 +41,7 @@ Supported chips:
 
     Datasheet: Publicly available at the National Semiconductor website
 
-	       http://www.national.com/mpf/LM/LM86.html
+	       https://www.national.com/mpf/LM/LM86.html
 
   * Analog Devices ADM1032
 

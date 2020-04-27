@@ -267,7 +267,7 @@
 /* Inside the Happy Meal transceiver is the physical layer, they use an
  * implementations for National Semiconductor, part number DP83840VCE.
  * You can retrieve the data sheets and programming docs for this beast
- * from http://www.national.com/
+ * from https://www.national.com/
  *
  * The DP83840 is capable of both 10 and 100Mbps ethernet, in both
  * half and full duplex mode.  It also supports auto negotiation.

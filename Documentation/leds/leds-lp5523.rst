@@ -3,7 +3,7 @@ Kernel driver for lp5523
 ========================
 
 * National Semiconductor LP5523 led driver chip
-* Datasheet: http://www.national.com/pf/LP/LP5523.html
+* Datasheet: https://www.national.com/pf/LP/LP5523.html
 
 Authors: Mathias Nyman, Yuri Zaporozhets, Samu Onkalo
 Contact: Samu Onkalo (samu.p.onkalo-at-nokia.com)

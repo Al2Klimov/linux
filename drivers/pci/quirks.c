@@ -1243,7 +1243,7 @@ DECLARE_PCI_FIXUP_HEADER(PCI_VENDOR_ID_TOSHIBA,	0x605,	quirk_transparent_bridge)
 /*
  * Common misconfiguration of the MediaGX/Geode PCI master that will reduce
  * PCI bandwidth from 70MB/s to 25MB/s.  See the GXM/GXLV/GX1 datasheets
- * found at http://www.national.com/analog for info on what these bits do.
+ * found at https://www.national.com/analog for info on what these bits do.
  * <christer@weinigel.se>
  */
 static void quirk_mediagx_master(struct pci_dev *dev)

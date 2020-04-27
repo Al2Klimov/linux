@@ -7,7 +7,7 @@
 
 /*
  * I2C driver for National Semiconductor LP3944 Funlight Chip
- * http://www.national.com/pf/LP/LP3944.html
+ * https://www.national.com/pf/LP/LP3944.html
  *
  * This helper chip can drive up to 8 leds, with two programmable DIM modes;
  * it could even be used as a gpio expander but this driver assumes it is used

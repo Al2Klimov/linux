@@ -8,7 +8,7 @@
  * The LM70 communicates with a host processor via an SPI/Microwire Bus
  * interface. The complete datasheet is available at National's website
  * here:
- * http://www.national.com/pf/LM/LM70.html
+ * https://www.national.com/pf/LM/LM70.html
  */
 
 #define pr_fmt(fmt) KBUILD_MODNAME ": " fmt

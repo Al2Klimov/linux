@@ -31,7 +31,7 @@ Supported chips:
 
     Datasheet: Publicly available at the National Semiconductor website
 
-	http://www.national.com/ds.cgi/LM/LM81.pdf
+	https://www.national.com/ds.cgi/LM/LM81.pdf
 
 Authors:
     - Frodo Looijaard <frodol@dds.nl>,

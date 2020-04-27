@@ -162,7 +162,7 @@ config STNIC
 	  Support for cards based on the National Semiconductor DP83902AV
 	  ST-NIC Serial Network Interface Controller for Twisted Pair.  This
 	  is a 10Mbit/sec Ethernet controller.  Product overview and specs at
-	  <http://www.national.com/pf/DP/DP83902A.html>.
+	  <https://www.national.com/pf/DP/DP83902A.html>.
 
 	  If unsure, say N.
 

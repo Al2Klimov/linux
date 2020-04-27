@@ -19,7 +19,7 @@
  * resolution of about 0.5% of the nominal value). Temperature values are
  * reported with a 1 deg resolution and a 3-4 deg accuracy. Complete
  * datasheet can be obtained from National's website at:
- *   http://www.national.com/pf/LM/LM87.html
+ *   https://www.national.com/pf/LM/LM87.html
  *
  * Some functions share pins, so not all functions are available at the same
  * time. Which are depends on the hardware setup. This driver normally

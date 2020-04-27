@@ -11,7 +11,7 @@ Supported chips:
 
     Datasheet: Publicly available at the National Semiconductor website
 
-	       http://www.national.com/pf/LM/LM63.html
+	       https://www.national.com/pf/LM/LM63.html
 
   * National Semiconductor LM64
 
@@ -21,7 +21,7 @@ Supported chips:
 
     Datasheet: Publicly available at the National Semiconductor website
 
-	       http://www.national.com/pf/LM/LM64.html
+	       https://www.national.com/pf/LM/LM64.html
 
   * National Semiconductor LM96163
 
@@ -31,7 +31,7 @@ Supported chips:
 
     Datasheet: Publicly available at the National Semiconductor website
 
-	       http://www.national.com/pf/LM/LM96163.html
+	       https://www.national.com/pf/LM/LM96163.html
 
 
 Author: Jean Delvare <jdelvare@suse.de>

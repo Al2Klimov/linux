@@ -3,7 +3,7 @@ Kernel driver for lp5521
 ========================
 
 * National Semiconductor LP5521 led driver chip
-* Datasheet: http://www.national.com/pf/LP/LP5521.html
+* Datasheet: https://www.national.com/pf/LP/LP5521.html
 
 Authors: Mathias Nyman, Yuri Zaporozhets, Samu Onkalo
 
