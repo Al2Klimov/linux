@@ -2208,7 +2208,7 @@ pf_retrans - INTEGER
 	deprioritized when a transmission path is selected by the stack.  This
 	setting is primarily used to enable fast failover mechanisms without
 	having to reduce path_max_retrans to a very low value.  See:
-	http://www.ietf.org/id/draft-nishida-tsvwg-sctp-failover-05.txt
+	https://www.ietf.org/id/draft-nishida-tsvwg-sctp-failover-05.txt
 	for details.  Note also that a value of pf_retrans > path_max_retrans
 	disables this feature. Since both pf_retrans and path_max_retrans can
 	be changed by userspace application, a variable pf_enable is used to

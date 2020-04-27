@@ -22,7 +22,7 @@
    o The Wireshark UDP-Lite WiKi (with capture files):
        https://wiki.wireshark.org/Lightweight_User_Datagram_Protocol
 
-   o The Protocol Spec, RFC 3828, http://www.ietf.org/rfc/rfc3828.txt
+   o The Protocol Spec, RFC 3828, https://www.ietf.org/rfc/rfc3828.txt
 
 
   I) APPLICATIONS

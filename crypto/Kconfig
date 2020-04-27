@@ -550,7 +550,7 @@ config CRYPTO_XCBC
 	select CRYPTO_MANAGER
 	help
 	  XCBC: Keyed-Hashing with encryption algorithm
-		http://www.ietf.org/rfc/rfc3566.txt
+		https://www.ietf.org/rfc/rfc3566.txt
 		https://csrc.nist.gov/encryption/modes/proposedmodes/
 		 xcbc-mac/xcbc-mac-spec.pdf
 

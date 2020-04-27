@@ -3952,7 +3952,7 @@ static int sctp_setsockopt_auto_asconf(struct sock *sk, char __user *optval,
  *
  * This option allows us to alter the partially failed threshold for one or all
  * transports in an association.  See Section 6.1 of:
- * http://www.ietf.org/id/draft-nishida-tsvwg-sctp-failover-05.txt
+ * https://www.ietf.org/id/draft-nishida-tsvwg-sctp-failover-05.txt
  */
 static int sctp_setsockopt_paddr_thresholds(struct sock *sk,
 					    char __user *optval,
@@ -7244,7 +7244,7 @@ static int sctp_getsockopt_assoc_ids(struct sock *sk, int len,
  *
  * This option allows us to fetch the partially failed threshold for one or all
  * transports in an association.  See Section 6.1 of:
- * http://www.ietf.org/id/draft-nishida-tsvwg-sctp-failover-05.txt
+ * https://www.ietf.org/id/draft-nishida-tsvwg-sctp-failover-05.txt
  */
 static int sctp_getsockopt_paddr_thresholds(struct sock *sk,
 					    char __user *optval, int len,

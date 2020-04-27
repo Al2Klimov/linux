@@ -11,7 +11,7 @@ menuconfig L2TP
 	---help---
 	  Layer Two Tunneling Protocol
 
-	  From RFC 2661 <http://www.ietf.org/rfc/rfc2661.txt>.
+	  From RFC 2661 <https://www.ietf.org/rfc/rfc2661.txt>.
 
 	  L2TP facilitates the tunneling of packets across an
 	  intervening network in a way that is as transparent as
@@ -24,7 +24,7 @@ menuconfig L2TP
 
 	  L2TPv3 allows other protocols as well as PPP to be carried
 	  over L2TP tunnels. L2TPv3 is defined in RFC 3931
-	  <http://www.ietf.org/rfc/rfc3931.txt>.
+	  <https://www.ietf.org/rfc/rfc3931.txt>.
 
 	  The kernel component handles only L2TP data packets: a
 	  userland daemon handles L2TP the control protocol (tunnel
@@ -53,7 +53,7 @@ config L2TP_V3
 	help
 	  Layer Two Tunneling Protocol Version 3
 
-	  From RFC 3931 <http://www.ietf.org/rfc/rfc3931.txt>.
+	  From RFC 3931 <https://www.ietf.org/rfc/rfc3931.txt>.
 
 	  The Layer Two Tunneling Protocol (L2TP) provides a dynamic
 	  mechanism for tunneling Layer 2 (L2) "circuits" across a
@@ -91,7 +91,7 @@ config L2TP_ETH
 	help
 	  Support for carrying raw ethernet frames over L2TPv3.
 
-	  From RFC 4719 <http://www.ietf.org/rfc/rfc4719.txt>.
+	  From RFC 4719 <https://www.ietf.org/rfc/rfc4719.txt>.
 
 	  The Layer 2 Tunneling Protocol, Version 3 (L2TPv3) can be
 	  used as a control protocol and for data encapsulation to set
