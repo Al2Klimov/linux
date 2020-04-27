@@ -14932,7 +14932,7 @@ SCSI CDROM DRIVER
 M:	Jens Axboe <axboe@kernel.dk>
 L:	linux-scsi@vger.kernel.org
 S:	Maintained
-W:	http://www.kernel.dk
+W:	https://www.kernel.dk
 F:	drivers/scsi/sr*
 
 SCSI RDMA PROTOCOL (SRP) INITIATOR
@@ -17296,7 +17296,7 @@ F:	scripts/unifdef.c
 UNIFORM CDROM DRIVER
 M:	Jens Axboe <axboe@kernel.dk>
 S:	Maintained
-W:	http://www.kernel.dk
+W:	https://www.kernel.dk
 F:	Documentation/cdrom/
 F:	drivers/cdrom/cdrom.c
 F:	include/linux/cdrom.h
