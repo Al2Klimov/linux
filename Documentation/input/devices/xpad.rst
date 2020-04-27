@@ -217,7 +217,7 @@ References
 
 .. [1] http://euc.jp/periphs/xbox-controller.ja.html (ITO Takayuki)
 .. [2] http://xpad.xbox-scene.com/
-.. [3] http://www.markosweb.com/www/xboxhackz.com/
+.. [3] https://www.markosweb.com/www/xboxhackz.com/
 .. [4] https://elixir.bootlin.com/linux/latest/ident/xpad_device
 
 
