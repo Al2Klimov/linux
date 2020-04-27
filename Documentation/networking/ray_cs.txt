@@ -5,7 +5,7 @@ Copyright (c) 1998  Corey Thomas (corey@world.std.com)
 This file is the documentation for the Raylink Wireless LAN card driver for
 Linux.  The Raylink wireless LAN card is a PCMCIA card which provides IEEE
 802.11 compatible wireless network connectivity at 1 and 2 megabits/second.
-See http://www.raytheon.com/micro/raylink/ for more information on the Raylink
+See https://www.raytheon.com/micro/raylink/ for more information on the Raylink
 card.  This driver is in early development and does have bugs.  See the known
 bugs and limitations at the end of this document for more information.
 This driver also works with WebGear's Aviator 2.4 and Aviator Pro
