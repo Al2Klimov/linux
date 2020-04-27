@@ -342,4 +342,4 @@ Katalix Systems Ltd. OpenL2TP is a full-featured L2TP client / server,
 designed from the ground up to have the L2TP datapath in the
 kernel. The project also implemented the pppol2tp plugin for pppd
 which allows pppd to use the kernel driver. Details can be found at
-http://www.openl2tp.org.
+https://openl2tp.org.
