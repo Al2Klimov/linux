@@ -162,4 +162,4 @@ This document has a  how to decode a bi-phase data stream:
 http://www.ee.washington.edu/circuit_archive/text/ir_decode.txt
 
 This document has still more info:
-http://www.xs4all.nl/~sbp/knowledge/ir/rc5.htm
+https://www.xs4all.nl/~sbp/knowledge/ir/rc5.htm
