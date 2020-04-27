@@ -61,7 +61,7 @@
  * The mice and tablet are described in "VCB02 Video Subsystem - Technical
  * Manual", DEC EK-104AA-TM-001. You'll find it at MANX, a search engine
  * specific for DEC documentation. Try
- * http://www.vt100.net/manx/details?pn=EK-104AA-TM-001;id=21;cp=1
+ * https://www.vt100.net/manx/details?pn=EK-104AA-TM-001;id=21;cp=1
  */
 
 #include <linux/delay.h>

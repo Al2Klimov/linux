@@ -43,7 +43,7 @@
  * has. These need to be switched on with the LK_CMD_ENABLE_LK401
  * command. You'll find this document (scanned .pdf file) on MANX,
  * a search engine specific to DEC documentation. Try
- * http://www.vt100.net/manx/details?pn=EK-104AA-TM-001;id=21;cp=1
+ * https://www.vt100.net/manx/details?pn=EK-104AA-TM-001;id=21;cp=1
  */
 
 /*
