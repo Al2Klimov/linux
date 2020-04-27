@@ -320,4 +320,4 @@ https://lore.kernel.org/linux-usb/
 Programming Guide for Linux USB Device Drivers:
 http://lmu.web.psi.ch/docu/manuals/software_manuals/linux_sl/usb_linux_programming_guide.pdf
 
-USB Home Page: http://www.usb.org
+USB Home Page: https://www.usb.org

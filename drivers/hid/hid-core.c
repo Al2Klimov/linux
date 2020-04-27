@@ -1330,7 +1330,7 @@ static u32 s32ton(__s32 value, unsigned n)
  * Extract/implement a data field from/to a little endian report (bit array).
  *
  * Code sort-of follows HID spec:
- *     http://www.usb.org/developers/hidpage/HID1_11.pdf
+ *     https://www.usb.org/developers/hidpage/HID1_11.pdf
  *
  * While the USB HID spec allows unlimited length bit fields in "report
  * descriptors", most devices never use more than 16 bits.

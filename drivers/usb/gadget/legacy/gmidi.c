@@ -13,7 +13,7 @@
  * USB MIDI driver, Copyright (C) 2002-2005 Clemens Ladisch.
  *
  * Refer to the USB Device Class Definition for MIDI Devices:
- * http://www.usb.org/developers/devclass_docs/midi10.pdf
+ * https://www.usb.org/developers/devclass_docs/midi10.pdf
  */
 
 /* #define VERBOSE_DEBUG */

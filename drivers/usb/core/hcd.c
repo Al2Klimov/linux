@@ -445,7 +445,7 @@ rh_string(int id, struct usb_hcd const *hcd, u8 *data, unsigned len)
 	switch (id) {
 	case 0:
 		/* Array of LANGID codes (0x0409 is MSFT-speak for "en-us") */
-		/* See http://www.usb.org/developers/docs/USB_LANGIDs.pdf */
+		/* See https://www.usb.org/developers/docs/USB_LANGIDs.pdf */
 		if (len > 4)
 			len = 4;
 		memcpy(data, langids, len);

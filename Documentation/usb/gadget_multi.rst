@@ -146,7 +146,7 @@ Footnotes
 
 [2] Communications Device Class Abstract Control Model, spec for this
 and other USB classes can be found at
-[[http://www.usb.org/developers/devclass_docs/]].
+[[https://www.usb.org/developers/devclass_docs/]].
 
 [3] CDC Ethernet Control Model.
 

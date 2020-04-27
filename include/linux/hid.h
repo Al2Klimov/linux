@@ -175,12 +175,12 @@ struct hid_item {
 #define HID_GD_MULTIAXIS	0x00010008
 /*
  * Microsoft Win8 Wireless Radio Controls extensions CA, see:
- * http://www.usb.org/developers/hidpage/HUTRR40RadioHIDUsagesFinal.pdf
+ * https://www.usb.org/developers/hidpage/HUTRR40RadioHIDUsagesFinal.pdf
  */
 #define HID_GD_WIRELESS_RADIO_CTLS	0x0001000c
 /*
  * System Multi-Axis, see:
- * http://www.usb.org/developers/hidpage/HUTRR62_-_Generic_Desktop_CA_for_System_Multi-Axis_Controllers.txt
+ * https://www.usb.org/developers/hidpage/HUTRR62_-_Generic_Desktop_CA_for_System_Multi-Axis_Controllers.txt
  */
 #define HID_GD_SYSTEM_MULTIAXIS	0x0001000e
 

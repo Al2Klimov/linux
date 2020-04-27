@@ -9,7 +9,7 @@
  * below reference relevant sections of the USB Video Class 1.1 specification
  * available at
  *
- * http://www.usb.org/developers/devclass_docs/USB_Video_Class_1_1.zip
+ * https://www.usb.org/developers/devclass_docs/USB_Video_Class_1_1.zip
  */
 
 #ifndef __LINUX_USB_VIDEO_H

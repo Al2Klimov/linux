@@ -13,7 +13,7 @@
  * by the USB Device Class Definition for Audio Devices.
  * Comments below reference relevant sections of that document:
  *
- * http://www.usb.org/developers/devclass_docs/audio10.pdf
+ * https://www.usb.org/developers/devclass_docs/audio10.pdf
  *
  * Types and defines in this file are either specific to version 1.0 of
  * this standard or common for newer versions.

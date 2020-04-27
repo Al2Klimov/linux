@@ -215,7 +215,7 @@ config USB_NET_CDCETHER
 	  This option supports devices conforming to the Communication Device
 	  Class (CDC) Ethernet Control Model, a specification that's easy to
 	  implement in device firmware.  The CDC specifications are available
-	  from <http://www.usb.org/>.
+	  from <https://www.usb.org/>.
 
 	  CDC Ethernet is an implementation option for DOCSIS cable modems
 	  that support USB connectivity, used for non-Microsoft USB hosts.
@@ -242,7 +242,7 @@ config USB_NET_CDC_EEM
 	  This option supports devices conforming to the Communication Device
 	  Class (CDC) Ethernet Emulation Model, a specification that's easy to
 	  implement in device firmware.  The CDC EEM specifications are available
-	  from <http://www.usb.org/>.
+	  from <https://www.usb.org/>.
 
 	  This driver creates an interface named "ethX", where X depends on
 	  what other networking devices you have in use.  However, if the
@@ -256,7 +256,7 @@ config USB_NET_CDC_NCM
 	help
 	  This driver provides support for CDC NCM (Network Control Model
 	  Device USB Class Specification). The CDC NCM specification is
-	  available from <http://www.usb.org/>.
+	  available from <https://www.usb.org/>.
 
 	  Say "y" to link the driver statically, or "m" to build a
 	  dynamically linked module.
@@ -291,7 +291,7 @@ config USB_NET_CDC_MBIM
 	help
 	  This driver provides support for CDC MBIM (Mobile Broadband
 	  Interface Model) devices. The CDC MBIM specification is
-	  available from <http://www.usb.org/>.
+	  available from <https://www.usb.org/>.
 
 	  MBIM devices require configuration using the management
 	  protocol defined by the MBIM specification.  This driver

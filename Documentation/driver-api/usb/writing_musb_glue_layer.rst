@@ -707,7 +707,7 @@ cheerful guidance and support.
 Resources
 =========
 
-USB Home Page: http://www.usb.org
+USB Home Page: https://www.usb.org
 
 linux-usb Mailing List Archives: https://marc.info/?l=linux-usb
 

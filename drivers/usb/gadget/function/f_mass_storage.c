@@ -106,7 +106,7 @@
  * was based on the "Universal Serial Bus Mass Storage Class UFI
  * Command Specification" document, Revision 1.0, December 14, 1998,
  * available at
- * <http://www.usb.org/developers/devclass_docs/usbmass-ufi10.pdf>.
+ * <https://www.usb.org/developers/devclass_docs/usbmass-ufi10.pdf>.
  */
 
 /*

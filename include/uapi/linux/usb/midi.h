@@ -13,7 +13,7 @@
  * by the USB Device Class Definition for MIDI Devices.
  * Comments below reference relevant sections of that document:
  *
- * http://www.usb.org/developers/devclass_docs/midi10.pdf
+ * https://www.usb.org/developers/devclass_docs/midi10.pdf
  */
 
 #ifndef __LINUX_USB_MIDI_H

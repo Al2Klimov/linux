@@ -313,12 +313,12 @@ References
 [1] USB Implementers Forum, Inc. - "Universal Serial Bus
       Communications Class Subclass Specification for Mobile Broadband
       Interface Model", Revision 1.0 (Errata 1), May 1, 2013
-      - http://www.usb.org/developers/docs/devclass_docs/
+      - https://www.usb.org/developers/docs/devclass_docs/
 
 [2] USB Implementers Forum, Inc. - "Universal Serial Bus
       Communications Class Subclass Specifications for Network Control
       Model Devices", Revision 1.0 (Errata 1), November 24, 2010
-      - http://www.usb.org/developers/docs/devclass_docs/
+      - https://www.usb.org/developers/docs/devclass_docs/
 
 [3] libmbim - "a glib-based library for talking to WWAN modems and
       devices which speak the Mobile Interface Broadband Model (MBIM)
