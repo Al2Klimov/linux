@@ -676,7 +676,7 @@ might also choose to purchase the Software DecTalk from Fonix Sales Inc.
 If you run a google search for Fonix, you'll find their web site.
 
 You can obtain a copy of Speech Dispatcher from free(b)soft at
-http://www.freebsoft.org/.  Follow the installation instructions that
+https://www.freebsoft.org/.  Follow the installation instructions that
 come with Speech Dispatcher in order to install and configure Speech
 Dispatcher.  You can check out the web site for your Linux distribution
 in order to get a copy of either Flite or Festival.  Your Linux
