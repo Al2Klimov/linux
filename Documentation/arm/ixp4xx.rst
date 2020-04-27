@@ -112,7 +112,7 @@ http://www.adiengineering.com/productsCoyote.html
    Finally, there is an IDE port hanging off the expansion bus.
 
 Gateworks Avila Network Platform
-http://www.gateworks.com/support/overview.php
+https://www.gateworks.com/support/overview.php
 
    The Avila platform is basically and IXDP425 with the 4 PCI slots
    replaced with mini-PCI slots and a CF IDE interface hanging off
