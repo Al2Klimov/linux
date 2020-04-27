@@ -100,7 +100,7 @@ config UIO_NETX
 	help
 	  Driver for Hilscher NetX based fieldbus cards (cifX, comX).
 	  This driver requires a userspace component that comes with the card
-	  or is available from Hilscher (http://www.hilscher.com).
+	  or is available from Hilscher (https://www.hilscher.com).
 
 	  To compile this driver as a module, choose M here; the module
 	  will be called uio_netx.
@@ -123,7 +123,7 @@ config UIO_FSL_ELBC_GPCM_NETX5152
 	  together with the userspace netX stack from Hilscher.
 
 	  Information about this hardware can be found at:
-	  http://www.hilscher.com/netx
+	  https://www.hilscher.com/netx
 
 config UIO_PRUSS
 	tristate "Texas Instruments PRUSS driver"
