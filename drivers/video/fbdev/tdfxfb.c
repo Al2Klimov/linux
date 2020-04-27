@@ -29,7 +29,7 @@
  * Voodoo1 and Voodoo2 support aren't relevant to this driver as they
  * behave very differently from the Voodoo3/4/5. For anyone wanting to
  * use frame buffer on the Voodoo1/2, see the sstfb driver (which is
- * located at http://www.sourceforge.net/projects/sstfb).
+ * located at https://sourceforge.net/projects/sstfb).
  *
  * While I _am_ grateful to 3Dfx for releasing the specs for Banshee,
  * I do wish the next version is a bit more complete. Without the XF86

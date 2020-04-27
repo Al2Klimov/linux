@@ -6,7 +6,7 @@
    o Project Home Pages
        http://www.chygwyn.com/                      	    - Kernel info
        http://linux-decnet.sourceforge.net/                - Userland tools
-       http://www.sourceforge.net/projects/linux-decnet/   - Status page
+       https://sourceforge.net/projects/linux-decnet/   - Status page
 
 2) Configuring the kernel
 
