@@ -5,7 +5,7 @@ SMARTPQI - Microsemi Smart PQI Driver
 =====================================
 
 This file describes the smartpqi SCSI driver for Microsemi
-(http://www.microsemi.com) PQI controllers. The smartpqi driver
+(https://www.microsemi.com) PQI controllers. The smartpqi driver
 is the next generation SCSI driver for Microsemi Corp. The smartpqi
 driver is the first SCSI driver to implement the PQI queuing model.
 

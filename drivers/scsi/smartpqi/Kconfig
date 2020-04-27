@@ -45,7 +45,7 @@ config SCSI_SMARTPQI
 	---help---
 	This driver supports Microsemi PQI controllers.
 
-	<http://www.microsemi.com>
+	<https://www.microsemi.com>
 
 	To compile this driver as a module, choose M here: the
 	module will be called smartpqi.
