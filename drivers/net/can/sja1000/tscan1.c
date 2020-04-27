@@ -8,7 +8,7 @@
 /*
  * References:
  * - Getting started with TS-CAN1, Technologic Systems, Jun 2009
- *	http://www.embeddedarm.com/documentation/ts-can1-manual.pdf
+ *	https://www.embeddedarm.com/documentation/ts-can1-manual.pdf
  */
 
 #include <linux/init.h>
