@@ -100,7 +100,7 @@ config CAN_PEAK_USB
 	  PCAN-Chip USB        CAN-FD to USB stamp module
 	  PCAN-USB X6          6 CAN-FD channels USB adapter
 
-	  (see also http://www.peak-system.com).
+	  (see also https://www.peak-system.com).
 
 config CAN_UCAN
 	tristate "Theobroma Systems UCAN interface"
