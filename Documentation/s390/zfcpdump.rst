@@ -47,4 +47,4 @@ partition.
 
 For more information on how to use zfcpdump refer to the s390 'Using the Dump
 Tools book', which is available from
-http://www.ibm.com/developerworks/linux/linux390.
+https://www.ibm.com/developerworks/linux/linux390.

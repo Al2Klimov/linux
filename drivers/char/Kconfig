@@ -283,7 +283,7 @@ config MWAVE
 
 	  The user level application needed to use this driver can be found at
 	  the IBM Linux Technology Center (LTC) web site:
-	  <http://www.ibm.com/linux/ltc/>.
+	  <https://www.ibm.com/linux/ltc/>.
 
 	  If you own one of the above IBM Thinkpads which has the Mwave chipset
 	  in it, say Y.

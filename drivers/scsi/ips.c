@@ -47,7 +47,7 @@
 /*                                                                           */
 /* For system support issues, contact your local IBM Customer support.       */
 /* Directions to find IBM Customer Support for each country can be found at: */
-/*      http://www.ibm.com/planetwide/                                       */
+/*      https://www.ibm.com/planetwide/                                       */
 /*                                                                           */
 /*****************************************************************************/
 
