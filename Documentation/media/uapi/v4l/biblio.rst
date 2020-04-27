@@ -229,7 +229,7 @@ sRGB
 
 :title:     IEC 61966-2-1 ed1.0 "Multimedia systems and equipment - Colour measurement and management - Part 2-1: Colour management - Default RGB colour space - sRGB"
 
-:author:    International Electrotechnical Commission (http://www.iec.ch)
+:author:    International Electrotechnical Commission (https://www.iec.ch)
 
 .. _sycc:
 
@@ -239,7 +239,7 @@ sYCC
 
 :title:     IEC 61966-2-1-am1 ed1.0 "Amendment 1 - Multimedia systems and equipment - Colour measurement and management - Part 2-1: Colour management - Default RGB colour space - sRGB"
 
-:author:    International Electrotechnical Commission (http://www.iec.ch)
+:author:    International Electrotechnical Commission (https://www.iec.ch)
 
 .. _xvycc:
 
@@ -249,7 +249,7 @@ xvYCC
 
 :title:     IEC 61966-2-4 ed1.0 "Multimedia systems and equipment - Colour measurement and management - Part 2-4: Colour management - Extended-gamut YCC colour space for video applications - xvYCC"
 
-:author:    International Electrotechnical Commission (http://www.iec.ch)
+:author:    International Electrotechnical Commission (https://www.iec.ch)
 
 .. _oprgb:
 
@@ -259,7 +259,7 @@ opRGB
 
 :title:     IEC 61966-2-5 "Multimedia systems and equipment - Colour measurement and management - Part 2-5: Colour management - Optional RGB colour space - opRGB"
 
-:author:    International Electrotechnical Commission (http://www.iec.ch)
+:author:    International Electrotechnical Commission (https://www.iec.ch)
 
 .. _itu2020:
 
@@ -289,7 +289,7 @@ IEC 62106
 
 :title:     Specification of the radio data system (RDS) for VHF/FM sound broadcasting in the frequency range from 87,5 to 108,0 MHz
 
-:author:    International Electrotechnical Commission (http://www.iec.ch)
+:author:    International Electrotechnical Commission (https://www.iec.ch)
 
 .. _nrsc4:
 
