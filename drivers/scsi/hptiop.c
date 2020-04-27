@@ -5,7 +5,7 @@
  *
  * Please report bugs/comments/suggestions to linux@highpoint-tech.com
  *
- * For more information, visit http://www.highpoint-tech.com
+ * For more information, visit https://highpoint-tech.com
  */
 #include <linux/module.h>
 #include <linux/types.h>

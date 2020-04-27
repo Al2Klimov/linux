@@ -212,4 +212,4 @@ Copyright |copy| 2006-2012 HighPoint Technologies, Inc. All Rights Reserved.
 
   linux@highpoint-tech.com
 
-  http://www.highpoint-tech.com
+  https://highpoint-tech.com

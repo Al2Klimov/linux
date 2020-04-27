@@ -7621,7 +7621,7 @@ F:	drivers/net/hamradio/scc.c
 HIGHPOINT ROCKETRAID 3xxx RAID DRIVER
 M:	HighPoint Linux Team <linux@highpoint-tech.com>
 S:	Supported
-W:	http://www.highpoint-tech.com
+W:	https://highpoint-tech.com
 F:	Documentation/scsi/hptiop.rst
 F:	drivers/scsi/hptiop.c
 
