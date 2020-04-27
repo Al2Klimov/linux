@@ -9,7 +9,7 @@
  * A New Class of Active Queue Management Algorithms.
  * U. Michigan CSE-TR-387-99, April 1999.
  *
- * http://www.thefengs.com/wuchang/blue/CSE-TR-387-99.pdf
+ * https://www.thefengs.com/wuchang/blue/CSE-TR-387-99.pdf
  */
 
 #include <linux/module.h>
