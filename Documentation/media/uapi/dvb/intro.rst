@@ -27,7 +27,7 @@ meant by a packetized elementary stream (PES) or an I-frame.
 
 Various Digital TV standards documents are available for download at:
 
-- European standards (DVB): http://www.dvb.org and/or http://www.etsi.org.
+- European standards (DVB): https://dvb.org and/or http://www.etsi.org.
 - American standards (ATSC): https://www.atsc.org/standards/
 - Japanese standards (ISDB): https://www.dibeg.org/
 
