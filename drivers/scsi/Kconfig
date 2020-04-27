@@ -130,7 +130,7 @@ config CHR_DEV_SG
 	  (<http://cdrtools.sourceforge.net/>)
 	  and for burning a "disk at once": CDRDAO
 	  (<http://cdrdao.sourceforge.net/>). Cdparanoia is a high
-	  quality digital reader of audio CDs (<http://www.xiph.org/paranoia/>).
+	  quality digital reader of audio CDs (<https://www.xiph.org/paranoia/>).
 	  For other devices, it's possible that you'll have to write the
 	  driver software yourself. Please read the file
 	  <file:Documentation/scsi/scsi-generic.rst> for more information.
