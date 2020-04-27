@@ -11,7 +11,7 @@
     0x86 and 0x06 on the i2c-bus.
 
     For detailed information download the specifications directly
-    from SGS Thomson at http://www.st.com
+    from SGS Thomson at https://www.st.com
 
   */
 

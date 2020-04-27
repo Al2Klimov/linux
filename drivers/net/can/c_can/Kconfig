@@ -11,7 +11,7 @@ config CAN_C_CAN_PLATFORM
 	  This driver adds support for the C_CAN/D_CAN chips connected
 	  to the "platform bus" (Linux abstraction for directly to the
 	  processor attached devices) which can be found on various
-	  boards from ST Microelectronics (http://www.st.com) like the
+	  boards from ST Microelectronics (https://www.st.com) like the
 	  SPEAr1310 and SPEAr320 evaluation boards & TI (www.ti.com)
 	  boards like am335x, dm814x, dm813x and dm811x.
 

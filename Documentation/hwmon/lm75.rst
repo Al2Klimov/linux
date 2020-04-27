@@ -81,7 +81,7 @@ Supported chips:
 
     Datasheet: Publicly available at the ST website
 
-	       http://www.st.com/internet/analog/product/121769.jsp
+	       https://www.st.com/internet/analog/product/121769.jsp
 
   * ST Microelectronics STLM75
 

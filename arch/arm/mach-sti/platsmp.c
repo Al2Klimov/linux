@@ -3,7 +3,7 @@
  *  arch/arm/mach-sti/platsmp.c
  *
  * Copyright (C) 2013 STMicroelectronics (R&D) Limited.
- *		http://www.st.com
+ *		https://www.st.com
  *
  * Cloned from linux/arch/arm/mach-vexpress/platsmp.c
  *

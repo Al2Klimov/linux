@@ -27,6 +27,6 @@ Resources
 
 Datasheet and reference manual are publicly available on ST website (STM32F746_).
 
-.. _STM32F746: http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32f7-series/stm32f7x6/stm32f746ng.html
+.. _STM32F746: https://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32f7-series/stm32f7x6/stm32f746ng.html
 
 :Authors: Alexandre Torgue <alexandre.torgue@st.com>

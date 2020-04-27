@@ -110,7 +110,7 @@ ECC 2   cp5   cp4   cp3   cp2   cp1   cp0      1     1
 =====  ===== ===== ===== ===== ===== ===== ===== =====
 
 I detected after writing this that ST application note AN1823
-(http://www.st.com/stonline/) gives a much
+(https://www.st.com/stonline/) gives a much
 nicer picture.(but they use line parity as term where I use row parity)
 Oh well, I'm graphically challenged, so suffer with me for a moment :-)
 

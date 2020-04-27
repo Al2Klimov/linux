@@ -6,7 +6,7 @@ Introduction
 ------------
 
   SPEAr (Structured Processor Enhanced Architecture).
-  weblink : http://www.st.com/spear
+  weblink : https://www.st.com/spear
 
   The ST Microelectronics SPEAr range of ARM9/CortexA9 System-on-Chip CPUs are
   supported by the 'spear' platform of ARM Linux. Currently SPEAr1310,

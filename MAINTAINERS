@@ -7807,7 +7807,7 @@ HTS221 TEMPERATURE-HUMIDITY IIO DRIVER
 M:	Lorenzo Bianconi <lorenzo.bianconi83@gmail.com>
 L:	linux-iio@vger.kernel.org
 S:	Maintained
-W:	http://www.st.com/
+W:	https://www.st.com/
 F:	Documentation/devicetree/bindings/iio/humidity/hts221.txt
 F:	drivers/iio/humidity/hts221*
 
@@ -13386,7 +13386,7 @@ PIN CONTROLLER - ST SPEAR
 M:	Viresh Kumar <vireshk@kernel.org>
 L:	linux-arm-kernel@lists.infradead.org (moderated for non-subscribers)
 S:	Maintained
-W:	http://www.st.com/spear
+W:	https://www.st.com/spear
 F:	drivers/pinctrl/spear/
 
 PISTACHIO SOC SUPPORT
@@ -15834,7 +15834,7 @@ SPEAR CLOCK FRAMEWORK SUPPORT
 M:	Viresh Kumar <vireshk@kernel.org>
 L:	linux-arm-kernel@lists.infradead.org (moderated for non-subscribers)
 S:	Maintained
-W:	http://www.st.com/spear
+W:	https://www.st.com/spear
 F:	drivers/clk/spear/
 
 SPEAR PLATFORM SUPPORT
@@ -15842,7 +15842,7 @@ M:	Viresh Kumar <vireshk@kernel.org>
 M:	Shiraz Hashim <shiraz.linux.kernel@gmail.com>
 L:	linux-arm-kernel@lists.infradead.org (moderated for non-subscribers)
 S:	Maintained
-W:	http://www.st.com/spear
+W:	https://www.st.com/spear
 F:	arch/arm/boot/dts/spear*
 F:	arch/arm/mach-spear/
 
@@ -15912,7 +15912,7 @@ ST LSM6DSx IMU IIO DRIVER
 M:	Lorenzo Bianconi <lorenzo.bianconi83@gmail.com>
 L:	linux-iio@vger.kernel.org
 S:	Maintained
-W:	http://www.st.com/
+W:	https://www.st.com/
 F:	Documentation/devicetree/bindings/iio/imu/st_lsm6dsx.txt
 F:	drivers/iio/imu/st_lsm6dsx/
 

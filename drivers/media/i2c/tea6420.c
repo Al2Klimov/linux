@@ -11,7 +11,7 @@
     and 0x9a on the i2c-bus.
 
     For detailed information download the specifications directly
-    from SGS Thomson at http://www.st.com
+    from SGS Thomson at https://www.st.com
 
   */
 

@@ -28,6 +28,6 @@ Resources
 
 Datasheet and reference manual are publicly available on ST website (STM32H743_).
 
-.. _STM32H743: http://www.st.com/en/microcontrollers/stm32h7x3.html?querycriteria=productId=LN2033
+.. _STM32H743: https://www.st.com/en/microcontrollers/stm32h7x3.html?querycriteria=productId=LN2033
 
 :Authors: Alexandre Torgue <alexandre.torgue@st.com>

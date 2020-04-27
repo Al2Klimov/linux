@@ -75,15 +75,15 @@ Supported chips:
 
     Datasheets:
 
-	http://www.st.com/web/en/resource/technical/document/datasheet/CD00157556.pdf
+	https://www.st.com/web/en/resource/technical/document/datasheet/CD00157556.pdf
 
-	http://www.st.com/web/en/resource/technical/document/datasheet/CD00157558.pdf
+	https://www.st.com/web/en/resource/technical/document/datasheet/CD00157558.pdf
 
-	http://www.st.com/web/en/resource/technical/document/datasheet/CD00266638.pdf
+	https://www.st.com/web/en/resource/technical/document/datasheet/CD00266638.pdf
 
-	http://www.st.com/web/en/resource/technical/document/datasheet/CD00225278.pdf
+	https://www.st.com/web/en/resource/technical/document/datasheet/CD00225278.pdf
 
-	http://www.st.com/web/en/resource/technical/document/datasheet/DM00076709.pdf
+	https://www.st.com/web/en/resource/technical/document/datasheet/DM00076709.pdf
 
   * JEDEC JC 42.4 compliant temperature sensor chips
 
