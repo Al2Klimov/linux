@@ -2466,7 +2466,7 @@ lot of {Linux} into your technology!!!"
 ,year="2010"
 ,annotation={
 	Data-race detector incorporating RCU.
-	http://www.filesystems.org/docs/abhinav-thesis/abhinav_thesis.pdf
+	https://www.filesystems.org/docs/abhinav-thesis/abhinav_thesis.pdf
 }
 }
 
