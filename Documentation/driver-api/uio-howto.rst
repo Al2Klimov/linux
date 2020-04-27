@@ -727,4 +727,4 @@ Further information
 
 -  `OSADL homepage. <http://www.osadl.org>`_
 
--  `Linutronix homepage. <http://www.linutronix.de>`_
+-  `Linutronix homepage. <https://www.linutronix.de>`_
