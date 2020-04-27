@@ -179,7 +179,7 @@ SMPTE 12M
 
 :title:     SMPTE 12M-1999 "Television, Audio and Film - Time and Control Code"
 
-:author:    Society of Motion Picture and Television Engineers (http://www.smpte.org)
+:author:    Society of Motion Picture and Television Engineers (https://www.smpte.org)
 
 .. _smpte170m:
 
@@ -189,7 +189,7 @@ SMPTE 170M
 
 :title:     SMPTE 170M-1999 "Television - Composite Analog Video Signal - NTSC for Studio Applications"
 
-:author:    Society of Motion Picture and Television Engineers (http://www.smpte.org)
+:author:    Society of Motion Picture and Television Engineers (https://www.smpte.org)
 
 .. _smpte240m:
 
@@ -199,7 +199,7 @@ SMPTE 240M
 
 :title:     SMPTE 240M-1999 "Television - Signal Parameters - 1125-Line High-Definition Production"
 
-:author:    Society of Motion Picture and Television Engineers (http://www.smpte.org)
+:author:    Society of Motion Picture and Television Engineers (https://www.smpte.org)
 
 .. _smpte431:
 
@@ -209,7 +209,7 @@ SMPTE RP 431-2
 
 :title:     SMPTE RP 431-2:2011 "D-Cinema Quality - Reference Projector and Environment"
 
-:author:    Society of Motion Picture and Television Engineers (http://www.smpte.org)
+:author:    Society of Motion Picture and Television Engineers (https://www.smpte.org)
 
 .. _smpte2084:
 
@@ -219,7 +219,7 @@ SMPTE ST 2084
 
 :title:     SMPTE ST 2084:2014 "High Dynamic Range Electro-Optical Transfer Function of Master Reference Displays"
 
-:author:    Society of Motion Picture and Television Engineers (http://www.smpte.org)
+:author:    Society of Motion Picture and Television Engineers (https://www.smpte.org)
 
 .. _srgb:
 
