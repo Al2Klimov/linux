@@ -13,7 +13,7 @@
  *	PCI System Design Guide
  *
  *	For HyperTransport information, please consult the following manuals
- *	from http://www.hypertransport.org :
+ *	from https://www.hypertransport.org :
  *
  *	The HyperTransport I/O Link Specification
  */
