@@ -55,7 +55,7 @@
 
 /*
  * This display:
- * http://www.ebay.com/itm/Replace-Nokia-5110-LCD-1-44-Red-Serial-128X128-SPI-
+ * https://www.ebay.com/itm/Replace-Nokia-5110-LCD-1-44-Red-Serial-128X128-SPI-
  * Color-TFT-LCD-Display-Module-/271422122271
  * This particular display has a design error! The controller has 3 pins to
  * configure to constrain the memory and resolution to a fixed dimension (in
