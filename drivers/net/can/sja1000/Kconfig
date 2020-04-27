@@ -36,7 +36,7 @@ config CAN_KVASER_PCI
 	depends on PCI
 	---help---
 	  This driver is for the PCIcanx and PCIcan cards (1, 2 or
-	  4 channel) from Kvaser (http://www.kvaser.com).
+	  4 channel) from Kvaser (https://www.kvaser.com).
 
 config CAN_PEAK_PCI
 	tristate "PEAK PCAN-PCI/PCIe/miniPCI Cards"
