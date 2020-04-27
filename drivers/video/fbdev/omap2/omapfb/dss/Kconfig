@@ -79,7 +79,7 @@ config FB_OMAP2_DSS_DSI
 	  DSI is a high speed half-duplex serial interface between the host
 	  processor and a peripheral, such as a display or a framebuffer chip.
 
-	  See http://www.mipi.org/ for DSI specifications.
+	  See https://www.mipi.org/ for DSI specifications.
 
 config FB_OMAP2_DSS_MIN_FCK_PER_PCK
 	int "Minimum FCK/PCK ratio (for scaling)"

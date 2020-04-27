@@ -6,7 +6,7 @@ MIPI CSI-2
 CSI-2 is a data bus intended for transferring images from cameras to
 the host SoC. It is defined by the `MIPI alliance`_.
 
-.. _`MIPI alliance`: http://www.mipi.org/
+.. _`MIPI alliance`: https://www.mipi.org/
 
 Transmitter drivers
 -------------------
