@@ -11,7 +11,7 @@ Supported chip:
 
     Datasheet: Publicly available at Nuvoton website
 
-	http://www.nuvoton.com/
+	https://www.nuvoton.com/
 
 Author: Vadim V. Vlasov <vvlasov@dev.rtsoft.ru>
 
