@@ -395,7 +395,7 @@ Qui troverete i riferimenti alla documentazione e alle guide passo-passo.
 Tra gli sviluppatori Kernel che non usano git, la scelta alternativa più
 popolare è quasi sicuramente Mercurial:
 
-	http://www.selenic.com/mercurial/
+	https://selenic.com/mercurial/
 
 Mercurial condivide diverse caratteristiche con git, ma fornisce
 un'interfaccia che potrebbe risultare più semplice da utilizzare.

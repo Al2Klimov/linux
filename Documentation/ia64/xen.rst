@@ -11,7 +11,7 @@ Requirements
   - mercurial
     it (aka "hg") is an open-source source code
     management software. See the below.
-    http://www.selenic.com/mercurial/wiki/
+    https://selenic.com/mercurial/wiki/
   - git
   - bridge-utils
 

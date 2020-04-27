@@ -229,7 +229,7 @@ Although interdiff may save you a step or two you are generally advised to
 do the additional steps since interdiff can get things wrong in some cases.
 
 Another alternative is ``ketchup``, which is a python script for automatic
-downloading and applying of patches (http://www.selenic.com/ketchup/).
+downloading and applying of patches (https://selenic.com/ketchup/).
 
 Other nice tools are diffstat, which shows a summary of changes made by a
 patch; lsdiff, which displays a short listing of affected files in a patch

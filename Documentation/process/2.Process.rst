@@ -372,7 +372,7 @@ That page has pointers to documentation and tutorials.
 Among the kernel developers who do not use git, the most popular choice is
 almost certainly Mercurial:
 
-	http://www.selenic.com/mercurial/
+	https://selenic.com/mercurial/
 
 Mercurial shares many features with git, but it provides an interface which
 many find easier to use.
