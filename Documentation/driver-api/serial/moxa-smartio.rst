@@ -86,7 +86,7 @@ Date: 01/21/2008
    GNU General Public License in this version. Please refer to GNU General
    Public License announcement in each source code file for more detail.
 
-   In Moxa's Web sites, you may always find latest driver at http://www.moxa.com/.
+   In Moxa's Web sites, you may always find latest driver at https://www.moxa.com/.
 
    This version of driver can be installed as Loadable Module (Module driver)
    or built-in into kernel (Static driver). You may refer to following
