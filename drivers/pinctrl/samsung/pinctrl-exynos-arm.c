@@ -5,7 +5,7 @@
 // Copyright (c) 2012 Samsung Electronics Co., Ltd.
 //		http://www.samsung.com
 // Copyright (c) 2012 Linaro Ltd
-//		http://www.linaro.org
+//		https://www.linaro.org
 //
 // Author: Thomas Abraham <thomas.ab@samsung.com>
 //

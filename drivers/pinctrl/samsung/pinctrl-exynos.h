@@ -5,7 +5,7 @@
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
  *		http://www.samsung.com
  * Copyright (c) 2012 Linaro Ltd
- *		http://www.linaro.org
+ *		https://www.linaro.org
  *
  * This file contains the Exynos specific definitions for the Samsung
  * pinctrl/gpiolib interface drivers.

@@ -6,7 +6,7 @@
 // Copyright (c) 2012 Samsung Electronics Co., Ltd.
 //		http://www.samsung.com
 // Copyright (c) 2012 Linaro Ltd
-//		http://www.linaro.org
+//		https://www.linaro.org
 // Copyright (c) 2017 Krzysztof Kozlowski <krzk@kernel.org>
 //
 // This file contains the Samsung Exynos specific information required by the
