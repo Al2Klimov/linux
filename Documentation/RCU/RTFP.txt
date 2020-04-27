@@ -2768,9 +2768,9 @@ lot of {Linux} into your technology!!!"
 ,annotation={
 	Looking for data races, including those involving RCU.
 	Proposal:
-	http://www.fsl.cs.sunysb.edu/docs/jseyster-proposal/redflag.pdf
+	https://www.fsl.cs.sunysb.edu/docs/jseyster-proposal/redflag.pdf
 	Dissertation:
-	http://www.fsl.cs.sunysb.edu/docs/jseyster-dissertation/redflag.pdf
+	https://www.fsl.cs.sunysb.edu/docs/jseyster-dissertation/redflag.pdf
 }
 }
 
