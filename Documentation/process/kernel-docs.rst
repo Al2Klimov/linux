@@ -579,7 +579,7 @@ Miscellaneous
 
     * Name: **Kernel Newbies IRC Channel and Website**
 
-      :URL: http://www.kernelnewbies.org
+      :URL: https://www.kernelnewbies.org
       :Keywords: IRC, newbies, channel, asking doubts.
       :Description: #kernelnewbies on irc.oftc.net.
         #kernelnewbies is an IRC network dedicated to the 'newbie'
