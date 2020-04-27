@@ -7,7 +7,7 @@
  *
  **
  * The data sheet for this tuner can be found at:
- *    http://www.mcmilk.de/projects/dvb-card/datasheets/ZL10036.pdf
+ *    https://www.mcmilk.de/projects/dvb-card/datasheets/ZL10036.pdf
  *
  * This one is working: (at my Avermedia DVB-S Pro)
  * - zl10036 (40pin, FTA)
