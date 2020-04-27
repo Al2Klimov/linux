@@ -309,7 +309,7 @@ ISO 12232:2006
 
 :title:     Photography — Digital still cameras — Determination of exposure index, ISO speed ratings, standard output sensitivity, and recommended exposure index
 
-:author:    International Organization for Standardization (http://www.iso.org)
+:author:    International Organization for Standardization (https://www.iso.org)
 
 .. _cea861:
 
