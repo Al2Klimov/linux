@@ -6,7 +6,7 @@
 
 /*
  * Driver: dyna_pci10xx
- * Description: Dynalog India PCI DAQ Cards, http://www.dynalogindia.com/
+ * Description: Dynalog India PCI DAQ Cards, https://www.dynalogindia.com/
  * Devices: [Dynalog] PCI-1050 (dyna_pci1050)
  * Author: Prashant Shah <pshah.mumbai@gmail.com>
  * Status: Stable
