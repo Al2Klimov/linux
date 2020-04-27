@@ -47,7 +47,7 @@
 
 /*
  * Marvell OpenRD Base, Client
- * http://www.open-rd.org
+ * https://www.open-rd.org
  * OpenRD Base, Client use VID 0x0403
  */
 #define MARVELL_OPENRD_PID	0x9e90
