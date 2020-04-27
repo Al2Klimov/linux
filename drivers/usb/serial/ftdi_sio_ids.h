@@ -122,7 +122,7 @@
 
 #define FTDI_DISTORTEC_JTAG_LOCK_PICK_PID	0xCFF8
 
-/* SCS HF Radio Modems PID's (http://www.scs-ptc.com) */
+/* SCS HF Radio Modems PID's (https://www.scs-ptc.com) */
 /* the VID is the standard ftdi vid (FTDI_VID) */
 #define FTDI_SCS_DEVICE_0_PID 0xD010    /* SCS PTC-IIusb */
 #define FTDI_SCS_DEVICE_1_PID 0xD011    /* SCS Tracker / DSP TNC */
