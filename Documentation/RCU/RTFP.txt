@@ -2298,7 +2298,7 @@ lot of {Linux} into your technology!!!"
 , month  = "December"
 , year   = 2009
 ,note="Available:
-\url{http://www.lttng.org/pub/thesis/desnoyers-dissertation-2009-12.pdf}
+\url{https://lttng.org/pub/thesis/desnoyers-dissertation-2009-12.pdf}
 [Viewed December 9, 2009]"
 ,annotation={
 	Chapter 6 (page 97) covers user-level RCU.
