@@ -80,7 +80,7 @@ Other Drivers and Info
 ----------------------
 
 You can try my ARCNET page on the World Wide Web at:
-	http://www.qis.net/~jschmitz/arcnet/	
+	https://www.qis.net/~jschmitz/arcnet/	
 
 Also, SMC (one of the companies that makes ARCnet cards) has a WWW site you
 might be interested in, which includes several drivers for various cards
