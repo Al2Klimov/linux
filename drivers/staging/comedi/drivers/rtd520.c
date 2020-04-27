@@ -40,9 +40,9 @@
  * These boards can support external multiplexors and multi-board
  * synchronization, but this driver doesn't support that.
  *
- * Board docs: http://www.rtdusa.com/PC104/DM/analog%20IO/dm7520.htm
- * Data sheet: http://www.rtdusa.com/pdf/dm7520.pdf
- * Example source: http://www.rtdusa.com/examples/dm/dm7520.zip
+ * Board docs: https://www.rtdusa.com/PC104/DM/analog%20IO/dm7520.htm
+ * Data sheet: https://www.rtdusa.com/pdf/dm7520.pdf
+ * Example source: https://www.rtdusa.com/examples/dm/dm7520.zip
  * Call them and ask for the register level manual.
  * PCI chip: http://www.plxtech.com/products/io/pci9080
  *
