@@ -1498,7 +1498,7 @@ config CRYPTO_SEED
 	  It is a 16 round block cipher with the key size of 128 bit.
 
 	  See also:
-	  <http://www.kisa.or.kr/kisa/seed/jsp/seed_eng.jsp>
+	  <https://www.kisa.or.kr/kisa/seed/jsp/seed_eng.jsp>
 
 config CRYPTO_SERPENT
 	tristate "Serpent cipher algorithm"
