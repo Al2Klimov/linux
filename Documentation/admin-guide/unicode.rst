@@ -102,7 +102,7 @@ Linux/CSUR private assignment in the Linux Zone.
 This encoding has been endorsed by the Klingon Language Institute.
 For more information, contact them at:
 
-	http://www.kli.org/
+	https://www.kli.org/
 
 Since the characters in the beginning of the Linux CZ have been more
 of the dingbats/symbols/forms type and this is a language, I have
