@@ -3543,7 +3543,7 @@ S: Australia
 N: Henrik Storner
 E: storner@image.dk
 W: http://www.image.dk/~storner/
-W: http://www.sslug.dk/
+W: https://www.sslug.dk/
 D: Configure script: Invented tristate for module-configuration
 D: vfat/msdos integration, kerneld docs, Linux promotion
 D: Miscellaneous bug-fixes
