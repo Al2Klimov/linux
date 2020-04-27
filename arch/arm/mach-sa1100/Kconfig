@@ -30,7 +30,7 @@ config SA1100_CERF
 	help
 	  The Intrinsyc CerfBoard is based on the StrongARM 1110 (Discontinued).
 	  More information is available at:
-	  <http://www.intrinsyc.com/products/cerfboard/>.
+	  <https://www.intrinsyc.com/products/cerfboard/>.
 
 	  Say Y if configuring for an Intrinsyc CerfBoard.
 	  Say N otherwise.

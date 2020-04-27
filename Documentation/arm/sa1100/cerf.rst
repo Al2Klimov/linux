@@ -8,7 +8,7 @@ The Intrinsyc CerfBoard is a StrongARM 1110-based computer on a board
 that measures approximately 2" square. It includes an Ethernet
 controller, an RS232-compatible serial port, a USB function port, and
 one CompactFlash+ slot on the back. Pictures can be found at the
-Intrinsyc website, http://www.intrinsyc.com.
+Intrinsyc website, https://www.intrinsyc.com.
 
 This document describes the support in the Linux kernel for the
 Intrinsyc CerfBoard.
