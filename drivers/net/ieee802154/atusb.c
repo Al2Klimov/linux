@@ -1096,7 +1096,7 @@ static int atusb_probe(struct usb_interface *interface,
 	 *
 	 * [1] "JN-AN-1035 Calculating data rates in an IEEE 802.15.4-based
 	 *      network", Jennic 2006.
-	 *     http://www.jennic.com/download_file.php?supportFile=JN-AN-1035%20Calculating%20802-15-4%20Data%20Rates-1v0.pdf
+	 *     https://www.jennic.com/download_file.php?supportFile=JN-AN-1035%20Calculating%20802-15-4%20Data%20Rates-1v0.pdf
 	 */
 
 	atusb_write_subreg(atusb, SR_RX_SAFE_MODE, 1);
