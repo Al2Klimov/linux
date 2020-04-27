@@ -1399,7 +1399,7 @@
 #define MJSG_HD_RADIO_PID	0x937C
 
 /*
- * D.O.Tec products (http://www.directout.eu)
+ * D.O.Tec products (https://www.directout.eu)
  */
 #define FTDI_DOTEC_PID 0x9868
 
