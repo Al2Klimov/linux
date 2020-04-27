@@ -1560,7 +1560,7 @@
 #define UNJO_ISODEBUG_V1_PID		0x150D
 
 /*
- * U-Blox products (http://www.u-blox.com).
+ * U-Blox products (https://www.u-blox.com).
  */
 #define UBLOX_VID			0x1546
 #define UBLOX_C099F9P_ZED_PID		0x0502

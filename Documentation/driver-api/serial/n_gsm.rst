@@ -93,7 +93,7 @@ More practical details on the protocol and how it's supported by industrial
 modems can be found in the following documents :
 
 - https://www.telit.com/module/infopool/download.php?id=616
-- http://www.u-blox.com/images/downloads/Product_Docs/LEON-G100-G200-MuxImplementation_ApplicationNote_%28GSM%20G1-CS-10002%29.pdf
+- https://www.u-blox.com/images/downloads/Product_Docs/LEON-G100-G200-MuxImplementation_ApplicationNote_%28GSM%20G1-CS-10002%29.pdf
 - https://www.sierrawireless.com/Support/Downloads/AirPrime/WMP_Series/~/media/Support_Downloads/AirPrime/Application_notes/CMUX_Feature_Application_Note-Rev004.ashx
 - http://wm.sim.com/sim/News/photo/2010721161442.pdf
 
