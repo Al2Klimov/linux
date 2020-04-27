@@ -23,7 +23,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  * You can contact the author at :
- *	- LZ4 homepage : http://www.lz4.org
+ *	- LZ4 homepage : https://www.lz4.org
  *	- LZ4 source repository : https://github.com/lz4/lz4
  *
  *	Changed for kernel usage by:
