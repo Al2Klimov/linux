@@ -1174,7 +1174,7 @@ static int inquiry_vpd_85(unsigned char *arr)
 {
 	int num = 0;
 	const char *na1 = "https://www.kernel.org/config";
-	const char *na2 = "http://www.kernel.org/log";
+	const char *na2 = "https://www.kernel.org/log";
 	int plen, olen;
 
 	arr[num++] = 0x1;	/* lu, storage config */

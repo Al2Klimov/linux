@@ -67,7 +67,7 @@ __bitwise"类型。
 
 你可以从 Sparse 的主页获取最新的发布版本：
 
-	http://www.kernel.org/pub/linux/kernel/people/josh/sparse/
+	https://www.kernel.org/pub/linux/kernel/people/josh/sparse/
 
 或者，你也可以使用 git 克隆最新的 sparse 开发版本：
 

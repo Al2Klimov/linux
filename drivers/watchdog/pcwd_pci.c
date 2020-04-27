@@ -18,7 +18,7 @@
 
 /*
  *	A bells and whistles driver is available from:
- *	http://www.kernel.org/pub/linux/kernel/people/wim/pcwd/pcwd_pci/
+ *	https://www.kernel.org/pub/linux/kernel/people/wim/pcwd/pcwd_pci/
  *
  *	More info available at
  *	http://www.berkprod.com/ or http://www.pcwatchdog.com/

@@ -250,7 +250,7 @@ references:
 - http://www.tldp.org/HOWTO/From-PowerUp-To-Bash-Prompt-HOWTO.html
 - http://www.linuxfromscratch.org/lfs/view/stable/
 
-The "klibc" package (http://www.kernel.org/pub/linux/libs/klibc) is
+The "klibc" package (https://www.kernel.org/pub/linux/libs/klibc) is
 designed to be a tiny C library to statically link early userspace
 code against, along with some related utilities.  It is BSD licensed.
 

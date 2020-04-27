@@ -46,9 +46,9 @@ information to be found there.
 
 Documentation for git can be found at:
 
-	http://www.kernel.org/pub/software/scm/git/docs/
+	https://www.kernel.org/pub/software/scm/git/docs/
 
-	http://www.kernel.org/pub/software/scm/git/docs/user-manual.html
+	https://www.kernel.org/pub/software/scm/git/docs/user-manual.html
 
 
 Conclusion

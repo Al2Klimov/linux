@@ -27,7 +27,7 @@
 
 	https://git-scm.com/
 
-	http://www.kernel.org/pub/software/scm/git/docs/user-manual.html
+	https://www.kernel.org/pub/software/scm/git/docs/user-manual.html
 
 在尝试使用它使补丁可供其他人使用之前，第一要务是阅读上述站点，对Git的工作
 方式有一个扎实的了解。使用Git的开发人员应该能够获得主线存储库的副本，探索

@@ -340,7 +340,7 @@ scheda di sviluppo Blackfin sotto mano, potete comunque continuare la fase
 di compilazione.  Un vasto numero di cross-compilatori per x86 possono
 essere trovati al sito:
 
-	http://www.kernel.org/pub/tools/crosstool/
+	https://www.kernel.org/pub/tools/crosstool/
 
 Il tempo impiegato nell'installare e usare questi compilatori sarà d'aiuto
 nell'evitare situazioni imbarazzanti nel futuro.

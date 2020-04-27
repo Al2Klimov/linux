@@ -72,10 +72,10 @@ This is a symlink to the latest version.
 The latest kexec-tools git tree is available at:
 
 - git://git.kernel.org/pub/scm/utils/kernel/kexec/kexec-tools.git
-- http://www.kernel.org/pub/scm/utils/kernel/kexec/kexec-tools.git
+- https://www.kernel.org/pub/scm/utils/kernel/kexec/kexec-tools.git
 
 There is also a gitweb interface available at
-http://www.kernel.org/git/?p=utils/kernel/kexec/kexec-tools.git
+https://www.kernel.org/git/?p=utils/kernel/kexec/kexec-tools.git
 
 More information about kexec-tools can be found at
 https://horms.net/projects/kexec/

@@ -323,7 +323,7 @@ other architectures.  If you do not happen to have an S/390 system or a
 Blackfin development board handy, you can still perform the compilation
 step.  A large set of cross compilers for x86 systems can be found at
 
-	http://www.kernel.org/pub/tools/crosstool/
+	https://www.kernel.org/pub/tools/crosstool/
 
 Some time spent installing and using these compilers will help avoid
 embarrassment later.

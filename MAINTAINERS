@@ -7101,7 +7101,7 @@ F:	include/linux/platform_data/i2c-mux-gpio.h
 GENERIC HDLC (WAN) DRIVERS
 M:	Krzysztof Halasa <khc@pm.waw.pl>
 S:	Maintained
-W:	http://www.kernel.org/pub/linux/utils/net/hdlc/
+W:	https://www.kernel.org/pub/linux/utils/net/hdlc/
 F:	drivers/net/wan/c101.c
 F:	drivers/net/wan/hd6457*
 F:	drivers/net/wan/hdlc*
@@ -7466,7 +7466,7 @@ HARD DRIVE ACTIVE PROTECTION SYSTEM (HDAPS) DRIVER
 M:	Frank Seidel <frank@f-seidel.de>
 L:	platform-driver-x86@vger.kernel.org
 S:	Maintained
-W:	http://www.kernel.org/pub/linux/kernel/people/fseidel/hdaps/
+W:	https://www.kernel.org/pub/linux/kernel/people/fseidel/hdaps/
 F:	drivers/platform/x86/hdaps.c
 
 HARDWARE MONITORING
@@ -10097,7 +10097,7 @@ MAN-PAGES: MANUAL PAGES FOR LINUX -- Sections 2, 3, 4, 5, and 7
 M:	Michael Kerrisk <mtk.manpages@gmail.com>
 L:	linux-man@vger.kernel.org
 S:	Maintained
-W:	http://www.kernel.org/doc/man-pages
+W:	https://www.kernel.org/doc/man-pages
 
 MARDUK (CREATOR CI40) DEVICE TREE SUPPORT
 M:	Rahul Bedarkar <rahulbedarkar89@gmail.com>

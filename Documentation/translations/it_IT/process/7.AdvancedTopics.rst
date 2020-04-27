@@ -37,7 +37,7 @@ seguenti indirizzi:
 
 	https://git-scm.com/
 
-	http://www.kernel.org/pub/software/scm/git/docs/user-manual.html
+	https://www.kernel.org/pub/software/scm/git/docs/user-manual.html
 
 e su varie guide che potrete trovare su internet.
 

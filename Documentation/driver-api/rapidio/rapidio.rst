@@ -359,4 +359,4 @@ NOTE:
     https://lwn.net/Articles/139118/
 
 [4] Matt Porter. RapidIO for Linux. Ottawa Linux Symposium, 2005
-    http://www.kernel.org/doc/ols/2005/ols2005v2-pages-43-56.pdf
+    https://www.kernel.org/doc/ols/2005/ols2005v2-pages-43-56.pdf

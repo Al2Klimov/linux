@@ -32,7 +32,7 @@ Build instructions
 
 For Linux:
 
-1) Download the kernel (e.g. from http://www.kernel.org)
+1) Download the kernel (e.g. from https://www.kernel.org)
    and change directory into the top of the kernel directory tree
    (e.g. /usr/src/linux-2.5.73)
 2) make menuconfig (or make xconfig)

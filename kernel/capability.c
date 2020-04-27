@@ -40,7 +40,7 @@ __setup("no_file_caps", file_caps_disable);
 /*
  * More recent versions of libcap are available from:
  *
- *   http://www.kernel.org/pub/linux/libs/security/linux-privs/
+ *   https://www.kernel.org/pub/linux/libs/security/linux-privs/
  */
 
 static void warn_legacy_capability_use(void)

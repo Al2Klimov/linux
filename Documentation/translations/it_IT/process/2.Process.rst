@@ -324,7 +324,7 @@ la prossima finestra di inclusione si chiuderà.  I linux-next sono annunciati
 sulla lista di discussione linux-kernel e linux-next nel momento in cui
 vengono assemblati; e possono essere scaricate da:
 
-	http://www.kernel.org/pub/linux/kernel/next/
+	https://www.kernel.org/pub/linux/kernel/next/
 
 Linux-next è divenuto parte integrante del processo di sviluppo del kernel;
 tutte le patch incorporate durante una finestra di integrazione dovrebbero

@@ -52,9 +52,9 @@ tempo.  Comunque contengono informazioni abbastanza buone.
 
 La documentazione per git la troverete su:
 
-	http://www.kernel.org/pub/software/scm/git/docs/
+	https://www.kernel.org/pub/software/scm/git/docs/
 
-	http://www.kernel.org/pub/software/scm/git/docs/user-manual.html
+	https://www.kernel.org/pub/software/scm/git/docs/user-manual.html
 
 
 

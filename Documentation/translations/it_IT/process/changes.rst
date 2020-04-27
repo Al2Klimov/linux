@@ -131,7 +131,7 @@ Modifiche architetturali
 ------------------------
 
 DevFS è stato reso obsoleto da udev
-(http://www.kernel.org/pub/linux/utils/kernel/hotplug/)
+(https://www.kernel.org/pub/linux/utils/kernel/hotplug/)
 
 Il supporto per UID a 32-bit è ora disponibile.  Divertitevi!
 

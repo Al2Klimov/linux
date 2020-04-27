@@ -31,7 +31,7 @@ wish to come up to speed with git will find more information at:
 
 	https://git-scm.com/
 
-	http://www.kernel.org/pub/software/scm/git/docs/user-manual.html
+	https://www.kernel.org/pub/software/scm/git/docs/user-manual.html
 
 and on various tutorials found on the web.
 
