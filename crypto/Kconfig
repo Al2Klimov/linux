@@ -1443,7 +1443,7 @@ config CRYPTO_SALSA20
 	  Salsa20 stream cipher algorithm.
 
 	  Salsa20 is a stream cipher submitted to eSTREAM, the ECRYPT
-	  Stream Cipher Project. See <http://www.ecrypt.eu.org/stream/>
+	  Stream Cipher Project. See <https://www.ecrypt.eu.org/stream/>
 
 	  The Salsa20 stream cipher algorithm is designed by Daniel J.
 	  Bernstein <djb@cr.yp.to>. See <http://cr.yp.to/snuffle.html>
