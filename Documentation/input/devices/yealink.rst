@@ -15,7 +15,7 @@ The p1k is a relatively cheap usb 1.1 phone with:
   - audio playback   	full support, snd_usb_audio.ko / alsa API
   - audio record     	full support, snd_usb_audio.ko / alsa API
 
-For vendor documentation see http://www.yealink.com
+For vendor documentation see https://www.yealink.com
 
 
 keyboard features
