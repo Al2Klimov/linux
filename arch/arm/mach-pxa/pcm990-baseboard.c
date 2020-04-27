@@ -4,7 +4,7 @@
  *  Support for the Phytec phyCORE-PXA270 Development Platform (PCM-990).
  *
  *  Refer
- *   http://www.phytec.com/products/rdk/ARM-XScale/phyCORE-XScale-PXA270.html
+ *   https://www.phytec.com/products/rdk/ARM-XScale/phyCORE-XScale-PXA270.html
  *  for additional hardware info
  *
  *  Author:	Juergen Kilb

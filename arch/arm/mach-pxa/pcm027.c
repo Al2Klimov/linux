@@ -4,7 +4,7 @@
  *  Support for the Phytec phyCORE-PXA270 CPU card (aka PCM-027).
  *
  *  Refer
- *   http://www.phytec.com/products/sbc/ARM-XScale/phyCORE-XScale-PXA270.html
+ *   https://www.phytec.com/products/sbc/ARM-XScale/phyCORE-XScale-PXA270.html
  *  for additional hardware info
  *
  *  Author:	Juergen Kilb
