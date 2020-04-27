@@ -1009,7 +1009,7 @@
 
 /*
  * Matrix Orbital Intelligent USB displays.
- * http://www.matrixorbital.com
+ * https://www.matrixorbital.com
  */
 #define MTXORB_VID			0x1B3D
 #define MTXORB_FTDI_RANGE_0100_PID	0x0100
