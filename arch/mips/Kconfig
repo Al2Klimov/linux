@@ -347,7 +347,7 @@ config MACH_DECSTATION
 	select MIPS_L1_CACHE_SHIFT_4
 	help
 	  This enables support for DEC's MIPS based workstations.  For details
-	  see the Linux/MIPS FAQ on <http://www.linux-mips.org/> and the
+	  see the Linux/MIPS FAQ on <https://www.linux-mips.org/> and the
 	  DECstation porting pages on <http://decstation.unix-ag.org/>.
 
 	  If you have one of the following DECstation Models you definitely
@@ -3165,7 +3165,7 @@ config TC
 	  and:
 	  <http://www.computer-refuge.org/classiccmp/ftp.digital.com/pub/DEC/TriAdd/>
 	  Linux driver support status is documented at:
-	  <http://www.linux-mips.org/wiki/DECstation>
+	  <https://www.linux-mips.org/wiki/DECstation>
 
 config MMU
 	bool
