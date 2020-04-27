@@ -1,7 +1,7 @@
 /*
  * A driver for the Omnikey PCMCIA smartcard reader CardMan 4040
  *
- * (c) 2000-2004 Omnikey AG (http://www.omnikey.com/)
+ * (c) 2000-2004 Omnikey AG (https://www.omnikey.com/)
  *
  * (C) 2005-2006 Harald Welte <laforge@gnumonks.org>
  * 	- add support for poll()
