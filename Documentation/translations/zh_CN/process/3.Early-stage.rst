@@ -156,6 +156,6 @@ get_maintainer.pl搜索维护者的难易程度；请小心使用更具攻击性
 开发商根据保密协议审查计划。Linux基金会运行了一个NDA程序，旨在帮助解决这种
 情况；
 
-    http://www.linuxfoundation.org/en/NDA_program
+    https://www.linuxfoundation.org/en/NDA_program
 
 这种审查通常足以避免以后出现严重问题，而无需公开披露项目。

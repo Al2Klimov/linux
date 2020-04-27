@@ -235,7 +235,7 @@ La Linux Foundation applica un programma di NDA creato appositamente per
 aiutare le aziende in questa particolare situazione; potrete trovare più
 informazioni sul sito:
 
-    http://www.linuxfoundation.org/en/NDA_program
+    https://www.linuxfoundation.org/en/NDA_program
 
 Questa tipologia di revisione è spesso sufficiente per evitare gravi problemi
 senza che sia richiesta l'esposizione pubblica del progetto.

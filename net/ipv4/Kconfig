@@ -417,7 +417,7 @@ config INET_DIAG
 	  native Linux tools such as ss. ss is included in iproute2, currently
 	  downloadable at:
 
-	    http://www.linuxfoundation.org/collaborate/workgroups/networking/iproute2
+	    https://www.linuxfoundation.org/collaborate/workgroups/networking/iproute2
 
 	  If unsure, say Y.
 

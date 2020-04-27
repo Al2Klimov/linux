@@ -4718,7 +4718,7 @@ DCCP PROTOCOL
 M:	Gerrit Renker <gerrit@erg.abdn.ac.uk>
 L:	dccp@vger.kernel.org
 S:	Maintained
-W:	http://www.linuxfoundation.org/collaborate/workgroups/networking/dccp
+W:	https://www.linuxfoundation.org/collaborate/workgroups/networking/dccp
 F:	include/linux/dccp.h
 F:	include/linux/tfrc.h
 F:	include/uapi/linux/dccp.h
@@ -6342,7 +6342,7 @@ M:	Nikolay Aleksandrov <nikolay@cumulusnetworks.com>
 L:	bridge@lists.linux-foundation.org (moderated for non-subscribers)
 L:	netdev@vger.kernel.org
 S:	Maintained
-W:	http://www.linuxfoundation.org/en/Net:Bridge
+W:	https://www.linuxfoundation.org/en/Net:Bridge
 F:	include/linux/netfilter_bridge/
 F:	net/bridge/
 
@@ -11721,7 +11721,7 @@ NETWORKING DRIVERS
 M:	"David S. Miller" <davem@davemloft.net>
 L:	netdev@vger.kernel.org
 S:	Odd Fixes
-W:	http://www.linuxfoundation.org/en/Net
+W:	https://www.linuxfoundation.org/en/Net
 Q:	http://patchwork.ozlabs.org/project/netdev/list/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net-next.git
@@ -11764,7 +11764,7 @@ M:	"David S. Miller" <davem@davemloft.net>
 M:	Jakub Kicinski <kuba@kernel.org>
 L:	netdev@vger.kernel.org
 S:	Maintained
-W:	http://www.linuxfoundation.org/en/Net
+W:	https://www.linuxfoundation.org/en/Net
 Q:	http://patchwork.ozlabs.org/project/netdev/list/
 B:	mailto:netdev@vger.kernel.org
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git
