@@ -329,7 +329,7 @@ VESA DMT
 
 :title:     VESA and Industry Standards and Guidelines for Computer Display Monitor Timing (DMT)
 
-:author:    Video Electronics Standards Association (http://www.vesa.org)
+:author:    Video Electronics Standards Association (https://www.vesa.org)
 
 .. _vesaedid:
 
@@ -340,7 +340,7 @@ EDID
 :title:     VESA Enhanced Extended Display Identification Data Standard
 :subtitle:  Release A, Revision 2
 
-:author:    Video Electronics Standards Association (http://www.vesa.org)
+:author:    Video Electronics Standards Association (https://www.vesa.org)
 
 .. _hdcp:
 
@@ -383,7 +383,7 @@ DP
 :title:     VESA DisplayPort Standard
 :subtitle:  Version 1, Revision 2
 
-:author:    Video Electronics Standards Association (http://www.vesa.org)
+:author:    Video Electronics Standards Association (https://www.vesa.org)
 
 .. _poynton:
 
