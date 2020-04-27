@@ -698,7 +698,7 @@
 #define ECHELON_U20_PID		0x7500
 
 /*
- * Intrepid Control Systems (http://www.intrepidcs.com/) ValueCAN and NeoVI
+ * Intrepid Control Systems (https://www.intrepidcs.com/) ValueCAN and NeoVI
  */
 #define INTREPID_VID		0x093C
 #define INTREPID_VALUECAN_PID	0x0601
