@@ -191,5 +191,5 @@ features, please see the tool's README.
 
 UFS Specifications can be found at:
 
-- UFS - http://www.jedec.org/sites/default/files/docs/JESD220.pdf
-- UFSHCI - http://www.jedec.org/sites/default/files/docs/JESD223.pdf
+- UFS - https://www.jedec.org/sites/default/files/docs/JESD220.pdf
+- UFSHCI - https://www.jedec.org/sites/default/files/docs/JESD223.pdf

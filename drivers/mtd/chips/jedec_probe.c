@@ -1,7 +1,7 @@
 /*
    Common Flash Interface probe code.
    (C) 2000 Red Hat. GPL'd.
-   See JEDEC (http://www.jedec.org/) standard JESD21C (section 3.5)
+   See JEDEC (https://www.jedec.org/) standard JESD21C (section 3.5)
    for the standard this probe goes back to.
 
    Occasionally maintained by Thayne Harbaugh tharbaugh at lnxi dot com
@@ -1915,7 +1915,7 @@ static inline u32 jedec_read_mfr(struct map_info *map, uint32_t base,
 	int bank = 0;
 
 	/* According to JEDEC "Standard Manufacturer's Identification Code"
-	 * (http://www.jedec.org/download/search/jep106W.pdf)
+	 * (https://www.jedec.org/download/search/jep106W.pdf)
 	 * several first banks can contain 0x7f instead of actual ID
 	 */
 	do {

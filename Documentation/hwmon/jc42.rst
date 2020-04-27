@@ -89,7 +89,7 @@ Supported chips:
 
     Datasheet:
 
-	http://www.jedec.org/sites/default/files/docs/4_01_04R19.pdf
+	https://www.jedec.org/sites/default/files/docs/4_01_04R19.pdf
 
 
   Common for all chips:
