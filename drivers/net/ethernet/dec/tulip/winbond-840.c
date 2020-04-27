@@ -188,7 +188,7 @@ IVb. References
 
 http://www.scyld.com/expert/100mbps.html
 http://www.scyld.com/expert/NWay.html
-http://www.winbond.com.tw/
+https://www.winbond.com.tw/
 
 IVc. Errata
 

@@ -17,7 +17,7 @@ Supported chips:
   * Winbond W83687THF
     Prefix: 'w83687thf'
     Addresses scanned: ISA address retrieved from Super I/O registers
-    Datasheet: Provided by Winbond on request(http://www.winbond.com/hq/enu)
+    Datasheet: Provided by Winbond on request(https://www.winbond.com/hq/enu)
 
 Authors:
 	Frodo Looijaard <frodol@dds.nl>,
