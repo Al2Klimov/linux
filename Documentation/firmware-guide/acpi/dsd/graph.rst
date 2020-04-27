@@ -157,7 +157,7 @@ References
     http://www.uefi.org/sites/default/files/resources/_DSD-implementation-guide-toplevel-1_1.htm,
     referenced 2016-10-03.
 
-[2] Devicetree. http://www.devicetree.org, referenced 2016-10-03.
+[2] Devicetree. https://www.devicetree.org, referenced 2016-10-03.
 
 [3] Documentation/devicetree/bindings/graph.txt
 

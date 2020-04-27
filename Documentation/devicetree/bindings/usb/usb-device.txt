@@ -2,7 +2,7 @@ Generic USB Device Properties
 
 Usually, we only use device tree for hard wired USB device.
 The reference binding doc is from:
-http://www.devicetree.org/open-firmware/bindings/usb/usb-1_0.ps
+https://www.devicetree.org/open-firmware/bindings/usb/usb-1_0.ps
 
 Four types of device-tree nodes are defined: "host-controller nodes"
 representing USB host controllers, "device nodes" representing USB devices,

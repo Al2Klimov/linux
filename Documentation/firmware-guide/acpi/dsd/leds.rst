@@ -90,7 +90,7 @@ where
 References
 ==========
 
-[1] Device tree. <URL:http://www.devicetree.org>, referenced 2019-02-21.
+[1] Device tree. <URL:https://www.devicetree.org>, referenced 2019-02-21.
 
 [2] Advanced Configuration and Power Interface Specification.
     <URL:https://uefi.org/sites/default/files/resources/ACPI_6_3_final_Jan30.pdf>,
