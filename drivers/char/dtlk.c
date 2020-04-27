@@ -13,7 +13,7 @@
  */
 
 /* This driver is for the DoubleTalk PC, a speech synthesizer
-   manufactured by RC Systems (http://www.rcsys.com/).  It was written
+   manufactured by RC Systems (https://www.rcsys.com/).  It was written
    based on documentation in their User's Manual file and Developer's
    Tools disk.
 

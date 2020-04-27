@@ -201,7 +201,7 @@ config DTLK
 	depends on ISA
 	help
 	  This driver is for the DoubleTalk PC, a speech synthesizer
-	  manufactured by RC Systems (<http://www.rcsys.com/>).  It is also
+	  manufactured by RC Systems (<https://www.rcsys.com/>).  It is also
 	  called the `internal DoubleTalk'.
 
 	  To compile this driver as a module, choose M here: the
