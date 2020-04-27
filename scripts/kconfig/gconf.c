@@ -691,7 +691,7 @@ void on_license1_activate(GtkMenuItem * menuitem, gpointer user_data)
 	const gchar *license_text =
 	    "gkc is released under the terms of the GNU GPL v2.\n"
 	      "For more information, please see the source code or\n"
-	      "visit http://www.fsf.org/licenses/licenses.html\n";
+	      "visit https://www.fsf.org/licenses/licenses.html\n";
 
 	dialog = gtk_message_dialog_new(GTK_WINDOW(main_wnd),
 					GTK_DIALOG_DESTROY_WITH_PARENT,

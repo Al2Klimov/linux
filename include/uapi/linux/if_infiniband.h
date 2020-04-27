@@ -3,7 +3,7 @@
  * This software is available to you under a choice of one of two
  * licenses.  You may choose to be licensed under the terms of the GNU
  * General Public License (GPL) Version 2, available at
- * <http://www.fsf.org/copyleft/gpl.html>, or the OpenIB.org BSD
+ * <https://www.fsf.org/copyleft/gpl.html>, or the OpenIB.org BSD
  * license, available in the LICENSE.TXT file accompanying this
  * software.  These details are also available at
  * <http://www.openfabrics.org/software_license.htm>.
