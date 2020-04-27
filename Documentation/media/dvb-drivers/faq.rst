@@ -97,7 +97,7 @@ Some very frequently asked questions about linuxtv-dvb
 	http://xine.sourceforge.net/ and http://xinehq.de/
 		xine
 
-	http://www.mythtv.org/
+	https://www.mythtv.org/
 		MythTV - analog TV PVR, but now with DVB support, too
 		(with software MPEG decode)
 
