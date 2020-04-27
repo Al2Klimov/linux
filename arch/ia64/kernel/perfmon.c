@@ -17,7 +17,7 @@
  *               David Mosberger-Tang <davidm@hpl.hp.com>
  *
  * More information about perfmon available at:
- * 	http://www.hpl.hp.com/research/linux/perfmon
+ * 	https://www.hpl.hp.com/research/linux/perfmon
  */
 
 #include <linux/module.h>
