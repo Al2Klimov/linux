@@ -31,4 +31,4 @@ and third (LSB) bytes of the message. The maximum FW message length is
 1024 bytes.
 
 For the ETSI HCI specification see
-http://www.etsi.org/WebSite/Technologies/ProtocolSpecification.aspx
+https://www.etsi.org/WebSite/Technologies/ProtocolSpecification.aspx

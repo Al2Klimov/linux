@@ -30,7 +30,7 @@ EN 300 294
 
 :title:     EN 300 294 "625-line television Wide Screen Signalling (WSS)"
 
-:author:    European Telecommunication Standards Institute (http://www.etsi.org)
+:author:    European Telecommunication Standards Institute (https://www.etsi.org)
 
 .. _ets300231:
 
@@ -40,7 +40,7 @@ ETS 300 231
 
 :title:     ETS 300 231 "Specification of the domestic video Programme Delivery Control system (PDC)"
 
-:author:    European Telecommunication Standards Institute (http://www.etsi.org)
+:author:    European Telecommunication Standards Institute (https://www.etsi.org)
 
 .. _ets300706:
 
@@ -50,7 +50,7 @@ ETS 300 706
 
 :title:     ETS 300 706 "Enhanced Teletext specification"
 
-:author:    European Telecommunication Standards Institute (http://www.etsi.org)
+:author:    European Telecommunication Standards Institute (https://www.etsi.org)
 
 .. _mpeg2part1:
 

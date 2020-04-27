@@ -125,7 +125,7 @@ Some very frequently asked questions about linuxtv-dvb
 	before checking the statistics.) If there are no packets at
 	all then maybe the PID is wrong. If there are error packets,
 	then either the PID is wrong or the stream does not conform to
-	the MPE standard (EN 301 192, http://www.etsi.org/). You can
+	the MPE standard (EN 301 192, https://www.etsi.org/). You can
 	use e.g. dvbsnoop for debugging.
 
 6. The dvb_net device doesn't give me any multicast packets
