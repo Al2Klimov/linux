@@ -3,7 +3,7 @@
 # deauthentication/disassociation flows.
 #
 # This can be converted into a diagram using the service
-# at http://www.websequencediagrams.com/
+# at https://www.websequencediagrams.com/
 #
 
 participant userspace
