@@ -97,7 +97,7 @@ static int omap4_pm_suspend(void)
 		 * kernel to properly reset and initialize some devices.
 		 * Warn the user about the bootloader version being one of the
 		 * possible causes.
-		 * http://www.spinics.net/lists/arm-kernel/msg218641.html
+		 * https://www.spinics.net/lists/arm-kernel/msg218641.html
 		 */
 		pr_warn("A possible cause could be an old bootloader - try u-boot >= v2012.07\n");
 	} else {
@@ -254,7 +254,7 @@ int __init omap4_pm_init(void)
 	 * OMAP4 chip PM currently works only with certain (newer)
 	 * versions of bootloaders. This is due to missing code in the
 	 * kernel to properly reset and initialize some devices.
-	 * http://www.spinics.net/lists/arm-kernel/msg218641.html
+	 * https://www.spinics.net/lists/arm-kernel/msg218641.html
 	 */
 	if (cpu_is_omap44xx())
 		pr_warn("OMAP4 PM: u-boot >= v2012.07 is required for full PM support\n");

@@ -32,7 +32,7 @@ static inline void arch_spin_lock(arch_spinlock_t *lock)
 	/*
 	 * ACQUIRE barrier to ensure load/store after taking the lock
 	 * don't "bleed-up" out of the critical section (leak-in is allowed)
-	 * http://www.spinics.net/lists/kernel/msg2010409.html
+	 * https://www.spinics.net/lists/kernel/msg2010409.html
 	 *
 	 * ARCv2 only has load-load, store-store and all-all barrier
 	 * thus need the full all-all barrier

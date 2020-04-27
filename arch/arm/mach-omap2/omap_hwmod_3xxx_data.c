@@ -2381,7 +2381,7 @@ static struct omap_hwmod am35xx_emac_hwmod = {
 	/*
 	 * According to Mark Greer, the MPU will not return from WFI
 	 * when the EMAC signals an interrupt.
-	 * http://www.spinics.net/lists/arm-kernel/msg174734.html
+	 * https://www.spinics.net/lists/arm-kernel/msg174734.html
 	 */
 	.flags		= (HWMOD_NO_IDLEST | HWMOD_BLOCK_WFI),
 };
@@ -2626,7 +2626,7 @@ static struct omap_hwmod_ocp_if *omap36xx_aes_hwmod_ocp_ifs[] __initdata = {
  * Apparently the SHA/MD5 and AES accelerator IP blocks are
  * only present on some AM35xx chips, and no one knows which
  * ones.  See
- * http://www.spinics.net/lists/arm-kernel/msg215466.html So
+ * https://www.spinics.net/lists/arm-kernel/msg215466.html So
  * if you need these IP blocks on an AM35xx, try uncommenting
  * the following lines.
  */

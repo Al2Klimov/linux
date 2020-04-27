@@ -19,7 +19,7 @@
  * achievements (specifications given).
  * Also, Faidon Liambotis <paravoid@debian.org> wrote nice driver for this radio
  * in 2007. He allowed to use his driver to improve current mr800 radio driver.
- * http://www.spinics.net/lists/linux-usb-devel/msg10109.html
+ * https://www.spinics.net/lists/linux-usb-devel/msg10109.html
  *
  * Version 0.01:	First working version.
  *			It's required to blacklist AverMedia USB Radio

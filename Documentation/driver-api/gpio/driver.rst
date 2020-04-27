@@ -618,7 +618,7 @@ compliance:
 - Test your driver with the appropriate in-kernel real-time test cases for both
   level and edge IRQs
 
-* [1] http://www.spinics.net/lists/linux-omap/msg120425.html
+* [1] https://www.spinics.net/lists/linux-omap/msg120425.html
 * [2] https://lkml.org/lkml/2015/9/25/494
 * [3] https://lkml.org/lkml/2015/9/25/495
 
