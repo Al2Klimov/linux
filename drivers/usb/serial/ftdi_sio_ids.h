@@ -360,7 +360,7 @@
 #define FTDI_MAXSTREAM_PID	0xEE18	/* Xbee PKG-U Module */
 
 /*
- * microHAM product IDs (http://www.microham.com).
+ * microHAM product IDs (https://www.microham.com).
  * Submitted by Justin Burket (KL1RL) <zorton@jtan.com>
  * and Mike Studer (K6EEP) <k6eep@hamsoftware.org>.
  * Ian Abbott <abbotti@mev.co.uk> added a few more from the driver INF file.
