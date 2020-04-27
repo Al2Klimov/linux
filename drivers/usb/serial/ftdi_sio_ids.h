@@ -291,7 +291,7 @@
 #define FTDI_ELV_UIO88_PID	0xFB5F	/* USB-I/O Interface (UIO 88) */
 
 /*
- * EVER Eco Pro UPS (http://www.ever.com.pl/)
+ * EVER Eco Pro UPS (https://www.ever.com.pl/)
  */
 
 #define	EVER_ECO_PRO_CDS	0xe520	/* RS-232 converter */
