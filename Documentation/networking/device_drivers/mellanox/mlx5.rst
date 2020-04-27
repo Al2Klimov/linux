@@ -57,7 +57,7 @@ Enabling the driver and kconfig options
 **CONFIG_MLX5_MPFS=(y/n)**
 
 |    Ethernet Multi-Physical Function Switch (MPFS) support in ConnectX NIC.
-|    MPFs is required for when `Multi-Host <http://www.mellanox.com/page/multihost>`_ configuration is enabled to allow passing
+|    MPFs is required for when `Multi-Host <https://www.mellanox.com/page/multihost>`_ configuration is enabled to allow passing
 |    user configured unicast MAC addresses to the requesting PF.
 
 
@@ -86,7 +86,7 @@ Enabling the driver and kconfig options
 
 **CONFIG_MLX5_EN_IPSEC=(y/n)**
 
-|    Enables `IPSec XFRM cryptography-offload accelaration <http://www.mellanox.com/related-docs/prod_software/Mellanox_Innova_IPsec_Ethernet_Adapter_Card_User_Manual.pdf>`_.
+|    Enables `IPSec XFRM cryptography-offload accelaration <https://www.mellanox.com/related-docs/prod_software/Mellanox_Innova_IPsec_Ethernet_Adapter_Card_User_Manual.pdf>`_.
 
 **CONFIG_MLX5_EN_TLS=(y/n)**
 
