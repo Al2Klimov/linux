@@ -9,7 +9,7 @@ Supported chips:
 
     Addresses scanned: I2C 0x28 - 0x2f, ISA 0x290 (8 I/O ports)
 
-    Datasheet: http://www.winbond-usa.com/products/winbond_products/pdfs/PCIC/w83781d.pdf
+    Datasheet: https://www.winbond-usa.com/products/winbond_products/pdfs/PCIC/w83781d.pdf
 
   * Winbond W83782D
 
@@ -25,7 +25,7 @@ Supported chips:
 
     Addresses scanned: I2C 0x2d
 
-    Datasheet: http://www.winbond-usa.com/products/winbond_products/pdfs/PCIC/w83783s.pdf
+    Datasheet: https://www.winbond-usa.com/products/winbond_products/pdfs/PCIC/w83783s.pdf
 
   * Asus AS99127F
 

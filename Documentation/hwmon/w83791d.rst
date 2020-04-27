@@ -9,7 +9,7 @@ Supported chips:
 
     Addresses scanned: I2C 0x2c - 0x2f
 
-    Datasheet: http://www.winbond-usa.com/products/winbond_products/pdfs/PCIC/W83791D_W83791Gb.pdf
+    Datasheet: https://www.winbond-usa.com/products/winbond_products/pdfs/PCIC/W83791D_W83791Gb.pdf
 
 Author: Charles Spirakis <bezaur@gmail.com>
 

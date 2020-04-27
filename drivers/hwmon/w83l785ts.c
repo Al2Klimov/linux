@@ -8,7 +8,7 @@
  * by Winbond. It reports a single external temperature with a 1 deg
  * resolution and a 3 deg accuracy. Datasheet can be obtained from
  * Winbond's website at:
- *   http://www.winbond-usa.com/products/winbond_products/pdfs/PCIC/W83L785TS-S.pdf
+ *   https://www.winbond-usa.com/products/winbond_products/pdfs/PCIC/W83L785TS-S.pdf
  *
  * Ported to Linux 2.6 by Wolfgang Ziegler <nuppla@gmx.at> and Jean Delvare
  * <jdelvare@suse.de>.

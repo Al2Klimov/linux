@@ -9,7 +9,7 @@ Supported chips:
 
     Addresses scanned: I2C 0x2e - 0x2f
 
-    Datasheet: http://www.winbond-usa.com/products/winbond_products/pdfs/PCIC/W83L786NRNG09.pdf
+    Datasheet: https://www.winbond-usa.com/products/winbond_products/pdfs/PCIC/W83L786NRNG09.pdf
 
 Author: Kevin Lo <kevlo@kevlo.org>
 
