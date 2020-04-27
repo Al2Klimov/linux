@@ -5,7 +5,7 @@
  *	(c) Copyright 2000, 2001 Red Hat Inc
  *
  *	Development of this driver was funded by Equiinet Ltd
- *			http://www.equiinet.com
+ *			https://www.equiinet.com
  *
  *	ChangeLog:
  *
