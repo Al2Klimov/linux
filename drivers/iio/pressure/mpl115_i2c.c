@@ -6,7 +6,7 @@
  *
  * (7-bit I2C slave address 0x60)
  *
- * Datasheet: http://www.nxp.com/files/sensors/doc/data_sheet/MPL115A2.pdf
+ * Datasheet: https://www.nxp.com/files/sensors/doc/data_sheet/MPL115A2.pdf
  */
 
 #include <linux/module.h>

@@ -1,6 +1,6 @@
 * NXP FXAS21002C Gyroscope device tree bindings
 
-http://www.nxp.com/products/sensors/gyroscopes/3-axis-digital-gyroscope:FXAS21002C
+https://www.nxp.com/products/sensors/gyroscopes/3-axis-digital-gyroscope:FXAS21002C
 
 Required properties:
   - compatible : should be "nxp,fxas21002c"

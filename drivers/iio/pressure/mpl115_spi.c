@@ -4,7 +4,7 @@
  *
  * Copyright (c) 2016 Akinobu Mita <akinobu.mita@gmail.com>
  *
- * Datasheet: http://www.nxp.com/files/sensors/doc/data_sheet/MPL115A1.pdf
+ * Datasheet: https://www.nxp.com/files/sensors/doc/data_sheet/MPL115A1.pdf
  */
 
 #include <linux/module.h>

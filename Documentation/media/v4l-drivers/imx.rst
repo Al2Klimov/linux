@@ -691,8 +691,8 @@ include/linux/imx-media.h
 References
 ----------
 
-.. [#f1] http://www.nxp.com/assets/documents/data/en/reference-manuals/IMX6DQRM.pdf
-.. [#f2] http://www.nxp.com/assets/documents/data/en/reference-manuals/IMX6SDLRM.pdf
+.. [#f1] https://www.nxp.com/assets/documents/data/en/reference-manuals/IMX6DQRM.pdf
+.. [#f2] https://www.nxp.com/assets/documents/data/en/reference-manuals/IMX6SDLRM.pdf
 
 
 Authors

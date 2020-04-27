@@ -14,7 +14,7 @@
  * anybody does please mail me.
  *
  * For the pdf file see:
- * http://www.nxp.com/acrobat_download2/expired_datasheets/TEA5757_5759_3.pdf
+ * https://www.nxp.com/acrobat_download2/expired_datasheets/TEA5757_5759_3.pdf
  *
  *
  * CHANGES:

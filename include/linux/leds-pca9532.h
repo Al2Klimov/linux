@@ -4,7 +4,7 @@
  *
  * Copyright (C) 2008 Riku Voipio <riku.voipio@movial.fi>
  *
- * Datasheet: http://www.nxp.com/acrobat/datasheets/PCA9532_3.pdf
+ * Datasheet: https://www.nxp.com/acrobat/datasheets/PCA9532_3.pdf
  */
 
 #ifndef __LINUX_PCA9532_H

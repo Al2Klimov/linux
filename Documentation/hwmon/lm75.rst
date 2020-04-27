@@ -127,9 +127,9 @@ Supported chips:
 
     Datasheet: Publicly available at the NXP website
 
-	       http://www.nxp.com/documents/data_sheet/LM75B.pdf
+	       https://www.nxp.com/documents/data_sheet/LM75B.pdf
 
-               http://www.nxp.com/docs/en/data-sheet/PCT2075.pdf
+               https://www.nxp.com/docs/en/data-sheet/PCT2075.pdf
 
 Author: Frodo Looijaard <frodol@dds.nl>
 

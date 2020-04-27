@@ -5,7 +5,7 @@
  * Copyright (C) 2011 Jan Weitzel
  * Copyright (C) 2008 Riku Voipio
  *
- * Datasheet: http://www.nxp.com/documents/data_sheet/PCA9532.pdf
+ * Datasheet: https://www.nxp.com/documents/data_sheet/PCA9532.pdf
  */
 
 #include <linux/module.h>

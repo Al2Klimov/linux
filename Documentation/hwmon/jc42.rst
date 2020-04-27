@@ -55,13 +55,13 @@ Supported chips:
 
     Datasheets:
 
-	http://www.nxp.com/documents/data_sheet/SE97.pdf
+	https://www.nxp.com/documents/data_sheet/SE97.pdf
 
-	http://www.nxp.com/documents/data_sheet/SE97B.pdf
+	https://www.nxp.com/documents/data_sheet/SE97B.pdf
 
-	http://www.nxp.com/documents/data_sheet/SE98.pdf
+	https://www.nxp.com/documents/data_sheet/SE98.pdf
 
-	http://www.nxp.com/documents/data_sheet/SE98A.pdf
+	https://www.nxp.com/documents/data_sheet/SE98A.pdf
 
   * ON Semiconductor CAT34TS02, CAT6095
 

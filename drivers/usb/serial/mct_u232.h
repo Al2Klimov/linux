@@ -453,7 +453,7 @@ static int mct_u232_calculate_baud_rate(struct usb_serial *serial,
  * embedded UART.  Exhaustive documentation for these is available at:
  *
  *   http://www.semiconductors.philips.com/pip/p87c52ubaa
- *   http://www.nxp.com/acrobat_download/various/PDIUSBD12_PROGRAMMING_GUIDE.pdf
+ *   https://www.nxp.com/acrobat_download/various/PDIUSBD12_PROGRAMMING_GUIDE.pdf
  *
  * Thanks to Julian Highfield for the pointer to the Philips database.
  *
