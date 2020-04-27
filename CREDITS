@@ -1856,7 +1856,7 @@ E: kas@fi.muni.cz
 D: Author of the COSA/SRP sync serial board driver.
 D: Port of the syncppp.c from the 2.0 to the 2.1 kernel.
 P: 1024/D3498839 0D 99 A7 FB 20 66 05 D7  8B 35 FC DE 05 B1 8A 5E
-W: http://www.fi.muni.cz/~kas/
+W: https://www.fi.muni.cz/~kas/
 S: c/o Faculty of Informatics, Masaryk University
 S: Botanicka' 68a
 S: 602 00 Brno

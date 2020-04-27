@@ -50,7 +50,7 @@ config COSA
 
 	  You will need user-space utilities COSA or SRP boards for downloading
  	  the firmware to the cards and to set them up. Look at the
-	  <http://www.fi.muni.cz/~kas/cosa/> for more information. You can also
+	  <https://www.fi.muni.cz/~kas/cosa/> for more information. You can also
 	  read the comment at the top of the <file:drivers/net/wan/cosa.c> for
 	  details about the cards and the driver itself.
 

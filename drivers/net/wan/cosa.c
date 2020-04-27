@@ -35,7 +35,7 @@
  *
  * SOFTWARE INFO
  *
- * The homepage of the Linux driver is at http://www.fi.muni.cz/~kas/cosa/.
+ * The homepage of the Linux driver is at https://www.fi.muni.cz/~kas/cosa/.
  * The CVS tree of Linux driver can be viewed there, as well as the
  * firmware binaries and user-space utilities for downloading the firmware
  * into the card and setting up the card.

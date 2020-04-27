@@ -4350,7 +4350,7 @@ F:	drivers/hwmon/coretemp.c
 COSA/SRP SYNC SERIAL DRIVER
 M:	Jan "Yenya" Kasprzak <kas@fi.muni.cz>
 S:	Maintained
-W:	http://www.fi.muni.cz/~kas/cosa/
+W:	https://www.fi.muni.cz/~kas/cosa/
 F:	drivers/net/wan/cosa*
 
 COUNTER SUBSYSTEM
