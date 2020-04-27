@@ -27,7 +27,7 @@
  *
  * 5210 - http://nova.stanford.edu/~bbaas/ps/isscc2002_slides.pdf
  *
- * 5211 - http://www.hotchips.org/archives/hc14/3_Tue/16_mcfarland.pdf
+ * 5211 - https://www.hotchips.org/archives/hc14/3_Tue/16_mcfarland.pdf
  *
  * This file also contains register values found on a memory dump of
  * Atheros's ART program (Atheros Radio Test), on ath9k, on legacy-hal
