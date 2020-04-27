@@ -38,33 +38,33 @@ Kirkwood family
   Flavors:
         - 88F6282 a.k.a Armada 300
 
-                - Product Brief  : http://www.marvell.com/embedded-processors/armada-300/assets/armada_310.pdf
+                - Product Brief  : https://www.marvell.com/embedded-processors/armada-300/assets/armada_310.pdf
         - 88F6283 a.k.a Armada 310
 
-                - Product Brief  : http://www.marvell.com/embedded-processors/armada-300/assets/armada_310.pdf
+                - Product Brief  : https://www.marvell.com/embedded-processors/armada-300/assets/armada_310.pdf
         - 88F6190
 
-                - Product Brief  : http://www.marvell.com/embedded-processors/kirkwood/assets/88F6190-003_WEB.pdf
-                - Hardware Spec  : http://www.marvell.com/embedded-processors/kirkwood/assets/HW_88F619x_OpenSource.pdf
-                - Functional Spec: http://www.marvell.com/embedded-processors/kirkwood/assets/FS_88F6180_9x_6281_OpenSource.pdf
+                - Product Brief  : https://www.marvell.com/embedded-processors/kirkwood/assets/88F6190-003_WEB.pdf
+                - Hardware Spec  : https://www.marvell.com/embedded-processors/kirkwood/assets/HW_88F619x_OpenSource.pdf
+                - Functional Spec: https://www.marvell.com/embedded-processors/kirkwood/assets/FS_88F6180_9x_6281_OpenSource.pdf
         - 88F6192
 
-                - Product Brief  : http://www.marvell.com/embedded-processors/kirkwood/assets/88F6192-003_ver1.pdf
-                - Hardware Spec  : http://www.marvell.com/embedded-processors/kirkwood/assets/HW_88F619x_OpenSource.pdf
-                - Functional Spec: http://www.marvell.com/embedded-processors/kirkwood/assets/FS_88F6180_9x_6281_OpenSource.pdf
+                - Product Brief  : https://www.marvell.com/embedded-processors/kirkwood/assets/88F6192-003_ver1.pdf
+                - Hardware Spec  : https://www.marvell.com/embedded-processors/kirkwood/assets/HW_88F619x_OpenSource.pdf
+                - Functional Spec: https://www.marvell.com/embedded-processors/kirkwood/assets/FS_88F6180_9x_6281_OpenSource.pdf
         - 88F6182
         - 88F6180
 
-                - Product Brief  : http://www.marvell.com/embedded-processors/kirkwood/assets/88F6180-003_ver1.pdf
-                - Hardware Spec  : http://www.marvell.com/embedded-processors/kirkwood/assets/HW_88F6180_OpenSource.pdf
-                - Functional Spec: http://www.marvell.com/embedded-processors/kirkwood/assets/FS_88F6180_9x_6281_OpenSource.pdf
+                - Product Brief  : https://www.marvell.com/embedded-processors/kirkwood/assets/88F6180-003_ver1.pdf
+                - Hardware Spec  : https://www.marvell.com/embedded-processors/kirkwood/assets/HW_88F6180_OpenSource.pdf
+                - Functional Spec: https://www.marvell.com/embedded-processors/kirkwood/assets/FS_88F6180_9x_6281_OpenSource.pdf
         - 88F6281
 
-                - Product Brief  : http://www.marvell.com/embedded-processors/kirkwood/assets/88F6281-004_ver1.pdf
-                - Hardware Spec  : http://www.marvell.com/embedded-processors/kirkwood/assets/HW_88F6281_OpenSource.pdf
-                - Functional Spec: http://www.marvell.com/embedded-processors/kirkwood/assets/FS_88F6180_9x_6281_OpenSource.pdf
+                - Product Brief  : https://www.marvell.com/embedded-processors/kirkwood/assets/88F6281-004_ver1.pdf
+                - Hardware Spec  : https://www.marvell.com/embedded-processors/kirkwood/assets/HW_88F6281_OpenSource.pdf
+                - Functional Spec: https://www.marvell.com/embedded-processors/kirkwood/assets/FS_88F6180_9x_6281_OpenSource.pdf
   Homepage:
-	http://www.marvell.com/embedded-processors/kirkwood/
+	https://www.marvell.com/embedded-processors/kirkwood/
   Core:
 	Feroceon 88fr131 ARMv5 compatible
   Linux kernel mach directory:
@@ -78,14 +78,14 @@ Discovery family
   Flavors:
         - MV78100
 
-                - Product Brief  : http://www.marvell.com/embedded-processors/discovery-innovation/assets/MV78100-003_WEB.pdf
-                - Hardware Spec  : http://www.marvell.com/embedded-processors/discovery-innovation/assets/HW_MV78100_OpenSource.pdf
-                - Functional Spec: http://www.marvell.com/embedded-processors/discovery-innovation/assets/FS_MV76100_78100_78200_OpenSource.pdf
+                - Product Brief  : https://www.marvell.com/embedded-processors/discovery-innovation/assets/MV78100-003_WEB.pdf
+                - Hardware Spec  : https://www.marvell.com/embedded-processors/discovery-innovation/assets/HW_MV78100_OpenSource.pdf
+                - Functional Spec: https://www.marvell.com/embedded-processors/discovery-innovation/assets/FS_MV76100_78100_78200_OpenSource.pdf
         - MV78200
 
-                - Product Brief  : http://www.marvell.com/embedded-processors/discovery-innovation/assets/MV78200-002_WEB.pdf
-                - Hardware Spec  : http://www.marvell.com/embedded-processors/discovery-innovation/assets/HW_MV78200_OpenSource.pdf
-                - Functional Spec: http://www.marvell.com/embedded-processors/discovery-innovation/assets/FS_MV76100_78100_78200_OpenSource.pdf
+                - Product Brief  : https://www.marvell.com/embedded-processors/discovery-innovation/assets/MV78200-002_WEB.pdf
+                - Hardware Spec  : https://www.marvell.com/embedded-processors/discovery-innovation/assets/HW_MV78200_OpenSource.pdf
+                - Functional Spec: https://www.marvell.com/embedded-processors/discovery-innovation/assets/FS_MV76100_78100_78200_OpenSource.pdf
         - MV76100
 
                 Not supported by the Linux kernel.
@@ -106,9 +106,9 @@ EBU Armada family
         - 88F6707
         - 88F6W11
 
-    - Product Brief:   http://www.marvell.com/embedded-processors/armada-300/assets/Marvell_ARMADA_370_SoC.pdf
-    - Hardware Spec:   http://www.marvell.com/embedded-processors/armada-300/assets/ARMADA370-datasheet.pdf
-    - Functional Spec: http://www.marvell.com/embedded-processors/armada-300/assets/ARMADA370-FunctionalSpec-datasheet.pdf
+    - Product Brief:   https://www.marvell.com/embedded-processors/armada-300/assets/Marvell_ARMADA_370_SoC.pdf
+    - Hardware Spec:   https://www.marvell.com/embedded-processors/armada-300/assets/ARMADA370-datasheet.pdf
+    - Functional Spec: https://www.marvell.com/embedded-processors/armada-300/assets/ARMADA370-FunctionalSpec-datasheet.pdf
 
   Core:
 	Sheeva ARMv7 compatible PJ4B
@@ -116,7 +116,7 @@ EBU Armada family
   Armada 375 Flavors:
 	- 88F6720
 
-    - Product Brief: http://www.marvell.com/embedded-processors/armada-300/assets/ARMADA_375_SoC-01_product_brief.pdf
+    - Product Brief: https://www.marvell.com/embedded-processors/armada-300/assets/ARMADA_375_SoC-01_product_brief.pdf
 
   Core:
 	ARM Cortex-A9
@@ -126,7 +126,7 @@ EBU Armada family
 	- 88F6820 Armada 385
 	- 88F6828 Armada 388
 
-    - Product infos:   http://www.marvell.com/embedded-processors/armada-38x/
+    - Product infos:   https://www.marvell.com/embedded-processors/armada-38x/
     - Functional Spec: https://marvellcorp.wufoo.com/forms/marvell-armada-38x-functional-specifications/
 
   Core:
@@ -136,7 +136,7 @@ EBU Armada family
 	- 88F6920 Armada 390
 	- 88F6928 Armada 398
 
-    - Product infos: http://www.marvell.com/embedded-processors/armada-39x/
+    - Product infos: https://www.marvell.com/embedded-processors/armada-39x/
 
   Core:
 	ARM Cortex-A9
@@ -150,16 +150,16 @@ EBU Armada family
 	not to be confused with the non-SMP 78xx0 SoCs
 
     Product Brief:
-	http://www.marvell.com/embedded-processors/armada-xp/assets/Marvell-ArmadaXP-SoC-product%20brief.pdf
+	https://www.marvell.com/embedded-processors/armada-xp/assets/Marvell-ArmadaXP-SoC-product%20brief.pdf
 
     Functional Spec:
-	http://www.marvell.com/embedded-processors/armada-xp/assets/ARMADA-XP-Functional-SpecDatasheet.pdf
+	https://www.marvell.com/embedded-processors/armada-xp/assets/ARMADA-XP-Functional-SpecDatasheet.pdf
 
     - Hardware Specs:
 
-        - http://www.marvell.com/embedded-processors/armada-xp/assets/HW_MV78230_OS.PDF
-        - http://www.marvell.com/embedded-processors/armada-xp/assets/HW_MV78260_OS.PDF
-        - http://www.marvell.com/embedded-processors/armada-xp/assets/HW_MV78460_OS.PDF
+        - https://www.marvell.com/embedded-processors/armada-xp/assets/HW_MV78230_OS.PDF
+        - https://www.marvell.com/embedded-processors/armada-xp/assets/HW_MV78260_OS.PDF
+        - https://www.marvell.com/embedded-processors/armada-xp/assets/HW_MV78460_OS.PDF
 
   Core:
 	Sheeva ARMv7 compatible Dual-core or Quad-core PJ4B-MP
@@ -180,10 +180,10 @@ EBU Armada family ARMv8
 	ARM Cortex A53 (ARMv8)
 
   Homepage:
-	http://www.marvell.com/embedded-processors/armada-3700/
+	https://www.marvell.com/embedded-processors/armada-3700/
 
   Product Brief:
-	http://www.marvell.com/embedded-processors/assets/PB-88F3700-FNL.pdf
+	https://www.marvell.com/embedded-processors/assets/PB-88F3700-FNL.pdf
 
   Device tree files:
 	arch/arm64/boot/dts/marvell/armada-37*
@@ -195,11 +195,11 @@ EBU Armada family ARMv8
   Core: ARM Cortex A72
 
   Homepage:
-	http://www.marvell.com/embedded-processors/armada-70xx/
+	https://www.marvell.com/embedded-processors/armada-70xx/
 
   Product Brief:
-	  - http://www.marvell.com/embedded-processors/assets/Armada7020PB-Jan2016.pdf
-	  - http://www.marvell.com/embedded-processors/assets/Armada7040PB-Jan2016.pdf
+	  - https://www.marvell.com/embedded-processors/assets/Armada7020PB-Jan2016.pdf
+	  - https://www.marvell.com/embedded-processors/assets/Armada7040PB-Jan2016.pdf
 
   Device tree files:
 	arch/arm64/boot/dts/marvell/armada-70*
@@ -211,11 +211,11 @@ EBU Armada family ARMv8
 	ARM Cortex A72
 
   Homepage:
-	http://www.marvell.com/embedded-processors/armada-80xx/
+	https://www.marvell.com/embedded-processors/armada-80xx/
 
   Product Brief:
-	  - http://www.marvell.com/embedded-processors/assets/Armada8020PB-Jan2016.pdf
-	  - http://www.marvell.com/embedded-processors/assets/Armada8040PB-Jan2016.pdf
+	  - https://www.marvell.com/embedded-processors/assets/Armada8020PB-Jan2016.pdf
+	  - https://www.marvell.com/embedded-processors/assets/Armada8040PB-Jan2016.pdf
 
   Device tree files:
 	arch/arm64/boot/dts/marvell/armada-80*
@@ -230,10 +230,10 @@ Avanta family
        - 88F6560
 
   Homepage:
-	http://www.marvell.com/broadband/
+	https://www.marvell.com/broadband/
 
   Product Brief:
-	http://www.marvell.com/broadband/assets/Marvell_Avanta_88F6510_305_060-001_product_brief.pdf
+	https://www.marvell.com/broadband/assets/Marvell_Avanta_88F6510_305_060-001_product_brief.pdf
 
   No public datasheet available.
 
@@ -252,7 +252,7 @@ Storage family
 	- 88RC1580
 
   Product infos:
-	http://www.marvell.com/storage/armada-sp/
+	https://www.marvell.com/storage/armada-sp/
 
   Core:
 	Sheeva ARMv7 comatible Quad-core PJ4C
@@ -266,16 +266,16 @@ Dove family (application processor)
         - 88AP510 a.k.a Armada 510
 
    Product Brief:
-	http://www.marvell.com/application-processors/armada-500/assets/Marvell_Armada510_SoC.pdf
+	https://www.marvell.com/application-processors/armada-500/assets/Marvell_Armada510_SoC.pdf
 
    Hardware Spec:
-	http://www.marvell.com/application-processors/armada-500/assets/Armada-510-Hardware-Spec.pdf
+	https://www.marvell.com/application-processors/armada-500/assets/Armada-510-Hardware-Spec.pdf
 
   Functional Spec:
-	http://www.marvell.com/application-processors/armada-500/assets/Armada-510-Functional-Spec.pdf
+	https://www.marvell.com/application-processors/armada-500/assets/Armada-510-Functional-Spec.pdf
 
   Homepage:
-	http://www.marvell.com/application-processors/armada-500/
+	https://www.marvell.com/application-processors/armada-500/
 
   Core:
 	ARMv7 compatible
@@ -292,22 +292,22 @@ PXA 2xx/3xx/93x/95x family
              - Application processor only
              - Core: ARMv5 XScale1 core
         - PXA270, PXA271, PXA272
-             - Product Brief         : http://www.marvell.com/application-processors/pxa-family/assets/pxa_27x_pb.pdf
-             - Design guide          : http://www.marvell.com/application-processors/pxa-family/assets/pxa_27x_design_guide.pdf
-             - Developers manual     : http://www.marvell.com/application-processors/pxa-family/assets/pxa_27x_dev_man.pdf
-             - Specification         : http://www.marvell.com/application-processors/pxa-family/assets/pxa_27x_emts.pdf
-             - Specification update  : http://www.marvell.com/application-processors/pxa-family/assets/pxa_27x_spec_update.pdf
+             - Product Brief         : https://www.marvell.com/application-processors/pxa-family/assets/pxa_27x_pb.pdf
+             - Design guide          : https://www.marvell.com/application-processors/pxa-family/assets/pxa_27x_design_guide.pdf
+             - Developers manual     : https://www.marvell.com/application-processors/pxa-family/assets/pxa_27x_dev_man.pdf
+             - Specification         : https://www.marvell.com/application-processors/pxa-family/assets/pxa_27x_emts.pdf
+             - Specification update  : https://www.marvell.com/application-processors/pxa-family/assets/pxa_27x_spec_update.pdf
              - Application processor only
              - Core: ARMv5 XScale2 core
         - PXA300, PXA310, PXA320
-             - PXA 300 Product Brief : http://www.marvell.com/application-processors/pxa-family/assets/PXA300_PB_R4.pdf
-             - PXA 310 Product Brief : http://www.marvell.com/application-processors/pxa-family/assets/PXA310_PB_R4.pdf
-             - PXA 320 Product Brief : http://www.marvell.com/application-processors/pxa-family/assets/PXA320_PB_R4.pdf
-             - Design guide          : http://www.marvell.com/application-processors/pxa-family/assets/PXA3xx_Design_Guide.pdf
-             - Developers manual     : http://www.marvell.com/application-processors/pxa-family/assets/PXA3xx_Developers_Manual.zip
-             - Specifications        : http://www.marvell.com/application-processors/pxa-family/assets/PXA3xx_EMTS.pdf
-             - Specification Update  : http://www.marvell.com/application-processors/pxa-family/assets/PXA3xx_Spec_Update.zip
-             - Reference Manual      : http://www.marvell.com/application-processors/pxa-family/assets/PXA3xx_TavorP_BootROM_Ref_Manual.pdf
+             - PXA 300 Product Brief : https://www.marvell.com/application-processors/pxa-family/assets/PXA300_PB_R4.pdf
+             - PXA 310 Product Brief : https://www.marvell.com/application-processors/pxa-family/assets/PXA310_PB_R4.pdf
+             - PXA 320 Product Brief : https://www.marvell.com/application-processors/pxa-family/assets/PXA320_PB_R4.pdf
+             - Design guide          : https://www.marvell.com/application-processors/pxa-family/assets/PXA3xx_Design_Guide.pdf
+             - Developers manual     : https://www.marvell.com/application-processors/pxa-family/assets/PXA3xx_Developers_Manual.zip
+             - Specifications        : https://www.marvell.com/application-processors/pxa-family/assets/PXA3xx_EMTS.pdf
+             - Specification Update  : https://www.marvell.com/application-processors/pxa-family/assets/PXA3xx_Spec_Update.zip
+             - Reference Manual      : https://www.marvell.com/application-processors/pxa-family/assets/PXA3xx_TavorP_BootROM_Ref_Manual.pdf
              - Application processor only
              - Core: ARMv5 XScale3 core
         - PXA930, PXA935
@@ -338,26 +338,26 @@ MMP/MMP2/MMP3 family (communication processor)
 
    Flavors:
         - PXA168, a.k.a Armada 168
-             - Homepage             : http://www.marvell.com/application-processors/armada-100/armada-168.jsp
-             - Product brief        : http://www.marvell.com/application-processors/armada-100/assets/pxa_168_pb.pdf
-             - Hardware manual      : http://www.marvell.com/application-processors/armada-100/assets/armada_16x_datasheet.pdf
-             - Software manual      : http://www.marvell.com/application-processors/armada-100/assets/armada_16x_software_manual.pdf
-             - Specification update : http://www.marvell.com/application-processors/armada-100/assets/ARMADA16x_Spec_update.pdf
-             - Boot ROM manual      : http://www.marvell.com/application-processors/armada-100/assets/armada_16x_ref_manual.pdf
-             - App node package     : http://www.marvell.com/application-processors/armada-100/assets/armada_16x_app_note_package.pdf
+             - Homepage             : https://www.marvell.com/application-processors/armada-100/armada-168.jsp
+             - Product brief        : https://www.marvell.com/application-processors/armada-100/assets/pxa_168_pb.pdf
+             - Hardware manual      : https://www.marvell.com/application-processors/armada-100/assets/armada_16x_datasheet.pdf
+             - Software manual      : https://www.marvell.com/application-processors/armada-100/assets/armada_16x_software_manual.pdf
+             - Specification update : https://www.marvell.com/application-processors/armada-100/assets/ARMADA16x_Spec_update.pdf
+             - Boot ROM manual      : https://www.marvell.com/application-processors/armada-100/assets/armada_16x_ref_manual.pdf
+             - App node package     : https://www.marvell.com/application-processors/armada-100/assets/armada_16x_app_note_package.pdf
              - Application processor only
              - Core: ARMv5 compatible Marvell PJ1 88sv331 (Mohawk)
         - PXA910/PXA920
-             - Homepage             : http://www.marvell.com/communication-processors/pxa910/
-             - Product Brief        : http://www.marvell.com/communication-processors/pxa910/assets/Marvell_PXA910_Platform-001_PB_final.pdf
+             - Homepage             : https://www.marvell.com/communication-processors/pxa910/
+             - Product Brief        : https://www.marvell.com/communication-processors/pxa910/assets/Marvell_PXA910_Platform-001_PB_final.pdf
              - Application processor with Communication processor
              - Core: ARMv5 compatible Marvell PJ1 88sv331 (Mohawk)
         - PXA688, a.k.a. MMP2, a.k.a Armada 610
-             - Product Brief        : http://www.marvell.com/application-processors/armada-600/assets/armada610_pb.pdf
+             - Product Brief        : https://www.marvell.com/application-processors/armada-600/assets/armada610_pb.pdf
              - Application processor only
              - Core: ARMv7 compatible Sheeva PJ4 88sv581x core
 	- PXA2128, a.k.a. MMP3 (OLPC XO4, Linux support not upstream)
-	     - Product Brief	  : http://www.marvell.com/application-processors/armada/pxa2128/assets/Marvell-ARMADA-PXA2128-SoC-PB.pdf
+	     - Product Brief	  : https://www.marvell.com/application-processors/armada/pxa2128/assets/Marvell-ARMADA-PXA2128-SoC-PB.pdf
 	     - Application processor only
 	     - Core: Dual-core ARMv7 compatible Sheeva PJ4C core
 	- PXA960/PXA968/PXA978 (Linux support not upstream)
@@ -394,7 +394,7 @@ Berlin family (Multimedia Solutions)
   - Flavors:
 	- 88DE3010, Armada 1000 (no Linux support)
 		- Core:		Marvell PJ1 (ARMv5TE), Dual-core
-		- Product Brief:	http://www.marvell.com.cn/digital-entertainment/assets/armada_1000_pb.pdf
+		- Product Brief:	https://www.marvell.com.cn/digital-entertainment/assets/armada_1000_pb.pdf
 	- 88DE3005, Armada 1500 Mini
 		- Design name:	BG2CD
 		- Core:		ARM Cortex-A9, PL310 L2CC

@@ -3849,7 +3849,7 @@ F:	drivers/net/wireless/ath/carl9170/
 CAVIUM I2C DRIVER
 M:	Robert Richter <rrichter@marvell.com>
 S:	Supported
-W:	http://www.marvell.com
+W:	https://www.marvell.com
 F:	drivers/i2c/busses/i2c-octeon*
 F:	drivers/i2c/busses/i2c-thunderx*
 
@@ -3859,20 +3859,20 @@ M:	Satanand Burla <sburla@marvell.com>
 M:	Felix Manlunas <fmanlunas@marvell.com>
 L:	netdev@vger.kernel.org
 S:	Supported
-W:	http://www.marvell.com
+W:	https://www.marvell.com
 F:	drivers/net/ethernet/cavium/liquidio/
 
 CAVIUM MMC DRIVER
 M:	Robert Richter <rrichter@marvell.com>
 S:	Supported
-W:	http://www.marvell.com
+W:	https://www.marvell.com
 F:	drivers/mmc/host/cavium*
 
 CAVIUM OCTEON-TX CRYPTO DRIVER
 M:	George Cherian <gcherian@marvell.com>
 L:	linux-crypto@vger.kernel.org
 S:	Supported
-W:	http://www.marvell.com
+W:	https://www.marvell.com
 F:	drivers/crypto/cavium/cpt/
 
 CAVIUM THUNDERX2 ARM64 SOC
@@ -18598,7 +18598,7 @@ XLP9XX I2C DRIVER
 M:	George Cherian <gcherian@marvell.com>
 L:	linux-i2c@vger.kernel.org
 S:	Supported
-W:	http://www.marvell.com
+W:	https://www.marvell.com
 F:	Documentation/devicetree/bindings/i2c/i2c-xlp9xx.txt
 F:	drivers/i2c/busses/i2c-xlp9xx.c
 
