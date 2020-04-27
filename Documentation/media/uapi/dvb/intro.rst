@@ -29,7 +29,7 @@ Various Digital TV standards documents are available for download at:
 
 - European standards (DVB): http://www.dvb.org and/or http://www.etsi.org.
 - American standards (ATSC): https://www.atsc.org/standards/
-- Japanese standards (ISDB): http://www.dibeg.org/
+- Japanese standards (ISDB): https://www.dibeg.org/
 
 It is also necessary to know how to access Linux devices and how to
 use ioctl calls. This also includes the knowledge of C or C++.
