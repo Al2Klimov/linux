@@ -24,7 +24,7 @@
  * both good long range reception for general use, and good
  * short range reception when required for learning a signal.
  *
- * http://www.redrat.co.uk/
+ * https://www.redrat.co.uk/
  *
  * It uses its own little protocol to communicate, the required
  * parts of which are embedded within this driver.
