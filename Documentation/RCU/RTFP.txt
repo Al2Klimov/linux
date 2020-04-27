@@ -1213,7 +1213,7 @@ Oregon Health and Sciences University"
 ,month="December"
 ,year="2004"
 ,note="Available:
-\url{http://www.livejournal.com/users/james_morris/2153.html}
+\url{https://www.livejournal.com/users/james_morris/2153.html}
 [Viewed December 10, 2004]"
 ,annotation={
 	RCU helps SELinux performance.  ;-)  Made LWN.
