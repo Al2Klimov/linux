@@ -1299,7 +1299,7 @@ ff_layout_need_layoutcommit(struct pnfs_layout_segment *lseg)
  * rfc5661 is not clear about which credential should be used.
  *
  * Flexlayout client should treat DS replied FILE_SYNC as DATA_SYNC, so
- * to follow http://www.rfc-editor.org/errata_search.php?rfc=5661&eid=2751
+ * to follow https://www.rfc-editor.org/errata_search.php?rfc=5661&eid=2751
  * we always send layoutcommit after DS writes.
  */
 static void

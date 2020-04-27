@@ -126,8 +126,8 @@ specifications containing the standard definitions for these statistics are
 as follows:
 
  o IEEE 802.3-2012 - IEEE Standard for Ethernet.
- o RFC 2863 found at http://www.rfc-editor.org/rfc/rfc2863.txt.
- o RFC 2819 found at http://www.rfc-editor.org/rfc/rfc2819.txt.
+ o RFC 2863 found at https://www.rfc-editor.org/rfc/rfc2863.txt.
+ o RFC 2819 found at https://www.rfc-editor.org/rfc/rfc2819.txt.
  o Altera Triple Speed Ethernet User Guide, found at http://www.altera.com
 
 The statistics supported by the TSE and the device driver are as follows:
