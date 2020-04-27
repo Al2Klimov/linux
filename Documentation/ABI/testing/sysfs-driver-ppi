@@ -9,7 +9,7 @@ Description:
 		'find /sys/ -name 'pcrs''. For the detail information of PPI,
 		please refer to the PPI specification from
 
-		http://www.trustedcomputinggroup.org/
+		https://www.trustedcomputinggroup.org/
 
 		In Linux 4.2 ppi was moved to the character device directory.
 		A symlink from tpmX/device/ppi to tpmX/ppi to provide backwards

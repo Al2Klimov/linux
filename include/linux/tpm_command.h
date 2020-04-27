@@ -4,7 +4,7 @@
 
 /*
  * TPM Command constants from specifications at
- * http://www.trustedcomputinggroup.org
+ * https://www.trustedcomputinggroup.org
  */
 
 /* Command TAGS */

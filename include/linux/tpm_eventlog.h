@@ -74,7 +74,7 @@ enum tcpa_pc_event_ids {
 	HOST_TABLE_OF_DEVICES,
 };
 
-/* http://www.trustedcomputinggroup.org/tcg-efi-protocol-specification/ */
+/* https://www.trustedcomputinggroup.org/tcg-efi-protocol-specification/ */
 
 struct tcg_efi_specid_event_algs {
 	u16 alg_id;
