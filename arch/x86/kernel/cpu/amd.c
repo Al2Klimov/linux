@@ -260,7 +260,7 @@ static void init_amd_k7(struct cpuinfo_x86 *c)
 	 * Athlon 662, Duron 671, and Athlon >model 7 have capability
 	 * bit. It's worth noting that the A5 stepping (662) of some
 	 * Athlon XP's have the MP bit set.
-	 * See http://www.heise.de/newsticker/data/jow-18.10.01-000 for
+	 * See https://www.heise.de/newsticker/data/jow-18.10.01-000 for
 	 * more.
 	 */
 	if (((c->x86_model == 6) && (c->x86_stepping >= 2)) ||
