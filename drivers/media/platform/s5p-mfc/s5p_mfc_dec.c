@@ -3,7 +3,7 @@
  * linux/drivers/media/platform/s5p-mfc/s5p_mfc_dec.c
  *
  * Copyright (C) 2011 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com/
+ *		https://www.samsung.com/
  * Kamil Debski, <k.debski@samsung.com>
  */
 

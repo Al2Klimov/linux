@@ -4,7 +4,7 @@
  * Register definition file for Samsung JPEG codec driver
  *
  * Copyright (c) 2011-2014 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Author: Andrzej Pietrasiewicz <andrzejtp2010@gmail.com>
  * Author: Jacek Anaszewski <j.anaszewski@samsung.com>

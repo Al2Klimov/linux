@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 // Copyright (c) 2010-2011 Samsung Electronics Co., Ltd.
-//		http://www.samsung.com
+//		https://www.samsung.com
 //
 // Cloned from linux/arch/arm/mach-vexpress/platsmp.c
 //

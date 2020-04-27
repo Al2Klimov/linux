@@ -3,7 +3,7 @@
  * Samsung Exynos5420 SoC cpu device tree source
  *
  * Copyright (c) 2015 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * This file provides desired ordering for Exynos5420 and Exynos5800
  * boards: CPU[0123] being the A15.

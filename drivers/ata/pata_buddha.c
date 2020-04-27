@@ -4,7 +4,7 @@
  * Buddha, Catweasel and X-Surf PATA controller driver
  *
  * Copyright (c) 2018 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Based on buddha.c:
  *

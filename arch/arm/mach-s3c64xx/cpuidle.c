@@ -2,7 +2,7 @@
 //
 // Copyright (c) 2011 Wolfson Microelectronics, plc
 // Copyright (c) 2011 Samsung Electronics Co., Ltd.
-//		http://www.samsung.com
+//		https://www.samsung.com
 
 #include <linux/kernel.h>
 #include <linux/init.h>

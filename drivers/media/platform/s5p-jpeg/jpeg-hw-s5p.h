@@ -2,7 +2,7 @@
 /* linux/drivers/media/platform/s5p-jpeg/jpeg-hw.h
  *
  * Copyright (c) 2011 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Author: Andrzej Pietrasiewicz <andrzejtp2010@gmail.com>
  */

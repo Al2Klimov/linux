@@ -3,7 +3,7 @@
  * Samsung's Exynos pinctrl bindings
  *
  * Copyright (c) 2016 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  * Author: Krzysztof Kozlowski <krzk@kernel.org>
  */
 

@@ -3,7 +3,7 @@
  * fs/f2fs/hash.c
  *
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
- *             http://www.samsung.com/
+ *             https://www.samsung.com/
  *
  * Portions of this code from linux/fs/ext3/hash.c
  *

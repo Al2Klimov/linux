@@ -3,7 +3,7 @@
  * include/linux/f2fs_fs.h
  *
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
- *             http://www.samsung.com/
+ *             https://www.samsung.com/
  */
 #ifndef _LINUX_F2FS_FS_H
 #define _LINUX_F2FS_FS_H

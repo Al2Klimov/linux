@@ -5,7 +5,7 @@
  * Utility definitions for the midi function
  *
  * Copyright (c) 2014 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Author: Andrzej Pietrasiewicz <andrzejtp2010@gmail.com>
  */

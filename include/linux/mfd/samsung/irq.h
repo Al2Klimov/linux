@@ -1,7 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0+ */
 /*
  * Copyright (c) 2012 Samsung Electronics Co., Ltd
- *              http://www.samsung.com
+ *              https://www.samsung.com
  */
 
 #ifndef __LINUX_MFD_SEC_IRQ_H

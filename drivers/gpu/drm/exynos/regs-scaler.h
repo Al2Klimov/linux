@@ -2,7 +2,7 @@
 /* drivers/gpu/drm/exynos/regs-scaler.h
  *
  * Copyright (c) 2017 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com/
+ *		https://www.samsung.com/
  * Author: Andrzej Pietrasiewicz <andrzejtp2010@gmail.com>
  *
  * Register definition file for Samsung scaler driver

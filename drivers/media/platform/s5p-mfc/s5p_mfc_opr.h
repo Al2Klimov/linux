@@ -6,7 +6,7 @@
  * Contains declarations of hw related functions.
  *
  * Kamil Debski, Copyright (C) 2012 Samsung Electronics Co., Ltd.
- * http://www.samsung.com/
+ * https://www.samsung.com/
  */
 
 #ifndef S5P_MFC_OPR_H_

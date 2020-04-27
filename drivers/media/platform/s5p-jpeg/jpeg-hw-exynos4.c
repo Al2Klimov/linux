@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /* Copyright (c) 2013 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com/
+ *		https://www.samsung.com/
  *
  * Author: Jacek Anaszewski <j.anaszewski@samsung.com>
  *

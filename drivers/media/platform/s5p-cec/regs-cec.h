@@ -2,7 +2,7 @@
 /* drivers/media/platform/s5p-cec/regs-cec.h
  *
  * Copyright (c) 2010 Samsung Electronics
- *		http://www.samsung.com/
+ *		https://www.samsung.com/
  *
  *  register header file for Samsung TVOUT driver
  */

@@ -2,7 +2,7 @@
 /* linux/drivers/usb/gadget/s3c-hsudc.c
  *
  * Copyright (c) 2010 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com/
+ *		https://www.samsung.com/
  *
  * S3C24XX USB 2.0 High-speed USB controller gadget driver
  *

@@ -2,7 +2,7 @@
 /* drivers/rtc/rtc-s3c.c
  *
  * Copyright (c) 2010 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com/
+ *		https://www.samsung.com/
  *
  * Copyright (c) 2004,2006 Simtec Electronics
  *	Ben Dooks, <ben@simtec.co.uk>

@@ -2,7 +2,7 @@
 /* linux/drivers/media/platform/s5p-jpeg/jpeg-hw-exynos3250.h
  *
  * Copyright (c) 2014 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Author: Jacek Anaszewski <j.anaszewski@samsung.com>
  */

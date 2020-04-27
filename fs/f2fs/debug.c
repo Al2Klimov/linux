@@ -3,7 +3,7 @@
  * f2fs debugging statistics
  *
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
- *             http://www.samsung.com/
+ *             https://www.samsung.com/
  * Copyright (c) 2012 Linux Foundation
  * Copyright (c) 2012 Greg Kroah-Hartman <gregkh@linuxfoundation.org>
  */

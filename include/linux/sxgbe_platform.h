@@ -3,7 +3,7 @@
  * 10G controller driver for Samsung Exynos SoCs
  *
  * Copyright (C) 2013 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Author: Siva Reddy Kallam <siva.kallam@samsung.com>
  */

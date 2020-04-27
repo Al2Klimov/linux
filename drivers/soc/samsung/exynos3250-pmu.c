@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 //
 // Copyright (c) 2011-2015 Samsung Electronics Co., Ltd.
-//		http://www.samsung.com/
+//		https://www.samsung.com/
 //
 // Exynos3250 - CPU PMU (Power Management Unit) support
 

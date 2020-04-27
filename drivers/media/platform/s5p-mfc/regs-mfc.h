@@ -3,7 +3,7 @@
  * Register definition file for Samsung MFC V5.1 Interface (FIMV) driver
  *
  * Kamil Debski, Copyright (c) 2010 Samsung Electronics
- * http://www.samsung.com/
+ * https://www.samsung.com/
 */
 
 #ifndef _REGS_FIMV_H

@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 // Copyright (c) 2014 Samsung Electronics Co., Ltd.
-//		http://www.samsung.com
+//		https://www.samsung.com
 //
 // Based on arch/arm/mach-vexpress/dcscb.c
 

@@ -7,7 +7,7 @@
  *
  * With some ideas taken from pinctrl-samsung:
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  * Copyright (c) 2012 Linaro Ltd
  *		https://www.linaro.org
  *

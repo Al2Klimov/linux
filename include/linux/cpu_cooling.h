@@ -2,7 +2,7 @@
 /*
  *  linux/include/linux/cpu_cooling.h
  *
- *  Copyright (C) 2012	Samsung Electronics Co., Ltd(http://www.samsung.com)
+ *  Copyright (C) 2012	Samsung Electronics Co., Ltd(https://www.samsung.com)
  *  Copyright (C) 2012  Amit Daniel <amit.kachhap@linaro.org>
  *
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

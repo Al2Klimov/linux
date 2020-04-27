@@ -6,7 +6,7 @@
  * This file contains functions used to wait for command completion.
  *
  * Kamil Debski, Copyright (C) 2011 Samsung Electronics Co., Ltd.
- * http://www.samsung.com/
+ * https://www.samsung.com/
  */
 
 #include <linux/delay.h>

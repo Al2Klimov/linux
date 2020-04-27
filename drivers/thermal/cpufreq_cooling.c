@@ -2,7 +2,7 @@
 /*
  *  linux/drivers/thermal/cpufreq_cooling.c
  *
- *  Copyright (C) 2012	Samsung Electronics Co., Ltd(http://www.samsung.com)
+ *  Copyright (C) 2012	Samsung Electronics Co., Ltd(https://www.samsung.com)
  *
  *  Copyright (C) 2012-2018 Linaro Limited.
  *

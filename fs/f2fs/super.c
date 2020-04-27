@@ -3,7 +3,7 @@
  * fs/f2fs/super.c
  *
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
- *             http://www.samsung.com/
+ *             https://www.samsung.com/
  */
 #include <linux/module.h>
 #include <linux/init.h>

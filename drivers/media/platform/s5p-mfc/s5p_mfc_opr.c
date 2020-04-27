@@ -6,7 +6,7 @@
  * This file contains hw related functions.
  *
  * Kamil Debski, Copyright (c) 2012 Samsung Electronics Co., Ltd.
- * http://www.samsung.com/
+ * https://www.samsung.com/
  */
 
 #include "s5p_mfc_debug.h"

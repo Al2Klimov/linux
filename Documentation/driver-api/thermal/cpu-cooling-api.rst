@@ -6,7 +6,7 @@ Written by Amit Daniel Kachhap <amit.kachhap@linaro.org>
 
 Updated: 6 Jan 2015
 
-Copyright (c)  2012 Samsung Electronics Co., Ltd(http://www.samsung.com)
+Copyright (c)  2012 Samsung Electronics Co., Ltd(https://www.samsung.com)
 
 0. Introduction
 ===============

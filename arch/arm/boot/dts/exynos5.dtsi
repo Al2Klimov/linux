@@ -3,7 +3,7 @@
  * Samsung's Exynos5 SoC series common device tree source
  *
  * Copyright (c) 2012-2013 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Samsung's Exynos5 SoC series device nodes are listed in this file. Particular
  * SoCs from Exynos5 series can include this file and provide values for SoCs

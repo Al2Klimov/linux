@@ -4,7 +4,7 @@
  *  Cloned from drivers/media/video/s5p-tv/regs-vp.h
  *
  * Copyright (c) 2010-2011 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com/
+ *		https://www.samsung.com/
  *
  * Video processor register header file for Samsung Mixer driver
  */

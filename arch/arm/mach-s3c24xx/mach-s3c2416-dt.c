@@ -7,7 +7,7 @@
 // based on mach-exynos/mach-exynos4-dt.c
 //
 // Copyright (c) 2010-2011 Samsung Electronics Co., Ltd.
-//		http://www.samsung.com
+//		https://www.samsung.com
 // Copyright (c) 2010-2011 Linaro Ltd.
 //		www.linaro.org
 

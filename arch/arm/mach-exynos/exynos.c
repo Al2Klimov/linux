@@ -3,7 +3,7 @@
 // Samsung Exynos Flattened Device Tree enabled machine
 //
 // Copyright (c) 2010-2014 Samsung Electronics Co., Ltd.
-//		http://www.samsung.com
+//		https://www.samsung.com
 
 #include <linux/init.h>
 #include <linux/io.h>

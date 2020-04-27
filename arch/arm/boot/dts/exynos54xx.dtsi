@@ -3,7 +3,7 @@
  * Samsung's Exynos54xx SoC series common device tree source
  *
  * Copyright (c) 2012-2013 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  * Copyright (c) 2016 Krzysztof Kozlowski
  *
  * Device nodes common for Samsung Exynos5410/5420/5422/5800. Specific

@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 //
 // Copyright (C) 2011 Samsung Electronics Ltd.
-//		http://www.samsung.com/
+//		https://www.samsung.com/
 
 #include <linux/gpio.h>
 #include <plat/gpio-cfg.h>

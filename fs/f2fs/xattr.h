@@ -3,7 +3,7 @@
  * fs/f2fs/xattr.h
  *
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
- *             http://www.samsung.com/
+ *             https://www.samsung.com/
  *
  * Portions of this code from linux/fs/ext2/xattr.h
  *

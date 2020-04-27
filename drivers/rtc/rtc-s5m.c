@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0+
 //
 // Copyright (c) 2013-2014 Samsung Electronics Co., Ltd
-//	http://www.samsung.com
+//	https://www.samsung.com
 //
 //  Copyright (C) 2013 Google, Inc
 

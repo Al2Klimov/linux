@@ -2,7 +2,7 @@
 /* linux/arch/arm/mach-exynos4/mct.c
  *
  * Copyright (c) 2011 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Exynos4 MCT(Multi-Core Timer) support
 */

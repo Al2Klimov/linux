@@ -4,7 +4,7 @@
  *  Cloned from drivers/media/video/s5p-tv/regs-hdmi.h
  *
  * Copyright (c) 2010-2011 Samsung Electronics Co., Ltd.
- * http://www.samsung.com/
+ * https://www.samsung.com/
  *
  * HDMI register header file for Samsung TVOUT driver
 */

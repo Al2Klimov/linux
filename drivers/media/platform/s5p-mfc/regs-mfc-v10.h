@@ -2,7 +2,7 @@
 /*
  *
  * Copyright (c) 2017 Samsung Electronics Co., Ltd.
- *     http://www.samsung.com/
+ *     https://www.samsung.com/
  *
  * Register definition file for Samsung MFC V10.x Interface (FIMV) driver
  *

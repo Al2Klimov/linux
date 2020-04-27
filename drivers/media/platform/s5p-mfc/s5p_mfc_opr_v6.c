@@ -6,7 +6,7 @@
  * This file contains hw related functions.
  *
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com/
+ *		https://www.samsung.com/
  */
 
 #undef DEBUG

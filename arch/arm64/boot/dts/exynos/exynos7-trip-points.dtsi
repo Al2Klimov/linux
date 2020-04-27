@@ -3,7 +3,7 @@
  * Device tree sources for default Exynos7 thermal zone definition
  *
  * Copyright (c) 2016 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  */
 
 trips {

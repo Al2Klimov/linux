@@ -3,7 +3,7 @@
  * f2fs sysfs interface
  *
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
- *             http://www.samsung.com/
+ *             https://www.samsung.com/
  * Copyright (c) 2017 Chao Yu <chao@kernel.org>
  */
 #include <linux/compiler.h>

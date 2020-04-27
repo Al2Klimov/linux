@@ -4,7 +4,7 @@
  * Atari Falcon PATA controller driver
  *
  * Copyright (c) 2016 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Based on falconide.c:
  *

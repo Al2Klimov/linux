@@ -1,7 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0 */
 /*
  * Copyright (c) 2019 Samsung Electronics Co., Ltd.
- *	      http://www.samsung.com/
+ *	      https://www.samsung.com/
  * Author: Sylwester Nawrocki <s.nawrocki@samsung.com>
  *
  * Samsung Exynos SoC Adaptive Supply Voltage support

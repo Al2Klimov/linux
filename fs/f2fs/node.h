@@ -3,7 +3,7 @@
  * fs/f2fs/node.h
  *
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
- *             http://www.samsung.com/
+ *             https://www.samsung.com/
  */
 /* start node id of a node block dedicated to the given node id */
 #define	START_NID(nid) (((nid) / NAT_ENTRY_PER_BLOCK) * NAT_ENTRY_PER_BLOCK)

@@ -3,7 +3,7 @@
  * fs/f2fs/gc.h
  *
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
- *             http://www.samsung.com/
+ *             https://www.samsung.com/
  */
 #define GC_THREAD_MIN_WB_PAGES		1	/*
 						 * a threshold to determine

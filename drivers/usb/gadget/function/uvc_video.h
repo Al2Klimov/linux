@@ -6,7 +6,7 @@
  *		Laurent Pinchart (laurent.pinchart@ideasonboard.com)
  *
  * Copyright (c) 2013 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *		Author: Andrzej Pietrasiewicz <andrzejtp2010@gmail.com>
  */
 #ifndef __UVC_VIDEO_H__

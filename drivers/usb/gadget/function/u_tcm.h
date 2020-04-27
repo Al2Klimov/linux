@@ -5,7 +5,7 @@
  * Utility definitions for the tcm function
  *
  * Copyright (c) 2015 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Author: Andrzej Pietrasiewicz <andrzej.p@xxxxxxxxxxx>
  */

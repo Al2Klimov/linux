@@ -3,7 +3,7 @@
  * u_f.c -- USB function utilities for Gadget stack
  *
  * Copyright (c) 2013 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Author: Andrzej Pietrasiewicz <andrzejtp2010@gmail.com>
  */

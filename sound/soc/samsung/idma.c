@@ -3,7 +3,7 @@
 // idma.c - I2S0 internal DMA driver
 //
 // Copyright (c) 2011 Samsung Electronics Co., Ltd.
-//		http://www.samsung.com
+//		https://www.samsung.com
 
 #include <linux/interrupt.h>
 #include <linux/platform_device.h>

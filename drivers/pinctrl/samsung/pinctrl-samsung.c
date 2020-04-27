@@ -3,7 +3,7 @@
 // pin-controller/pin-mux/pin-config/gpio-driver for Samsung's SoC's.
 //
 // Copyright (c) 2012 Samsung Electronics Co., Ltd.
-//		http://www.samsung.com
+//		https://www.samsung.com
 // Copyright (c) 2012 Linaro Ltd
 //		https://www.linaro.org
 //

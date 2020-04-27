@@ -2,7 +2,7 @@
 /* linux/drivers/gpu/drm/exynos/regs-gsc.h
  *
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Register definition file for Samsung G-Scaler driver
  */

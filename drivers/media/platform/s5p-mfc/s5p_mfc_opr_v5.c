@@ -6,7 +6,7 @@
  * This file contains hw related functions.
  *
  * Kamil Debski, Copyright (c) 2011 Samsung Electronics
- * http://www.samsung.com/
+ * https://www.samsung.com/
  */
 
 #include "s5p_mfc_common.h"

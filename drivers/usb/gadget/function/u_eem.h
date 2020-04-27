@@ -5,7 +5,7 @@
  * Utility definitions for the eem function
  *
  * Copyright (c) 2013 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Author: Andrzej Pietrasiewicz <andrzejtp2010@gmail.com>
  */

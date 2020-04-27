@@ -8,7 +8,7 @@
  *  Contact:  Eduardo Valentin <eduardo.valentin@ti.com>
  *
  *  Highly based on cpufreq_cooling.c.
- *  Copyright (C) 2012	Samsung Electronics Co., Ltd(http://www.samsung.com)
+ *  Copyright (C) 2012	Samsung Electronics Co., Ltd(https://www.samsung.com)
  *  Copyright (C) 2012  Amit Daniel <amit.kachhap@linaro.org>
  */
 #include <linux/clk.h>

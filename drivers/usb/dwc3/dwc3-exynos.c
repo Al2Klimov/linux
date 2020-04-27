@@ -3,7 +3,7 @@
  * dwc3-exynos.c - Samsung Exynos DWC3 Specific Glue layer
  *
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Author: Anton Tikhomirov <av.tikhomirov@samsung.com>
  */

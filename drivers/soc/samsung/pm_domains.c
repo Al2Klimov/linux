@@ -3,7 +3,7 @@
 // Exynos Generic power domain support.
 //
 // Copyright (c) 2012 Samsung Electronics Co., Ltd.
-//		http://www.samsung.com
+//		https://www.samsung.com
 //
 // Implementation of Exynos specific power domain control which is used in
 // conjunction with runtime-pm. Support for both device-tree and non-device-tree

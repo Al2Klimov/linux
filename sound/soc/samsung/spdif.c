@@ -3,7 +3,7 @@
 // ALSA SoC Audio Layer - Samsung S/PDIF Controller driver
 //
 // Copyright (c) 2010 Samsung Electronics Co. Ltd
-//		http://www.samsung.com/
+//		https://www.samsung.com/
 
 #include <linux/clk.h>
 #include <linux/io.h>

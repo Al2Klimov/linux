@@ -3,7 +3,7 @@
  * Register definition file for Samsung MFC V7.x Interface (FIMV) driver
  *
  * Copyright (c) 2013 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com/
+ *		https://www.samsung.com/
  */
 
 #ifndef _REGS_MFC_V7_H

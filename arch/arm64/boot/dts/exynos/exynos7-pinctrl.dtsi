@@ -3,7 +3,7 @@
  * Samsung's Exynos7 SoC pin-mux and pin-config device tree source
  *
  * Copyright (c) 2014 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Samsung's Exynos7 SoC pin-mux and pin-config options are listed as
  * device tree nodes in this file.

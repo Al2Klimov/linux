@@ -3,7 +3,7 @@
 // HS-SPI device setup for S3C2443/S3C2416
 //
 // Copyright (C) 2011 Samsung Electronics Ltd.
-//		http://www.samsung.com/
+//		https://www.samsung.com/
 
 #include <linux/gpio.h>
 #include <linux/platform_device.h>

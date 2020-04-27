@@ -3,7 +3,7 @@
  * Samsung Exynos7 SoC device tree source
  *
  * Copyright (c) 2014 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  */
 
 #include <dt-bindings/clock/exynos7-clk.h>

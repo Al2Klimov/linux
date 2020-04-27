@@ -2,7 +2,7 @@
 /* drivers/media/platform/s5p-cec/exynos_hdmi_cecctrl.c
  *
  * Copyright (c) 2009, 2014 Samsung Electronics
- *		http://www.samsung.com/
+ *		https://www.samsung.com/
  *
  * cec ftn file for Samsung TVOUT driver
  */

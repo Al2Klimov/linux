@@ -2,7 +2,7 @@
 /* drivers/gpu/drm/exynos/regs-rotator.h
  *
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com/
+ *		https://www.samsung.com/
  *
  * Register definition file for Samsung Rotator Interface (Rotator) driver
 */

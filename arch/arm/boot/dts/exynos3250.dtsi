@@ -3,7 +3,7 @@
  * Samsung's Exynos3250 SoC device tree source
  *
  * Copyright (c) 2014 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Samsung's Exynos3250 SoC device nodes are listed in this file. Exynos3250
  * based board files can include this file and provide values for board specfic

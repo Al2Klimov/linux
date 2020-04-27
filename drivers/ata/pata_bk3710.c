@@ -4,7 +4,7 @@
  * Palmchip BK3710 PATA controller driver
  *
  * Copyright (c) 2017 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Based on palm_bk3710.c:
  *

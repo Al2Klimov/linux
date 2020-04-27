@@ -3,7 +3,7 @@
  * fs/f2fs/gc.c
  *
  * Copyright (c) 2012 Samsung Electronics Co., Ltd.
- *             http://www.samsung.com/
+ *             https://www.samsung.com/
  */
 #include <linux/fs.h>
 #include <linux/module.h>

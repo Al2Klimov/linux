@@ -4,7 +4,7 @@
  * Amiga Gayle PATA controller driver
  *
  * Copyright (c) 2018 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Based on gayle.c:
  *

@@ -2,7 +2,7 @@
 /* linux/drivers/media/platform/s5p-jpeg/jpeg-core.c
  *
  * Copyright (c) 2011-2014 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com
+ *		https://www.samsung.com
  *
  * Author: Andrzej Pietrasiewicz <andrzejtp2010@gmail.com>
  * Author: Jacek Anaszewski <j.anaszewski@samsung.com>

@@ -3,7 +3,7 @@
  * linux/drivers/media/platform/s5p-mfc/s5p_mfc_enc.h
  *
  * Copyright (C) 2011 Samsung Electronics Co., Ltd.
- *		http://www.samsung.com/
+ *		https://www.samsung.com/
  */
 
 #ifndef S5P_MFC_ENC_H_
