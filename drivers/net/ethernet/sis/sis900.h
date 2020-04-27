@@ -8,7 +8,7 @@
  *	preliminary Rev. 1.0 Nov. 10, 1998
  *   SiS 7014 Single Chip 100BASE-TX/10BASE-T Physical Layer Solution,
  *	preliminary Rev. 1.0 Jan. 18, 1998
- *   http://www.sis.com.tw/support/databook.htm
+ *   https://www.sis.com.tw/support/databook.htm
  */
 
 /*
