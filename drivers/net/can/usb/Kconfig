@@ -18,7 +18,7 @@ config CAN_ESD_USB2
 	tristate "ESD USB/2 CAN/USB interface"
 	---help---
 	  This driver supports the CAN-USB/2 interface
-	  from esd electronic system design gmbh (http://www.esd.eu).
+	  from esd electronic system design gmbh (https://esd.eu).
 
 config CAN_GS_USB
 	tristate "Geschwister Schneider UG interfaces"
