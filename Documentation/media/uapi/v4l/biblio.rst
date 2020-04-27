@@ -351,7 +351,7 @@ HDCP
 :title:     High-bandwidth Digital Content Protection System
 :subtitle:  Revision 1.3
 
-:author:    Digital Content Protection LLC (http://www.digital-cp.com)
+:author:    Digital Content Protection LLC (https://www.digital-cp.com)
 
 .. _hdmi:
 
