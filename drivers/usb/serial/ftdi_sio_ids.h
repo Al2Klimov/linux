@@ -630,7 +630,7 @@
  * applications.  The VID/PID has also been used in firmware
  * emulating FTDI serial chips by:
  * Hornby Elite - Digital Command Control Console
- * http://www.hornby.com/hornby-dcc/controllers/
+ * https://www.hornby.com/hornby-dcc/controllers/
  */
 #define MICROCHIP_VID		0x04D8
 #define MICROCHIP_USB_BOARD_PID	0x000A /* CDC RS-232 Emulation Demo */
