@@ -14,7 +14,7 @@
  * The device is based on the FTDI FT8U100AX chip. It has a DB25 on one side,
  * USB on the other.
  *
- * Thanx to FTDI (http://www.ftdichip.com) for so kindly providing details
+ * Thanx to FTDI (https://www.ftdichip.com) for so kindly providing details
  * of the protocol required to talk to the device and ongoing assistence
  * during development.
  *
@@ -452,7 +452,7 @@ enum ftdi_sio_baudrate {
  * FTDI_SIO_READ_EEPROM
  *
  * EEPROM format found in FTDI AN_201, "FT-X MTP memory Configuration",
- * http://www.ftdichip.com/Support/Documents/AppNotes/AN_201_FT-X%20MTP%20Memory%20Configuration.pdf
+ * https://www.ftdichip.com/Support/Documents/AppNotes/AN_201_FT-X%20MTP%20Memory%20Configuration.pdf
  */
 #define FTDI_SIO_READ_EEPROM_REQUEST_TYPE 0xc0
 #define FTDI_SIO_READ_EEPROM_REQUEST FTDI_SIO_READ_EEPROM
