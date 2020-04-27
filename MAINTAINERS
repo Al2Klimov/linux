@@ -2818,7 +2818,7 @@ F:	drivers/misc/eeprom/at24.c
 ATA OVER ETHERNET (AOE) DRIVER
 M:	"Justin Sanders" <justin@coraid.com>
 S:	Supported
-W:	http://www.openaoe.org/
+W:	https://www.openaoe.org/
 F:	Documentation/admin-guide/aoe/
 F:	drivers/block/aoe/
 
