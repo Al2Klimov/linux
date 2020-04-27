@@ -12044,7 +12044,7 @@ NTFS FILESYSTEM
 M:	Anton Altaparmakov <anton@tuxera.com>
 L:	linux-ntfs-dev@lists.sourceforge.net
 S:	Supported
-W:	http://www.tuxera.com/
+W:	https://www.tuxera.com/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/aia21/ntfs.git
 F:	Documentation/filesystems/ntfs.rst
 F:	fs/ntfs/
