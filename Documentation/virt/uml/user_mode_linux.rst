@@ -3753,7 +3753,7 @@ Note:
 
 
   Documentation on IP Masquerading, and SNAT, can be found at
-  http://www.netfilter.org.
+  https://netfilter.org.
 
 
   If you can reach the local net, but not the outside Internet, then
