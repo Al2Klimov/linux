@@ -641,7 +641,7 @@ Miro/Pinnacle PCTV
 - tuner type is autodetected
 
 http://www.miro.de/
-http://www.miro.com/
+https://miro.com/
 
 
 Many thanks for the free card which made first NTSC support possible back
