@@ -81,7 +81,7 @@ config CAN_PLX_PCI
 	   - esd CAN-PCIe/2000
 	   - Marathon CAN-bus-PCI card (http://www.marathon.ru/)
 	   - TEWS TECHNOLOGIES TPMC810 card (http://www.tews.com/)
-	   - IXXAT Automation PC-I 04/PCI card (http://www.ixxat.com/)
+	   - IXXAT Automation PC-I 04/PCI card (https://www.ixxat.com/)
 	   - Connect Tech Inc. CANpro/104-Plus Opto (CRG001) card (http://www.connecttech.com)
 	   - ASEM CAN raw - 2 isolated CAN channels (www.asem.it)
 
