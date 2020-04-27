@@ -5003,9 +5003,9 @@ F:	include/linux/dnotify.h
 DISK GEOMETRY AND PARTITION HANDLING
 M:	Andries Brouwer <aeb@cwi.nl>
 S:	Maintained
-W:	http://www.win.tue.nl/~aeb/linux/Large-Disk.html
-W:	http://www.win.tue.nl/~aeb/linux/zip/zip-1.html
-W:	http://www.win.tue.nl/~aeb/partitions/partition_types-1.html
+W:	https://www.win.tue.nl/~aeb/linux/Large-Disk.html
+W:	https://www.win.tue.nl/~aeb/linux/zip/zip-1.html
+W:	https://www.win.tue.nl/~aeb/partitions/partition_types-1.html
 
 DISKQUOTA
 M:	Jan Kara <jack@suse.com>
