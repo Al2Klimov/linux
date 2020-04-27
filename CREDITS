@@ -114,7 +114,7 @@ S: Canada K2P 0X3
 
 N: H. Peter Anvin
 E: hpa@zytor.com
-W: http://www.zytor.com/~hpa/
+W: https://www.zytor.com/~hpa/
 P: 2047/2A960705 BA 03 D3 2C 14 A8 A8 BD  1E DF FE 69 EE 35 BD 74
 D: Author of the SYSLINUX boot loader, maintainer of the linux.* news
 D: hierarchy and the Linux Device List; various kernel hacks
