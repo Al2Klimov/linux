@@ -553,7 +553,7 @@ sub af9015 {
 }
 
 sub ngene {
-    my $url = "http://www.digitaldevices.de/download/";
+    my $url = "https://www.digitaldevices.de/download/";
     my $file1 = "ngene_15.fw";
     my $hash1 = "d798d5a757121174f0dbc5f2833c0c85";
     my $file2 = "ngene_17.fw";
