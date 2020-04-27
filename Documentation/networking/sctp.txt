@@ -29,7 +29,7 @@ implementation and testing lksctp on IPv4.
 
 
 For more information, please visit the lksctp project website:
-   http://www.sf.net/projects/lksctp
+   https://www.sf.net/projects/lksctp
 
 Or contact the lksctp developers through the mailing list:
    <linux-sctp@vger.kernel.org>
