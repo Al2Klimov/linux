@@ -23,4 +23,4 @@ Optional properties:
 	present.
 
 For further information look in the documentation for the GLIB IP core library:
-http://www.gaisler.com/products/grlib/grip.pdf
+https://www.gaisler.com/products/grlib/grip.pdf

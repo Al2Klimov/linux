@@ -8,7 +8,7 @@
  * IP core library.
  *
  * Full documentation of the GRGPIO core can be found here:
- * http://www.gaisler.com/products/grlib/grip.pdf
+ * https://www.gaisler.com/products/grlib/grip.pdf
  *
  * See "Documentation/devicetree/bindings/gpio/gpio-grgpio.txt" for
  * information on open firmware properties.

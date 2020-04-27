@@ -6,7 +6,7 @@
  * VHDL IP core library.
  *
  * Full documentation of the APBPS2 core can be found here:
- * http://www.gaisler.com/products/grlib/grip.pdf
+ * https://www.gaisler.com/products/grlib/grip.pdf
  *
  * See "Documentation/devicetree/bindings/input/ps2keyb-mouse-apbps2.txt" for
  * information on open firmware properties.

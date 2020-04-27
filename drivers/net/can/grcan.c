@@ -8,7 +8,7 @@
  * VHDL IP core library.
  *
  * Full documentation of the GRCAN core can be found here:
- * http://www.gaisler.com/products/grlib/grip.pdf
+ * https://www.gaisler.com/products/grlib/grip.pdf
  *
  * See "Documentation/devicetree/bindings/net/can/grcan.txt" for information on
  * open firmware properties.
