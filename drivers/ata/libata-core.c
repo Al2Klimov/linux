@@ -13,7 +13,7 @@
  *
  *  Standards documents from:
  *	http://www.t13.org (ATA standards, PCI DMA IDE spec)
- *	http://www.t10.org (SCSI MMC - for ATAPI MMC)
+ *	https://www.t10.org (SCSI MMC - for ATAPI MMC)
  *	https://sata-io.org (SATA)
  *	https://www.compactflash.org (CF)
  *	http://www.qic.org (QIC157 - Tape and DSC)

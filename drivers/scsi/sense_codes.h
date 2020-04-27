@@ -1,7 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0 */
 /*
  * The canonical list of T10 Additional Sense Codes is available at:
- * http://www.t10.org/lists/asc-num.txt [most recent: 20141221]
+ * https://www.t10.org/lists/asc-num.txt [most recent: 20141221]
  */
 
 SENSE_CODE(0x0000, "No additional sense information")

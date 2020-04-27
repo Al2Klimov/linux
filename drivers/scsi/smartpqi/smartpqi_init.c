@@ -2773,7 +2773,7 @@ static void pqi_process_raid_io_error(struct pqi_io_request *io_request)
 				host_byte = DID_NO_CONNECT;
 				break;
 
-			default: /* See http://www.t10.org/lists/asc-num.htm#ASC_3E */
+			default: /* See https://www.t10.org/lists/asc-num.htm#ASC_3E */
 				if (printk_ratelimit())
 					scmd_printk(KERN_ERR, scmd, "received unhandled error %d from controller for scsi %d:%d:%d:%d\n",
 						sshdr.ascq, ctrl_info->scsi_host->host_no, device->bus, device->target, device->lun);

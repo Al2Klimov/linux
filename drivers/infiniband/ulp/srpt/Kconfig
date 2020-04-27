@@ -10,4 +10,4 @@ config INFINIBAND_SRPT
 	  that supports the RDMA protocol. Currently the RDMA protocol is
 	  supported by InfiniBand and by iWarp network hardware. More
 	  information about the SRP protocol can be found on the website
-	  of the INCITS T10 technical committee (http://www.t10.org/).
+	  of the INCITS T10 technical committee (https://www.t10.org/).

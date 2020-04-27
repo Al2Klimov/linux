@@ -20,7 +20,7 @@ Although the old parallel (fast/wide/ultra) SCSI bus has largely fallen
 out of use, the SCSI command set is more widely used than ever to
 communicate with devices over a number of different busses.
 
-The `SCSI protocol <http://www.t10.org/scsi-3.htm>`__ is a big-endian
+The `SCSI protocol <https://www.t10.org/scsi-3.htm>`__ is a big-endian
 peer-to-peer packet based protocol. SCSI commands are 6, 10, 12, or 16
 bytes long, often followed by an associated data payload.
 
@@ -106,7 +106,7 @@ drivers/scsi/scsicam.c
 ~~~~~~~~~~~~~~~~~~~~~~
 
 `SCSI Common Access
-Method <http://www.t10.org/ftp/t10/drafts/cam/cam-r12b.pdf>`__ support
+Method <https://www.t10.org/ftp/t10/drafts/cam/cam-r12b.pdf>`__ support
 functions, for use with HDIO_GETGEO, etc.
 
 .. kernel-doc:: drivers/scsi/scsicam.c

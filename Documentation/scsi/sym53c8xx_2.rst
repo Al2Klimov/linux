@@ -114,7 +114,7 @@ Information about new chips is available at LSILOGIC web server:
 
 SCSI standard documentations are available at T10 site:
 
-          http://www.t10.org/
+          https://www.t10.org/
 
 Useful SCSI tools written by Eric Youngdale are part of most Linux
 distributions:

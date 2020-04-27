@@ -19,8 +19,8 @@ when configuring the kernel.
 
 For more information on the PQI Queuing Interface, please see:
 
-- http://www.t10.org/drafts.htm
-- http://www.t10.org/members/w_pqi2.htm
+- https://www.t10.org/drafts.htm
+- https://www.t10.org/members/w_pqi2.htm
 
 Supported devices
 =================

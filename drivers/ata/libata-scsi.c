@@ -9,7 +9,7 @@
  *  as Documentation/driver-api/libata.rst
  *
  *  Hardware documentation available from
- *  - http://www.t10.org/
+ *  - https://www.t10.org/
  *  - http://www.t13.org/
  */
 

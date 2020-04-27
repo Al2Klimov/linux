@@ -11,7 +11,7 @@ SCSI lower level drivers. Lower level drivers (LLDs) are variously called
 host bus adapter (HBA) drivers and host drivers (HD). A "host" in this
 context is a bridge between a computer IO bus (e.g. PCI or ISA) and a
 single SCSI initiator port on a SCSI transport. An "initiator" port
-(SCSI terminology, see SAM-3 at http://www.t10.org) sends SCSI commands
+(SCSI terminology, see SAM-3 at https://www.t10.org) sends SCSI commands
 to "target" SCSI ports (e.g. disks). There can be many LLDs in a running
 system, but only one per hardware type. Most LLDs can control one or more
 SCSI HBAs. Some HBAs contain multiple hosts.

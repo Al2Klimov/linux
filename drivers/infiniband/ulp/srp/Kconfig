@@ -9,5 +9,5 @@ config INFINIBAND_SRP
 	  InfiniBand.
 
 	  The SRP protocol is defined by the INCITS T10 technical
-	  committee.  See <http://www.t10.org/>.
+	  committee.  See <https://www.t10.org/>.
 
