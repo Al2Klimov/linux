@@ -566,7 +566,7 @@ Operating System Design and Implementation}"
 	Use of RCU-like facility in K42/Tornado.  Another independent
 	invention of RCU.
 	See especially pages 7-9 (Section 5).
-	http://www.usenix.org/events/osdi99/full_papers/gamsa/gamsa.pdf
+	https://www.usenix.org/events/osdi99/full_papers/gamsa/gamsa.pdf
 	[Viewed August 30, 2006]
 }
 }
@@ -2551,7 +2551,7 @@ lot of {Linux} into your technology!!!"
 ,location = {Berkeley, CA}
 ,pages = {1--6}
 ,numpages = {6}
-,url = {http://www.usenix.org/event/hotpar11/tech/final_files/Howard.pdf}
+,url = {https://www.usenix.org/event/hotpar11/tech/final_files/Howard.pdf}
 ,publisher = {USENIX Association}
 ,address = {Berkeley, CA, USA}
 }
@@ -2581,7 +2581,7 @@ lot of {Linux} into your technology!!!"
 ,year = {2011}
 ,pages = {145--158}
 ,numpages = {14}
-,url={http://www.usenix.org/event/atc11/tech/final_files/Triplett.pdf}
+,url={https://www.usenix.org/event/atc11/tech/final_files/Triplett.pdf}
 ,publisher = {The USENIX Association}
 ,address = {Portland, OR USA}
 }
