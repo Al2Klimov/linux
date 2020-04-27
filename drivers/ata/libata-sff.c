@@ -9,7 +9,7 @@
  *  as Documentation/driver-api/libata.rst
  *
  *  Hardware documentation available from http://www.t13.org/ and
- *  http://www.sata-io.org/
+ *  https://sata-io.org/
  */
 
 #include <linux/kernel.h>

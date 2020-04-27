@@ -9,12 +9,12 @@
  *  as Documentation/driver-api/libata.rst
  *
  *  Hardware documentation available from http://www.t13.org/ and
- *  http://www.sata-io.org/
+ *  https://sata-io.org/
  *
  *  Standards documents from:
  *	http://www.t13.org (ATA standards, PCI DMA IDE spec)
  *	http://www.t10.org (SCSI MMC - for ATAPI MMC)
- *	http://www.sata-io.org (SATA)
+ *	https://sata-io.org (SATA)
  *	https://www.compactflash.org (CF)
  *	http://www.qic.org (QIC157 - Tape and DSC)
  *	https://www.ce-ata.org (CE-ATA: not supported)
