@@ -82,7 +82,7 @@ contact Bodo  Bauer  at  bb@ricochet.net.  We'll  be happy to add them to this
 document.
 
 The   latest   version    of   this   document   is    available   online   at
-http://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/proc.html
+https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/proc.html
 
 If  the above  direction does  not works  for you,  you could  try the  kernel
 mailing  list  at  linux-kernel@vger.kernel.org  and/or try  to  reach  me  at

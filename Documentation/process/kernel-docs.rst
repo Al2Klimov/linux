@@ -129,7 +129,7 @@ On-line docs
     * Title: **Linux Kernel Module Programming Guide**
 
       :Author: Ori Pomerantz.
-      :URL: http://tldp.org/LDP/lkmpg/2.6/html/index.html
+      :URL: https://tldp.org/LDP/lkmpg/2.6/html/index.html
       :Date: 2001
       :Keywords: modules, GPL book, /proc, ioctls, system calls,
         interrupt handlers .
