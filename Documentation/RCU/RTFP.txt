@@ -2539,7 +2539,7 @@ lot of {Linux} into your technology!!!"
 ,year = {2011}
 ,number = {11-03}
 ,institution = {Portland State University}
-,note = {\url{http://www.cs.pdx.edu/pdfs/tr1103.pdf}}
+,note = {\url{https://www.cs.pdx.edu/pdfs/tr1103.pdf}}
 }
 
 @inproceedings{PhilHoward2011RCUTMRBTree
