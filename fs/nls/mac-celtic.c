@@ -11,7 +11,7 @@
  * COPYRIGHT AND PERMISSION NOTICE
  *
  * Copyright 1991-2012 Unicode, Inc.  All rights reserved.  Distributed under
- * the Terms of Use in http://www.unicode.org/copyright.html.
+ * the Terms of Use in https://www.unicode.org/copyright.html.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a
  * copy of the Unicode data files and any associated documentation (the "Data

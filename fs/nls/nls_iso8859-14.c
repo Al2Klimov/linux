@@ -5,7 +5,7 @@
  *
  * Generated automatically from the Unicode and charset table
  * provided by the Unicode Organisation at
- * http://www.unicode.org/
+ * https://www.unicode.org/
  * The Unicode to charset table has only exact mappings.
  *
  * Rhys Jones, Swansea University Computer Society

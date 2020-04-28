@@ -3,7 +3,7 @@ Character Database for version 12.1.0 of the Unicode standard.
 
 The full set of files can be found here:
 
-  http://www.unicode.org/Public/12.1.0/ucd/
+  https://www.unicode.org/Public/12.1.0/ucd/
 
 Individual source links:
 
@@ -39,7 +39,7 @@ sha1sums (verify by running "sha1sum -c README.utf8data"):
 To update to the newer version of the Unicode standard, the latest
 released version of the UCD can be found here:
 
-  http://www.unicode.org/Public/UCD/latest/
+  https://www.unicode.org/Public/UCD/latest/
 
 Then, build under fs/unicode/ with REGENERATE_UTF8DATA=1:
 

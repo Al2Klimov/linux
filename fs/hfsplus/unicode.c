@@ -304,7 +304,7 @@ static u16 *hfsplus_decompose_nonhangul(wchar_t uc, int *size)
  * Annex #15: Unicode Normalization Forms, version 3.2.0.
  *
  * Copyright (C) 1991-2018 Unicode, Inc.  All rights reserved.  Distributed
- * under the Terms of Use in http://www.unicode.org/copyright.html.
+ * under the Terms of Use in https://www.unicode.org/copyright.html.
  */
 static int hfsplus_try_decompose_hangul(wchar_t uc, u16 *result)
 {

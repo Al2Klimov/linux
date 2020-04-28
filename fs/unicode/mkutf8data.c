@@ -244,7 +244,7 @@ utf8trie_t *nfdicf;
  * The shortest sequence requirement was introduced by:
  *    Corrigendum #1: UTF-8 Shortest Form
  * It can be found here:
- *    http://www.unicode.org/versions/corrigendum1.html
+ *    https://www.unicode.org/versions/corrigendum1.html
  *
  */
 
@@ -1840,7 +1840,7 @@ static void help(void)
 	printf("This program creates an a data trie used for parsing and\n");
 	printf("normalization of UTF-8 strings. The trie is derived from\n");
 	printf("a set of input files from the Unicode character database\n");
-	printf("found at: http://www.unicode.org/Public/UCD/latest/ucd/\n");
+	printf("found at: https://www.unicode.org/Public/UCD/latest/ucd/\n");
 	printf("\n");
 	printf("The generated tree supports two normalization forms:\n");
 	printf("\n");
