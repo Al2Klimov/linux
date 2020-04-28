@@ -479,7 +479,7 @@ has the size you expect.
 There is a tool called ``lsuio`` that lists UIO devices and their
 attributes. It is available here:
 
-http://www.osadl.org/projects/downloads/UIO/user/
+https://www.osadl.org/projects/downloads/UIO/user/
 
 With ``lsuio`` you can quickly check if your kernel module is loaded and
 which attributes it exports. Have a look at the manpage for details.
@@ -725,6 +725,6 @@ For example::
 Further information
 ===================
 
--  `OSADL homepage. <http://www.osadl.org>`_
+-  `OSADL homepage. <https://www.osadl.org>`_
 
 -  `Linutronix homepage. <https://www.linutronix.de>`_

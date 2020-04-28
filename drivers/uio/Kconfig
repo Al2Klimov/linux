@@ -20,7 +20,7 @@ config UIO_CIF
 	  Driver for Hilscher CIF DeviceNet and Profibus cards.  This
   	  driver requires a userspace component called cif that handles
 	  all of the heavy lifting and can be found at:
-	        <http://www.osadl.org/projects/downloads/UIO/user/>
+	        <https://www.osadl.org/projects/downloads/UIO/user/>
 
 	  To compile this driver as a module, choose M here: the module
 	  will be called uio_cif.
