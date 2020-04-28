@@ -99,7 +99,7 @@
  * [1] P. Valente, A. Avanzini, "Evolution of the BFQ Storage I/O
  *     Scheduler", Proceedings of the First Workshop on Mobile System
  *     Technologies (MST-2015), May 2015.
- *     http://algogroup.unimore.it/people/paolo/disk_sched/mst-2015.pdf
+ *     https://algogroup.unimore.it/people/paolo/disk_sched/mst-2015.pdf
  *
  * [2] Jon C.R. Bennett and H. Zhang, "Hierarchical Packet Fair Queueing
  *     Algorithms", IEEE/ACM Transactions on Networking, 5(5):675-689,
