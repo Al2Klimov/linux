@@ -202,7 +202,7 @@ Keyspan USA-series Serial Adapters
 
   More information is available at:
 
-        http://www.carnationsoftware.com/carnation/Keyspan.html
+        https://www.carnationsoftware.com/carnation/Keyspan.html
 
   For any questions or problems with this driver, please contact Hugh
   Blemings at hugh@misc.nu
