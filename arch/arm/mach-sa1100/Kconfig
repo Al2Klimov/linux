@@ -159,7 +159,7 @@ config SA1100_SIMPAD
 	  FLASH. The SL4 version got 64 MB RAM and 32 MB FLASH and a
 	  PCMCIA-Slot. The version for the Germany Telecom (DTAG) is the same
 	  like CL4 in additional it has a PCMCIA-Slot. For more information
-	  visit <https://www.usa.siemens.com/> or <http://www.siemens.ch/>.
+	  visit <https://www.usa.siemens.com/> or <https://www.siemens.ch/>.
 
 config SA1100_SSP
 	tristate "Generic PIO SSP"
