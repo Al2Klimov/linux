@@ -2729,7 +2729,7 @@ lot of {Linux} into your technology!!!"
 ,month="July"
 ,day="10"
 ,year="2012"
-,note="\url{http://software.imdea.org/~gotsman/papers/recycling-esop13-ext.pdf}"
+,note="\url{https://software.imdea.org/~gotsman/papers/recycling-esop13-ext.pdf}"
 ,annotation={
 	Separation-logic formulation of RCU uses.
 }
@@ -2795,7 +2795,7 @@ lot of {Linux} into your technology!!!"
 ,publisher = {Springer}
 ,address = {Rome, Italy}
 ,annotation={
-	http://software.imdea.org/~gotsman/papers/recycling-esop13.pdf
+	https://software.imdea.org/~gotsman/papers/recycling-esop13.pdf
 }
 }
 
