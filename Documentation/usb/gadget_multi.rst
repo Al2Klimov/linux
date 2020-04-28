@@ -160,6 +160,6 @@ any user input.
 [7] You may find [[http://www.cygnal.org/ubb/Forum9/HTML/001050.html]]
 useful.
 
-[8] http://www.nirsoft.net/utils/usb_devices_view.html
+[8] https://www.nirsoft.net/utils/usb_devices_view.html
 
 [9] [[https://msdn.microsoft.com/en-us/library/ff570620.aspx]]
