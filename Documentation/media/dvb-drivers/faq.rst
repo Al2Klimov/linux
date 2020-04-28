@@ -91,7 +91,7 @@ Some very frequently asked questions about linuxtv-dvb
 	https://www.nenie.org/misc/mpsys/
 		MPSYS: a MPEG2 system library and tools
 
-	http://mplayerhq.hu/
+	https://mplayerhq.hu/
 		mplayer
 
 	http://xine.sourceforge.net/ and http://xinehq.de/
