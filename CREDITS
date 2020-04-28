@@ -992,7 +992,7 @@ S: USA
 
 N: Randy Dunlap
 E: rdunlap@infradead.org
-W: http://www.infradead.org/~rdunlap/
+W: https://www.infradead.org/~rdunlap/
 D: Linux-USB subsystem, USB core/UHCI/printer/storage drivers
 D: x86 SMP, ACPI, bootflag hacking
 D: documentation, builds
