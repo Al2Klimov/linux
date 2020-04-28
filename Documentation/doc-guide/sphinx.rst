@@ -361,7 +361,7 @@ image format use SVG (:ref:`svg_image_example`)::
 The kernel figure (and image) directive support **DOT** formated files, see
 
 * DOT: https://graphviz.org/pdf/dotguide.pdf
-* Graphviz: http://www.graphviz.org/content/dot-language
+* Graphviz: https://www.graphviz.org/content/dot-language
 
 A simple example (:ref:`hello_dot_file`)::
 
