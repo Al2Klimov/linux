@@ -511,7 +511,7 @@ dump kernel.
 You can also use the Crash utility to analyze dump files in Kdump
 format. Crash is available on Dave Anderson's site at the following URL:
 
-   http://people.redhat.com/~anderson/
+   https://people.redhat.com/~anderson/
 
 Trigger Kdump on WARN()
 =======================

@@ -26,7 +26,7 @@ Userspace requirements include:
 
 - David Howells' userspace keyring headers and libraries (version
   1.0 or higher), obtainable from
-  http://people.redhat.com/~dhowells/keyutils/
+  https://people.redhat.com/~dhowells/keyutils/
 - Libgcrypt
 
 

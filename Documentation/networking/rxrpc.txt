@@ -506,7 +506,7 @@ kaserver or the kerberos server and installed as "rxrpc" type keys.  This is
 normally done using the klog program.  An example simple klog program can be
 found at:
 
-	http://people.redhat.com/~dhowells/rxrpc/klog.c
+	https://people.redhat.com/~dhowells/rxrpc/klog.c
 
 The payload provided to add_key() on the client should be of the following
 form:
@@ -537,7 +537,7 @@ socket then looks the server secret keys up in this keyring when secure
 incoming connections are made.  This can be seen in an example program that can
 be found at:
 
-	http://people.redhat.com/~dhowells/rxrpc/listen.c
+	https://people.redhat.com/~dhowells/rxrpc/listen.c
 
 
 ====================

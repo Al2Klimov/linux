@@ -6,7 +6,7 @@
  * pipe: Benchmark for pipe()
  *
  * Based on pipe-test-1m.c by Ingo Molnar <mingo@redhat.com>
- *  http://people.redhat.com/mingo/cfs-scheduler/tools/pipe-test-1m.c
+ *  https://people.redhat.com/mingo/cfs-scheduler/tools/pipe-test-1m.c
  * Ported to perf by Hitoshi Mitake <mitake@dcl.info.waseda.ac.jp>
  */
 #include <subcmd/parse-options.h>
