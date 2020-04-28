@@ -498,7 +498,7 @@ References
     Document ARM-DEN-0044A, or newer: "Server Base Boot Requirements, System
     Software on ARM Platforms", dated 16 Aug 2014
 
-[2] http://www.secretlab.ca/archives/151,
+[2] https://www.secretlab.ca/archives/151,
     10 Jan 2015, Copyright (c) 2015,
     Linaro Ltd., written by Grant Likely.
 
