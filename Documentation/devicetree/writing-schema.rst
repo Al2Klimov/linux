@@ -164,6 +164,6 @@ json-schema Resources
 ---------------------
 
 
-`JSON-Schema Specifications <http://json-schema.org/>`_
+`JSON-Schema Specifications <https://json-schema.org/>`_
 
 `Using JSON Schema Book <http://usingjsonschema.com/>`_
