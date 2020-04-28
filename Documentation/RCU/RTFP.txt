@@ -315,7 +315,7 @@ for Programming Languages and Operating Systems}"
 ,pages="31-39"
 ,Address="Palo Alto, CA"
 ,note="Available:
-\url{http://www.cse.ucsc.edu/~randal/221/rashid-machvm.pdf}
+\url{https://www.cse.ucsc.edu/~randal/221/rashid-machvm.pdf}
 [Viewed February 17, 2005]"
 ,annotation={
 	Describes lazy TLB flush, where one waits for each CPU to pass
