@@ -26,7 +26,7 @@ Support
   includes linux based USB download tools.
 
   Some of the h1940 patches that can be found from the H1940 project
-  site at http://www.handhelds.org/projects/h1940.html can also be
+  site at https://www.handhelds.org/projects/h1940.html can also be
   applied to this board.
 
 

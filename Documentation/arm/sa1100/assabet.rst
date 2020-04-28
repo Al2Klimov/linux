@@ -32,7 +32,7 @@ BLOB (http://www.lartmaker.nl/lartware/blob/)
    patches were merged into BLOB to add support for Assabet.
 
 Compaq's Bootldr + John Dorsey's patch for Assabet support
-(http://www.handhelds.org/Compaq/bootldr.html)
+(https://www.handhelds.org/Compaq/bootldr.html)
 (http://www.wearablegroup.org/software/bootldr/)
 
    Bootldr is the bootloader developed by Compaq for the iPAQ Pocket PC.

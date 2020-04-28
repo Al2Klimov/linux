@@ -2,7 +2,7 @@
 HP IPAQ H1940
 =============
 
-http://www.handhelds.org/projects/h1940.html
+https://www.handhelds.org/projects/h1940.html
 
 Introduction
 ------------
@@ -18,7 +18,7 @@ Support
 
   handhelds.org project page:
 
-    http://www.handhelds.org/projects/h1940.html
+    https://www.handhelds.org/projects/h1940.html
 
   handhelds.org wiki page:
 
