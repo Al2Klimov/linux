@@ -4,7 +4,7 @@
 
     Copyright (C) 1998-2006 Michael Hunold <michael@mihu.de>
 
-    Visit http://www.themm.net/~mihu/linux/saa7146/mxb.html
+    Visit https://www.themm.net/~mihu/linux/saa7146/mxb.html
     for further details about this card.
 
 */
