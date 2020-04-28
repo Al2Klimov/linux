@@ -60,7 +60,7 @@ Q: Where can I find patches currently under discussion for BPF subsystem?
 A: All patches that are Cc'ed to netdev are queued for review under netdev
 patchwork project:
 
-  http://patchwork.ozlabs.org/project/netdev/list/
+  https://patchwork.ozlabs.org/project/netdev/list/
 
 Those patches which target BPF, are assigned to a 'bpf' delegate for
 further processing from BPF maintainers. The current queue with
@@ -297,7 +297,7 @@ the current iproute2 version from master has been released.
 Like BPF, the patches end up in patchwork under the netdev project and
 are delegated to 'shemminger' for further processing:
 
-  http://patchwork.ozlabs.org/project/netdev/list/?delegate=389
+  https://patchwork.ozlabs.org/project/netdev/list/?delegate=389
 
 Q: What is the minimum requirement before I submit my BPF patches?
 ------------------------------------------------------------------
@@ -399,7 +399,7 @@ to stable?
 A: Once patches that fix critical bugs got applied into the bpf tree, they
 are queued up for stable submission under:
 
-  http://patchwork.ozlabs.org/bundle/bpf/stable/?state=*
+  https://patchwork.ozlabs.org/bundle/bpf/stable/?state=*
 
 They will be on hold there at minimum until the related commit made its
 way into the mainline kernel tree.

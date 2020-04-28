@@ -257,7 +257,7 @@ described before. This might be an issue in the following cases:
   can make it harder to debug MDIO switch connected using xMII interfaces
 
 - inability to configure the CPU port link parameters based on the Ethernet
-  controller capabilities attached to it: http://patchwork.ozlabs.org/patch/509806/
+  controller capabilities attached to it: https://patchwork.ozlabs.org/patch/509806/
 
 - inability to configure specific VLAN IDs / trunking VLANs between switches
   when using a cascaded setup
