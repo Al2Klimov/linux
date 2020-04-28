@@ -22,7 +22,7 @@ This driver works with Dell OpenManage or Dell Update Packages for updating
 the BIOS on Dell servers (starting from servers sold since 1999), desktops
 and notebooks (starting from those sold in 2005).
 
-Please go to  http://support.dell.com register and you can find info on
+Please go to  https://support.dell.com register and you can find info on
 OpenManage and Dell Update packages (DUP).
 
 Libsmbios can also be used to update BIOS on Dell systems go to
