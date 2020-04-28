@@ -27,7 +27,7 @@ Orangefs features include:
 Mailing List Archives
 =====================
 
-http://lists.orangefs.org/pipermail/devel_lists.orangefs.org/
+https://lists.orangefs.org/pipermail/devel_lists.orangefs.org/
 
 
 Mailing List Submissions
