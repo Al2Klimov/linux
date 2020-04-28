@@ -53,7 +53,7 @@ Steven McCanne and Van Jacobson. 1993. The BSD packet filter: a new
 architecture for user-level packet capture. In Proceedings of the
 USENIX Winter 1993 Conference Proceedings on USENIX Winter 1993
 Conference Proceedings (USENIX'93). USENIX Association, Berkeley,
-CA, USA, 2-2. [http://www.tcpdump.org/papers/bpf-usenix93.pdf]
+CA, USA, 2-2. [https://www.tcpdump.org/papers/bpf-usenix93.pdf]
 
 Structure
 ---------
