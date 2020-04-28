@@ -490,7 +490,7 @@ Documentation/arm64/acpi_object_usage.rst.
 
 References
 ----------
-[0] http://silver.arm.com
+[0] https://silver.arm.com
     document ARM-DEN-0029, or newer:
     "Server Base System Architecture", version 2.3, dated 27 Mar 2014
 
