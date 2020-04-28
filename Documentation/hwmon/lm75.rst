@@ -31,7 +31,7 @@ Supported chips:
 
     Datasheet: Publicly available at the Maxim website
 
-	       http://www.maximintegrated.com/
+	       https://www.maximintegrated.com/
 
   * Maxim MAX6625, MAX6626, MAX31725, MAX31726
 
