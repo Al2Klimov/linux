@@ -244,7 +244,7 @@ On-line docs
     * Title: **I/O Event Handling Under Linux**
 
       :Author: Richard Gooch.
-      :URL: http://web.mit.edu/~yandros/doc/io-events.html
+      :URL: https://web.mit.edu/~yandros/doc/io-events.html
       :Date: 1999
       :Keywords: IO, I/O, select(2), poll(2), FDs, aio_read(2), readiness
         event queues.
@@ -295,7 +295,7 @@ On-line docs
     * Title: **Design and Implementation of the Second Extended Filesystem**
 
       :Author: Rémy Card, Theodore Ts'o, Stephen Tweedie.
-      :URL: http://web.mit.edu/tytso/www/linux/ext2intro.html
+      :URL: https://web.mit.edu/tytso/www/linux/ext2intro.html
       :Date: 1998
       :Keywords: ext2, linux fs history, inode, directory, link, devices,
         VFS, physical structure, performance, benchmarks, ext2fs library,
