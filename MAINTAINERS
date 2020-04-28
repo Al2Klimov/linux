@@ -17290,7 +17290,7 @@ F:	arch/unicore32/
 UNIFDEF
 M:	Tony Finch <dot@dotat.at>
 S:	Maintained
-W:	http://dotat.at/prog/unifdef
+W:	https://dotat.at/prog/unifdef
 F:	scripts/unifdef.c
 
 UNIFORM CDROM DRIVER
