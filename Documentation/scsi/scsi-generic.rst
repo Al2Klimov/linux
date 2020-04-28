@@ -50,7 +50,7 @@ be found at http://sg.danny.cz/sg/. A larger version
 is at: http://sg.danny.cz/sg/p/scsi-generic_long.txt.
 
 The original documentation for the sg driver (prior to lk 2.2.6) can be
-found at http://www.torque.net/sg/p/original/SCSI-Programming-HOWTO.txt
+found at https://www.torque.net/sg/p/original/SCSI-Programming-HOWTO.txt
 and in the LDP archives.
 
 A changelog with brief notes can be found in the

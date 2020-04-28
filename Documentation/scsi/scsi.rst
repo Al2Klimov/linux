@@ -9,7 +9,7 @@ the SCSI subsystem in the Linux kernel (lk) 2.4 series. See:
 http://www.tldp.org/HOWTO/SCSI-2.4-HOWTO . The LDP has single
 and multiple page HTML renderings as well as postscript and pdf.
 It can also be found at:
-http://web.archive.org/web/%2E/http://www.torque.net/scsi/SCSI-2.4-HOWTO
+http://web.archive.org/web/%2E/https://www.torque.net/scsi/SCSI-2.4-HOWTO
 
 Notes on using modules in the SCSI subsystem
 ============================================

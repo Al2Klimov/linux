@@ -1375,7 +1375,7 @@ S: USA
 
 N: Grant Guenther
 E: grant@torque.net
-W: http://www.torque.net/linux-pp.html
+W: https://www.torque.net/linux-pp.html
 D: original author of ppa driver for parallel port ZIP drive
 D: original architect of the parallel-port sharing scheme 
 D: PARIDE subsystem: drivers for parallel port IDE & ATAPI devices

@@ -436,4 +436,4 @@ have in your mail headers, when sending mail to the list server.
 You might also find some useful information on the linux-parport
 web pages (although they are not always up to date) at
 
-	http://web.archive.org/web/%2E/http://www.torque.net/parport/
+	http://web.archive.org/web/%2E/https://www.torque.net/parport/
