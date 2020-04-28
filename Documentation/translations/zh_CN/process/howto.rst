@@ -69,7 +69,7 @@ Linux内核源代码都是在GPL（通用公共许可证）的保护下发布的
 邮件组里的人并不是律师，不要期望他们的话有法律效力。
 
 对于GPL的常见问题和解答，请访问以下链接：
-	http://www.gnu.org/licenses/gpl-faq.html
+	https://www.gnu.org/licenses/gpl-faq.html
 
 
 文档

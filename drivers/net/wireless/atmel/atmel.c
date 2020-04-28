@@ -29,7 +29,7 @@
 
     You should have received a copy of the GNU General Public License
     along with Atmel wireless lan drivers; if not, see
-    <http://www.gnu.org/licenses/>.
+    <https://www.gnu.org/licenses/>.
 
     For all queries about this code, please contact the current author,
     Simon Kelley <simon@thekelleys.org.uk> and not Atmel Corporation.
@@ -4243,7 +4243,7 @@ static void atmel_wmem32(struct atmel_private *priv, u16 pos, u32 data)
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with AtmelMACFW; if not, see <http://www.gnu.org/licenses/>.
+    along with AtmelMACFW; if not, see <https://www.gnu.org/licenses/>.
 
 ****************************************************************************/
 /* This firmware should work on the 76C502 RFMD, RFMD_D, and RFMD_E        */

@@ -17,7 +17,7 @@ License
 =======
 This software is covered by the GNU General Public License.
 See the file COPYING for the complete text of the license.
-Or the GNU website: <http://www.gnu.org/licenses/licenses.html>
+Or the GNU website: <https://www.gnu.org/licenses/licenses.html>
 
 Author
 ======

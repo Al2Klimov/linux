@@ -1144,7 +1144,7 @@ ISBN 0-201-61586-X.
 
 Manuali GNU - nei casi in cui sono compatibili con K&R e questo documento -
 per indent, cpp, gcc e i suoi dettagli interni, tutto disponibile qui
-http://www.gnu.org/manual/
+https://www.gnu.org/manual/
 
 WG14 è il gruppo internazionale di standardizzazione per il linguaggio C,
 URL: http://www.open-std.org/JTC1/SC22/WG14/

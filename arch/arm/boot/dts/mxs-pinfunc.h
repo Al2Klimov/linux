@@ -8,7 +8,7 @@
  * Version 2 at the following locations:
  *
  * http://www.opensource.org/licenses/gpl-license.html
- * http://www.gnu.org/copyleft/gpl.html
+ * https://www.gnu.org/copyleft/gpl.html
  */
 
 #ifndef __DT_BINDINGS_MXS_PINCTRL_H__

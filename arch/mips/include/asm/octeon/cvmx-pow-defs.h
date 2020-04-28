@@ -19,7 +19,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this file; if not, write to the Free Software
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
- * or visit http://www.gnu.org/licenses/.
+ * or visit https://www.gnu.org/licenses/.
  *
  * This file may also be available under a different license from Cavium.
  * Contact Cavium Networks for more information

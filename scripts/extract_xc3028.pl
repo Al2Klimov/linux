@@ -30,7 +30,7 @@ sub verify ($$)
 	my ($testhash);
 
 	if (system("which md5sum > /dev/null 2>&1")) {
-		die "This firmware requires the md5sum command - see http://www.gnu.org/software/coreutils/\n";
+		die "This firmware requires the md5sum command - see https://www.gnu.org/software/coreutils/\n";
 	}
 
 	open(CMD, "md5sum ".$filename."|");

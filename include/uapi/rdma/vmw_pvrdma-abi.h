@@ -9,7 +9,7 @@
  * will be useful, but WITHOUT ANY WARRANTY; WITHOUT EVEN THE IMPLIED
  * WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
  * See the GNU General Public License version 2 for more details at
- * http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html.
+ * https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html.
  *
  * You should have received a copy of the GNU General Public License
  * along with this program available in the file COPYING in the main

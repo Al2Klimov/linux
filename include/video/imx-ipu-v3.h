@@ -6,7 +6,7 @@
  * Public License Version 2.1 or later at the following locations:
  *
  * http://www.opensource.org/licenses/lgpl-license.html
- * http://www.gnu.org/copyleft/lgpl.html
+ * https://www.gnu.org/copyleft/lgpl.html
  */
 
 #ifndef __DRM_IPU_H__

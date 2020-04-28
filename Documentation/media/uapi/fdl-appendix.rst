@@ -427,12 +427,12 @@ terminated so long as such parties remain in full compliance.
 10. FUTURE REVISIONS OF THIS LICENSE
 ====================================
 
-The `Free Software Foundation <http://www.gnu.org/fsf/fsf.html>`__
+The `Free Software Foundation <https://www.gnu.org/fsf/fsf.html>`__
 may publish new, revised versions of the GNU Free Documentation License
 from time to time. Such new versions will be similar in spirit to the
 present version, but may differ in detail to address new problems or
 concerns. See
-`http://www.gnu.org/copyleft/ <http://www.gnu.org/copyleft>`__.
+`https://www.gnu.org/copyleft/ <https://www.gnu.org/copyleft>`__.
 
 Each version of the License is given a distinguishing version number. If
 the :ref:`Document <fdl-document>` specifies that a particular
@@ -474,5 +474,5 @@ for :ref:`Back-Cover Texts <fdl-cover-texts>`.
 If your document contains nontrivial examples of program code, we
 recommend releasing these examples in parallel under your choice of free
 software license, such as the
-`GNU General Public License <http://www.gnu.org/copyleft/gpl.html>`__,
+`GNU General Public License <https://www.gnu.org/copyleft/gpl.html>`__,
 to permit their use in free software.

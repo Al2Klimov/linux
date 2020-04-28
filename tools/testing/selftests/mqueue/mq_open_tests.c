@@ -11,7 +11,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
- * For the full text of the license, see <http://www.gnu.org/licenses/>.
+ * For the full text of the license, see <https://www.gnu.org/licenses/>.
  *
  * mq_open_tests.c
  *   Tests the various situations that should either succeed or fail to

@@ -6,7 +6,7 @@
 	Robert Sedgewick, and Jon L. Bentley.
 
 	This code is licensed under the LGPLv2:
-		LGPL (http://www.gnu.org/copyleft/lgpl.html
+		LGPL (https://www.gnu.org/copyleft/lgpl.html
 */
 
 /*

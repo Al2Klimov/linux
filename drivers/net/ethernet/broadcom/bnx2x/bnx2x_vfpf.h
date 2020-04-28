@@ -7,7 +7,7 @@
  * Unless you and Qlogic execute a separate written software license
  * agreement governing use of this software, this software is licensed to you
  * under the terms of the GNU General Public License version 2 (the “GPL”),
- * available at http://www.gnu.org/licenses/gpl-2.0.html, with the following
+ * available at https://www.gnu.org/licenses/gpl-2.0.html, with the following
  * added to such license:
  *
  * As a special exception, the copyright holders of this software give you

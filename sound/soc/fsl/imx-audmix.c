@@ -7,7 +7,7 @@
  * Version 2 or later at the following locations:
  *
  * http://www.opensource.org/licenses/gpl-license.html
- * http://www.gnu.org/copyleft/gpl.html
+ * https://www.gnu.org/copyleft/gpl.html
  */
 
 #include <linux/module.h>
