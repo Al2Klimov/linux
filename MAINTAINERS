@@ -9431,7 +9431,7 @@ M:	Daniel Thompson <daniel.thompson@linaro.org>
 R:	Douglas Anderson <dianders@chromium.org>
 L:	kgdb-bugreport@lists.sourceforge.net
 S:	Maintained
-W:	http://kgdb.wiki.kernel.org/
+W:	https://kgdb.wiki.kernel.org/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/jwessel/kgdb.git
 F:	Documentation/dev-tools/kgdb.rst
 F:	drivers/misc/kgdbts.c
