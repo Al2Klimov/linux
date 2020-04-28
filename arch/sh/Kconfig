@@ -59,7 +59,7 @@ config SUPERH
 	  The SuperH is a RISC processor targeted for use in embedded systems
 	  and consumer electronics; it was also used in the Sega Dreamcast
 	  gaming console.  The SuperH port has a home page at
-	  <http://www.linux-sh.org/>.
+	  <https://www.linux-sh.org/>.
 
 config SUPERH32
 	def_bool "$(ARCH)" = "sh"
