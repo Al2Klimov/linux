@@ -111,6 +111,6 @@ static struct comedi_driver labpc_driver = {
 };
 module_comedi_driver(labpc_driver);
 
-MODULE_AUTHOR("Comedi http://www.comedi.org");
+MODULE_AUTHOR("Comedi https://www.comedi.org");
 MODULE_DESCRIPTION("Comedi driver for NI Lab-PC ISA boards");
 MODULE_LICENSE("GPL");

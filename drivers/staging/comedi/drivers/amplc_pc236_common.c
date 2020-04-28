@@ -186,6 +186,6 @@ static void __exit amplc_pc236_common_exit(void)
 }
 module_exit(amplc_pc236_common_exit);
 
-MODULE_AUTHOR("Comedi http://www.comedi.org");
+MODULE_AUTHOR("Comedi https://www.comedi.org");
 MODULE_DESCRIPTION("Comedi helper for amplc_pc236 and amplc_pci236");
 MODULE_LICENSE("GPL");

@@ -853,6 +853,6 @@ static void __exit amplc_dio200_common_exit(void)
 }
 module_exit(amplc_dio200_common_exit);
 
-MODULE_AUTHOR("Comedi http://www.comedi.org");
+MODULE_AUTHOR("Comedi https://www.comedi.org");
 MODULE_DESCRIPTION("Comedi helper for amplc_dio200 and amplc_dio200_pci");
 MODULE_LICENSE("GPL");

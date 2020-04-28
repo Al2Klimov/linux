@@ -260,6 +260,6 @@ static struct comedi_driver amplc_dio200_driver = {
 };
 module_comedi_driver(amplc_dio200_driver);
 
-MODULE_AUTHOR("Comedi http://www.comedi.org");
+MODULE_AUTHOR("Comedi https://www.comedi.org");
 MODULE_DESCRIPTION("Comedi driver for Amplicon 200 Series ISA DIO boards");
 MODULE_LICENSE("GPL");
