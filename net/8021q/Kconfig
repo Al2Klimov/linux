@@ -12,7 +12,7 @@ config VLAN_8021Q
 	  firewalling, bridging, and of course IP traffic. You will need
 	  the 'ip' utility in order to effectively use VLANs.
 	  See the VLAN web page for more information:
-	  <http://www.candelatech.com/~greear/vlan.html>
+	  <https://www.candelatech.com/~greear/vlan.html>
 
 	  To compile this code as a module, choose M here: the module
 	  will be called 8021q.

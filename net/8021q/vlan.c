@@ -5,7 +5,7 @@
  *
  * Authors:	Ben Greear <greearb@candelatech.com>
  *              Please send support related email to: netdev@vger.kernel.org
- *              VLAN Home Page: http://www.candelatech.com/~greear/vlan.html
+ *              VLAN Home Page: https://www.candelatech.com/~greear/vlan.html
  *
  * Fixes:
  *              Fix for packet capture - Nick Eggleston <nick@dccinc.com>;

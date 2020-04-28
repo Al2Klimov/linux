@@ -5,7 +5,7 @@
  *
  * Authors:	Ben Greear <greearb@candelatech.com>
  *              Please send support related email to: netdev@vger.kernel.org
- *              VLAN Home Page: http://www.candelatech.com/~greear/vlan.html
+ *              VLAN Home Page: https://www.candelatech.com/~greear/vlan.html
  *
  * Fixes:       Mar 22 2001: Martin Bokaemper <mbokaemper@unispherenetworks.com>
  *                - reset skb->pkt_type on incoming packets when MAC was changed
