@@ -9,7 +9,7 @@
  * Since the DRAM controller is on the cpu chip, we can use its PCI device
  * id to identify these processors.
  *
- * PCI DRAM controller device ids (Taken from The PCI ID Repository - http://pci-ids.ucw.cz/)
+ * PCI DRAM controller device ids (Taken from The PCI ID Repository - https://pci-ids.ucw.cz/)
  *
  * 0108: Xeon E3-1200 Processor Family DRAM Controller
  * 010c: Xeon E3-1200/2nd Generation Core Processor Family DRAM Controller
