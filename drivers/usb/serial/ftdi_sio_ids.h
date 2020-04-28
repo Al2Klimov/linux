@@ -969,7 +969,7 @@
 
 /*
  * Physik Instrumente
- * http://www.physikinstrumente.com/en/products/
+ * https://www.physikinstrumente.com/en/products/
  */
 /* These two devices use the VID of FTDI */
 #define PI_C865_PID	0xe0a0  /* PI C-865 Piezomotor Controller */
