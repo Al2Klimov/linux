@@ -282,7 +282,7 @@ config GTP
 	  is used to prevent subscribers from accessing mobile carrier core
 	  network infrastructure. This driver requires a userspace software that
 	  implements the signaling protocol (GTP-C) to update its PDP context
-	  base, such as OpenGGSN <http://git.osmocom.org/openggsn/). This
+	  base, such as OpenGGSN <https://git.osmocom.org/openggsn/). This
 	  tunneling protocol is implemented according to the GSM TS 09.60 and
 	  3GPP TS 29.060 standards.
 

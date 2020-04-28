@@ -88,7 +88,7 @@ There is a userspace library called 'libgtpnl' which is based on
 libmnl and which implements a C-language API towards the netlink
 interface provided by the Kernel GTP module:
 
-http://git.osmocom.org/libgtpnl/
+https://git.osmocom.org/libgtpnl/
 
 == Protocol Versions ==
 
