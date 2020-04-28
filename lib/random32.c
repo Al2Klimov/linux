@@ -16,12 +16,12 @@
  *
  * From: P. L'Ecuyer, "Maximally Equidistributed Combined Tausworthe
  * Generators", Mathematics of Computation, 65, 213 (1996), 203--213:
- * http://www.iro.umontreal.ca/~lecuyer/myftp/papers/tausme.ps
+ * https://www.iro.umontreal.ca/~lecuyer/myftp/papers/tausme.ps
  * ftp://ftp.iro.umontreal.ca/pub/simulation/lecuyer/papers/tausme.ps
  *
  * There is an erratum in the paper "Tables of Maximally Equidistributed
  * Combined LFSR Generators", Mathematics of Computation, 68, 225 (1999),
- * 261--269: http://www.iro.umontreal.ca/~lecuyer/myftp/papers/tausme2.ps
+ * 261--269: https://www.iro.umontreal.ca/~lecuyer/myftp/papers/tausme2.ps
  *
  *      ... the k_j most significant bits of z_j must be non-zero,
  *      for each j. (Note: this restriction also applies to the
