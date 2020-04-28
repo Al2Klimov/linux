@@ -9,7 +9,7 @@ Supported chips:
     Datasheets:
 
         - http://www.freescale.com/files/32bit/doc/data_sheet/MCIMX31.pdf?fpsp=1
-	- http://cache.freescale.com/files/dsp/doc/archive/MCIMX27.pdf?fsrch=1&WT_TYPE=Data%20Sheets&WT_VENDOR=FREESCALE&WT_FILE_FORMAT=pdf&WT_ASSET=Documentation
+	- https://cache.freescale.com/files/dsp/doc/archive/MCIMX27.pdf?fsrch=1&WT_TYPE=Data%20Sheets&WT_VENDOR=FREESCALE&WT_FILE_FORMAT=pdf&WT_ASSET=Documentation
 
 Author:
 

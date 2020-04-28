@@ -3,9 +3,9 @@
  * Fast SHA-256 implementation for SPE instruction set (PPC)
  *
  * This code makes use of the SPE SIMD instruction set as defined in
- * http://cache.freescale.com/files/32bit/doc/ref_manual/SPEPIM.pdf
+ * https://cache.freescale.com/files/32bit/doc/ref_manual/SPEPIM.pdf
  * Implementation is based on optimization guide notes from
- * http://cache.freescale.com/files/32bit/doc/app_note/AN2665.pdf
+ * https://cache.freescale.com/files/32bit/doc/app_note/AN2665.pdf
  *
  * Copyright (c) 2015 Markus Stockhausen <stockhausen@collogia.de>
  */
