@@ -159,7 +159,7 @@ This document has more data:
 http://www.nenya.be/beor/electronics/rc5.htm
 
 This document has a  how to decode a bi-phase data stream:
-http://www.ee.washington.edu/circuit_archive/text/ir_decode.txt
+https://www.ee.washington.edu/circuit_archive/text/ir_decode.txt
 
 This document has still more info:
 https://www.xs4all.nl/~sbp/knowledge/ir/rc5.htm
