@@ -6615,7 +6615,7 @@ FIREWIRE SUBSYSTEM
 M:	Stefan Richter <stefanr@s5r6.in-berlin.de>
 L:	linux1394-devel@lists.sourceforge.net
 S:	Maintained
-W:	http://ieee1394.wiki.kernel.org/
+W:	https://ieee1394.wiki.kernel.org/
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/ieee1394/linux1394.git
 F:	drivers/firewire/
 F:	include/linux/firewire.h
