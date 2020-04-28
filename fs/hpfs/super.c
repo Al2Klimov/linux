@@ -604,7 +604,7 @@ static int hpfs_fill_super(struct super_block *s, void *options, int silent)
 	if (!sb_rdonly(s) && superblock->funcversion != 2 && superblock->funcversion != 3) {
 		pr_err("Bad version %d,%d. Mount readonly to go around\n",
 			(int)superblock->version, (int)superblock->funcversion);
-		pr_err("please try recent version of HPFS driver at http://artax.karlin.mff.cuni.cz/~mikulas/vyplody/hpfs/index-e.cgi and if it still can't understand this format, contact author - mikulas@artax.karlin.mff.cuni.cz\n");
+		pr_err("please try recent version of HPFS driver at https://artax.karlin.mff.cuni.cz/~mikulas/vyplody/hpfs/index-e.cgi and if it still can't understand this format, contact author - mikulas@artax.karlin.mff.cuni.cz\n");
 		goto bail4;
 	}
 
