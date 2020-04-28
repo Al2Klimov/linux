@@ -12657,7 +12657,7 @@ ORINOCO DRIVER
 L:	linux-wireless@vger.kernel.org
 S:	Orphan
 W:	https://wireless.wiki.kernel.org/en/users/Drivers/orinoco
-W:	http://www.nongnu.org/orinoco/
+W:	https://www.nongnu.org/orinoco/
 F:	drivers/net/wireless/intersil/orinoco/
 
 OV2659 OMNIVISION SENSOR DRIVER

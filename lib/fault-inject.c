@@ -97,7 +97,7 @@ static inline bool fail_stacktrace(struct fault_attr *attr)
 
 /*
  * This code is stolen from failmalloc-1.0
- * http://www.nongnu.org/failmalloc/
+ * https://www.nongnu.org/failmalloc/
  */
 
 bool should_fail(struct fault_attr *attr, ssize_t size)
