@@ -666,7 +666,7 @@ int esas2r_show_info(struct seq_file *m, struct Scsi_Host *sh)
 		   "Flash version: %s\n"
 		   "Firmware version: %s\n"
 		   "Copyright "ESAS2R_COPYRIGHT_YEARS "\n"
-		   "http://www.attotech.com\n"
+		   "https://www.attotech.com\n"
 		   "\n",
 		   a->flash_rev,
 		   a->fw_rev[0] ? a->fw_rev : "(none)");
