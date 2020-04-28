@@ -1350,7 +1350,7 @@ config SCSI_ZORRO7XX
 	    - the Amiga 4091 Zorro III SCSI-2 controller,
 	    - the MacroSystem Development's WarpEngine Amiga SCSI-2 controller
 	      (info at
-	      <http://www.lysator.liu.se/amiga/ar/guide/ar310.guide?FEATURE5>),
+	      <https://www.lysator.liu.se/amiga/ar/guide/ar310.guide?FEATURE5>),
 	    - the SCSI controller on the Phase5 Blizzard PowerUP 603e+
 	      accelerator card for the Amiga 1200,
 	    - the SCSI controller on the GVP Turbo 040/060 accelerator.
