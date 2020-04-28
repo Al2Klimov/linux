@@ -12,14 +12,14 @@ config CAN_EMS_PCI
 	---help---
 	  This driver is for the one, two or four channel CPC-PCI,
 	  CPC-PCIe and CPC-104P cards from EMS Dr. Thomas Wuensche
-	  (http://www.ems-wuensche.de).
+	  (https://www.ems-wuensche.de).
 
 config CAN_EMS_PCMCIA
 	tristate "EMS CPC-CARD Card"
 	depends on PCMCIA
 	---help---
 	  This driver is for the one or two channel CPC-CARD cards from
-	  EMS Dr. Thomas Wuensche (http://www.ems-wuensche.de).
+	  EMS Dr. Thomas Wuensche (https://www.ems-wuensche.de).
 
 config CAN_F81601
 	tristate "Fintek F81601 PCIE to 2 CAN Controller"
