@@ -6,7 +6,7 @@
  * Copyright (C) 2011 Tobias Klauser <tklauser@distanz.ch>
  *
  * Based on the code posted by Kazuyasu on the Altera Forum at:
- * http://www.alteraforum.com/forum/showpost.php?p=77003&postcount=20
+ * https://www.alteraforum.com/forum/showpost.php?p=77003&postcount=20
  */
 #include <linux/ptrace.h>
 #include <linux/kgdb.h>
