@@ -2536,7 +2536,7 @@ menuconfig APM
 	  5) pass the "mem=4M" option to the kernel (thereby disabling
 	  all but the first 4 MB of RAM)
 	  6) make sure that the CPU is not over clocked.
-	  7) read the sig11 FAQ at <http://www.bitwizard.nl/sig11/>
+	  7) read the sig11 FAQ at <https://www.bitwizard.nl/sig11/>
 	  8) disable the cache from your BIOS settings
 	  9) install a fan for the video card or exchange video RAM
 	  10) install a better fan for the CPU
