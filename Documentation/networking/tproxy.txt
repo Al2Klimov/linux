@@ -46,7 +46,7 @@ name.sin_addr.s_addr = htonl(0xDEADBEEF);
 bind(fd, &name, sizeof(name));
 
 A trivial patch for netcat is available here:
-http://people.netfilter.org/hidden/tproxy/netcat-ip_transparent-support.patch
+https://people.netfilter.org/hidden/tproxy/netcat-ip_transparent-support.patch
 
 
 2. Redirecting traffic
