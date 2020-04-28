@@ -16,7 +16,7 @@
  *	https://www.t10.org (SCSI MMC - for ATAPI MMC)
  *	https://sata-io.org (SATA)
  *	https://www.compactflash.org (CF)
- *	http://www.qic.org (QIC157 - Tape and DSC)
+ *	https://www.qic.org (QIC157 - Tape and DSC)
  *	https://www.ce-ata.org (CE-ATA: not supported)
  *
  * libata is essentially a library of internal helper functions for
