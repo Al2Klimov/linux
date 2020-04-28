@@ -36,7 +36,7 @@ struct nf_osf_wc {
 };
 
 /* This struct represents IANA options
- * http://www.iana.org/assignments/tcp-parameters
+ * https://www.iana.org/assignments/tcp-parameters
  */
 struct nf_osf_opt {
 	__u16			kind, length;
