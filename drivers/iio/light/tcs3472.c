@@ -8,7 +8,7 @@
  * 7-bit I2C slave address 0x39 (TCS34721, TCS34723) or 0x29 (TCS34725,
  * TCS34727)
  *
- * Datasheet: http://ams.com/eng/content/download/319364/1117183/file/TCS3472_Datasheet_EN_v2.pdf
+ * Datasheet: https://ams.com/eng/content/download/319364/1117183/file/TCS3472_Datasheet_EN_v2.pdf
  *
  * TODO: wait time
  */
