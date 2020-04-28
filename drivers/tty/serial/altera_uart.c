@@ -30,7 +30,7 @@
 
 /*
  * Altera UART register definitions according to the Nios UART datasheet:
- * http://www.altera.com/literature/ds/ds_nios_uart.pdf
+ * https://www.altera.com/literature/ds/ds_nios_uart.pdf
  */
 
 #define ALTERA_UART_SIZE		32

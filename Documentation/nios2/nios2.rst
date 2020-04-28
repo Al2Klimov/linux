@@ -10,7 +10,7 @@ software for the Nios II platform:
 https://rocketboards.org/foswiki/Documentation/NiosIILinuxUserManual
 
 For reference, please see the following link:
-http://www.altera.com/literature/lit-nio2.jsp
+https://www.altera.com/literature/lit-nio2.jsp
 
 What is Nios II?
 ================
