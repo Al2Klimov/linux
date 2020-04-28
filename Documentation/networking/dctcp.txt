@@ -28,7 +28,7 @@ SIGCOMM/SIGMETRICS papers:
       "Data Center TCP (DCTCP)", Data Center Networks session
       Proc. ACM SIGCOMM, New Delhi, 2010.
     http://simula.stanford.edu/~alizade/Site/DCTCP_files/dctcp-final.pdf
-    http://www.sigcomm.org/ccr/papers/2010/October/1851275.1851192
+    https://www.sigcomm.org/ccr/papers/2010/October/1851275.1851192
 
 ii) Mohammad Alizadeh, Adel Javanmard, and Balaji Prabhakar:
       "Analysis of DCTCP: Stability, Convergence, and Fairness"
