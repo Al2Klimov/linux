@@ -243,4 +243,4 @@ due to an incompatibility with the Amiga floppy controller.
 
 If you are interested in an Amiga Emulator for Linux, look at
 
-http://web.archive.org/web/%2E/http://www.freiburg.linux.de/~uae/
+http://web.archive.org/web/%2E/https://www.freiburg.linux.de/~uae/

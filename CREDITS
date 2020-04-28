@@ -3084,7 +3084,7 @@ S: USA
 
 N: Stefan Reinauer
 E: stepan@linux.de
-W: http://www.freiburg.linux.de/~stepan/
+W: https://www.freiburg.linux.de/~stepan/
 D: Modularization of some filesystems
 D: /proc/sound, minor fixes
 S: Schlossbergring 9
