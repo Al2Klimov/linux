@@ -16,7 +16,7 @@ Description
 This is the driver for the SMB Host controller on Acer Labs Inc. (ALI)
 M1563 South Bridge.
 
-For an overview of these chips see http://www.acerlabs.com
+For an overview of these chips see https://www.acerlabs.com
 
 The M1563 southbridge is deceptively similar to the M1533, with a few
 notable exceptions. One of those happens to be the fact they upgraded the

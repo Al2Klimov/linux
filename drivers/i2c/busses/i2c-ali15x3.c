@@ -19,7 +19,7 @@
        with AGP and 100MHz CPU Front Side bus
        "Aladdin IV": Includes the M1541 Socket 7 North bridge
        with host bus up to 83.3 MHz.
-    For an overview of these chips see http://www.acerlabs.com
+    For an overview of these chips see https://www.acerlabs.com
 
     The M1533/M1543C devices appear as FOUR separate devices
     on the PCI bus. An output of lspci will show something similar

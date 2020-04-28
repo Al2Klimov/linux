@@ -67,7 +67,7 @@ They are part of the following ALI chipsets:
   * "Aladdin IV" includes the M1541 Socket 7 North bridge
     with host bus up to 83.3 MHz.
 
-For an overview of these chips see http://www.acerlabs.com. At this time the
+For an overview of these chips see https://www.acerlabs.com. At this time the
 full data sheets on the web site are password protected, however if you
 contact the ALI office in San Jose they may give you the password.
 

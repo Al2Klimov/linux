@@ -20,7 +20,7 @@
     the manufacturer and observed through testing.  These
     changes are reflected in this driver and can be identified
     by comparing this driver to the i2c-ali15x3 driver.
-    For an overview of these chips see http://www.acerlabs.com
+    For an overview of these chips see https://www.acerlabs.com
 
     The SMB controller is part of the 7101 device, which is an
     ACPI-compliant Power Management Unit (PMU).
