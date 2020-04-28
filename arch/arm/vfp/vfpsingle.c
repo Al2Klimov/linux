@@ -15,7 +15,7 @@
  * of this code was written as part of a project to build a fixed-point vector
  * processor in collaboration with the University of California at Berkeley,
  * overseen by Profs. Nelson Morgan and John Wawrzynek.  More information
- * is available through the web page `http://HTTP.CS.Berkeley.EDU/~jhauser/
+ * is available through the web page `https://HTTP.CS.Berkeley.EDU/~jhauser/
  * arithmetic/softfloat.html'.
  *
  * THIS SOFTWARE IS DISTRIBUTED AS IS, FOR FREE.  Although reasonable effort
