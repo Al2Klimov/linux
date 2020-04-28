@@ -200,7 +200,7 @@ References
 
 [4] drivers/tee/optee/optee_msg.h
 
-[5] http://www.globalplatform.org/specificationsdevice.asp look for
+[5] https://www.globalplatform.org/specificationsdevice.asp look for
     "TEE Client API Specification v1.0" and click download.
 
 [6] include/linux/psp-tee.h
