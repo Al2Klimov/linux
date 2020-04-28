@@ -212,5 +212,5 @@ module_exit(ir_xmp_decode_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Marcel Mol <marcel@mesa.nl>");
-MODULE_AUTHOR("MESA Consulting (http://www.mesa.nl)");
+MODULE_AUTHOR("MESA Consulting (https://www.mesa.nl)");
 MODULE_DESCRIPTION("XMP IR protocol decoder");
