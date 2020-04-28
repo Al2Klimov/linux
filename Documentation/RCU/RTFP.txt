@@ -231,7 +231,7 @@ Bibtex Entries
 	Use garbage collector to clean up data after everyone is done with it.
 	.
 	Oldest use of something vaguely resembling RCU that I have found.
-	http://portal.acm.org/citation.cfm?id=320619&dl=GUIDE,
+	https://portal.acm.org/citation.cfm?id=320619&dl=GUIDE,
 	[Viewed December 3, 2007]
 }
 }
@@ -2111,7 +2111,7 @@ lot of {Linux} into your technology!!!"
 ,address="New York, NY, USA"
 ,annotation={
 	Linux changed RCU to a far greater degree than RCU has changed Linux.
-	http://portal.acm.org/citation.cfm?doid=1400097.1400099
+	https://portal.acm.org/citation.cfm?doid=1400097.1400099
 }
 }
 
@@ -2480,7 +2480,7 @@ lot of {Linux} into your technology!!!"
 ,month="July"
 ,annotation={
 	RP fun with hash tables.
-	http://portal.acm.org/citation.cfm?id=1842733.1842750
+	https://portal.acm.org/citation.cfm?id=1842733.1842750
 }
 }
 
