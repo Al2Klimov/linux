@@ -171,7 +171,7 @@ static inline void arch_timer_set_cntkctl(u32 cntkctl)
  * This insanity brought to you by speculative system register reads,
  * out-of-order memory accesses, sequence locks and Thomas Gleixner.
  *
- * http://lists.infradead.org/pipermail/linux-arm-kernel/2019-February/631195.html
+ * https://lists.infradead.org/pipermail/linux-arm-kernel/2019-February/631195.html
  */
 #define arch_counter_enforce_ordering(val) do {				\
 	u64 tmp, _val = (val);						\
