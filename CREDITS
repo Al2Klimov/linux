@@ -1157,7 +1157,7 @@ S: Germany
 
 N: Jeremy Fitzhardinge
 E: jeremy@goop.org
-W: http://www.goop.org/~jeremy
+W: https://www.goop.org/~jeremy
 D: author of userfs filesystem
 D: Improved mmap and munmap handling
 D: General mm minor tidyups
