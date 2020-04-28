@@ -111,7 +111,7 @@
 /*
  * GCC 'asm goto' miscompiles certain code sequences:
  *
- *   http://gcc.gnu.org/bugzilla/show_bug.cgi?id=58670
+ *   https://gcc.gnu.org/bugzilla/show_bug.cgi?id=58670
  *
  * Work it around via a compiler barrier quirk suggested by Jakub Jelinek.
  *
