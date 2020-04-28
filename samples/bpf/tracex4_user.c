@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-2.0-only
-/* Copyright (c) 2015 PLUMgrid, http://plumgrid.com
+/* Copyright (c) 2015 PLUMgrid, https://plumgrid.com
  */
 #include <stdio.h>
 #include <stdlib.h>

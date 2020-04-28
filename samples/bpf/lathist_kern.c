@@ -1,4 +1,4 @@
-/* Copyright (c) 2013-2015 PLUMgrid, http://plumgrid.com
+/* Copyright (c) 2013-2015 PLUMgrid, https://plumgrid.com
  * Copyright (c) 2015 BMW Car IT GmbH
  *
  * This program is free software; you can redistribute it and/or

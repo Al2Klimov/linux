@@ -2,7 +2,7 @@
 /*
  * Testsuite for BPF interpreter and BPF JIT compiler
  *
- * Copyright (c) 2011-2014 PLUMgrid, http://plumgrid.com
+ * Copyright (c) 2011-2014 PLUMgrid, https://plumgrid.com
  */
 
 #define pr_fmt(fmt) KBUILD_MODNAME ": " fmt

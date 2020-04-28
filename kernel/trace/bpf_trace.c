@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-2.0
-/* Copyright (c) 2011-2015 PLUMgrid, http://plumgrid.com
+/* Copyright (c) 2011-2015 PLUMgrid, https://plumgrid.com
  * Copyright (c) 2016 Facebook
  */
 #include <linux/kernel.h>

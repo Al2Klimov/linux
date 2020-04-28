@@ -2,7 +2,7 @@
 /*
  * Testsuite for eBPF verifier
  *
- * Copyright (c) 2014 PLUMgrid, http://plumgrid.com
+ * Copyright (c) 2014 PLUMgrid, https://plumgrid.com
  * Copyright (c) 2017 Facebook
  * Copyright (c) 2018 Covalent IO, Inc. http://covalent.io
  */

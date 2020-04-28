@@ -2,7 +2,7 @@
 /*
  * Testsuite for eBPF maps
  *
- * Copyright (c) 2014 PLUMgrid, http://plumgrid.com
+ * Copyright (c) 2014 PLUMgrid, https://plumgrid.com
  * Copyright (c) 2016 Facebook
  */
 

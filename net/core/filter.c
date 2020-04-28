@@ -5,7 +5,7 @@
  * Based on the design of the Berkeley Packet Filter. The new
  * internal format has been designed by PLUMgrid:
  *
- *	Copyright (c) 2011 - 2014 PLUMgrid, http://plumgrid.com
+ *	Copyright (c) 2011 - 2014 PLUMgrid, https://plumgrid.com
  *
  * Authors:
  *
