@@ -293,7 +293,7 @@ static unsigned int get_conntrack_index(const struct tcphdr *tcph)
    in IP Filter' by Guido van Rooij.
 
    http://www.sane.nl/events/sane2000/papers.html
-   http://www.darkart.com/mirrors/www.obfuscation.org/ipf/
+   https://www.darkart.com/mirrors/www.obfuscation.org/ipf/
 
    The boundaries and the conditions are changed according to RFC793:
    the packet must intersect the window (i.e. segments may be
