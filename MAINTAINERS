@@ -4908,7 +4908,7 @@ F:	include/linux/devfreq-event.h
 DEVICE NUMBER REGISTRY
 M:	Torben Mathiasen <device@lanana.org>
 S:	Maintained
-W:	http://lanana.org/docs/device-list/index.html
+W:	https://lanana.org/docs/device-list/index.html
 
 DEVICE-MAPPER  (LVM)
 M:	Alasdair Kergon <agk@redhat.com>
