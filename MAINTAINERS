@@ -5210,7 +5210,7 @@ M:	Philipp Reisner <philipp.reisner@linbit.com>
 M:	Lars Ellenberg <lars.ellenberg@linbit.com>
 L:	drbd-dev@lists.linbit.com
 S:	Supported
-W:	http://www.drbd.org
+W:	https://www.drbd.org
 T:	git git://git.linbit.com/linux-drbd.git
 T:	git git://git.linbit.com/drbd-8.4.git
 F:	Documentation/admin-guide/blockdev/
