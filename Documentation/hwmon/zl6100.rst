@@ -9,7 +9,7 @@ Supported chips:
 
     Addresses scanned: -
 
-    Datasheet: http://www.intersil.com/data/fn/fn6847.pdf
+    Datasheet: https://www.intersil.com/data/fn/fn6847.pdf
 
   * Intersil / Zilker Labs ZL2005
 
@@ -17,7 +17,7 @@ Supported chips:
 
     Addresses scanned: -
 
-    Datasheet: http://www.intersil.com/data/fn/fn6848.pdf
+    Datasheet: https://www.intersil.com/data/fn/fn6848.pdf
 
   * Intersil / Zilker Labs ZL2006
 
@@ -25,7 +25,7 @@ Supported chips:
 
     Addresses scanned: -
 
-    Datasheet: http://www.intersil.com/data/fn/fn6850.pdf
+    Datasheet: https://www.intersil.com/data/fn/fn6850.pdf
 
   * Intersil / Zilker Labs ZL2008
 
@@ -33,7 +33,7 @@ Supported chips:
 
     Addresses scanned: -
 
-    Datasheet: http://www.intersil.com/data/fn/fn6859.pdf
+    Datasheet: https://www.intersil.com/data/fn/fn6859.pdf
 
   * Intersil / Zilker Labs ZL2105
 
@@ -41,7 +41,7 @@ Supported chips:
 
     Addresses scanned: -
 
-    Datasheet: http://www.intersil.com/data/fn/fn6851.pdf
+    Datasheet: https://www.intersil.com/data/fn/fn6851.pdf
 
   * Intersil / Zilker Labs ZL2106
 
@@ -49,7 +49,7 @@ Supported chips:
 
     Addresses scanned: -
 
-    Datasheet: http://www.intersil.com/data/fn/fn6852.pdf
+    Datasheet: https://www.intersil.com/data/fn/fn6852.pdf
 
   * Intersil / Zilker Labs ZL6100
 
@@ -57,7 +57,7 @@ Supported chips:
 
     Addresses scanned: -
 
-    Datasheet: http://www.intersil.com/data/fn/fn6876.pdf
+    Datasheet: https://www.intersil.com/data/fn/fn6876.pdf
 
   * Intersil / Zilker Labs ZL6105
 
@@ -65,7 +65,7 @@ Supported chips:
 
     Addresses scanned: -
 
-    Datasheet: http://www.intersil.com/data/fn/fn6906.pdf
+    Datasheet: https://www.intersil.com/data/fn/fn6906.pdf
 
   * Intersil / Zilker Labs ZL9101M
 
@@ -73,7 +73,7 @@ Supported chips:
 
     Addresses scanned: -
 
-    Datasheet: http://www.intersil.com/data/fn/fn7669.pdf
+    Datasheet: https://www.intersil.com/data/fn/fn7669.pdf
 
   * Intersil / Zilker Labs ZL9117M
 
@@ -81,7 +81,7 @@ Supported chips:
 
     Addresses scanned: -
 
-    Datasheet: http://www.intersil.com/data/fn/fn7914.pdf
+    Datasheet: https://www.intersil.com/data/fn/fn7914.pdf
 
   * Ericsson BMR450, BMR451
 

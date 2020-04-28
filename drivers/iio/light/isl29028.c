@@ -7,8 +7,8 @@
  * Copyright (c) 2016-2017 Brian Masney <masneyb@onstation.org>
  *
  * Datasheets:
- *  - http://www.intersil.com/content/dam/Intersil/documents/isl2/isl29028.pdf
- *  - http://www.intersil.com/content/dam/Intersil/documents/isl2/isl29030.pdf
+ *  - https://www.intersil.com/content/dam/Intersil/documents/isl2/isl29028.pdf
+ *  - https://www.intersil.com/content/dam/Intersil/documents/isl2/isl29030.pdf
  */
 
 #include <linux/module.h>

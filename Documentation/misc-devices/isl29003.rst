@@ -11,7 +11,7 @@ Prefix: 'isl29003'
 Addresses scanned: none
 
 Datasheet:
-http://www.intersil.com/data/fn/fn7464.pdf
+https://www.intersil.com/data/fn/fn7464.pdf
 
 Author: Daniel Mack <daniel@caiaq.de>
 

@@ -8,7 +8,7 @@
  *
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  *
- * Data sheet at: http://www.intersil.com/data/fn/fn6505.pdf
+ * Data sheet at: https://www.intersil.com/data/fn/fn6505.pdf
  */
 
 #include <linux/module.h>

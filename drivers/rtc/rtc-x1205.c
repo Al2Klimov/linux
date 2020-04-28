@@ -11,7 +11,7 @@
  * based on a lot of other RTC drivers.
  *
  * Information and datasheet:
- * http://www.intersil.com/cda/deviceinfo/0,1477,X1205,00.html
+ * https://www.intersil.com/cda/deviceinfo/0,1477,X1205,00.html
  */
 
 #include <linux/i2c.h>
