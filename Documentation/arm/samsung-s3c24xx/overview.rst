@@ -114,7 +114,7 @@ Machines
   Acer N30
 
     A S3C2410 based PDA from Acer.  There is a Wiki page at
-    http://handhelds.org/moin/moin.cgi/AcerN30Documentation .
+    https://handhelds.org/moin/moin.cgi/AcerN30Documentation .
 
   AML M5900
 
