@@ -406,6 +406,6 @@ subsequent events of the same type refer to different fingers.
 
 .. [#f1] Also, the difference (TOOL_X - POSITION_X) can be used to model tilt.
 .. [#f2] The list can of course be extended.
-.. [#f3] The mtdev project: http://bitmath.org/code/mtdev/.
+.. [#f3] The mtdev project: https://bitmath.org/code/mtdev/.
 .. [#f4] See the section on event computation.
 .. [#f5] See the section on finger tracking.
