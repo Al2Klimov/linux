@@ -3917,7 +3917,7 @@ S: USA
 N: Harald Welte
 E: laforge@netfilter.org
 P: 1024D/30F48BFF DBDE 6912 8831 9A53 879B  9190 5DA5 C655 30F4 8BFF
-W: http://gnumonks.org/users/laforge
+W: https://gnumonks.org/users/laforge
 D: netfilter: new nat helper infrastructure
 D: netfilter: ULOG, ECN, DSCP target
 D: netfilter: TTL match
