@@ -481,7 +481,7 @@ got_huff_bits:
 	   and decoded them into the intermediate buffer.  There are
 	   dbufCount many decoded bytes in dbuf[].  Now undo the
 	   Burrows-Wheeler transform on dbuf.  See
-	   http://dogma.net/markn/articles/bwt/bwt.htm
+	   https://dogma.net/markn/articles/bwt/bwt.htm
 	 */
 	/* Turn byteCount into cumulative occurrence counts of 0 to n-1. */
 	j = 0;
