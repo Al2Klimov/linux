@@ -688,7 +688,7 @@ and real world requirements were not well understood. As it stands though
 only reverse engineering techniques have been used to deduce semantics from
 variability modeling languages such as Kconfig [3]_.
 
-.. [0] http://www.eng.uwaterloo.ca/~shshe/kconfig_semantics.pdf
+.. [0] https://www.eng.uwaterloo.ca/~shshe/kconfig_semantics.pdf
 .. [1] https://gsd.uwaterloo.ca/sites/default/files/vm-2013-berger.pdf
 .. [2] https://gsd.uwaterloo.ca/sites/default/files/ase241-berger_0.pdf
 .. [3] https://gsd.uwaterloo.ca/sites/default/files/icse2011.pdf
