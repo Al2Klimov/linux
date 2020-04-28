@@ -299,7 +299,7 @@ NRSC-4-B
 
 :title:     NRSC-4-B: United States RBDS Standard
 
-:author:    National Radio Systems Committee (http://www.nrscstandards.org)
+:author:    National Radio Systems Committee (https://www.nrscstandards.org)
 
 .. _iso12232:
 
