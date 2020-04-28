@@ -3957,7 +3957,7 @@ S: USA
 
 N: Steven Whitehouse
 E: steve@chygwyn.com
-W: http://www.chygwyn.com/~steve
+W: https://www.chygwyn.com/~steve
 D: Linux DECnet project
 D: Minor debugging of other networking protocols.
 D: Misc bug fixes and GFS2 filesystem development
