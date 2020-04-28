@@ -16,7 +16,7 @@
  * made in setup.S, copied to safe structures in setup.c,
  * and presents it in sysfs.
  *
- * Please see http://linux.dell.com/edd/results.html for
+ * Please see https://linux.dell.com/edd/results.html for
  * the list of BIOSs which have been reported to implement EDD.
  */
 
