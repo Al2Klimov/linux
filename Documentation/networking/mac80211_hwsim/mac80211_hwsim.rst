@@ -77,4 +77,4 @@ processing access point side of association.
 
 More test cases are available in hostap.git:
 git://w1.fi/srv/git/hostap.git and mac80211_hwsim/tests subdirectory
-(http://w1.fi/gitweb/gitweb.cgi?p=hostap.git;a=tree;f=mac80211_hwsim/tests)
+(https://w1.fi/gitweb/gitweb.cgi?p=hostap.git;a=tree;f=mac80211_hwsim/tests)
