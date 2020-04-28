@@ -4,7 +4,7 @@
 #
 # Translation of:
 #
-# http://sourceware.org/systemtap/wiki/WSFutexContention
+# https://sourceware.org/systemtap/wiki/WSFutexContention
 #
 # to perf python scripting.
 #

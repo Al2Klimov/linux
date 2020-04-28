@@ -693,7 +693,7 @@ process. Here are sample overhead figures (in usec) for x86 architectures::
 TODO
 ====
 
-a. SystemTap (http://sourceware.org/systemtap): Provides a simplified
+a. SystemTap (https://sourceware.org/systemtap): Provides a simplified
    programming interface for probe-based instrumentation.  Try it out.
 b. Kernel return probes for sparc64.
 c. Support for other architectures.
