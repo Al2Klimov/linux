@@ -5989,7 +5989,7 @@ ECRYPT FILE SYSTEM
 M:	Tyler Hicks <code@tyhicks.com>
 L:	ecryptfs@vger.kernel.org
 S:	Odd Fixes
-W:	http://ecryptfs.org
+W:	https://ecryptfs.org
 W:	https://launchpad.net/ecryptfs
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/tyhicks/ecryptfs.git
 F:	Documentation/filesystems/ecryptfs.rst
