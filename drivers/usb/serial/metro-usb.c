@@ -4,7 +4,7 @@
   distributed with Linux.
 
   Copyright:	2007 Metrologic Instruments. All rights reserved.
-  Copyright:	2011 Azimut Ltd. <http://azimutrzn.ru/>
+  Copyright:	2011 Azimut Ltd. <https://azimutrzn.ru/>
 */
 
 #include <linux/kernel.h>
