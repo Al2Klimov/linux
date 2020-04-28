@@ -178,7 +178,7 @@ https://ericvh.github.com/9p-rfc/
 http://9p.cat-v.org/implementations
 
 A 9p2000.L server is being developed by LLNL and can be found
-at http://code.google.com/p/diod/
+at https://code.google.com/p/diod/
 
 There are user and developer mailing lists available through the v9fs project
 on sourceforge (https://sourceforge.net/projects/v9fs).

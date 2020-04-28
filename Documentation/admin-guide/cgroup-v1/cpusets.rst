@@ -719,7 +719,7 @@ There are ways to query or modify cpusets:
  - via the C library libcgroup.
    (https://sourceforge.net/projects/libcg/)
  - via the python application cset.
-   (http://code.google.com/p/cpuset/)
+   (https://code.google.com/p/cpuset/)
 
 The sched_setaffinity calls can also be done at the shell prompt using
 SGI's runon or Robert Love's taskset.  The mbind and set_mempolicy
