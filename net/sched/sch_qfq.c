@@ -24,7 +24,7 @@
 
     [1] Paolo Valente,
     "Reducing the Execution Time of Fair-Queueing Schedulers."
-    http://algo.ing.unimo.it/people/paolo/agg-sched/agg-sched.pdf
+    https://algo.ing.unimo.it/people/paolo/agg-sched/agg-sched.pdf
 
     Sources for QFQ:
 
