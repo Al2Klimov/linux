@@ -3074,7 +3074,7 @@ D: PMC-Sierra MaxRAID driver
 
 N: Eric S. Raymond
 E: esr@thyrsus.com
-W: http://www.tuxedo.org/~esr/
+W: https://www.tuxedo.org/~esr/
 D: terminfo master file maintainer
 D: Editor: Installation HOWTO, Distributions HOWTO, XFree86 HOWTO
 D: Author: fetchmail, Emacs VC mode, Emacs GUD mode
