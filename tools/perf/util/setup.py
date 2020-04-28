@@ -80,6 +80,6 @@ setup(name='perf',
       author='Arnaldo Carvalho de Melo',
       author_email='acme@redhat.com',
       license='GPLv2',
-      url='http://perf.wiki.kernel.org',
+      url='https://perf.wiki.kernel.org',
       ext_modules=[perf],
       cmdclass={'build_ext': build_ext, 'install_lib': install_lib})
