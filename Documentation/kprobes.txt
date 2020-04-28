@@ -713,7 +713,7 @@ See samples/kprobes/kretprobe_example.c
 For additional information on Kprobes, refer to the following URLs:
 
 - http://www-106.ibm.com/developerworks/library/l-kprobes.html?ca=dgr-lnxw42Kprobe
-- http://www.redhat.com/magazine/005mar05/features/kprobes/
+- https://www.redhat.com/magazine/005mar05/features/kprobes/
 - https://www-users.cs.umn.edu/~boutcher/kprobes/
 - http://www.linuxsymposium.org/2006/linuxsymposium_procv2.pdf (pages 101-115)
 

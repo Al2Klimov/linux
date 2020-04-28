@@ -292,5 +292,5 @@ module_exit(ir_rc5_decode_exit);
 
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Mauro Carvalho Chehab and Jarod Wilson");
-MODULE_AUTHOR("Red Hat Inc. (http://www.redhat.com)");
+MODULE_AUTHOR("Red Hat Inc. (https://www.redhat.com)");
 MODULE_DESCRIPTION("RC5(x/sz) IR protocol decoder");
