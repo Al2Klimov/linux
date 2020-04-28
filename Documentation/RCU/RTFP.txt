@@ -1134,7 +1134,7 @@ Oregon Health and Sciences University"
 ,month="October"
 ,year="2004"
 ,note="Available:
-\url{http://www.cs.toronto.edu/~tomhart/masters_thesis.html}
+\url{https://www.cs.toronto.edu/~tomhart/masters_thesis.html}
 [Viewed October 15, 2004]"
 ,annotation={
 	Proposes comparing RCU to lock-free methods for the Linux kernel.
@@ -1453,7 +1453,7 @@ Distributed Processing Symposium"
 [Viewed April 28, 2008]"
 ,annotation={
 	Compares QSBR, HPBR, EBR, and lock-free reference counting.
-	http://www.cs.toronto.edu/~tomhart/perflab/ipdps06.tgz
+	https://www.cs.toronto.edu/~tomhart/perflab/ipdps06.tgz
 }
 }
 
