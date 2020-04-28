@@ -1446,7 +1446,7 @@ config CRYPTO_SALSA20
 	  Stream Cipher Project. See <https://www.ecrypt.eu.org/stream/>
 
 	  The Salsa20 stream cipher algorithm is designed by Daniel J.
-	  Bernstein <djb@cr.yp.to>. See <http://cr.yp.to/snuffle.html>
+	  Bernstein <djb@cr.yp.to>. See <https://cr.yp.to/snuffle.html>
 
 config CRYPTO_CHACHA20
 	tristate "ChaCha stream cipher algorithms"
@@ -1458,7 +1458,7 @@ config CRYPTO_CHACHA20
 	  ChaCha20 is a 256-bit high-speed stream cipher designed by Daniel J.
 	  Bernstein and further specified in RFC7539 for use in IETF protocols.
 	  This is the portable C implementation of ChaCha20.  See also:
-	  <http://cr.yp.to/chacha/chacha-20080128.pdf>
+	  <https://cr.yp.to/chacha/chacha-20080128.pdf>
 
 	  XChaCha20 is the application of the XSalsa20 construction to ChaCha20
 	  rather than to Salsa20.  XChaCha20 extends ChaCha20's nonce length

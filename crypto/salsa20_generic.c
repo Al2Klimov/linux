@@ -10,7 +10,7 @@
  * Cipher Project. It is designed by Daniel J. Bernstein <djb@cr.yp.to>.
  * More information about eSTREAM and Salsa20 can be found here:
  *   https://www.ecrypt.eu.org/stream/
- *   http://cr.yp.to/snuffle.html
+ *   https://cr.yp.to/snuffle.html
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the Free

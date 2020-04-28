@@ -280,7 +280,7 @@ config SYN_COOKIES
 	  continue to connect, even when your machine is under attack. There
 	  is no need for the legitimate users to change their TCP/IP software;
 	  SYN cookies work transparently to them. For technical information
-	  about SYN cookies, check out <http://cr.yp.to/syncookies.html>.
+	  about SYN cookies, check out <https://cr.yp.to/syncookies.html>.
 
 	  If you are SYN flooded, the source address reported by the kernel is
 	  likely to have been forged by the attacker; it is only reported as
