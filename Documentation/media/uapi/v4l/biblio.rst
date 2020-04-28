@@ -149,7 +149,7 @@ JFIF
 :title:     JPEG File Interchange Format
 :subtitle:  Version 1.02
 
-:author:    Independent JPEG Group (http://www.ijg.org)
+:author:    Independent JPEG Group (https://www.ijg.org)
 
 .. _itu-t81:
 
