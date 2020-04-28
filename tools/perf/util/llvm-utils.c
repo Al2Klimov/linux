@@ -210,11 +210,11 @@ static void
 version_notice(void)
 {
 	pr_err(
-"     \tLLVM 3.7 or newer is required. Which can be found from http://llvm.org\n"
+"     \tLLVM 3.7 or newer is required. Which can be found from https://llvm.org\n"
 "     \tYou may want to try git trunk:\n"
-"     \t\tgit clone http://llvm.org/git/llvm.git\n"
+"     \t\tgit clone https://llvm.org/git/llvm.git\n"
 "     \t\t     and\n"
-"     \t\tgit clone http://llvm.org/git/clang.git\n\n"
+"     \t\tgit clone https://llvm.org/git/clang.git\n\n"
 "     \tOr fetch the latest clang/llvm 3.7 from pre-built llvm packages for\n"
 "     \tdebian/ubuntu:\n"
 "     \t\thttp://llvm.org/apt\n\n"

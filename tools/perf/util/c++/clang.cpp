@@ -3,7 +3,7 @@
  * llvm C frontend for perf. Support dynamically compile C file
  *
  * Inspired by clang example code:
- * http://llvm.org/svn/llvm-project/cfe/trunk/examples/clang-interpreter/main.cpp
+ * https://llvm.org/svn/llvm-project/cfe/trunk/examples/clang-interpreter/main.cpp
  *
  * Copyright (C) 2016 Wang Nan <wangnan0@huawei.com>
  * Copyright (C) 2016 Huawei Inc.

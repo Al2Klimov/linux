@@ -65,9 +65,9 @@ To generate a smaller llc binary one can use::
 Quick sniplet for manually compiling LLVM and clang
 (build dependencies are cmake and gcc-c++)::
 
- $ git clone http://llvm.org/git/llvm.git
+ $ git clone https://llvm.org/git/llvm.git
  $ cd llvm/tools
- $ git clone --depth 1 http://llvm.org/git/clang.git
+ $ git clone --depth 1 https://llvm.org/git/clang.git
  $ cd ..; mkdir build; cd build
  $ cmake .. -DLLVM_TARGETS_TO_BUILD="BPF;X86"
  $ make -j $(getconf _NPROCESSORS_ONLN)

@@ -463,7 +463,7 @@ LLVM's static compiler lists the supported targets through
 ``llc --version``, make sure BPF targets are listed. Example::
 
      $ llc --version
-     LLVM (http://llvm.org/):
+     LLVM (https://llvm.org/):
        LLVM version 6.0.0svn
        Optimized build.
        Default target: x86_64-unknown-linux-gnu
