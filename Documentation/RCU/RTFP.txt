@@ -2677,7 +2677,7 @@ lot of {Linux} into your technology!!!"
 ,numpages = {12}
 ,publisher = {ACM}
 ,address = {London, UK}
-,url="http://people.csail.mit.edu/nickolai/papers/clements-bonsai.pdf"
+,url="https://people.csail.mit.edu/nickolai/papers/clements-bonsai.pdf"
 }
 
 @unpublished{PaulEMcKenney2012ELCbattery
