@@ -29,7 +29,7 @@
 ----------
 
 块设备和字符设备的主设备号与从设备号是由 Linux 命名编号分配权威 LANANA（
-现在是 Torben Mathiasen）负责分配。申请的网址是 http://www.lanana.org/。
+现在是 Torben Mathiasen）负责分配。申请的网址是 https://www.lanana.org/。
 即使不准备提交到主流内核的设备驱动也需要在这里分配设备号。有关详细信息，
 请参阅 Documentation/admin-guide/devices.rst。
 

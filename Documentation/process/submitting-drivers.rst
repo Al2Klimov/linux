@@ -25,7 +25,7 @@ Allocating Device Numbers
 
 Major and minor numbers for block and character devices are allocated
 by the Linux assigned name and number authority (currently this is
-Torben Mathiasen). The site is http://www.lanana.org/. This
+Torben Mathiasen). The site is https://www.lanana.org/. This
 also deals with allocating numbers for devices that are not going to
 be submitted to the mainstream kernel.
 See :ref:`Documentation/admin-guide/devices.rst <admin_devices>`
