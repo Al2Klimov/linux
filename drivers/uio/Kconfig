@@ -81,7 +81,7 @@ config UIO_SERCOS3
 	  available for download from the Automata GmbH web site.
 
 	  Automata GmbH:        http://www.automataweb.com
-	  Sercos III interface: http://www.sercos.com
+	  Sercos III interface: https://www.sercos.com
 
 	  If you compile this as a module, it will be called uio_sercos3.
 
