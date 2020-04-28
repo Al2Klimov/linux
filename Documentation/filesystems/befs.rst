@@ -28,7 +28,7 @@ details.
 Original Author: Makoto Kato <m_kato@ga2.so-net.ne.jp>
 
 His original code can still be found at:
-<http://hp.vector.co.jp/authors/VA008030/bfs/>
+<https://hp.vector.co.jp/authors/VA008030/bfs/>
 
 Does anyone know of a more current email address for Makoto? He doesn't
 respond to the address given above...
