@@ -360,7 +360,7 @@ image format use SVG (:ref:`svg_image_example`)::
 
 The kernel figure (and image) directive support **DOT** formated files, see
 
-* DOT: http://graphviz.org/pdf/dotguide.pdf
+* DOT: https://graphviz.org/pdf/dotguide.pdf
 * Graphviz: http://www.graphviz.org/content/dot-language
 
 A simple example (:ref:`hello_dot_file`)::

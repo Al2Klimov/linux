@@ -388,7 +388,7 @@ formato SVG::
 Le direttive del kernel per figure ed immagini supportano il formato **DOT**,
 per maggiori informazioni
 
-* DOT: http://graphviz.org/pdf/dotguide.pdf
+* DOT: https://graphviz.org/pdf/dotguide.pdf
 * Graphviz: http://www.graphviz.org/content/dot-language
 
 Un piccolo esempio (:ref:`it_hello_dot_file`)::
