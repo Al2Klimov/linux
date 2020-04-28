@@ -37,7 +37,7 @@
  *
  *  - compatibility & compliance:
  *    - Microsoft PC 97 ("PC 97 Hardware Design Guide",
- *                       http://www.microsoft.com/whdc/archive/pcguides.mspx)
+ *                       https://www.microsoft.com/whdc/archive/pcguides.mspx)
  *    - Microsoft PC 98 Baseline Audio
  *    - MPU401 UART
  *    - Sound Blaster Emulation (DOS Box)

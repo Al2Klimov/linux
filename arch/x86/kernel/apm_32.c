@@ -181,7 +181,7 @@
  *
  * [This document is available free from Intel by calling 800.628.8686 (fax
  * 916.356.6100) or 800.548.4725; or from
- * http://www.microsoft.com/whdc/archive/amp_12.mspx  It is also
+ * https://www.microsoft.com/whdc/archive/amp_12.mspx  It is also
  * available from Microsoft by calling 206.882.8080.]
  *
  * APM 1.2 Reference:
@@ -189,7 +189,7 @@
  *   (APM) BIOS Interface Specification, Revision 1.2, February 1996.
  *
  * [This document is available from Microsoft at:
- *    http://www.microsoft.com/whdc/archive/amp_12.mspx]
+ *    https://www.microsoft.com/whdc/archive/amp_12.mspx]
  */
 
 #define pr_fmt(fmt) "apm: " fmt

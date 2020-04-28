@@ -4,7 +4,7 @@
  * Charset cp950 translation tables.
  * This translation table was generated automatically, the
  * original table can be download from the Microsoft website.
- * (http://www.microsoft.com/typography/unicode/unicodecp.htm)
+ * (https://www.microsoft.com/typography/unicode/unicodecp.htm)
  */
 
 #include <linux/module.h>
