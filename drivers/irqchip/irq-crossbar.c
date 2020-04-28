@@ -2,7 +2,7 @@
 /*
  *  drivers/irqchip/irq-crossbar.c
  *
- *  Copyright (C) 2013 Texas Instruments Incorporated - http://www.ti.com
+ *  Copyright (C) 2013 Texas Instruments Incorporated - https://www.ti.com
  *  Author: Sricharan R <r.sricharan@ti.com>
  */
 #include <linux/err.h>

@@ -2,7 +2,7 @@
 /*
  * OMAP4 Bandgap temperature sensor driver
  *
- * Copyright (C) 2011 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2011 Texas Instruments Incorporated - https://www.ti.com/
  * Contact:
  *   Eduardo Valentin <eduardo.valentin@ti.com>
  */

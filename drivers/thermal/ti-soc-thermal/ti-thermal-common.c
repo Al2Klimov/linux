@@ -2,7 +2,7 @@
 /*
  * OMAP thermal driver interface
  *
- * Copyright (C) 2012 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2012 Texas Instruments Incorporated - https://www.ti.com/
  * Contact:
  *   Eduardo Valentin <eduardo.valentin@ti.com>
  */

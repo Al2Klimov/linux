@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2017 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2017 Texas Instruments Incorporated - https://www.ti.com/
  *	Keerthy <j-keerthy@ti.com>
  *
  * This program is free software; you can redistribute it and/or

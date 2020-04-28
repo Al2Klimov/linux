@@ -40,8 +40,8 @@ description:
   RX/TX csum offload
 
   Specifications can be found at
-    http://www.ti.com/lit/ug/spruid7e/spruid7e.pdf
-    http://www.ti.com/lit/ug/spruil1a/spruil1a.pdf
+    https://www.ti.com/lit/ug/spruid7e/spruid7e.pdf
+    https://www.ti.com/lit/ug/spruil1a/spruil1a.pdf
 
 properties:
   "#address-cells": true

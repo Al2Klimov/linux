@@ -2,7 +2,7 @@
 // CAN bus driver for Bosch M_CAN controller
 // Copyright (C) 2014 Freescale Semiconductor, Inc.
 //      Dong Aisheng <b29396@freescale.com>
-// Copyright (C) 2018-19 Texas Instruments Incorporated - http://www.ti.com/
+// Copyright (C) 2018-19 Texas Instruments Incorporated - https://www.ti.com/
 
 /* Bosch M_CAN user manual can be obtained from:
  * http://www.bosch-semiconductors.de/media/pdf_1/ipmodules_1/m_can/

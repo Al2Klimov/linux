@@ -16,8 +16,8 @@ K2HK SoC and EVM
 a.k.a Keystone 2 Hawking/Kepler SoC
 TCI6636K2H & TCI6636K2K: See documentation at
 
-	http://www.ti.com/product/tci6638k2k
-	http://www.ti.com/product/tci6638k2h
+	https://www.ti.com/product/tci6638k2k
+	https://www.ti.com/product/tci6638k2h
 
 EVM:
   https://www.advantech.com/Support/TI-EVM/EVMK2HX_sd.aspx
@@ -31,7 +31,7 @@ K2E  -  66AK2E05:
 
 See documentation at
 
-	http://www.ti.com/product/66AK2E05/technicaldocuments
+	https://www.ti.com/product/66AK2E05/technicaldocuments
 
 EVM:
    https://www.einfochips.com/index.php/partnerships/texas-instruments/k2e-evm.html
@@ -44,7 +44,7 @@ a.k.a Keystone 2 Lamarr SoC
 K2L  -  TCI6630K2L:
 
 See documentation at
-	http://www.ti.com/product/TCI6630K2L/technicaldocuments
+	https://www.ti.com/product/TCI6630K2L/technicaldocuments
 
 EVM:
   https://www.einfochips.com/index.php/partnerships/texas-instruments/k2l-evm.html

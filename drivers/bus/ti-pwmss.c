@@ -2,7 +2,7 @@
 /*
  * TI PWM Subsystem driver
  *
- * Copyright (C) 2012 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2012 Texas Instruments Incorporated - https://www.ti.com/
  */
 
 #include <linux/module.h>

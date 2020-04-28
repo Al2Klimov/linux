@@ -5,7 +5,7 @@ DA8XX SoCs feature a set of registers allowing to change the priority of all
 peripherals classified as masters.
 
 Documentation:
-OMAP-L138 (DA850) - http://www.ti.com/lit/ug/spruh82c/spruh82c.pdf
+OMAP-L138 (DA850) - https://www.ti.com/lit/ug/spruh82c/spruh82c.pdf
 
 Required properties:
 

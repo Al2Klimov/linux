@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 // SPI to CAN driver for the Texas Instruments TCAN4x5x
-// Copyright (C) 2018-19 Texas Instruments Incorporated - http://www.ti.com/
+// Copyright (C) 2018-19 Texas Instruments Incorporated - https://www.ti.com/
 
 #include <linux/regmap.h>
 #include <linux/spi/spi.h>

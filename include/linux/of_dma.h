@@ -4,7 +4,7 @@
  *
  * Based on of_gpio.h
  *
- * Copyright (C) 2012 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2012 Texas Instruments Incorporated - https://www.ti.com/
  */
 
 #ifndef __LINUX_OF_DMA_H

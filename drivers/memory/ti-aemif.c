@@ -2,7 +2,7 @@
 /*
  * TI AEMIF driver
  *
- * Copyright (C) 2010 - 2013 Texas Instruments Incorporated. http://www.ti.com/
+ * Copyright (C) 2010 - 2013 Texas Instruments Incorporated. https://www.ti.com/
  *
  * Authors:
  * Murali Karicheri <m-karicheri2@ti.com>

@@ -1,7 +1,7 @@
 /*
  * TI SMSC MFD Driver
  *
- * Copyright (C) 2012 Texas Instruments Incorporated - http://www.ti.com
+ * Copyright (C) 2012 Texas Instruments Incorporated - https://www.ti.com
  *
  * Author: Sourav Poddar <sourav.poddar@ti.com>
  *

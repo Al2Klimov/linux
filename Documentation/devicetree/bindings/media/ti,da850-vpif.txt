@@ -6,7 +6,7 @@ capture and display on the DA850/AM18x family of TI DaVinci/Sitara
 SoCs.
 
 TI Document reference: SPRUH82C, Chapter 35
-http://www.ti.com/lit/pdf/spruh82
+https://www.ti.com/lit/pdf/spruh82
 
 Required properties:
 - compatible: must be "ti,da850-vpif"

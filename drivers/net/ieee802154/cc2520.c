@@ -980,7 +980,7 @@ static int cc2520_hw_init(struct cc2520_private *priv)
 	 * configure GPIOs on the CC2520 to correctly configure the CC2591
 	 * and change a couple settings of the CC2520 to work with the
 	 * amplifier. See section 8 page 17 of TI application note AN065.
-	 * http://www.ti.com/lit/an/swra229a/swra229a.pdf
+	 * https://www.ti.com/lit/an/swra229a/swra229a.pdf
 	 */
 	if (priv->amplified) {
 		ret = cc2520_write_register(priv, CC2520_AGCCTRL1, 0x16);

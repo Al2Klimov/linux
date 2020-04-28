@@ -1827,7 +1827,7 @@ static int initiated_reset(struct fw_ohci *ohci)
 
 /*
  * TI TSB82AA2B and TSB12LV26 do not receive the selfID of a locally
- * attached TSB41BA3D phy; see http://www.ti.com/litv/pdf/sllz059.
+ * attached TSB41BA3D phy; see https://www.ti.com/litv/pdf/sllz059.
  * Construct the selfID from phy register contents.
  */
 static int find_and_insert_self_id(struct fw_ohci *ohci, int self_id_count)

@@ -14,4 +14,4 @@ haptics: haptics@59 {
 };
 
 For more product information please see the link below:
-http://www.ti.com/product/drv2667
+https://www.ti.com/product/drv2667

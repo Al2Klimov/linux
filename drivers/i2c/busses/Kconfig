@@ -522,7 +522,7 @@ config I2C_DAVINCI
 
 	  Please note that this driver might be needed to bring up other
 	  devices such as DaVinci NIC.
-	  For details please see http://www.ti.com/davinci
+	  For details please see https://www.ti.com/davinci
 
 config I2C_DESIGNWARE_CORE
 	tristate
@@ -809,7 +809,7 @@ config I2C_OMAP
 	  If you say yes to this option, support will be included for the
 	  I2C interface on the Texas Instruments OMAP1/2 family of processors.
 	  Like OMAP1510/1610/1710/5912 and OMAP242x.
-	  For details see http://www.ti.com/omap.
+	  For details see https://www.ti.com/omap.
 
 config I2C_OWL
 	tristate "Actions Semiconductor Owl I2C Controller"

@@ -1,11 +1,11 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
- * Copyright (C) 2016 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2016 Texas Instruments Incorporated - https://www.ti.com/
  */
 
 /*
  * AM335x ICE V2 board
- * http://www.ti.com/tool/tmdsice3359
+ * https://www.ti.com/tool/tmdsice3359
  */
 
 /dts-v1/;

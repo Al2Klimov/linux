@@ -2,7 +2,7 @@
 /*
  * TI Bandgap temperature sensor driver
  *
- * Copyright (C) 2011-2012 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2011-2012 Texas Instruments Incorporated - https://www.ti.com/
  * Author: J Keerthy <j-keerthy@ti.com>
  * Author: Moiz Sonasath <m-sonasath@ti.com>
  * Couple of fixes, DT and MFD adaptation:

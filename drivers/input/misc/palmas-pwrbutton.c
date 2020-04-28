@@ -1,7 +1,7 @@
 /*
  * Texas Instruments' Palmas Power Button Input Driver
  *
- * Copyright (C) 2012-2014 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2012-2014 Texas Instruments Incorporated - https://www.ti.com/
  *	Girish S Ghongdemath
  *	Nishanth Menon
  *

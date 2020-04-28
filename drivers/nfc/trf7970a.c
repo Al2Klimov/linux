@@ -2,7 +2,7 @@
 /*
  * TI TRF7970a RFID/NFC Transceiver Driver
  *
- * Copyright (C) 2013 Texas Instruments Incorporated - http://www.ti.com
+ * Copyright (C) 2013 Texas Instruments Incorporated - https://www.ti.com
  *
  * Author: Erick Macias <emacias@ti.com>
  * Author: Felipe Balbi <balbi@ti.com>
@@ -106,7 +106,7 @@
  *
  * It is unclear how long to wait before sending the EOF.  According to the
  * Note under Table 1-1 in section 1.6 of
- * http://www.ti.com/lit/ug/scbu011/scbu011.pdf, that wait should be at least
+ * https://www.ti.com/lit/ug/scbu011/scbu011.pdf, that wait should be at least
  * 10 ms for TI Tag-it HF-I tags; however testing has shown that is not long
  * enough so 20 ms is used.  So the timer is set to 40 ms - 20 ms to drain
  * up to 127 bytes in the FIFO at the lowest bit rate plus another 20 ms to

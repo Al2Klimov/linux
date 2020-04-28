@@ -1,7 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0 */
 /* TI K3 CPPI5 descriptors pool
  *
- * Copyright (C) 2020 Texas Instruments Incorporated - http://www.ti.com
+ * Copyright (C) 2020 Texas Instruments Incorporated - https://www.ti.com
  */
 
 #ifndef K3_CPPI_DESC_POOL_H_

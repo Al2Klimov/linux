@@ -2,9 +2,9 @@
  * TI HECC (CAN) device driver
  *
  * This driver supports TI's HECC (High End CAN Controller module) and the
- * specs for the same is available at <http://www.ti.com>
+ * specs for the same is available at <https://www.ti.com>
  *
- * Copyright (C) 2009 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2009 Texas Instruments Incorporated - https://www.ti.com/
  * Copyright (C) 2019 Jeroen Hofstee <jhofstee@victronenergy.com>
  *
  * This program is free software; you can redistribute it and/or

@@ -2,7 +2,7 @@
 /*
  * musb_trace.h - MUSB Controller Trace Support
  *
- * Copyright (C) 2015 Texas Instruments Incorporated - http://www.ti.com
+ * Copyright (C) 2015 Texas Instruments Incorporated - https://www.ti.com
  *
  * Author: Bin Liu <b-liu@ti.com>
  */

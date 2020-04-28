@@ -8,9 +8,9 @@ per chip select. Synchronous memories such as DDR1 SD RAM, SDR SDRAM
 and Mobile SDR are not supported.
 
 Documentation:
-Davinci DM646x - http://www.ti.com/lit/ug/sprueq7c/sprueq7c.pdf
-OMAP-L138 (DA850) - http://www.ti.com/lit/ug/spruh77a/spruh77a.pdf
-Kestone - http://www.ti.com/lit/ug/sprugz3a/sprugz3a.pdf
+Davinci DM646x - https://www.ti.com/lit/ug/sprueq7c/sprueq7c.pdf
+OMAP-L138 (DA850) - https://www.ti.com/lit/ug/spruh77a/spruh77a.pdf
+Kestone - https://www.ti.com/lit/ug/sprugz3a/sprugz3a.pdf
 
 Required properties:
 

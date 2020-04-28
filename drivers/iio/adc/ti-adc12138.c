@@ -4,7 +4,7 @@
  *
  * Copyright (c) 2016 Akinobu Mita <akinobu.mita@gmail.com>
  *
- * Datasheet: http://www.ti.com/lit/ds/symlink/adc12138.pdf
+ * Datasheet: https://www.ti.com/lit/ds/symlink/adc12138.pdf
  */
 
 #include <linux/module.h>

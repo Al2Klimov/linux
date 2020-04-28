@@ -2,7 +2,7 @@
 /*
  * OMAP hardware spinlock driver
  *
- * Copyright (C) 2010-2015 Texas Instruments Incorporated - http://www.ti.com
+ * Copyright (C) 2010-2015 Texas Instruments Incorporated - https://www.ti.com
  *
  * Contact: Simon Que <sque@ti.com>
  *          Hari Kanigeri <h-kanigeri2@ti.com>

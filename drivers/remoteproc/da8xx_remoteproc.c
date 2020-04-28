@@ -27,7 +27,7 @@ MODULE_PARM_DESC(da8xx_fw_name,
 
 /*
  * OMAP-L138 Technical References:
- * http://www.ti.com/product/omap-l138
+ * https://www.ti.com/product/omap-l138
  */
 #define SYSCFG_CHIPSIG0 BIT(0)
 #define SYSCFG_CHIPSIG1 BIT(1)

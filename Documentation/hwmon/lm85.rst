@@ -17,7 +17,7 @@ Supported chips:
 
     Addresses scanned: I2C 0x2c, 0x2d, 0x2e
 
-    Datasheet: http://www.ti.com/lit/ds/symlink/lm96000.pdf
+    Datasheet: https://www.ti.com/lit/ds/symlink/lm96000.pdf
 
   * Analog Devices ADM1027
 

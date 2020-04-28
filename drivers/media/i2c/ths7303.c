@@ -1,7 +1,7 @@
 /*
  * ths7303/53- THS7303/53 Video Amplifier driver
  *
- * Copyright (C) 2009 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2009 Texas Instruments Incorporated - https://www.ti.com/
  * Copyright 2013 Cisco Systems, Inc. and/or its affiliates.
  *
  * Author: Chaithrika U S <chaithrika@ti.com>

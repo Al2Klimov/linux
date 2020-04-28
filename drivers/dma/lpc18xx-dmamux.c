@@ -5,7 +5,7 @@
  * Copyright (C) 2015 Joachim Eastwood <manabian@gmail.com>
  *
  * Based on TI DMA Crossbar driver by:
- *   Copyright (C) 2015 Texas Instruments Incorporated - http://www.ti.com
+ *   Copyright (C) 2015 Texas Instruments Incorporated - https://www.ti.com
  *   Author: Peter Ujfalusi <peter.ujfalusi@ti.com>
  */
 

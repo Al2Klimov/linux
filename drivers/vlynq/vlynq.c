@@ -3,7 +3,7 @@
  * Copyright (C) 2006, 2007 Eugene Konev <ejka@openwrt.org>
  *
  * Parts of the VLYNQ specification can be found here:
- * http://www.ti.com/litv/pdf/sprue36a
+ * https://www.ti.com/litv/pdf/sprue36a
  */
 
 #include <linux/init.h>

@@ -4,7 +4,7 @@ The DDR2/mDDR memory controller present on Texas Instruments da8xx SoCs features
 a set of registers which allow to tweak the controller's behavior.
 
 Documentation:
-OMAP-L138 (DA850) - http://www.ti.com/lit/ug/spruh82c/spruh82c.pdf
+OMAP-L138 (DA850) - https://www.ti.com/lit/ug/spruh82c/spruh82c.pdf
 
 Required properties:
 

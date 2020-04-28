@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /* Texas Instruments K3 AM65 Ethernet Switch SubSystem Driver
  *
- * Copyright (C) 2020 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2020 Texas Instruments Incorporated - https://www.ti.com/
  *
  */
 

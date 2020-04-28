@@ -2,7 +2,7 @@
 /*
  * GPIO driver for TI TPS65912x PMICs
  *
- * Copyright (C) 2015 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2015 Texas Instruments Incorporated - https://www.ti.com/
  *	Andrew F. Davis <afd@ti.com>
  *
  * Based on the Arizona GPIO driver and the previous TPS65912 driver by

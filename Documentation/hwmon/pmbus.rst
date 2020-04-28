@@ -53,15 +53,15 @@ Supported chips:
 
     Datasheets:
 
-	http://www.ti.com/lit/gpn/tps40400
+	https://www.ti.com/lit/gpn/tps40400
 
-	http://www.ti.com/lit/gpn/tps544b20
+	https://www.ti.com/lit/gpn/tps544b20
 
-	http://www.ti.com/lit/gpn/tps544b25
+	https://www.ti.com/lit/gpn/tps544b25
 
-	http://www.ti.com/lit/gpn/tps544c20
+	https://www.ti.com/lit/gpn/tps544c20
 
-	http://www.ti.com/lit/gpn/tps544c25
+	https://www.ti.com/lit/gpn/tps544c25
 
   * Maxim MAX20796
 

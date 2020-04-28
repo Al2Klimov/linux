@@ -266,14 +266,14 @@ OMAP 3430 TRM:
 Referenced 2011-03-05.
 
 OMAP 35xx TRM:
-<URL:http://www.ti.com/litv/pdf/spruf98o> Referenced 2011-03-05.
+<URL:https://www.ti.com/litv/pdf/spruf98o> Referenced 2011-03-05.
 
 OMAP 3630 TRM:
 <URL:http://focus.ti.com/pdfs/wtbu/OMAP36xx_ES1.x_PUBLIC_TRM_vQ.zip>
 Referenced 2011-03-05.
 
 DM 3730 TRM:
-<URL:http://www.ti.com/litv/pdf/sprugn4h> Referenced 2011-03-06.
+<URL:https://www.ti.com/litv/pdf/sprugn4h> Referenced 2011-03-06.
 
 
 References

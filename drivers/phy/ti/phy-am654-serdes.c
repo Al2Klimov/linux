@@ -2,7 +2,7 @@
 /**
  * PCIe SERDES driver for AM654x SoC
  *
- * Copyright (C) 2018 - 2019 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2018 - 2019 Texas Instruments Incorporated - https://www.ti.com/
  * Author: Kishon Vijay Abraham I <kishon@ti.com>
  */
 

@@ -1,7 +1,7 @@
 /*
  * OMAP L3 Interconnect error handling driver
  *
- * Copyright (C) 2011-2015 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2011-2015 Texas Instruments Incorporated - https://www.ti.com/
  *	Santosh Shilimkar <santosh.shilimkar@ti.com>
  *	Sricharan <r.sricharan@ti.com>
  *

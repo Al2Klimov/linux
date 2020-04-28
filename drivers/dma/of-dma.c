@@ -4,7 +4,7 @@
  *
  * Based on of_gpio.c
  *
- * Copyright (C) 2012 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2012 Texas Instruments Incorporated - https://www.ti.com/
  */
 
 #include <linux/device.h>

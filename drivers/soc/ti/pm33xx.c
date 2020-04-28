@@ -2,7 +2,7 @@
 /*
  * AM33XX Power Management Routines
  *
- * Copyright (C) 2012-2018 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2012-2018 Texas Instruments Incorporated - https://www.ti.com/
  *	Vaibhav Bedia, Dave Gerlach
  */
 

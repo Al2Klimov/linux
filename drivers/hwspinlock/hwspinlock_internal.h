@@ -2,7 +2,7 @@
 /*
  * Hardware spinlocks internal header
  *
- * Copyright (C) 2010 Texas Instruments Incorporated - http://www.ti.com
+ * Copyright (C) 2010 Texas Instruments Incorporated - https://www.ti.com
  *
  * Contact: Ohad Ben-Cohen <ohad@wizery.com>
  */

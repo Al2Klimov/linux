@@ -65,4 +65,4 @@ Example:
 	};
 
 Datasheet can be found:
-http://www.ti.com/product/DP83867IR/datasheet
+https://www.ti.com/product/DP83867IR/datasheet

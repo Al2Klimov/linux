@@ -1,6 +1,6 @@
 * TI TMP007 - IR thermopile sensor with integrated math engine
 
-Link to datasheet: http://www.ti.com/lit/ds/symlink/tmp007.pdf
+Link to datasheet: https://www.ti.com/lit/ds/symlink/tmp007.pdf
 
 Required properties:
 

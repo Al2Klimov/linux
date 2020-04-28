@@ -251,7 +251,7 @@ Supported chips:
 
     Datasheet: Publicly available at TI website
 
-	       http://www.ti.com/litv/pdf/sbos686
+	       https://www.ti.com/litv/pdf/sbos686
 
 Author: Jean Delvare <jdelvare@suse.de>
 

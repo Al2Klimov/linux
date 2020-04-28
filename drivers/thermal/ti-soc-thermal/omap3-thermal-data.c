@@ -6,7 +6,7 @@
  * Copyright (C) 2014 Pavel Machek <pavel@ucw.cz>
  *
  * Note
- * http://www.ti.com/lit/er/sprz278f/sprz278f.pdf "Advisory
+ * https://www.ti.com/lit/er/sprz278f/sprz278f.pdf "Advisory
  * 3.1.1.186 MMC OCP Clock Not Gated When Thermal Sensor Is Used"
  *
  * Also TI says:

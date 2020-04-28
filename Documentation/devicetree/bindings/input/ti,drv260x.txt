@@ -47,4 +47,4 @@ haptics: haptics@5a {
 }
 
 For more product information please see the link below:
-http://www.ti.com/product/drv2605
+https://www.ti.com/product/drv2605

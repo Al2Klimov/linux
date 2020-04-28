@@ -2,7 +2,7 @@
 /*
  * omap-control-phy.c - The PHY part of control module.
  *
- * Copyright (C) 2013 Texas Instruments Incorporated - http://www.ti.com
+ * Copyright (C) 2013 Texas Instruments Incorporated - https://www.ti.com
  * Author: Kishon Vijay Abraham I <kishon@ti.com>
  */
 
