@@ -16,7 +16,7 @@ The kernel-doc structure is extracted from the comments, and proper
 generated from them. The descriptions are filtered for special kernel-doc
 highlights and cross-references. See below for details.
 
-.. _Sphinx C Domain: http://www.sphinx-doc.org/en/stable/domains.html
+.. _Sphinx C Domain: https://www.sphinx-doc.org/en/stable/domains.html
 
 Every function that is exported to loadable modules using
 ``EXPORT_SYMBOL`` or ``EXPORT_SYMBOL_GPL`` should have a kernel-doc

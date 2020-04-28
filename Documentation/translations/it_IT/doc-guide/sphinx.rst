@@ -14,7 +14,7 @@ Per generare la documentazione in HTML o PDF, usate comandi ``make htmldocs`` o
 ``make pdfdocs``. La documentazione così generata sarà disponibile nella
 cartella ``Documentation/output``.
 
-.. _Sphinx: http://www.sphinx-doc.org/
+.. _Sphinx: https://www.sphinx-doc.org/
 .. _reStructuredText: http://docutils.sourceforge.net/rst.html
 
 I file reStructuredText possono contenere delle direttive che permettono di
@@ -175,7 +175,7 @@ Aggiungere nuova documentazione è semplice:
 2. aggiungete un riferimento ad esso nell'indice (`TOC tree`_) in
    ``Documentation/index.rst``.
 
-.. _TOC tree: http://www.sphinx-doc.org/en/stable/markup/toctree.html
+.. _TOC tree: https://www.sphinx-doc.org/en/stable/markup/toctree.html
 
 Questo, di solito, è sufficiente per la documentazione più semplice (come
 quella che state leggendo ora), ma per una documentazione più elaborata è
@@ -191,8 +191,8 @@ informazione circa le loro potenzialità. In particolare, il
 cui cominciare. Esistono, inoltre, anche alcuni
 `costruttori specifici per Sphinx`_.
 
-.. _`manuale introduttivo a reStructuredText`: http://www.sphinx-doc.org/en/stable/rest.html
-.. _`costruttori specifici per Sphinx`: http://www.sphinx-doc.org/en/stable/markup/index.html
+.. _`manuale introduttivo a reStructuredText`: https://www.sphinx-doc.org/en/stable/rest.html
+.. _`costruttori specifici per Sphinx`: https://www.sphinx-doc.org/en/stable/markup/index.html
 
 Guide linea per la documentazione del kernel
 --------------------------------------------

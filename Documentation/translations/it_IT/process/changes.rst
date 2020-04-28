@@ -482,4 +482,4 @@ Documentazione del kernel
 Sphinx
 ------
 
-- <http://www.sphinx-doc.org/>
+- <https://www.sphinx-doc.org/>

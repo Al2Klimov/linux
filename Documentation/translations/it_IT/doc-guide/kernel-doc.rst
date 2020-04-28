@@ -24,7 +24,7 @@ vengono filtrare per cercare i riferimenti ed i marcatori.
 
 Vedere di seguito per maggiori dettagli.
 
-.. _`dominio Sphinx per il C`: http://www.sphinx-doc.org/en/stable/domains.html
+.. _`dominio Sphinx per il C`: https://www.sphinx-doc.org/en/stable/domains.html
 
 Tutte le funzioni esportate verso i moduli esterni utilizzando
 ``EXPORT_SYMBOL`` o ``EXPORT_SYMBOL_GPL`` dovrebbero avere un commento

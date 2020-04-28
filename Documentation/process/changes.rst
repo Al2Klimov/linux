@@ -474,4 +474,4 @@ Kernel documentation
 Sphinx
 ------
 
-- <http://www.sphinx-doc.org/>
+- <https://www.sphinx-doc.org/>

@@ -8,7 +8,7 @@ The Linux kernel uses `Sphinx`_ to generate pretty documentation from
 HTML or PDF formats, use ``make htmldocs`` or ``make pdfdocs``. The generated
 documentation is placed in ``Documentation/output``.
 
-.. _Sphinx: http://www.sphinx-doc.org/
+.. _Sphinx: https://www.sphinx-doc.org/
 .. _reStructuredText: http://docutils.sourceforge.net/rst.html
 
 The reStructuredText files may contain directives to include structured
@@ -152,7 +152,7 @@ Adding new documentation can be as simple as:
 1. Add a new ``.rst`` file somewhere under ``Documentation``.
 2. Refer to it from the Sphinx main `TOC tree`_ in ``Documentation/index.rst``.
 
-.. _TOC tree: http://www.sphinx-doc.org/en/stable/markup/toctree.html
+.. _TOC tree: https://www.sphinx-doc.org/en/stable/markup/toctree.html
 
 This is usually good enough for simple documentation (like the one you're
 reading right now), but for larger documents it may be advisable to create a
@@ -166,8 +166,8 @@ with them. In particular, the Sphinx `reStructuredText Primer`_ is a good place
 to get started with reStructuredText. There are also some `Sphinx specific
 markup constructs`_.
 
-.. _reStructuredText Primer: http://www.sphinx-doc.org/en/stable/rest.html
-.. _Sphinx specific markup constructs: http://www.sphinx-doc.org/en/stable/markup/index.html
+.. _reStructuredText Primer: https://www.sphinx-doc.org/en/stable/rest.html
+.. _Sphinx specific markup constructs: https://www.sphinx-doc.org/en/stable/markup/index.html
 
 Specific guidelines for the kernel documentation
 ------------------------------------------------
