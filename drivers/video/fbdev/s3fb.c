@@ -7,7 +7,7 @@
  * License.  See the file COPYING in the main directory of this archive for
  * more details.
  *
- * Code is based on David Boucher's viafb (http://davesdomain.org.uk/viafb/)
+ * Code is based on David Boucher's viafb (https://davesdomain.org.uk/viafb/)
  * which is based on the code of neofb.
  */
 

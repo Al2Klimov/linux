@@ -7,7 +7,7 @@
  * License.  See the file COPYING in the main directory of this archive for
  * more details.
  *
- * Some parts are based on David Boucher's viafb (http://davesdomain.org.uk/viafb/)
+ * Some parts are based on David Boucher's viafb (https://davesdomain.org.uk/viafb/)
  */
 
 #include <linux/module.h>

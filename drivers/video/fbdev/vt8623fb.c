@@ -9,7 +9,7 @@
  * more details.
  *
  * Code is based on s3fb, some parts are from David Boucher's viafb
- * (http://davesdomain.org.uk/viafb/)
+ * (https://davesdomain.org.uk/viafb/)
  */
 
 #include <linux/module.h>
