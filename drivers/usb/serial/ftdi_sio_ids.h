@@ -60,7 +60,7 @@
 /*
  * Texas Instruments XDS100v2 JTAG / BeagleBone A3
  * https://processors.wiki.ti.com/index.php/XDS100
- * http://beagleboard.org/bone
+ * https://beagleboard.org/bone
  */
 #define TI_XDS100V2_PID		0xa6d0
 
