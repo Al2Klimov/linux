@@ -75,7 +75,7 @@
 
 /*
  * gas compatible max based on the idea from:
- * http://graphics.stanford.edu/~seander/bithacks.html#IntegerMinOrMax
+ * https://graphics.stanford.edu/~seander/bithacks.html#IntegerMinOrMax
  *
  * The additional "-" is needed because gas uses a "true" value of -1.
  */
