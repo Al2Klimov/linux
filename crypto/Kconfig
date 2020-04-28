@@ -563,7 +563,7 @@ config CRYPTO_VMAC
 	  very high speed on 64-bit architectures.
 
 	  See also:
-	  <http://fastcrypto.org/vmac>
+	  <https://fastcrypto.org/vmac>
 
 comment "Digest"
 
