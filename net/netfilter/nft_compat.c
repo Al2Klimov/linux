@@ -2,7 +2,7 @@
 /*
  * (C) 2012-2013 by Pablo Neira Ayuso <pablo@netfilter.org>
  *
- * This software has been sponsored by Sophos Astaro <http://www.sophos.com>
+ * This software has been sponsored by Sophos Astaro <https://www.sophos.com>
  */
 
 #include <linux/kernel.h>
