@@ -9962,7 +9962,7 @@ M:	Suganath Prabu Subramani <suganath-prabu.subramani@broadcom.com>
 L:	MPT-FusionLinux.pdl@broadcom.com
 L:	linux-scsi@vger.kernel.org
 S:	Supported
-W:	http://www.avagotech.com/support/
+W:	https://www.avagotech.com/support/
 F:	drivers/message/fusion/
 F:	drivers/scsi/mpt3sas/
 
@@ -10771,7 +10771,7 @@ M:	Shivasharan S <shivasharan.srikanteshwara@broadcom.com>
 L:	megaraidlinux.pdl@broadcom.com
 L:	linux-scsi@vger.kernel.org
 S:	Maintained
-W:	http://www.avagotech.com/support/
+W:	https://www.avagotech.com/support/
 F:	Documentation/scsi/megaraid.rst
 F:	drivers/scsi/megaraid.*
 F:	drivers/scsi/megaraid/
