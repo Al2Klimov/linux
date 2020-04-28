@@ -96,7 +96,7 @@
 #define FTDI_NZR_SEM_USB_PID	0xC1E0	/* NZR SEM-LOG16+ */
 
 /*
- * RR-CirKits LocoBuffer USB (http://www.rr-cirkits.com)
+ * RR-CirKits LocoBuffer USB (https://www.rr-cirkits.com)
  */
 #define FTDI_RRCIRKITS_LOCOBUFFER_PID	0xc7d0	/* LocoBuffer USB */
 
