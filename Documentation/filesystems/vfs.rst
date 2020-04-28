@@ -1419,7 +1419,7 @@ Creating Linux virtual filesystems. 2002
     <https://lwn.net/Articles/13325/>
 
 The Linux Virtual File-system Layer by Neil Brown. 1999
-    <http://www.cse.unsw.edu.au/~neilb/oss/linux-commentary/vfs.html>
+    <https://www.cse.unsw.edu.au/~neilb/oss/linux-commentary/vfs.html>
 
 A tour of the Linux VFS by Michael K. Johnson. 1996
     <http://www.tldp.org/LDP/khg/HyperNews/get/fs/vfstour.html>
