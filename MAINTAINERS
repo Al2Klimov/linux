@@ -1282,7 +1282,7 @@ AQUANTIA ETHERNET DRIVER PTP SUBSYSTEM
 M:	Egor Pomozov <epomozov@marvell.com>
 L:	netdev@vger.kernel.org
 S:	Supported
-W:	http://www.aquantia.com
+W:	https://www.aquantia.com
 F:	drivers/net/ethernet/aquantia/atlantic/aq_ptp*
 
 ARC FRAMEBUFFER DRIVER
