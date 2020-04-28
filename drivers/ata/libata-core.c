@@ -2709,7 +2709,7 @@ int ata_dev_configure(struct ata_device *dev)
 
 	if ((dev->horkage & ATA_HORKAGE_FIRMWARE_WARN) && print_info) {
 		ata_dev_warn(dev, "WARNING: device requires firmware update to be fully functional\n");
-		ata_dev_warn(dev, "         contact the vendor or visit http://ata.wiki.kernel.org\n");
+		ata_dev_warn(dev, "         contact the vendor or visit https://ata.wiki.kernel.org\n");
 	}
 
 	return 0;
