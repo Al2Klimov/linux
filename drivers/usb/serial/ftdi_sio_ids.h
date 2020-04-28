@@ -746,7 +746,7 @@
 #define ICOM_ID_RP2KVR_PID	0x0013 /* ID-RP2000V Receive config port */
 
 /*
- * GN Otometrics (http://www.otometrics.com)
+ * GN Otometrics (https://www.otometrics.com)
  * Submitted by Ville Sundberg.
  */
 #define GN_OTOMETRICS_VID	0x0c33	/* Vendor ID */
