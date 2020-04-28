@@ -10,7 +10,7 @@ scalability and reliability enhancements for supporting large filesystems
 feature requirements.
 
 Mailing list:	linux-ext4@vger.kernel.org
-Web site:	http://ext4.wiki.kernel.org
+Web site:	https://ext4.wiki.kernel.org
 
 
 Quick usage instructions
@@ -18,7 +18,7 @@ Quick usage instructions
 
 Note: More extensive information for getting started with ext4 can be
 found at the ext4 wiki site at the URL:
-http://ext4.wiki.kernel.org/index.php/Ext4_Howto
+https://ext4.wiki.kernel.org/index.php/Ext4_Howto
 
   - The latest version of e2fsprogs can be found at:
 
@@ -613,5 +613,5 @@ programs:	http://e2fsprogs.sourceforge.net/
 
 useful links:	https://fedoraproject.org/wiki/ext3-devel
 		http://www.bullopensource.org/ext4/
-		http://ext4.wiki.kernel.org/index.php/Main_Page
+		https://ext4.wiki.kernel.org/index.php/Main_Page
 		https://fedoraproject.org/wiki/Features/Ext4
