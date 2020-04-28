@@ -2385,7 +2385,7 @@ S: USA
 
 N: Martin Mares
 E: mj@ucw.cz
-W: http://www.ucw.cz/~mj/
+W: https://www.ucw.cz/~mj/
 D: BIOS video mode handling code
 D: MOXA C-218 serial board driver
 D: Network autoconfiguration
