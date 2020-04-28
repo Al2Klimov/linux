@@ -35,7 +35,7 @@ config H8300_AE3068
 	help
 	  AKI-H8/3068F / AKI-H8/3069F Flashmicom LAN Board Support
 	  More Information. (Japanese Only)
-	  <http://akizukidenshi.com/catalog/default.aspx>
+	  <https://akizukidenshi.com/catalog/default.aspx>
 	  AE-3068/69 Evaluation Board Support
 	  More Information.
 	  <http://www.microtronique.com/ae3069lan.htm>
