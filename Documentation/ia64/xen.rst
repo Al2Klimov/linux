@@ -26,9 +26,9 @@ Getting and Building Xen and Dom0
 
  1. Download source::
 
-	# hg clone http://xenbits.xensource.com/ext/ia64/xen-unstable.hg
+	# hg clone https://xenbits.xensource.com/ext/ia64/xen-unstable.hg
 	# cd xen-unstable.hg
-	# hg clone http://xenbits.xensource.com/ext/ia64/linux-2.6.18-xen.hg
+	# hg clone https://xenbits.xensource.com/ext/ia64/linux-2.6.18-xen.hg
 
  2. # make world
 
