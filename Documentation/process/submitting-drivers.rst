@@ -5,7 +5,7 @@ Submitting Drivers For The Linux Kernel
 
 This document is intended to explain how to submit device drivers to the
 various kernel trees. Note that if you are interested in video card drivers
-you should probably talk to XFree86 (http://www.xfree86.org/) and/or X.Org
+you should probably talk to XFree86 (https://www.xfree86.org/) and/or X.Org
 (https://www.x.org/) instead.
 
 .. note::
